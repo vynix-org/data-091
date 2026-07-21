@@ -1,0 +1,123 @@
+[
+    {
+        "lesson_id": "L1_U01_01",
+        "cards": [
+          {
+            "id": "card-1",
+            "type": "intro_word",
+            "word": "\"Good morning! Hello, I am Anna.\" \"Hi Anna! I am Ben.\" \"Goodbye Ben!\" \"Bye Anna!\"",
+            "phonetic": "",
+            "example": "",
+            "englishWord": "\"Good morning! Hello, I am Anna.\" \"Hi Anna! I am Ben.\" \"Goodbye Ben!\" \"Bye Anna!\"",
+            "englishExample": "",
+            "category": "Greeting"
+          },
+          {
+            "id": "card-2",
+            "type": "question_answer",
+            "word": "Choose the correct greeting for the morning",
+            "englishWord": "Choose the correct greeting for the morning",
+            "category": "Question answer",
+            "correct": "Good morning",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "Good evening"
+              },
+              {
+                "id": "option-2",
+                "text": "Good morning"
+              },
+              {
+                "id": "option-3",
+                "text": "Goodbye"
+              },
+              {
+                "id": "option-4",
+                "text": "Good morning"
+              }
+            ]
+          },
+          {
+            "id": "card-3",
+            "type": "fill_the_blank",
+            "word": "__, I am Anna. Nice to meet you.",
+            "englishWord": "__, I am Anna. Nice to meet you.",
+            "category": "Complete the sentence",
+            "correct": "Hello",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "Bye"
+              },
+              {
+                "id": "option-2",
+                "text": "Goodbye"
+              },
+              {
+                "id": "option-3",
+                "text": "Hello"
+              },
+              {
+                "id": "option-4",
+                "text": "Night"
+              }
+            ]
+          },
+          {
+            "id": "card-4",
+            "type": "true_false",
+            "word": "\"Bye\" is a formal way to say hello.",
+            "englishWord": "\"Bye\" is a formal way to say hello.",
+            "category": "True or False",
+            "isCorrect": true
+          },
+          {
+            "id": "card-5",
+            "type": "fill_the_blank",
+            "word": "\"Goodbye Ben!\" _\", Anna!\"",
+            "englishWord": "\"Goodbye Ben!\" _\", Anna!\"",
+            "category": "Fill in the blank",
+            "correct": "Bye",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "Bye"
+              },
+              {
+                "id": "option-2",
+                "text": "Hello"
+              },
+              {
+                "id": "option-3",
+                "text": "Good morning"
+              }
+            ]
+          },
+          {
+            "id": "card-6",
+            "type": "arrange_word",
+            "englishWord": "Good morning teacher",
+            "category": "Arrange the words",
+            "correct": "Good morning teacher",
+            "words": ["morning", "Good", "teacher"],
+            "translateWords": ["morning", "Good", "teacher"]
+          }
+        ]
+    }, 
+    {
+        "lesson_id": "L1_U01_02",
+        "cards": [
+          {
+            "id": "card-1",
+            "type": "intro_word",
+            "word": "\"Hello! My name is David. I am from London. What is your name?\"",
+            "phonetic": "",
+            "example": "",
+            "englishWord": "\"Hello! My name is David. I am from London. What is your name?\"",
+            "englishExample": "",
+            "category": "Greeting"
+          }
+        ]
+    }
+]

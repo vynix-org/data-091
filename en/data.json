@@ -1,0 +1,116 @@
+[
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U01",
+      "unit_name": "Greetings & Introductions",
+      "lessons": [
+        {
+          "lesson_id": "L1_U01_01",
+          "lesson_name": "Basic Greetings",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn common ways to say hello and goodbye in daily life.",
+          "targe_language": "Hello, Hi, Goodbye, Bye, Good morning",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U01_02",
+          "lesson_name": "Introducing Yourself",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Listening",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Learn to introduce your name and ask for someone's name.",
+          "targe_language": "What is your name?, My name is, I am",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U01_03",
+          "lesson_name": "Asking How Someone Is",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Learn to ask about someone's well-being and respond politely.",
+          "targe_language": "How are you?, I am fine, thank you, And you?",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U03",
+      "unit_name": "Numbers (1-100)",
+      "lessons": [
+        {
+          "lesson_id": "L1_U03_01",
+          "lesson_name": "Numbers 1 to 20",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn to count, read, and write cardinal numbers from 1 to 20.",
+          "targe_language": "Numbers 1 to 20 (one, two, three, ten, eleven, twelve, twenty)",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U03_02",
+          "lesson_name": "Numbers 21 to 100",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn to read and write multi-digit numbers up to 100 focusing on tens.",
+          "targe_language": "Numbers 30, 40, 50, 60, 70, 80, 90, 100 (thirty, forty, fifty, one hundred)",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U03_03",
+          "lesson_name": "Asking About Age and Phone Numbers",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Apply numbers to exchange personal information like age and phone numbers.",
+          "targe_language": "How old are you?, I am ... years old, What is your phone number?",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U05",
+      "unit_name": "Colors",
+      "lessons": [
+        {
+          "lesson_id": "L1_U05_01",
+          "lesson_name": "Primary Colors",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Letters & Sounds",
+          "learning_objectives": "Master the recognition and sounds of letters from A to M.",
+          "targe_language": "Letters A, B, C, D, E, F, G, H, I, J, K, L, M",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U05_02",
+          "lesson_name": "Describing Objects with Colors",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Letters & Sounds",
+          "learning_objectives": "Master the recognition and sounds of letters from A to M.",
+          "targe_language": "Letters N, O, P, Q, R, S, T, U, V, W, X, Y, Z",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U05_03",
+          "lesson_name": "Advanced Color Mixing",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Practical Application",
+          "learning_objectives": "Learn to spell personal names using the English alphabet.",
+          "targe_language": "How do you spell...?, Spell your name, Double",
+          "ui_engine": "quiz"
+        }
+      ]
+    }
+  ]

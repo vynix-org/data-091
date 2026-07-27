@@ -1,0 +1,362 @@
+[
+    {
+        "lesson_id": "L1_U03_01",
+        "cards": [
+            {
+                "id": "card-1", 
+                "type": "intro_word",
+                "word": "Count by tens: 30 (thirty), 40 (forty), 50 (fifty), 60 (sixty), 70 (seventy), 80 (eighty), 90 (ninety), 100 (one hundred). 45 is forty-five.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "Count by tens: 30 (thirty), 40 (forty), 50 (fifty), 60 (sixty), 70 (seventy), 80 (eighty), 90 (ninety), 100 (one hundred). 45 is forty-five.",
+                "englishExample": "",
+                "category": "Reading"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "Choose the correct word for the number 12.",
+                "englishWord": "Choose the correct word for the number 12.",
+                "category": "Question answer",
+                "correct": "Twelve",
+                "options": [
+                {
+                    "id": "option-1",
+                    "text": "Eleven"
+                },
+                {
+                    "id": "option-2",
+                    "text": "Twelve"
+                },
+                {
+                    "id": "option-3",
+                    "text": "Twenty"
+                },
+                {
+                    "id": "option-4",
+                    "text": "Two"
+                }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "2, 4, 6, 8, ___.",
+                "englishWord": "2, 4, 6, 8, ___.",
+                "category": "Complete the sentence",
+                "correct": "Ten",
+                "options": [
+                {
+                    "id": "option-1",
+                    "text": "Nine"
+                },
+                {
+                    "id": "option-2",
+                    "text": "Ten"
+                },
+                {
+                    "id": "option-3",
+                    "text": "Eleven"
+                },
+                {
+                    "id": "option-4",
+                    "text": "Seven"
+                }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "The number 11 is spelled as 'eleven'.",
+                "englishWord": "The number 11 is spelled as 'eleven'.",
+                "category": "True or False",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "7, 8, 9, ____.",
+                "englishWord": "7, 8, 9, ____.",
+                "category": "Fill in the blank",
+                "correct": "ten",
+                "options": [
+                {
+                    "id": "option-1",
+                    "text": "ten"
+                },
+                {
+                    "id": "option-2",
+                    "text": "eleven"
+                },
+                {
+                    "id": "option-3",
+                    "text": "six"
+                },
+                {
+                    "id": "option-4",
+                    "text": "twelve"
+                }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "FIVE",
+                "category": "Arrange the words",
+                "correct": "FIVE",
+                "words": [
+                "V",
+                "I",
+                "E",
+                "F"
+                ],
+                "translateWords": [
+                "V",
+                "I",
+                "E",
+                "F"
+                ]
+            }
+        ]
+    }, 
+    {
+        "lesson_id": "L1_U03_02",
+        "cards": [
+          {
+            "id": "card-1",
+            "type": "intro_word",
+            "word": "What is your name?\nMy name is Ben.\nHow old are you?\nI am twenty-five years old.\nWhat is your phone number?\nIt is zero-seven-nine.",
+            "phonetic": "",
+            "example": "",
+            "englishWord": "What is your name? My name is Ben. How old are you? I am twenty-five years old. What is your phone number? It is zero-seven-nine.",
+            "englishExample": "",
+            "category": "Reading"
+          },
+          {
+            "id": "card-2",
+            "type": "question_answer",
+            "word": "Choose the correct word for the number 40.",
+            "englishWord": "Choose the correct word for the number 40.",
+            "category": "Question answer",
+            "correct": "Forty",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "Fourteen"
+              },
+              {
+                "id": "option-2",
+                "text": "Fourty"
+              },
+              {
+                "id": "option-3",
+                "text": "Forty"
+              },
+              {
+                "id": "option-4",
+                "text": "Four"
+              }
+            ]
+          },
+          {
+            "id": "card-3",
+            "type": "fill_the_blank",
+            "word": "thirty, forty, fifty, __.",
+            "englishWord": "thirty, forty, fifty, __.",
+            "category": "Complete the sentence",
+            "correct": "sixty",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "sixty"
+              },
+              {
+                "id": "option-2",
+                "text": "sixteen"
+              },
+              {
+                "id": "option-3",
+                "text": "seventy"
+              },
+              {
+                "id": "option-4",
+                "text": "six"
+              }
+            ]
+          },
+          {
+            "id": "card-4",
+            "type": "true_false",
+            "word": "100 is written as 'one hundred'.",
+            "englishWord": "100 is written as 'one hundred'.",
+            "category": "True or False",
+            "isCorrect": true
+          },
+          {
+            "id": "card-5",
+            "type": "fill_the_blank",
+            "word": "twenty-__.",
+            "englishWord": "twenty-__.",
+            "category": "Fill in the blank",
+            "correct": "five",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "five"
+              },
+              {
+                "id": "option-2",
+                "text": "four"
+              },
+              {
+                "id": "option-3",
+                "text": "six"
+              },
+              {
+                "id": "option-4",
+                "text": "seven"
+              }
+            ]
+          },
+          {
+            "id": "card-6",
+            "type": "arrange_word",
+            "englishWord": "seventy-three",
+            "category": "Arrange the words",
+            "correct": "seventy-three",
+            "words": [
+              "three",
+              "seventy",
+              "-"
+            ],
+            "translateWords": [
+              "three",
+              "seventy",
+              "-"
+            ]
+          }
+        ]
+    },
+    {
+      "lesson_id": "L1_U03_03",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hello, my name is John.\nI am twelve years old.\nNice to meet you.\nGoodbye!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hello, my name is John. I am twelve years old. Nice to meet you. Goodbye!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct question used to ask for someone's age.",
+          "englishWord": "Choose the correct question used to ask for someone's age.",
+          "category": "Question answer",
+          "correct": "How old are you?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "How are you?"
+            },
+            {
+              "id": "option-2",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-3",
+              "text": "What is your name?"
+            },
+            {
+              "id": "option-4",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "\"What is your phone number?\" - \"____ is 0912.\"",
+          "englishWord": "\"What is your phone number?\" - \"____ is 0912.\"",
+          "category": "Complete the sentence",
+          "correct": "It",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "I am"
+            },
+            {
+              "id": "option-2",
+              "text": "It"
+            },
+            {
+              "id": "option-3",
+              "text": "My"
+            },
+            {
+              "id": "option-4",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "\"I am thirty years old\" answers the question \"How old are you?\"",
+          "englishWord": "\"I am thirty years old\" answers the question \"How old are you?\"",
+          "category": "True or False",
+          "isCorrect": true
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "How ____ are you? - \"I am ten.\"",
+          "englishWord": "How ____ are you? - \"I am ten.\"",
+          "category": "Fill in the blank",
+          "correct": "old",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "old"
+            },
+            {
+              "id": "option-2",
+              "text": "many"
+            },
+            {
+              "id": "option-3",
+              "text": "much"
+            },
+            {
+              "id": "option-4",
+              "text": "long"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I am thirty years old",
+          "category": "Arrange the words",
+          "correct": "I am thirty years old",
+          "words": [
+            "old",
+            "thirty",
+            "years",
+            "am",
+            "I"
+          ],
+          "translateWords": [
+            "old",
+            "thirty",
+            "years",
+            "am",
+            "I"
+          ]
+        }
+      ]
+  }
+]

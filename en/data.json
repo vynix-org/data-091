@@ -13,7 +13,7 @@
           "lesson_scope": "Vocabulary",
           "learning_objectives": "Learn common ways to say hello and goodbye in daily life.",
           "targe_language": "Hello, Hi, Goodbye, Bye, Good morning",
-          "ui_engine": "QUIZ"
+          "ui_engine": "quiz"
         },
         {
           "lesson_id": "L1_U01_02",

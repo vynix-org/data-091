@@ -1,351 +1,359 @@
 [
     {
-        "lesson_id": "L1_U01_01",
+        "lesson_id": "L1_U03_01",
         "cards": [
           {
             "id": "card-1",
             "type": "intro_word",
-            "word": "¡Buenos días! Hola, soy Ana.\n¡Hola Ana! Soy Ben.\n¡Adiós Ben! ¡Hasta luego Ana!",
+            "word": "Cuenta de diez en diez: 30 (treinta), 40 (cuarenta), 50 (cincuenta), 60 (sesenta), 70 (setenta), 80 (ochenta), 90 (noventa), 100 (cien). 45 es cuarenta y cinco.",
             "phonetic": "",
             "example": "",
-            "englishWord": "¡Buenos días! Hola, soy Ana. ¡Hola Ana! Soy Ben. ¡Adiós Ben! ¡Hasta luego Ana!",
+            "englishWord": "Cuenta de diez en diez: 30 (treinta), 40 (cuarenta), 50 (cincuenta), 60 (sesenta), 70 (setenta), 80 (ochenta), 90 (noventa), 100 (cien). 45 es cuarenta y cinco.",
             "englishExample": "",
             "category": "Reading"
           },
           {
             "id": "card-2",
             "type": "question_answer",
-            "word": "Elige el saludo correcto para la mañana.",
-            "englishWord": "Elige el saludo correcto para la mañana.",
+            "word": "Elige la palabra correcta para el número 12.",
+            "englishWord": "Elige la palabra correcta para el número 12.",
             "category": "Question answer",
-            "correct": "Buenos días",
+            "correct": "Doce",
             "options": [
               {
                 "id": "option-1",
-                "text": "Buenas noches"
+                "text": "Once"
               },
               {
                 "id": "option-2",
-                "text": "Buenos días"
+                "text": "Doce"
               },
               {
                 "id": "option-3",
-                "text": "Adiós"
+                "text": "Veinte"
               },
               {
                 "id": "option-4",
-                "text": "Hasta luego"
+                "text": "Dos"
               }
             ]
           },
           {
             "id": "card-3",
             "type": "fill_the_blank",
-            "word": "____, soy Ana. Mucho gusto.",
-            "englishWord": "____, soy Ana. Mucho gusto.",
+            "word": "2, 4, 6, 8, ___.",
+            "englishWord": "2, 4, 6, 8, ___.",
             "category": "Complete the sentence",
-            "correct": "Hola",
+            "correct": "Diez",
             "options": [
               {
                 "id": "option-1",
-                "text": "Adiós"
+                "text": "Nueve"
               },
               {
                 "id": "option-2",
-                "text": "Hasta luego"
+                "text": "Diez"
               },
               {
                 "id": "option-3",
-                "text": "Hola"
+                "text": "Once"
               },
               {
                 "id": "option-4",
-                "text": "Noche"
+                "text": "Siete"
               }
             ]
           },
           {
             "id": "card-4",
             "type": "true_false",
-            "word": "\"Hasta luego\" es una forma formal de saludar.",
-            "englishWord": "\"Hasta luego\" es una forma formal de saludar.",
-            "category": "True or False",
-            "isCorrect": false
-          },
-          {
-            "id": "card-5",
-            "type": "fill_the_blank",
-            "word": "¡Adiós Ben! \"____, Ana!\"",
-            "englishWord": "¡Adiós Ben! \"____, Ana!\"",
-            "category": "Fill in the blank",
-            "correct": "Hasta luego",
-            "options": [
-              {
-                "id": "option-1",
-                "text": "Hasta luego"
-              },
-              {
-                "id": "option-2",
-                "text": "Hola"
-              },
-              {
-                "id": "option-3",
-                "text": "Buenos días"
-              }
-            ]
-          },
-          {
-            "id": "card-6",
-            "type": "arrange_word",
-            "englishWord": "Buenos días profesor",
-            "category": "Arrange the words",
-            "correct": "Buenos días profesor",
-            "words": [
-              "días",
-              "Buenos",
-              "profesor"
-            ],
-            "translateWords": [
-              "días",
-              "Buenos",
-              "profesor"
-            ]
-          }
-        ]
-    }, 
-    {
-        "lesson_id": "L1_U01_02",
-        "cards": [
-          {
-            "id": "card-1",
-            "type": "intro_word",
-            "word": "¡Hola! Me llamo David.\nSoy de Londres.\n¿Cómo te llamas?",
-            "phonetic": "",
-            "example": "",
-            "englishWord": "¡Hola! Me llamo David. Soy de Londres. ¿Cómo te llamas?",
-            "englishExample": "",
-            "category": "Reading"
-          },
-          {
-            "id": "card-2",
-            "type": "question_answer",
-            "word": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-            "englishWord": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-            "category": "Question answer",
-            "correct": "Me llamo María",
-            "options": [
-              {
-                "id": "option-1",
-                "text": "Estoy bien"
-              },
-              {
-                "id": "option-2",
-                "text": "Me llamo María"
-              },
-              {
-                "id": "option-3",
-                "text": "Adiós"
-              },
-              {
-                "id": "option-4",
-                "text": "Hola"
-              }
-            ]
-          },
-          {
-            "id": "card-3",
-            "type": "fill_the_blank",
-            "word": "Hola, ____ Juan.",
-            "englishWord": "Hola, ____ Juan.",
-            "category": "Complete the sentence",
-            "correct": "soy",
-            "options": [
-              {
-                "id": "option-1",
-                "text": "es"
-              },
-              {
-                "id": "option-2",
-                "text": "son"
-              },
-              {
-                "id": "option-3",
-                "text": "soy"
-              },
-              {
-                "id": "option-4",
-                "text": "ser"
-              }
-            ]
-          },
-          {
-            "id": "card-4",
-            "type": "true_false",
-            "word": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
-            "englishWord": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
+            "word": "El número 11 se escribe 'once'.",
+            "englishWord": "El número 11 se escribe 'once'.",
             "category": "True or False",
             "isCorrect": true
           },
           {
             "id": "card-5",
             "type": "fill_the_blank",
-            "word": "¡Hola! Mi ____ es Pedro.",
-            "englishWord": "¡Hola! Mi ____ es Pedro.",
+            "word": "7, 8, 9, ____.",
+            "englishWord": "7, 8, 9, ____.",
             "category": "Fill in the blank",
-            "correct": "nombre",
+            "correct": "diez",
             "options": [
               {
                 "id": "option-1",
-                "text": "nombre"
+                "text": "diez"
               },
               {
                 "id": "option-2",
-                "text": "libro"
+                "text": "once"
               },
               {
                 "id": "option-3",
-                "text": "casa"
+                "text": "seis"
               },
               {
                 "id": "option-4",
-                "text": "amigo"
+                "text": "doce"
               }
             ]
           },
           {
             "id": "card-6",
             "type": "arrange_word",
-            "englishWord": "Cómo te llamas",
+            "englishWord": "CINCO",
             "category": "Arrange the words",
-            "correct": "Cómo te llamas",
+            "correct": "CINCO",
             "words": [
-              "llamas",
-              "Cómo",
-              "te"
+              "C",
+              "I",
+              "N",
+              "C",
+              "O"
             ],
             "translateWords": [
-              "llamas",
-              "Cómo",
-              "te"
+              "C",
+              "I",
+              "N",
+              "C",
+              "O"
+            ]
+          }
+        ]
+    }, 
+    {
+        "lesson_id": "L1_U03_02",
+        "cards": [
+          {
+            "id": "card-1",
+            "type": "intro_word",
+            "word": "¿Cómo te llamas? Me llamo Ben.\n¿Cuántos años tienes?\nTengo veinticinco años.\n¿Cuál es tu número de teléfono? Es cero-siete-nueve.",
+            "phonetic": "",
+            "example": "",
+            "englishWord": "¿Cómo te llamas? Me llamo Ben. ¿Cuántos años tienes? Tengo veinticinco años. ¿Cuál es tu número de teléfono? Es cero-siete-nueve.",
+            "englishExample": "",
+            "category": "Reading"
+          },
+          {
+            "id": "card-2",
+            "type": "question_answer",
+            "word": "Elige la palabra correcta para el número 40.",
+            "englishWord": "Elige la palabra correcta para el número 40.",
+            "category": "Question answer",
+            "correct": "Cuarenta",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "Catorce"
+              },
+              {
+                "id": "option-2",
+                "text": "Cuarenta"
+              },
+              {
+                "id": "option-3",
+                "text": "Cuatro"
+              },
+              {
+                "id": "option-4",
+                "text": "Cuarenti"
+              }
+            ]
+          },
+          {
+            "id": "card-3",
+            "type": "fill_the_blank",
+            "word": "treinta, cuarenta, cincuenta, ___.",
+            "englishWord": "treinta, cuarenta, cincuenta, ___.",
+            "category": "Complete the sentence",
+            "correct": "sesenta",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "sesenta"
+              },
+              {
+                "id": "option-2",
+                "text": "dieciséis"
+              },
+              {
+                "id": "option-3",
+                "text": "setenta"
+              },
+              {
+                "id": "option-4",
+                "text": "seis"
+              }
+            ]
+          },
+          {
+            "id": "card-4",
+            "type": "true_false",
+            "word": "100 se escribe 'cien'.",
+            "englishWord": "100 se escribe 'cien'.",
+            "category": "True or False",
+            "isCorrect": true
+          },
+          {
+            "id": "card-5",
+            "type": "fill_the_blank",
+            "word": "veinticinco.",
+            "englishWord": "veinticinco.",
+            "category": "Fill in the blank",
+            "correct": "cinco",
+            "options": [
+              {
+                "id": "option-1",
+                "text": "cinco"
+              },
+              {
+                "id": "option-2",
+                "text": "cuatro"
+              },
+              {
+                "id": "option-3",
+                "text": "seis"
+              },
+              {
+                "id": "option-4",
+                "text": "siete"
+              }
+            ]
+          },
+          {
+            "id": "card-6",
+            "type": "arrange_word",
+            "englishWord": "setenta y tres",
+            "category": "Arrange the words",
+            "correct": "setenta y tres",
+            "words": [
+              "tres",
+              "setenta",
+              "y"
+            ],
+            "translateWords": [
+              "tres",
+              "setenta",
+              "y"
             ]
           }
         ]
     },
     {
-      "lesson_id": "L1_U01_03",
+      "lesson_id": "L1_U03_03",
       "cards": [
         {
           "id": "card-1",
           "type": "intro_word",
-          "word": "¡Hola Sara! ¿Cómo estás?\nEstoy bien, gracias. ¿Y tú?\n¡Estoy genial, gracias!",
+          "word": "Hola, me llamo Juan.\nTengo doce años.\nMucho gusto.\n¡Adiós!",
           "phonetic": "",
           "example": "",
-          "englishWord": "¡Hola Sara! ¿Cómo estás? Estoy bien, gracias. ¿Y tú? ¡Estoy genial, gracias!",
+          "englishWord": "Hola, me llamo Juan. Tengo doce años. Mucho gusto. ¡Adiós!",
           "englishExample": "",
           "category": "Reading"
         },
         {
           "id": "card-2",
           "type": "question_answer",
-          "word": "Elige la respuesta correcta a \"¿Cómo estás?\"",
-          "englishWord": "Elige la respuesta correcta a \"¿Cómo estás?\"",
+          "word": "Elige la pregunta correcta para preguntar la edad.",
+          "englishWord": "Elige la pregunta correcta para preguntar la edad.",
           "category": "Question answer",
-          "correct": "Estoy bien, gracias",
+          "correct": "¿Cuántos años tienes?",
           "options": [
             {
               "id": "option-1",
-              "text": "Me llamo Tom"
+              "text": "¿Cómo estás?"
             },
             {
               "id": "option-2",
-              "text": "Estoy bien, gracias"
+              "text": "¿Cuántos años tienes?"
             },
             {
               "id": "option-3",
-              "text": "Adiós"
+              "text": "¿Cómo te llamas?"
             },
             {
               "id": "option-4",
-              "text": "Hola"
+              "text": "¿De dónde eres?"
             }
           ]
         },
         {
           "id": "card-3",
           "type": "fill_the_blank",
-          "word": "Estoy bien, gracias. ¿Y ____?",
-          "englishWord": "Estoy bien, gracias. ¿Y ____?",
+          "word": "¿Cuál es tu número de teléfono? - \"____ es 0912.\"",
+          "englishWord": "¿Cuál es tu número de teléfono? - \"____ es 0912.\"",
           "category": "Complete the sentence",
-          "correct": "tú",
+          "correct": "Es",
           "options": [
             {
               "id": "option-1",
-              "text": "tú"
+              "text": "Soy"
             },
             {
               "id": "option-2",
-              "text": "tu"
+              "text": "Es"
             },
             {
               "id": "option-3",
-              "text": "él"
+              "text": "Mi"
             },
             {
               "id": "option-4",
-              "text": "ella"
+              "text": "Tú"
             }
           ]
         },
         {
           "id": "card-4",
           "type": "true_false",
-          "word": "\"Estoy genial\" significa que te sientes mal.",
-          "englishWord": "\"Estoy genial\" significa que te sientes mal.",
+          "word": "\"Tengo treinta años\" responde a \"¿Cuántos años tienes?\"",
+          "englishWord": "\"Tengo treinta años\" responde a \"¿Cuántos años tienes?\"",
           "category": "True or False",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "id": "card-5",
           "type": "fill_the_blank",
-          "word": "¿Cómo ____? - \"Estoy bien.\"",
-          "englishWord": "¿Cómo ____? - \"Estoy bien.\"",
+          "word": "¿Cuántos ____ tienes? - \"Tengo diez.\"",
+          "englishWord": "¿Cuántos ____ tienes? - \"Tengo diez.\"",
           "category": "Fill in the blank",
-          "correct": "estás",
+          "correct": "años",
           "options": [
             {
               "id": "option-1",
-              "text": "estás"
+              "text": "años"
             },
             {
               "id": "option-2",
-              "text": "está"
+              "text": "muchos"
             },
             {
               "id": "option-3",
-              "text": "estoy"
+              "text": "mucho"
             },
             {
               "id": "option-4",
-              "text": "estar"
+              "text": "largo"
             }
           ]
         },
         {
           "id": "card-6",
           "type": "arrange_word",
-          "englishWord": "Yo estoy bien gracias",
+          "englishWord": "Yo tengo treinta años",
           "category": "Arrange the words",
-          "correct": "Yo estoy bien gracias",
+          "correct": "Yo tengo treinta años",
           "words": [
-            "gracias",
-            "bien",
-            "estoy",
+            "años",
+            "treinta",
+            "tengo",
             "Yo"
           ],
           "translateWords": [
-            "gracias",
-            "bien",
-            "estoy",
+            "años",
+            "treinta",
+            "tengo",
             "Yo"
           ]
         }

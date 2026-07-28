@@ -1,0 +1,368 @@
+[
+    {
+        "lesson_id": "L1_U05_01",
+        "cards": [
+            {
+              "id": "card-1",
+              "type": "intro_word",
+              "word": "Look at the school bag.\nIt is bright red.\nThe book next to it is dark blue.\nThe pencil is bright yellow.",
+              "phonetic": "",
+              "example": "",
+              "englishWord": "Look at the school bag. It is bright red. The book next to it is dark blue. The pencil is bright yellow.",
+              "englishExample": "",
+              "category": "Reading"
+            },
+            {
+              "id": "card-2",
+              "type": "question_answer",
+              "word": "Choose the primary color of the school bag mentioned in the text.",
+              "englishWord": "Choose the primary color of the school bag mentioned in the text.",
+              "category": "Question answer",
+              "correct": "red",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "blue"
+                },
+                {
+                  "id": "option-2",
+                  "text": "green"
+                },
+                {
+                  "id": "option-3",
+                  "text": "red"
+                },
+                {
+                  "id": "option-4",
+                  "text": "orange"
+                }
+              ]
+            },
+            {
+              "id": "card-3",
+              "type": "fill_the_blank",
+              "word": "The book next to the bag is dark ____.",
+              "englishWord": "The book next to the bag is dark ____.",
+              "category": "Complete the sentence",
+              "correct": "blue",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "yellow"
+                },
+                {
+                  "id": "option-2",
+                  "text": "blue"
+                },
+                {
+                  "id": "option-3",
+                  "text": "red"
+                },
+                {
+                  "id": "option-4",
+                  "text": "green"
+                }
+              ]
+            },
+            {
+              "id": "card-4",
+              "type": "true_false",
+              "word": "The pencil described in the text is green.",
+              "englishWord": "The pencil described in the text is green.",
+              "category": "True or False",
+              "isCorrect": false
+            },
+            {
+              "id": "card-5",
+              "type": "fill_the_blank",
+              "word": "Bananas are usually ____.",
+              "englishWord": "Bananas are usually ____.",
+              "category": "Fill in the blank",
+              "correct": "yellow",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "yellow"
+                },
+                {
+                  "id": "option-2",
+                  "text": "blue"
+                },
+                {
+                  "id": "option-3",
+                  "text": "black"
+                },
+                {
+                  "id": "option-4",
+                  "text": "purple"
+                }
+              ]
+            },
+            {
+              "id": "card-6",
+              "type": "arrange_word",
+              "englishWord": "Grass is usually green",
+              "category": "Arrange the words",
+              "correct": "Grass is usually green",
+              "words": [
+                "is",
+                "Grass",
+                "green",
+                "usually"
+              ],
+              "translateWords": [
+                "is",
+                "Grass",
+                "green",
+                "usually"
+              ]
+            }
+          ]
+    }, 
+    {
+        "lesson_id": "L1_U05_02",
+        "cards": [
+            {
+              "id": "card-1",
+              "type": "intro_word",
+              "word": "What color is your new car, Tom?\nIt is a blue car.\nMy old car was red.\nNice! I have a yellow bicycle.",
+              "phonetic": "",
+              "example": "",
+              "englishWord": "What color is your new car, Tom? It is a blue car. My old car was red. Nice! I have a yellow bicycle.",
+              "englishExample": "",
+              "category": "Reading"
+            },
+            {
+              "id": "card-2",
+              "type": "question_answer",
+              "word": "Choose the correct question used to ask about an object's hue.",
+              "englishWord": "Choose the correct question used to ask about an object's hue.",
+              "category": "Question answer",
+              "correct": "What color is your new car?",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "How old is it?"
+                },
+                {
+                  "id": "option-2",
+                  "text": "What color is your new car?"
+                },
+                {
+                  "id": "option-3",
+                  "text": "What is your name?"
+                },
+                {
+                  "id": "option-4",
+                  "text": "How are you?"
+                }
+              ]
+            },
+            {
+              "id": "card-3",
+              "type": "fill_the_blank",
+              "word": "Tom has a ____ car.",
+              "englishWord": "Tom has a ____ car.",
+              "category": "Complete the sentence",
+              "correct": "blue",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "yellow"
+                },
+                {
+                  "id": "option-2",
+                  "text": "red"
+                },
+                {
+                  "id": "option-3",
+                  "text": "blue"
+                },
+                {
+                  "id": "option-4",
+                  "text": "green"
+                }
+              ]
+            },
+            {
+              "id": "card-4",
+              "type": "true_false",
+              "word": "Tom's old car was yellow.",
+              "englishWord": "Tom's old car was yellow.",
+              "category": "True or False",
+              "isCorrect": false
+            },
+            {
+              "id": "card-5",
+              "type": "fill_the_blank",
+              "word": "What ____ is your bicycle?",
+              "englishWord": "What ____ is your bicycle?",
+              "category": "Fill in the blank",
+              "correct": "color",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "color"
+                },
+                {
+                  "id": "option-2",
+                  "text": "size"
+                },
+                {
+                  "id": "option-3",
+                  "text": "shape"
+                },
+                {
+                  "id": "option-4",
+                  "text": "name"
+                }
+              ]
+            },
+            {
+              "id": "card-6",
+              "type": "arrange_word",
+              "englishWord": "It is a white bag",
+              "category": "Arrange the words",
+              "correct": "It is a white bag",
+              "words": [
+                "is",
+                "white",
+                "bag",
+                "It",
+                "a"
+              ],
+              "translateWords": [
+                "is",
+                "white",
+                "bag",
+                "It",
+                "a"
+              ]
+            }
+          ]
+    },
+    {
+      "lesson_id": "L1_U05_03",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "When you mix blue and red, you get purple.\nMix white and red to make pink.\nBlack and white create gray.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "When you mix blue and red, you get purple. Mix white and red to make pink. Black and white create gray.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the color token that results from mixing blue and red.",
+          "englishWord": "Choose the color token that results from mixing blue and red.",
+          "category": "Question answer",
+          "correct": "purple",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pink"
+            },
+            {
+              "id": "option-2",
+              "text": "green"
+            },
+            {
+              "id": "option-3",
+              "text": "purple"
+            },
+            {
+              "id": "option-4",
+              "text": "brown"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Mix white and red to make ____.",
+          "englishWord": "Mix white and red to make ____.",
+          "category": "Complete the sentence",
+          "correct": "pink",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "purple"
+            },
+            {
+              "id": "option-2",
+              "text": "pink"
+            },
+            {
+              "id": "option-3",
+              "text": "black"
+            },
+            {
+              "id": "option-4",
+              "text": "gray"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Mixing black and white results in a purple token.",
+          "englishWord": "Mixing black and white results in a purple token.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "When you ____ blue and yellow, you get green.",
+          "englishWord": "When you ____ blue and yellow, you get green.",
+          "category": "Fill in the blank",
+          "correct": "mix",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "mix"
+            },
+            {
+              "id": "option-2",
+              "text": "draw"
+            },
+            {
+              "id": "option-3",
+              "text": "write"
+            },
+            {
+              "id": "option-4",
+              "text": "count"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Brown is the color of dirt",
+          "category": "Arrange the words",
+          "correct": "Brown is the color of dirt",
+          "words": [
+            "is",
+            "dirt",
+            "Brown",
+            "the",
+            "color",
+            "of"
+          ],
+          "translateWords": [
+            "is",
+            "dirt",
+            "Brown",
+            "the",
+            "color",
+            "of"
+          ]
+        }
+      ]
+  }
+]

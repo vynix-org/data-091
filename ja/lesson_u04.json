@@ -1,0 +1,352 @@
+[
+    {
+        "lesson_id": "L1_U04_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "こんにちは、ジョンです。\n十二歳です。\nよろしくお願いします。\nさようなら！",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "こんにちは、ジョンです。 十二歳です。 よろしくお願いします。 さようなら！",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "本文の正しいあいさつを選んでください。",
+                "englishWord": "本文の正しいあいさつを選んでください。",
+                "category": "質問と回答",
+                "correct": "こんにちは",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "こんにちは"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "よろしくお願いします"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "十二"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "ジョンは____歳です。",
+                "englishWord": "ジョンは____歳です。",
+                "category": "文を完成させる",
+                "correct": "十二",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "二"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "十"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "十二"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "二十"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "ジョンは本文で自己紹介をしています。",
+                "englishWord": "ジョンは本文で自己紹介をしています。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "よろしくお願いします。____！",
+                "englishWord": "よろしくお願いします。____！",
+                "category": "空欄を埋める",
+                "correct": "さようなら",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ありがとう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "お願いします"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ようこそ"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "ジョン です",
+                "category": "語順を並べる",
+                "correct": "ジョン です",
+                "words": [
+                    "です",
+                    "ジョン"
+                ],
+                "translateWords": [
+                    "です",
+                    "ジョン"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "お名前は何ですか？\nメアリーです。め・あ・り・ー。\nメアリーさん、何歳ですか？\n四十歳です。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "お名前は何ですか？ メアリーです。め・あ・り・ー。 メアリーさん、何歳ですか？ 四十歳です。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "本文の名前の正しい書き方を選んでください。",
+                "englishWord": "本文の名前の正しい書き方を選んでください。",
+                "category": "質問と回答",
+                "correct": "めありー",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "めありー"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "めえりー"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "まありー"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "もおりー"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "メアリーは____歳です。",
+                "englishWord": "メアリーは____歳です。",
+                "category": "文を完成させる",
+                "correct": "四十",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "十四"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "四"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "四十"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "四十四"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "本文には電話番号があります。",
+                "englishWord": "本文には電話番号があります。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "名前は____書きますか？",
+                "englishWord": "名前は____書きますか？",
+                "category": "空欄を埋める",
+                "correct": "どう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "なに"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "どう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "どこ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "だれ"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "何歳 ですか",
+                "category": "語順を並べる",
+                "correct": "何歳 ですか",
+                "words": [
+                    "ですか",
+                    "何歳"
+                ],
+                "translateWords": [
+                    "ですか",
+                    "何歳"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "名前：べん。\n書き方：べ・ん。\n年齢：75。\n電話番号：0853。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "名前：べん。 書き方：べ・ん。 年齢：75。 電話番号：0853。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "べんさんの年齢の正しい言い方を選んでください。",
+                "englishWord": "べんさんの年齢の正しい言い方を選んでください。",
+                "category": "質問と回答",
+                "correct": "ななじゅうご",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゅうなな"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ななじゅうご"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ごじゅうなな"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ななご"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "電話____は何ですか？",
+                "englishWord": "電話____は何ですか？",
+                "category": "文を完成させる",
+                "correct": "番号",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "名前"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "番号"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "年齢"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "書き方"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "べんは名前を「べ・ん」と書きます。",
+                "englishWord": "べんは名前を「べ・ん」と書きます。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "____は0853です。",
+                "englishWord": "____は0853です。",
+                "category": "空欄を埋める",
+                "correct": "番号",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "番号"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "名前"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "年齢"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "住所"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "電話番号 は 何ですか",
+                "category": "語順を並べる",
+                "correct": "電話番号 は 何ですか",
+                "words": [
+                    "は",
+                    "電話番号",
+                    "何ですか"
+                ],
+                "translateWords": [
+                    "は",
+                    "電話番号",
+                    "何ですか"
+                ]
+            }
+        ]
+    }
+]

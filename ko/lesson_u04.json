@@ -1,0 +1,352 @@
+[
+    {
+        "lesson_id": "L1_U04_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "안녕하세요, 제 이름은 존이에요.\n열두 살이에요.\n만나서 반가워요.\n안녕히 가세요!",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "안녕하세요, 제 이름은 존이에요. 열두 살이에요. 만나서 반가워요. 안녕히 가세요!",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "본문의 올바른 인사를 고르세요.",
+                "englishWord": "본문의 올바른 인사를 고르세요.",
+                "category": "질문과 답변",
+                "correct": "안녕하세요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "안녕하세요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "만나서 반가워요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "열둘"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "존은 ____ 살이에요.",
+                "englishWord": "존은 ____ 살이에요.",
+                "category": "문장 완성",
+                "correct": "열두",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "두"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "열"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "열두"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "스무"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "존은 본문에서 자기소개를 하고 있습니다.",
+                "englishWord": "존은 본문에서 자기소개를 하고 있습니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "만나서 반가워요. ____!",
+                "englishWord": "만나서 반가워요. ____!",
+                "category": "빈칸 채우기",
+                "correct": "안녕히 가세요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "고마워요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "부탁해요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "환영해요"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "제 이름은 존이에요",
+                "category": "단어 배열",
+                "correct": "제 이름은 존이에요",
+                "words": [
+                    "이름은",
+                    "제",
+                    "존이에요"
+                ],
+                "translateWords": [
+                    "이름은",
+                    "제",
+                    "존이에요"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "이름이 뭐예요?\n메리예요. ㅁ·ㅔ·ㄹ·ㅣ.\n메리 씨, 몇 살이에요?\n마흔 살이에요.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "이름이 뭐예요? 메리예요. ㅁ·ㅔ·ㄹ·ㅣ. 메리 씨, 몇 살이에요? 마흔 살이에요.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "본문에 나온 이름의 올바른 표기를 고르세요.",
+                "englishWord": "본문에 나온 이름의 올바른 표기를 고르세요.",
+                "category": "질문과 답변",
+                "correct": "ㅁ-ㅔ-ㄹ-ㅣ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅁ-ㅔ-ㄹ-ㅣ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㅁ-ㅐ-ㄹ-ㅣ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅁ-ㅔ-ㄹ-ㅣ-ㅇ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅁ-ㅗ-ㄹ-ㅣ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "메리는 ____ 살이에요.",
+                "englishWord": "메리는 ____ 살이에요.",
+                "category": "문장 완성",
+                "correct": "마흔",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "열넷"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "넷"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "마흔"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "마흔넷"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "본문에 전화번호가 있습니다.",
+                "englishWord": "본문에 전화번호가 있습니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "이름을 어떻게 ____요?",
+                "englishWord": "이름을 어떻게 ____요?",
+                "category": "빈칸 채우기",
+                "correct": "써",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "써"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "말해"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "읽어"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "불러"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "몇 살이에요",
+                "category": "단어 배열",
+                "correct": "몇 살이에요",
+                "words": [
+                    "살이에요",
+                    "몇"
+                ],
+                "translateWords": [
+                    "살이에요",
+                    "몇"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "이름: 벤.\n쓰기: ㅂ·ㅔ·ㄴ.\n나이: 75.\n전화번호: 0853.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "이름: 벤. 쓰기: ㅂ·ㅔ·ㄴ. 나이: 75. 전화번호: 0853.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "벤의 나이에 맞는 말을 고르세요.",
+                "englishWord": "벤의 나이에 맞는 말을 고르세요.",
+                "category": "질문과 답변",
+                "correct": "일흔다섯",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "열일곱"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "일흔다섯"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "쉰일곱"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "일곱다섯"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "전화____가 뭐예요?",
+                "englishWord": "전화____가 뭐예요?",
+                "category": "문장 완성",
+                "correct": "번호",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "이름"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "번호"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "나이"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "쓰기"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "벤은 이름을 ㅂ·ㅔ·ㄴ으로 씁니다.",
+                "englishWord": "벤은 이름을 ㅂ·ㅔ·ㄴ으로 씁니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "____는 0853이에요.",
+                "englishWord": "____는 0853이에요.",
+                "category": "빈칸 채우기",
+                "correct": "번호",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "번호"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "이름"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "나이"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "주소"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "전화번호가 뭐예요",
+                "category": "단어 배열",
+                "correct": "전화번호가 뭐예요",
+                "words": [
+                    "뭐예요",
+                    "전화번호가"
+                ],
+                "translateWords": [
+                    "뭐예요",
+                    "전화번호가"
+                ]
+            }
+        ]
+    }
+]

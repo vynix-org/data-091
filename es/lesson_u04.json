@@ -1,0 +1,362 @@
+[
+    {
+        "lesson_id": "L1_U04_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "Hola, me llamo Juan.\nTengo doce años.\nMucho gusto.\n¡Adiós!",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "Hola, me llamo Juan. Tengo doce años. Mucho gusto. ¡Adiós!",
+                "englishExample": "",
+                "category": "Lectura"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "Elige el saludo correcto del texto.",
+                "englishWord": "Elige el saludo correcto del texto.",
+                "category": "Pregunta y respuesta",
+                "correct": "Hola",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "Adiós"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "Hola"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "Mucho gusto"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "Doce"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "Juan tiene ____ años.",
+                "englishWord": "Juan tiene ____ años.",
+                "category": "Completa la oración",
+                "correct": "doce",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "dos"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "diez"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "doce"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "veinte"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "Juan se está presentando en el texto.",
+                "englishWord": "Juan se está presentando en el texto.",
+                "category": "Verdadero o Falso",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "Mucho gusto. ¡____!",
+                "englishWord": "Mucho gusto. ¡____!",
+                "category": "Rellena el espacio",
+                "correct": "Adiós",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "Adiós"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "Gracias"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "Por favor"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "Bienvenido"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "Me llamo Juan",
+                "category": "Ordena las palabras",
+                "correct": "Me llamo Juan",
+                "words": [
+                    "llamo",
+                    "Me",
+                    "Juan"
+                ],
+                "translateWords": [
+                    "llamo",
+                    "Me",
+                    "Juan"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "¿Cómo te llamas?\nMe llamo María. M-A-R-Í-A.\n¿Cuántos años tienes, María?\nTengo cuarenta años.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "¿Cómo te llamas? Me llamo María. M-A-R-Í-A. ¿Cuántos años tienes, María? Tengo cuarenta años.",
+                "englishExample": "",
+                "category": "Lectura"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "Elige la escritura correcta del nombre en el texto.",
+                "englishWord": "Elige la escritura correcta del nombre en el texto.",
+                "category": "Pregunta y respuesta",
+                "correct": "M-A-R-Í-A",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "M-A-R-Í-A"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "M-E-R-Í-A"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "M-A-R-I-A"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "M-O-R-Í-A"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "María tiene ____ años.",
+                "englishWord": "María tiene ____ años.",
+                "category": "Completa la oración",
+                "correct": "cuarenta",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "catorce"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "cuatro"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "cuarenta"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "cuareinta"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "El texto incluye un número de teléfono.",
+                "englishWord": "El texto incluye un número de teléfono.",
+                "category": "Verdadero o Falso",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "¿Cómo se ____ tu nombre?",
+                "englishWord": "¿Cómo se ____ tu nombre?",
+                "category": "Rellena el espacio",
+                "correct": "escribe",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "escribe"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "dice"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "lee"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "llama"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "Cuántos años tienes",
+                "category": "Ordena las palabras",
+                "correct": "Cuántos años tienes",
+                "words": [
+                    "años",
+                    "Cuántos",
+                    "tienes"
+                ],
+                "translateWords": [
+                    "años",
+                    "Cuántos",
+                    "tienes"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U04_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "Nombre: Ben.\nEscritura: B-E-N.\nEdad: 75.\nNúmero de teléfono: 0853.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "Nombre: Ben. Escritura: B-E-N. Edad: 75. Número de teléfono: 0853.",
+                "englishExample": "",
+                "category": "Lectura"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "Elige la palabra correcta para la edad de Ben.",
+                "englishWord": "Elige la palabra correcta para la edad de Ben.",
+                "category": "Pregunta y respuesta",
+                "correct": "Setenta y cinco",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "Diecisiete"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "Setenta y cinco"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "Cincuenta y siete"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "Siete cinco"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "¿Cuál es tu número de ____?",
+                "englishWord": "¿Cuál es tu número de ____?",
+                "category": "Completa la oración",
+                "correct": "teléfono",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "nombre"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "teléfono"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "edad"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "escritura"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "Ben escribe su nombre como B-E-N.",
+                "englishWord": "Ben escribe su nombre como B-E-N.",
+                "category": "Verdadero o Falso",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "____ es 0853.",
+                "englishWord": "____ es 0853.",
+                "category": "Rellena el espacio",
+                "correct": "Es",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "Es"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "Me llamo"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "Tengo"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "Vivo"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "Cuál es tu número de teléfono",
+                "category": "Ordena las palabras",
+                "correct": "Cuál es tu número de teléfono",
+                "words": [
+                    "número",
+                    "teléfono",
+                    "Cuál",
+                    "tu",
+                    "es",
+                    "de"
+                ],
+                "translateWords": [
+                    "número",
+                    "teléfono",
+                    "Cuál",
+                    "tu",
+                    "es",
+                    "de"
+                ]
+            }
+        ]
+    }
+]

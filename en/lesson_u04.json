@@ -1,0 +1,364 @@
+[
+    {
+        "lesson_id": "L1_U04_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "Hello, my name is John.\nI am twelve years old.\nNice to meet you.\nGoodbye!",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "Hello, my name is John. I am twelve years old. Nice to meet you. Goodbye!",
+                "englishExample": "",
+                "category": "Reading"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "Choose the correct greeting from the text.",
+                "englishWord": "Choose the correct greeting from the text.",
+                "category": "Question answer",
+                "correct": "Hello",
+                "options": [
+                {
+                    "id": "option-1",
+                    "text": "Goodbye"
+                },
+                {
+                    "id": "option-2",
+                    "text": "Hello"
+                },
+                {
+                    "id": "option-3",
+                    "text": "Nice to meet you"
+                },
+                {
+                    "id": "option-4",
+                    "text": "Twelve"
+                }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "John is ____ years old.",
+                "englishWord": "John is ____ years old.",
+                "category": "Complete the sentence",
+                "correct": "twelve",
+                "options": [
+                {
+                    "id": "option-1",
+                    "text": "two"
+                },
+                {
+                    "id": "option-2",
+                    "text": "ten"
+                },
+                {
+                    "id": "option-3",
+                    "text": "twelve"
+                },
+                {
+                    "id": "option-4",
+                    "text": "twenty"
+                }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "John is introducing himself in the text.",
+                "englishWord": "John is introducing himself in the text.",
+                "category": "True or False",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "Nice to meet you. ____!",
+                "englishWord": "Nice to meet you. ____!",
+                "category": "Fill in the blank",
+                "correct": "Goodbye",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "Goodbye"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "Thank you"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "Please"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "Welcome"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "My name is John",
+                "category": "Arrange the words",
+                "correct": "My name is John",
+                "words": [
+                "is",
+                "name",
+                "My",
+                "John"
+                ],
+                "translateWords": [
+                "is",
+                "name",
+                "My",
+                "John"
+                ]
+            }
+        ]
+    }, 
+    {
+        "lesson_id": "L1_U04_02",
+        "cards": [
+            {
+              "id": "card-1",
+              "type": "intro_word",
+              "word": "What is your name?\nMy name is Mary. M-A-R-Y.\nHow old are you, Mary?\nI am forty years old.",
+              "phonetic": "",
+              "example": "",
+              "englishWord": "What is your name? My name is Mary. M-A-R-Y. How old are you, Mary? I am forty years old.",
+              "englishExample": "",
+              "category": "Reading"
+            },
+            {
+              "id": "card-2",
+              "type": "question_answer",
+              "word": "Choose the correct spelling of the name in the text.",
+              "englishWord": "Choose the correct spelling of the name in the text.",
+              "category": "Question answer",
+              "correct": "M-A-R-Y",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "M-A-R-Y"
+                },
+                {
+                  "id": "option-2",
+                  "text": "M-E-R-Y"
+                },
+                {
+                  "id": "option-3",
+                  "text": "M-A-R-I"
+                },
+                {
+                  "id": "option-4",
+                  "text": "M-O-R-Y"
+                }
+              ]
+            },
+            {
+              "id": "card-3",
+              "type": "fill_the_blank",
+              "word": "Mary is ____ years old.",
+              "englishWord": "Mary is ____ years old.",
+              "category": "Complete the sentence",
+              "correct": "forty",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "fourteen"
+                },
+                {
+                  "id": "option-2",
+                  "text": "four"
+                },
+                {
+                  "id": "option-3",
+                  "text": "forty"
+                },
+                {
+                  "id": "option-4",
+                  "text": "fourty"
+                }
+              ]
+            },
+            {
+              "id": "card-4",
+              "type": "true_false",
+              "word": "The text includes a phone number.",
+              "englishWord": "The text includes a phone number.",
+              "category": "True or False",
+              "isCorrect": false
+            },
+            {
+              "id": "card-5",
+              "type": "fill_the_blank",
+              "word": "How do you ____ your name?",
+              "englishWord": "How do you ____ your name?",
+              "category": "Fill in the blank",
+              "correct": "spell",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "spell"
+                },
+                {
+                  "id": "option-2",
+                  "text": "say"
+                },
+                {
+                  "id": "option-3",
+                  "text": "read"
+                },
+                {
+                  "id": "option-4",
+                  "text": "call"
+                }
+              ]
+            },
+            {
+              "id": "card-6",
+              "type": "arrange_word",
+              "englishWord": "How old are you?",
+              "category": "Arrange the words",
+              "correct": "How old are you?",
+              "words": [
+                "How",
+                "you",
+                "old",
+                "are"
+              ],
+              "translateWords": [
+                "How",
+                "you",
+                "old",
+                "are"
+              ]
+            }
+        ]
+    },
+    {
+      "lesson_id": "L1_U04_03",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Name: Ben.\nSpell: B-E-N.\nAge: 75.\nPhone number: 0853.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Name: Ben. Spell: B-E-N. Age: 75. Phone number: 0853.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct word for Ben's age.",
+          "englishWord": "Choose the correct word for Ben's age.",
+          "category": "Question answer",
+          "correct": "Seventy-five",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Seventeen"
+            },
+            {
+              "id": "option-2",
+              "text": "Seventy-five"
+            },
+            {
+              "id": "option-3",
+              "text": "Fifty-seven"
+            },
+            {
+              "id": "option-4",
+              "text": "Seven-five"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "What is your phone ____?",
+          "englishWord": "What is your phone ____?",
+          "category": "Complete the sentence",
+          "correct": "number",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "name"
+            },
+            {
+              "id": "option-2",
+              "text": "number"
+            },
+            {
+              "id": "option-3",
+              "text": "old"
+            },
+            {
+              "id": "option-4",
+              "text": "spell"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Ben spells his name as B-E-N.",
+          "englishWord": "Ben spells his name as B-E-N.",
+          "category": "True or False",
+          "isCorrect": true
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ is 0853.",
+          "englishWord": "____ is 0853.",
+          "category": "Fill in the blank",
+          "correct": "It",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "It"
+            },
+            {
+              "id": "option-2",
+              "text": "My name"
+            },
+            {
+              "id": "option-3",
+              "text": "My age"
+            },
+            {
+              "id": "option-4",
+              "text": "My address"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What is your phone number",
+          "category": "Arrange the words",
+          "correct": "What is your phone number",
+          "words": [
+            "number",
+            "phone",
+            "What",
+            "your",
+            "is"
+          ],
+          "translateWords": [
+            "number",
+            "phone",
+            "What",
+            "your",
+            "is"
+          ]
+        }
+    ]
+  }
+]

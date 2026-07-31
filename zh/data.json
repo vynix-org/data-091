@@ -1,0 +1,192 @@
+[
+  {
+    "level_id": "L1",
+    "level_name": "入门",
+    "unit_id": "U01",
+    "unit_name": "问候与自我介绍",
+    "lessons": [
+      {
+        "lesson_id": "L1_U01_01",
+        "lesson_name": "基本问候",
+        "lesson_type": "新知识",
+        "lesson_skill": "口语与听力",
+        "lesson_scope": "词汇",
+        "learning_objectives": "学习日常生活中常见的问候与道别方式。",
+        "targe_language": "你好, 早上好, 再见, 拜拜, 上午好",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U01_02",
+        "lesson_name": "自我介绍",
+        "lesson_type": "新知识",
+        "lesson_skill": "口语与听力",
+        "lesson_scope": "语法",
+        "learning_objectives": "学习介绍自己的名字并询问对方的名字。",
+        "targe_language": "你叫什么名字？, 我叫, 我是",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U01_03",
+        "lesson_name": "询问近况",
+        "lesson_type": "新知识",
+        "lesson_skill": "听力与口语",
+        "lesson_scope": "功能用语",
+        "learning_objectives": "学习询问对方近况并以礼貌的方式回应。",
+        "targe_language": "你好吗？, 我很好, 谢谢, 你呢？",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "入门",
+    "unit_id": "U02",
+    "unit_name": "拼音与书写",
+    "lessons": [
+      {
+        "lesson_id": "L1_U02_01",
+        "lesson_name": "声母 b 到 n",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与写作",
+        "lesson_scope": "字母与发音",
+        "learning_objectives": "掌握声母 b 到 n 的识别与发音。",
+        "targe_language": "b, p, m, f, d, t, n, l",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U02_02",
+        "lesson_name": "声母 g 到 zh 与韵母",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与写作",
+        "lesson_scope": "字母与发音",
+        "learning_objectives": "掌握其余声母与基本韵母的识别与发音。",
+        "targe_language": "g, k, h, j, q, x, zh, ch, sh, r, a, o, e, i, u, ü",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U02_03",
+        "lesson_name": "书写练习",
+        "lesson_type": "新知识",
+        "lesson_skill": "写作与听力",
+        "lesson_scope": "实际应用",
+        "learning_objectives": "学习用拼音和汉字书写姓名。",
+        "targe_language": "怎么写？, 写出你的名字, 声调",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "入门",
+    "unit_id": "U03",
+    "unit_name": "数字（1-100）",
+    "lessons": [
+      {
+        "lesson_id": "L1_U03_01",
+        "lesson_name": "数字 1 到 20",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与写作",
+        "lesson_scope": "词汇",
+        "learning_objectives": "学习从 1 到 20 的基数的读、写与计数。",
+        "targe_language": "1 到 20（一、二、三、十、十一、十二、二十）",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U03_02",
+        "lesson_name": "数字 21 到 100",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与写作",
+        "lesson_scope": "词汇",
+        "learning_objectives": "学习读、写到 100 的多位数，重点掌握整十数。",
+        "targe_language": "30、40、50、60、70、80、90、100（三十、四十、五十、一百）",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U03_03",
+        "lesson_name": "询问年龄与电话号码",
+        "lesson_type": "新知识",
+        "lesson_skill": "听力与口语",
+        "lesson_scope": "功能用语",
+        "learning_objectives": "运用数字交换年龄、电话号码等个人信息。",
+        "targe_language": "你多大了？, 我……岁, 你的电话号码是多少？",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "入门",
+    "unit_id": "U04",
+    "unit_name": "复习单元",
+    "lessons": [
+      {
+        "lesson_id": "L1_U04_01",
+        "lesson_name": "复习：个人信息巩固",
+        "lesson_type": "复习",
+        "lesson_skill": "阅读与测验",
+        "lesson_scope": "词汇",
+        "learning_objectives": "复习并巩固问候、自我介绍以及数字 1-20 的词汇。",
+        "targe_language": "你好, 我叫, 我是, 数字 1 到 20",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U04_02",
+        "lesson_name": "复习：交流流程",
+        "lesson_type": "复习",
+        "lesson_skill": "听力与测验",
+        "lesson_scope": "功能整合",
+        "learning_objectives": "复习涉及年龄询问与书写核对的对话轮次。",
+        "targe_language": "你多大了？, 怎么写？, 拼音",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U04_03",
+        "lesson_name": "复习：综合汇总",
+        "lesson_type": "复习",
+        "lesson_skill": "阅读与测验",
+        "lesson_scope": "全面整合",
+        "learning_objectives": "在结构化测验中综合问候、姓名书写以及到 100 的电话号码。",
+        "targe_language": "你的电话号码是多少？, 是, 数字 21 到 100",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "入门",
+    "unit_id": "U05",
+    "unit_name": "颜色",
+    "lessons": [
+      {
+        "lesson_id": "L1_U05_01",
+        "lesson_name": "基本颜色",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与听力",
+        "lesson_scope": "词汇",
+        "learning_objectives": "学习识别并说出日常物品中的基本颜色。",
+        "targe_language": "红色, 蓝色, 黄色, 绿色, 橙色",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U05_02",
+        "lesson_name": "用颜色描述物品",
+        "lesson_type": "新知识",
+        "lesson_skill": "口语与写作",
+        "lesson_scope": "功能用语",
+        "learning_objectives": "学习询问并回答物品的颜色。",
+        "targe_language": "……是什么颜色？, 是, 我的……是",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U05_03",
+        "lesson_name": "颜色混合",
+        "lesson_type": "新知识",
+        "lesson_skill": "阅读与写作",
+        "lesson_scope": "实际应用",
+        "learning_objectives": "学习基本颜色如何混合产生新颜色。",
+        "targe_language": "混合, 紫色, 粉色, 灰色, 棕色",
+        "ui_engine": "quiz"
+      }
+    ]
+  }
+]

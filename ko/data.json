@@ -1,0 +1,192 @@
+[
+  {
+    "level_id": "L1",
+    "level_name": "입문",
+    "unit_id": "U01",
+    "unit_name": "인사와 자기소개",
+    "lessons": [
+      {
+        "lesson_id": "L1_U01_01",
+        "lesson_name": "기본 인사",
+        "lesson_type": "새 지식",
+        "lesson_skill": "말하기 & 듣기",
+        "lesson_scope": "어휘",
+        "learning_objectives": "일상생활에서 자주 쓰는 인사와 작별 인사를 배웁니다.",
+        "targe_language": "안녕하세요, 안녕, 안녕히 가세요, 잘 가, 좋은 아침",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U01_02",
+        "lesson_name": "자기소개하기",
+        "lesson_type": "새 지식",
+        "lesson_skill": "말하기 & 듣기",
+        "lesson_scope": "문법",
+        "learning_objectives": "자신의 이름을 소개하고 상대방의 이름을 묻는 방법을 배웁니다.",
+        "targe_language": "이름이 뭐예요?, 제 이름은, 저는",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U01_03",
+        "lesson_name": "안부 묻기",
+        "lesson_type": "새 지식",
+        "lesson_skill": "듣기 & 말하기",
+        "lesson_scope": "기능 표현",
+        "learning_objectives": "상대방의 안부를 묻고 정중하게 대답하는 방법을 배웁니다.",
+        "targe_language": "어떻게 지내세요?, 잘 지내요, 고마워요, 당신은요?",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "입문",
+    "unit_id": "U02",
+    "unit_name": "한글과 쓰기",
+    "lessons": [
+      {
+        "lesson_id": "L1_U02_01",
+        "lesson_name": "자음 ㄱ~ㅅ",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 쓰기",
+        "lesson_scope": "글자와 소리",
+        "learning_objectives": "자음 ㄱ부터 ㅅ까지 인식과 발음을 익힙니다.",
+        "targe_language": "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U02_02",
+        "lesson_name": "자음 ㅇ~ㅎ과 모음",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 쓰기",
+        "lesson_scope": "글자와 소리",
+        "learning_objectives": "자음 ㅇ부터 ㅎ과 기본 모음의 인식과 발음을 익힙니다.",
+        "targe_language": "ㅇ, ㅈ, ㅊ, ㅋ, ㅌ, ㅍ, ㅎ, ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U02_03",
+        "lesson_name": "쓰기 연습",
+        "lesson_type": "새 지식",
+        "lesson_skill": "쓰기 & 듣기",
+        "lesson_scope": "실전 적용",
+        "learning_objectives": "한글로 이름을 쓰는 방법을 배웁니다.",
+        "targe_language": "어떻게 써요?, 이름을 쓰세요, 받침",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "입문",
+    "unit_id": "U03",
+    "unit_name": "숫자 (1-100)",
+    "lessons": [
+      {
+        "lesson_id": "L1_U03_01",
+        "lesson_name": "숫자 1부터 20까지",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 쓰기",
+        "lesson_scope": "어휘",
+        "learning_objectives": "1부터 20까지 수를 세고, 읽고, 쓰는 방법을 배웁니다.",
+        "targe_language": "1~20 (하나, 둘, 셋, 열, 열하나, 열둘, 스물)",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U03_02",
+        "lesson_name": "숫자 21부터 100까지",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 쓰기",
+        "lesson_scope": "어휘",
+        "learning_objectives": "십 단위에 초점을 맞춰 100까지의 숫자를 읽고 쓰는 방법을 배웁니다.",
+        "targe_language": "30, 40, 50, 60, 70, 80, 90, 100 (서른, 마흔, 쉰, 백)",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U03_03",
+        "lesson_name": "나이와 전화번호 묻기",
+        "lesson_type": "새 지식",
+        "lesson_skill": "듣기 & 말하기",
+        "lesson_scope": "기능 표현",
+        "learning_objectives": "숫자를 활용해 나이와 전화번호 같은 개인 정보를 주고받습니다.",
+        "targe_language": "몇 살이에요?, ...살이에요, 전화번호가 뭐예요?",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "입문",
+    "unit_id": "U04",
+    "unit_name": "복습 유닛",
+    "lessons": [
+      {
+        "lesson_id": "L1_U04_01",
+        "lesson_name": "복습: 개인 정보 정리",
+        "lesson_type": "복습",
+        "lesson_skill": "읽기 & 퀴즈",
+        "lesson_scope": "어휘",
+        "learning_objectives": "인사, 자기소개, 숫자 1-20 어휘를 복습하고 정리합니다.",
+        "targe_language": "안녕하세요, 제 이름은, 저는, 숫자 1~20",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U04_02",
+        "lesson_name": "복습: 의사소통 흐름",
+        "lesson_type": "복습",
+        "lesson_skill": "듣기 & 퀴즈",
+        "lesson_scope": "기능 통합",
+        "learning_objectives": "나이 질문과 글자 쓰기 확인이 포함된 대화를 복습합니다.",
+        "targe_language": "몇 살이에요?, 어떻게 써요?, 한글",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U04_03",
+        "lesson_name": "복습: 종합 정리",
+        "lesson_type": "복습",
+        "lesson_skill": "읽기 & 퀴즈",
+        "lesson_scope": "전면 통합",
+        "learning_objectives": "인사, 이름 쓰기, 100까지의 전화번호를 퀴즈로 종합합니다.",
+        "targe_language": "전화번호가 뭐예요?, ...이에요, 숫자 21~100",
+        "ui_engine": "quiz"
+      }
+    ]
+  },
+  {
+    "level_id": "L1",
+    "level_name": "입문",
+    "unit_id": "U05",
+    "unit_name": "색깔",
+    "lessons": [
+      {
+        "lesson_id": "L1_U05_01",
+        "lesson_name": "기본 색깔",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 듣기",
+        "lesson_scope": "어휘",
+        "learning_objectives": "일상 사물에서 기본 색깔을 인식하고 이름 짓는 방법을 배웁니다.",
+        "targe_language": "빨강, 파랑, 노랑, 초록, 주황",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U05_02",
+        "lesson_name": "색깔로 물건 묘사하기",
+        "lesson_type": "새 지식",
+        "lesson_skill": "말하기 & 쓰기",
+        "lesson_scope": "기능 표현",
+        "learning_objectives": "물건의 색깔을 묻고 대답하는 방법을 배웁니다.",
+        "targe_language": "무슨 색이에요?, ...이에요, 제 ...는",
+        "ui_engine": "quiz"
+      },
+      {
+        "lesson_id": "L1_U05_03",
+        "lesson_name": "색깔 혼합",
+        "lesson_type": "새 지식",
+        "lesson_skill": "읽기 & 쓰기",
+        "lesson_scope": "실전 적용",
+        "learning_objectives": "기본 색깔을 섞어 새로운 색깔을 만드는 방법을 배웁니다.",
+        "targe_language": "섞다, 보라, 분홍, 회색, 갈색",
+        "ui_engine": "quiz"
+      }
+    ]
+  }
+]

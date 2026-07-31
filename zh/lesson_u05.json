@@ -1,0 +1,366 @@
+[
+    {
+        "lesson_id": "L1_U05_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "看看这个书包。\n它是鲜红色的。\n旁边的书是深蓝色的。\n铅笔是鲜黄色的。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "看看这个书包。 它是鲜红色的。 旁边的书是深蓝色的。 铅笔是鲜黄色的。",
+                "englishExample": "",
+                "category": "阅读"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "选择文中提到的书包的基本颜色",
+                "englishWord": "选择文中提到的书包的基本颜色",
+                "category": "问答",
+                "correct": "红色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "蓝色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "绿色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "红色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "橙色"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "书包旁边的书是深____的。",
+                "englishWord": "书包旁边的书是深____的。",
+                "category": "完成句子",
+                "correct": "蓝色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "黄色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "蓝色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "红色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "绿色"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "文中描述的铅笔是绿色的。",
+                "englishWord": "文中描述的铅笔是绿色的。",
+                "category": "判断正误",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "香蕉通常是____的。",
+                "englishWord": "香蕉通常是____的。",
+                "category": "填空",
+                "correct": "黄色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "黄色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "蓝色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "黑色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "紫色"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "草 通常 是 绿色的",
+                "category": "排列单词",
+                "correct": "草 通常 是 绿色的",
+                "words": [
+                    "通常",
+                    "草",
+                    "绿色的",
+                    "是"
+                ],
+                "translateWords": [
+                    "通常",
+                    "草",
+                    "绿色的",
+                    "是"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "汤姆，你的新车是什么颜色？\n它是一辆蓝色的车。\n我的旧车是红色的。\n太好了！我有一辆黄色的自行车。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "汤姆，你的新车是什么颜色？ 它是一辆蓝色的车。 我的旧车是红色的。 太好了！我有一辆黄色的自行车。",
+                "englishExample": "",
+                "category": "阅读"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "选择用来询问物体颜色的正确问句",
+                "englishWord": "选择用来询问物体颜色的正确问句",
+                "category": "问答",
+                "correct": "你的新车是什么颜色？",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "它多大了？"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "你的新车是什么颜色？"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "你叫什么名字？"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "你好吗？"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "汤姆有一辆____的车。",
+                "englishWord": "汤姆有一辆____的车。",
+                "category": "完成句子",
+                "correct": "蓝色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "黄色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "红色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "蓝色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "绿色"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "汤姆的旧车是黄色的。",
+                "englishWord": "汤姆的旧车是黄色的。",
+                "category": "判断正误",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "你的自行车是什么____？",
+                "englishWord": "你的自行车是什么____？",
+                "category": "填空",
+                "correct": "颜色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "颜色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "尺寸"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "形状"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "名字"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "这 是 一个 白色的 包",
+                "category": "排列单词",
+                "correct": "这 是 一个 白色的 包",
+                "words": [
+                    "是",
+                    "白色的",
+                    "包",
+                    "这",
+                    "一个"
+                ],
+                "translateWords": [
+                    "是",
+                    "白色的",
+                    "包",
+                    "这",
+                    "一个"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "蓝色和红色混合会得到紫色。\n白色和红色混合会得到粉色。\n黑色和白色会形成灰色。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "蓝色和红色混合会得到紫色。 白色和红色混合会得到粉色。 黑色和白色会形成灰色。",
+                "englishExample": "",
+                "category": "阅读"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "选择蓝色和红色混合后得到的颜色",
+                "englishWord": "选择蓝色和红色混合后得到的颜色",
+                "category": "问答",
+                "correct": "紫色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "粉色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "绿色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "紫色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "棕色"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "白色和红色混合会得到____。",
+                "englishWord": "白色和红色混合会得到____。",
+                "category": "完成句子",
+                "correct": "粉色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "紫色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "粉色"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "黑色"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "灰色"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "黑色和白色混合会得到紫色。",
+                "englishWord": "黑色和白色混合会得到紫色。",
+                "category": "判断正误",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "当你____蓝色和黄色时，会得到绿色。",
+                "englishWord": "当你____蓝色和黄色时，会得到绿色。",
+                "category": "填空",
+                "correct": "混合",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "混合"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "画"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "写"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "数"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "棕色 是 泥土 的 颜色",
+                "category": "排列单词",
+                "correct": "棕色 是 泥土 的 颜色",
+                "words": [
+                    "是",
+                    "泥土",
+                    "棕色",
+                    "的",
+                    "颜色"
+                ],
+                "translateWords": [
+                    "是",
+                    "泥土",
+                    "棕色",
+                    "的",
+                    "颜色"
+                ]
+            }
+        ]
+    }
+]

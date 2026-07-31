@@ -1,0 +1,360 @@
+[
+    {
+        "lesson_id": "L1_U02_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "자음: ㄱ(기역), ㄴ(니은), ㄷ(디귿), ㄹ(리을), ㅁ(미음), ㅂ(비읍), ㅅ(시옷).",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "자음: ㄱ(기역), ㄴ(니은), ㄷ(디귿), ㄹ(리을), ㅁ(미음), ㅂ(비읍), ㅅ(시옷).",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "기역에 해당하는 글자는 무엇인가요?",
+                "englishWord": "기역에 해당하는 글자는 무엇인가요?",
+                "category": "질문과 답변",
+                "correct": "ㄱ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㄴ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㄷ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㄱ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅅ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "ㄱ, ㄴ, ㄷ, ___, ㅁ.",
+                "englishWord": "ㄱ, ㄴ, ㄷ, ___, ㅁ.",
+                "category": "문장 완성",
+                "correct": "ㄹ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅂ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㄹ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅅ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅇ"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "'ㅅ'은 'ㅂ'보다 앞에 옵니다.",
+                "englishWord": "'ㅅ'은 'ㅂ'보다 앞에 옵니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "ㄷ, ㄹ, ___, ㅂ, ㅅ.",
+                "englishWord": "ㄷ, ㄹ, ___, ㅂ, ㅅ.",
+                "category": "빈칸 채우기",
+                "correct": "ㅁ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅁ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㄱ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅇ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅈ"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "ㄱ ㄴ ㄷ ㄹ ㅁ",
+                "category": "단어 배열",
+                "correct": "ㄱ ㄴ ㄷ ㄹ ㅁ",
+                "words": [
+                    "ㄷ",
+                    "ㄱ",
+                    "ㄴ",
+                    "ㅁ",
+                    "ㄹ"
+                ],
+                "translateWords": [
+                    "ㄷ",
+                    "ㄱ",
+                    "ㄴ",
+                    "ㅁ",
+                    "ㄹ"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U02_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "자음과 모음: ㅇ(이응), ㅈ(지읒), ㅊ(치읓), ㅋ(키읔), ㅌ(티읕), ㅍ(피읖), ㅎ(히읗). 모음: ㅏ(아), ㅓ(어), ㅗ(오), ㅜ(우), ㅡ(으), ㅣ(이).",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "자음과 모음: ㅇ(이응), ㅈ(지읒), ㅊ(치읓), ㅋ(키읔), ㅌ(티읕), ㅍ(피읖), ㅎ(히읗). 모음: ㅏ(아), ㅓ(어), ㅗ(오), ㅜ(우), ㅡ(으), ㅣ(이).",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "모음 '아'에 해당하는 글자는 무엇인가요?",
+                "englishWord": "모음 '아'에 해당하는 글자는 무엇인가요?",
+                "category": "질문과 답변",
+                "correct": "ㅏ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅓ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㅗ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅏ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅣ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "ㅏ, ㅓ, ㅗ, ___, ㅡ, ㅣ.",
+                "englishWord": "ㅏ, ㅓ, ㅗ, ___, ㅡ, ㅣ.",
+                "category": "문장 완성",
+                "correct": "ㅜ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅜ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㅑ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅐ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅇ"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "'ㅎ'은 자음 중 마지막에 해당합니다.",
+                "englishWord": "'ㅎ'은 자음 중 마지막에 해당합니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "ㅇ, ㅈ, ㅊ, ___, ㅌ.",
+                "englishWord": "ㅇ, ㅈ, ㅊ, ___, ㅌ.",
+                "category": "빈칸 채우기",
+                "correct": "ㅋ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ㅋ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ㅍ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ㅎ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ㅅ"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "ㅏ ㅓ ㅗ ㅜ",
+                "category": "단어 배열",
+                "correct": "ㅏ ㅓ ㅗ ㅜ",
+                "words": [
+                    "ㅗ",
+                    "ㅏ",
+                    "ㅓ",
+                    "ㅜ"
+                ],
+                "translateWords": [
+                    "ㅗ",
+                    "ㅏ",
+                    "ㅓ",
+                    "ㅜ"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U02_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "이름이 뭐예요?\n벤이에요.\n어떻게 써요?\nㅂ·ㅔ·ㄴ.\n그녀 이름은 안나예요. ㅇ·ㅏ·ㄴ·ㄴ·ㅏ.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "이름이 뭐예요? 벤이에요. 어떻게 써요? ㅂ·ㅔ·ㄴ. 그녀 이름은 안나예요. ㅇ·ㅏ·ㄴ·ㄴ·ㅏ.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "'벤'의 올바른 표기를 고르세요.",
+                "englishWord": "'벤'의 올바른 표기를 고르세요.",
+                "category": "질문과 답변",
+                "correct": "벤",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "반"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "벤"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "펜"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "빈"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "이름을 어떻게 ____요?",
+                "englishWord": "이름을 어떻게 ____요?",
+                "category": "문장 완성",
+                "correct": "써",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "말해"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "써"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "읽어"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "들어"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "'안나'는 ㅇ·ㅏ·ㄴ·ㄴ·ㅏ로 씁니다.",
+                "englishWord": "'안나'는 ㅇ·ㅏ·ㄴ·ㄴ·ㅏ로 씁니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "이름을 ____ 주세요.",
+                "englishWord": "이름을 ____ 주세요.",
+                "category": "빈칸 채우기",
+                "correct": "써",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "써"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "말해"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "읽어"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "들어"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "민 수",
+                "category": "단어 배열",
+                "correct": "민 수",
+                "words": [
+                    "수",
+                    "민"
+                ],
+                "translateWords": [
+                    "수",
+                    "민"
+                ]
+            }
+        ]
+    }
+]

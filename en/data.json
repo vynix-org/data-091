@@ -40,6 +40,44 @@
     {
       "level_id": "L1",
       "level_name": "Starter",
+      "unit_id": "U02",
+      "unit_name": "Alphabet & Spelling",
+      "lessons": [
+        {
+          "lesson_id": "L1_U02_01",
+          "lesson_name": "Alphabet A to M",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Letters & Sounds",
+          "learning_objectives": "Master the recognition and sounds of letters from A to M.",
+          "targe_language": "Letters A, B, C, D, E, F, G, H, I, J, K, L, M",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U02_02",
+          "lesson_name": "Alphabet N to Z",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Letters & Sounds",
+          "learning_objectives": "Master the recognition and sounds of letters from N to Z.",
+          "targe_language": "Letters N, O, P, Q, R, S, T, U, V, W, X, Y, Z",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U02_03",
+          "lesson_name": "Spelling Practice",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Writing & Listening",
+          "lesson_scope": "Practical Application",
+          "learning_objectives": "Learn to spell personal names using the English alphabet.",
+          "targe_language": "How do you spell...?, Spell your name, Double",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
       "unit_id": "U03",
       "unit_name": "Numbers (1-100)",
       "lessons": [
@@ -78,6 +116,44 @@
     {
       "level_id": "L1",
       "level_name": "Starter",
+      "unit_id": "U04",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U04_01",
+          "lesson_name": "Review: Personal Data Consolidation",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Review and consolidate vocabulary from greetings, introductions, and numbers 1-20.",
+          "targe_language": "Hello, Hi, My name is, I am, Numbers 1 to 20",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U04_02",
+          "lesson_name": "Review: Communication Flow",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Functional Integration",
+          "learning_objectives": "Review conversational turns involving age queries and alphabet spelling checks.",
+          "targe_language": "How old are you?, How do you spell...?, Letters A to Z",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U04_03",
+          "lesson_name": "Review: Comprehensive Synthesis",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Spectrum Integration",
+          "learning_objectives": "Synthesize greetings, name spelling, and phone numbers up to 100 in a structural quiz.",
+          "targe_language": "What is your phone number?, It is, Numbers 21 to 100",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
       "unit_id": "U05",
       "unit_name": "Colors",
       "lessons": [
@@ -86,9 +162,9 @@
           "lesson_name": "Primary Colors",
           "lesson_type": "NEW KNOWLEDGE",
           "lesson_skill": "Reading & Listening",
-          "lesson_scope": "Letters & Sounds",
-          "learning_objectives": "Master the recognition and sounds of letters from A to M.",
-          "targe_language": "Letters A, B, C, D, E, F, G, H, I, J, K, L, M",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn to recognize and name primary colors in everyday objects.",
+          "targe_language": "red, blue, yellow, green, orange",
           "ui_engine": "quiz"
         },
         {
@@ -96,9 +172,9 @@
           "lesson_name": "Describing Objects with Colors",
           "lesson_type": "NEW KNOWLEDGE",
           "lesson_skill": "Speaking & Writing",
-          "lesson_scope": "Letters & Sounds",
-          "learning_objectives": "Master the recognition and sounds of letters from A to M.",
-          "targe_language": "Letters N, O, P, Q, R, S, T, U, V, W, X, Y, Z",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Learn to ask and answer about the color of objects.",
+          "targe_language": "What color is...?, It is, My ... is",
           "ui_engine": "quiz"
         },
         {
@@ -107,8 +183,8 @@
           "lesson_type": "NEW KNOWLEDGE",
           "lesson_skill": "Reading & Writing",
           "lesson_scope": "Practical Application",
-          "learning_objectives": "Learn to spell personal names using the English alphabet.",
-          "targe_language": "How do you spell...?, Spell your name, Double",
+          "learning_objectives": "Learn how primary colors combine to create new colors.",
+          "targe_language": "mix, purple, pink, grey, brown",
           "ui_engine": "quiz"
         }
       ]

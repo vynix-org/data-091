@@ -1,350 +1,356 @@
 [
     {
-        "lesson_id": "L1_U01_01",
+        "lesson_id": "L1_U02_01",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¡Buenos días! Hola, soy Ana.\n¡Hola Ana! Soy Ben.\n¡Adiós Ben!\n¡Hasta luego Ana!",
+                "word": "声母：b（玻）、p（坡）、m（摸）、f（佛）、d（得）、t（特）、n（讷）、l（勒）。",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¡Buenos días! Hola, soy Ana. ¡Hola Ana! Soy Ben. ¡Adiós Ben! ¡Hasta luego Ana!",
+                "englishWord": "声母：b（玻）、p（坡）、m（摸）、f（佛）、d（得）、t（特）、n（讷）、l（勒）。",
                 "englishExample": "",
-                "category": "Saludo"
+                "category": "阅读"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige el saludo correcto para la mañana",
-                "englishWord": "Elige el saludo correcto para la mañana",
-                "category": "Pregunta y respuesta",
-                "correct": "Buenos días",
+                "word": "读音为「玻」的声母是哪个？",
+                "englishWord": "读音为「玻」的声母是哪个？",
+                "category": "问答",
+                "correct": "b",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Buenas noches"
+                        "text": "p"
                     },
                     {
                         "id": "option-2",
-                        "text": "Buenos días"
+                        "text": "m"
                     },
                     {
                         "id": "option-3",
-                        "text": "Adiós"
+                        "text": "b"
                     },
                     {
                         "id": "option-4",
-                        "text": "Hasta luego"
+                        "text": "f"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "____, soy Ana. Mucho gusto.",
-                "englishWord": "____, soy Ana. Mucho gusto.",
-                "category": "Completa la oración",
-                "correct": "Hola",
+                "word": "b, p, m, ___, d, t.",
+                "englishWord": "b, p, m, ___, d, t.",
+                "category": "完成句子",
+                "correct": "f",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Adiós"
+                        "text": "n"
                     },
                     {
                         "id": "option-2",
-                        "text": "Hasta luego"
+                        "text": "f"
                     },
                     {
                         "id": "option-3",
-                        "text": "Hola"
+                        "text": "l"
                     },
                     {
                         "id": "option-4",
-                        "text": "Noche"
+                        "text": "g"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "\"Hasta luego\" es una forma formal de saludar.",
-                "englishWord": "\"Hasta luego\" es una forma formal de saludar.",
-                "category": "Verdadero o Falso",
+                "word": "声母 \"l\" 排在声母 \"n\" 的前面。",
+                "englishWord": "声母 \"l\" 排在声母 \"n\" 的前面。",
+                "category": "判断正误",
                 "isCorrect": false
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¡Adiós Ben! \"____, Ana!\"",
-                "englishWord": "¡Adiós Ben! \"____, Ana!\"",
-                "category": "Rellena el espacio",
-                "correct": "Hasta luego",
+                "word": "d, t, ___, l.",
+                "englishWord": "d, t, ___, l.",
+                "category": "填空",
+                "correct": "n",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Hasta luego"
+                        "text": "n"
                     },
                     {
                         "id": "option-2",
-                        "text": "Hola"
+                        "text": "m"
                     },
                     {
                         "id": "option-3",
-                        "text": "Buenos días"
+                        "text": "b"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "f"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Buenos días profesor",
-                "category": "Ordena las palabras",
-                "correct": "Buenos días profesor",
+                "englishWord": "b p m f",
+                "category": "排列单词",
+                "correct": "b p m f",
                 "words": [
-                    "días",
-                    "Buenos",
-                    "profesor"
+                    "m",
+                    "b",
+                    "p",
+                    "f"
                 ],
                 "translateWords": [
-                    "días",
-                    "Buenos",
-                    "profesor"
+                    "m",
+                    "b",
+                    "p",
+                    "f"
                 ]
             }
         ]
     },
     {
-        "lesson_id": "L1_U01_02",
+        "lesson_id": "L1_U02_02",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¡Hola! Me llamo David.\nSoy de Londres.\n¿Cómo te llamas?",
+                "word": "声母：g（哥）、k（科）、h（喝）、j（基）、q（欺）、x（希）、zh（知）、ch（蚩）、sh（诗）、r（日）。韵母：a、o、e、i、u、ü。",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¡Hola! Me llamo David. Soy de Londres. ¿Cómo te llamas?",
+                "englishWord": "声母：g（哥）、k（科）、h（喝）、j（基）、q（欺）、x（希）、zh（知）、ch（蚩）、sh（诗）、r（日）。韵母：a、o、e、i、u、ü。",
                 "englishExample": "",
-                "category": "Saludo"
+                "category": "阅读"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-                "englishWord": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-                "category": "Pregunta y respuesta",
-                "correct": "Me llamo María",
+                "word": "韵母 \"a\" 的正确写法是哪个？",
+                "englishWord": "韵母 \"a\" 的正确写法是哪个？",
+                "category": "问答",
+                "correct": "a",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Estoy bien"
+                        "text": "o"
                     },
                     {
                         "id": "option-2",
-                        "text": "Me llamo María"
+                        "text": "e"
                     },
                     {
                         "id": "option-3",
-                        "text": "Adiós"
+                        "text": "a"
                     },
                     {
                         "id": "option-4",
-                        "text": "Hola"
+                        "text": "ü"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "Hola, ____ Juan.",
-                "englishWord": "Hola, ____ Juan.",
-                "category": "Completa la oración",
-                "correct": "soy",
+                "word": "a, o, e, ___, u, ü.",
+                "englishWord": "a, o, e, ___, u, ü.",
+                "category": "完成句子",
+                "correct": "i",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "es"
+                        "text": "i"
                     },
                     {
                         "id": "option-2",
-                        "text": "eres"
+                        "text": "ai"
                     },
                     {
                         "id": "option-3",
-                        "text": "soy"
+                        "text": "ao"
                     },
                     {
                         "id": "option-4",
-                        "text": "ser"
+                        "text": "an"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
-                "englishWord": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
-                "category": "Verdadero o Falso",
+                "word": "\"ü\" 是基本单韵母之一。",
+                "englishWord": "\"ü\" 是基本单韵母之一。",
+                "category": "判断正误",
                 "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¡Hola! Me ____ Pedro.",
-                "englishWord": "¡Hola! Me ____ Pedro.",
-                "category": "Rellena el espacio",
-                "correct": "llamo",
+                "word": "g, k, ___, j, q, x.",
+                "englishWord": "g, k, ___, j, q, x.",
+                "category": "填空",
+                "correct": "h",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "llamo"
+                        "text": "h"
                     },
                     {
                         "id": "option-2",
-                        "text": "libro"
+                        "text": "zh"
                     },
                     {
                         "id": "option-3",
-                        "text": "casa"
+                        "text": "r"
                     },
                     {
                         "id": "option-4",
-                        "text": "amigo"
+                        "text": "f"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Cómo te llamas",
-                "category": "Ordena las palabras",
-                "correct": "Cómo te llamas",
+                "englishWord": "zh ch sh r",
+                "category": "排列单词",
+                "correct": "zh ch sh r",
                 "words": [
-                    "llamas",
-                    "Cómo",
-                    "te"
+                    "ch",
+                    "zh",
+                    "sh",
+                    "r"
                 ],
                 "translateWords": [
-                    "llamas",
-                    "Cómo",
-                    "te"
+                    "ch",
+                    "zh",
+                    "sh",
+                    "r"
                 ]
             }
         ]
     },
     {
-        "lesson_id": "L1_U01_03",
+        "lesson_id": "L1_U02_03",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¡Hola Sara! ¿Cómo estás?\nEstoy bien, gracias. ¿Y tú?\n¡Estoy genial, gracias!",
+                "word": "你叫什么名字？\n我叫本。\n怎么写？\nBěn。\n她叫安娜，Ān nà。",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¡Hola Sara! ¿Cómo estás? Estoy bien, gracias. ¿Y tú? ¡Estoy genial, gracias!",
+                "englishWord": "你叫什么名字？ 我叫本。 怎么写？ Běn。 她叫安娜，Ān nà。",
                 "englishExample": "",
-                "category": "Saludo"
+                "category": "阅读"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige la respuesta correcta a \"¿Cómo estás?\"",
-                "englishWord": "Elige la respuesta correcta a \"¿Cómo estás?\"",
-                "category": "Pregunta y respuesta",
-                "correct": "Estoy bien, gracias",
+                "word": "选择名字 \"本\" 的正确拼音。",
+                "englishWord": "选择名字 \"本\" 的正确拼音。",
+                "category": "问答",
+                "correct": "Běn",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Me llamo Tom"
+                        "text": "Bān"
                     },
                     {
                         "id": "option-2",
-                        "text": "Estoy bien, gracias"
+                        "text": "Běn"
                     },
                     {
                         "id": "option-3",
-                        "text": "Adiós"
+                        "text": "Pén"
                     },
                     {
                         "id": "option-4",
-                        "text": "Hola"
+                        "text": "Bīn"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "Estoy bien, gracias. ¿Y ____?",
-                "englishWord": "Estoy bien, gracias. ¿Y ____?",
-                "category": "Completa la oración",
-                "correct": "tú",
+                "word": "你的名字怎么____？",
+                "englishWord": "你的名字怎么____？",
+                "category": "完成句子",
+                "correct": "写",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "tú"
+                        "text": "说"
                     },
                     {
                         "id": "option-2",
-                        "text": "tu"
+                        "text": "写"
                     },
                     {
                         "id": "option-3",
-                        "text": "él"
+                        "text": "读"
                     },
                     {
                         "id": "option-4",
-                        "text": "ella"
+                        "text": "听"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "\"Estoy genial\" significa que te sientes mal.",
-                "englishWord": "\"Estoy genial\" significa que te sientes mal.",
-                "category": "Verdadero o Falso",
-                "isCorrect": false
+                "word": "\"Ān nà\" 是安娜的拼音。",
+                "englishWord": "\"Ān nà\" 是安娜的拼音。",
+                "category": "判断正误",
+                "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¿Cómo ____? - Estoy bien.",
-                "englishWord": "¿Cómo ____? - Estoy bien.",
-                "category": "Rellena el espacio",
-                "correct": "estás",
+                "word": "请____出你的名字。",
+                "englishWord": "请____出你的名字。",
+                "category": "填空",
+                "correct": "写",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "estás"
+                        "text": "写"
                     },
                     {
                         "id": "option-2",
-                        "text": "es"
+                        "text": "说"
                     },
                     {
                         "id": "option-3",
-                        "text": "soy"
+                        "text": "读"
                     },
                     {
                         "id": "option-4",
-                        "text": "ser"
+                        "text": "听"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Estoy bien gracias",
-                "category": "Ordena las palabras",
-                "correct": "Estoy bien gracias",
+                "englishWord": "大 卫",
+                "category": "排列单词",
+                "correct": "大 卫",
                 "words": [
-                    "gracias",
-                    "bien",
-                    "Estoy"
+                    "卫",
+                    "大"
                 ],
                 "translateWords": [
-                    "gracias",
-                    "bien",
-                    "Estoy"
+                    "卫",
+                    "大"
                 ]
             }
         ]

@@ -1,0 +1,354 @@
+[
+    {
+        "lesson_id": "L1_U03_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "1から20まで数えましょう：いち、に、さん、よん、ご、ろく、なな、はち、きゅう、じゅう、じゅういち、じゅうに、じゅうさん、じゅうよん、じゅうご、じゅうろく、じゅうなな、じゅうはち、じゅうきゅう、にじゅう。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "1から20まで数えましょう：いち、に、さん、よん、ご、ろく、なな、はち、きゅう、じゅう、じゅういち、じゅうに、じゅうさん、じゅうよん、じゅうご、じゅうろく、じゅうなな、じゅうはち、じゅうきゅう、にじゅう。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "数字12の正しい読み方を選んでください",
+                "englishWord": "数字12の正しい読み方を選んでください",
+                "category": "質問と回答",
+                "correct": "じゅうに",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゅういち"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "じゅうに"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "にじゅう"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "に"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "2、4、6、8、___。",
+                "englishWord": "2、4、6、8、___。",
+                "category": "文を完成させる",
+                "correct": "じゅう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "きゅう"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "じゅう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "じゅういち"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "なな"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "数字11は「じゅういち」と読みます。",
+                "englishWord": "数字11は「じゅういち」と読みます。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "7、8、9、____。",
+                "englishWord": "7、8、9、____。",
+                "category": "空欄を埋める",
+                "correct": "じゅう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゅう"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "じゅういち"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ろく"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "じゅうに"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "い つ つ",
+                "category": "語順を並べる",
+                "correct": "い つ つ",
+                "words": [
+                    "つ",
+                    "い",
+                    "つ"
+                ],
+                "translateWords": [
+                    "つ",
+                    "い",
+                    "つ"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U03_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "10ずつ数えましょう：30（さんじゅう）、40（よんじゅう）、50（ごじゅう）、60（ろくじゅう）、70（ななじゅう）、80（はちじゅう）、90（きゅうじゅう）、100（ひゃく）。45はよんじゅうごです。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "10ずつ数えましょう：30（さんじゅう）、40（よんじゅう）、50（ごじゅう）、60（ろくじゅう）、70（ななじゅう）、80（はちじゅう）、90（きゅうじゅう）、100（ひゃく）。45はよんじゅうごです。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "数字40の正しい読み方を選んでください",
+                "englishWord": "数字40の正しい読み方を選んでください",
+                "category": "質問と回答",
+                "correct": "よんじゅう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゅうよん"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "よんじゅうう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "よんじゅう"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "よん"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "さんじゅう、よんじゅう、ごじゅう、__。",
+                "englishWord": "さんじゅう、よんじゅう、ごじゅう、__。",
+                "category": "文を完成させる",
+                "correct": "ろくじゅう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ろくじゅう"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "じゅうろく"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ななじゅう"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ろく"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "100は「ひゃく」と書きます。",
+                "englishWord": "100は「ひゃく」と書きます。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "にじゅう____。",
+                "englishWord": "にじゅう____。",
+                "category": "空欄を埋める",
+                "correct": "ご",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ご"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "よん"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ろく"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "なな"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "ななじゅう さん",
+                "category": "語順を並べる",
+                "correct": "ななじゅう さん",
+                "words": [
+                    "さん",
+                    "ななじゅう"
+                ],
+                "translateWords": [
+                    "さん",
+                    "ななじゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U03_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "こんにちは、ジョンです。\n十二歳です。\nよろしくお願いします。\nさようなら！",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "こんにちは、ジョンです。 十二歳です。 よろしくお願いします。 さようなら！",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "年齢を尋ねる正しい質問を選んでください",
+                "englishWord": "年齢を尋ねる正しい質問を選んでください",
+                "category": "質問と回答",
+                "correct": "何歳ですか？",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "元気ですか？"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "何歳ですか？"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "お名前は？"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "どこから来ましたか？"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "「電話番号は？」-「____は0912です。」",
+                "englishWord": "「電話番号は？」-「____は0912です。」",
+                "category": "文を完成させる",
+                "correct": "番号",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "私"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "番号"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "私の"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "あなた"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「三十歳です」は「何歳ですか？」への答えです。",
+                "englishWord": "「三十歳です」は「何歳ですか？」への答えです。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "何____ですか？ - 「十歳です。」",
+                "englishWord": "何____ですか？ - 「十歳です。」",
+                "category": "空欄を埋める",
+                "correct": "歳",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "歳"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "人"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "時"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "番"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "三十 歳 です",
+                "category": "語順を並べる",
+                "correct": "三十 歳 です",
+                "words": [
+                    "歳",
+                    "三十",
+                    "です"
+                ],
+                "translateWords": [
+                    "歳",
+                    "三十",
+                    "です"
+                ]
+            }
+        ]
+    }
+]

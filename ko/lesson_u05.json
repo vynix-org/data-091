@@ -1,0 +1,358 @@
+[
+    {
+        "lesson_id": "L1_U05_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "학교 가방을 보세요.\n밝은 빨간색이에요.\n옆의 책은 짙은 파란색이에요.\n연필은 밝은 노란색이에요.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "학교 가방을 보세요. 밝은 빨간색이에요. 옆의 책은 짙은 파란색이에요. 연필은 밝은 노란색이에요.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "본문에 나온 가방의 기본 색깔을 고르세요",
+                "englishWord": "본문에 나온 가방의 기본 색깔을 고르세요",
+                "category": "질문과 답변",
+                "correct": "빨강",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "파랑"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "초록"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "빨강"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "주황"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "가방 옆의 책은 짙은 ____이에요.",
+                "englishWord": "가방 옆의 책은 짙은 ____이에요.",
+                "category": "문장 완성",
+                "correct": "파랑",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "노랑"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "파랑"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "빨강"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "초록"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "본문에 나온 연필은 초록색입니다.",
+                "englishWord": "본문에 나온 연필은 초록색입니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "바나나는 보통 ____이에요.",
+                "englishWord": "바나나는 보통 ____이에요.",
+                "category": "빈칸 채우기",
+                "correct": "노랑",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "노랑"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "파랑"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "검정"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "보라"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "잔디 는 보통 초록이에요",
+                "category": "단어 배열",
+                "correct": "잔디 는 보통 초록이에요",
+                "words": [
+                    "는",
+                    "잔디",
+                    "초록이에요",
+                    "보통"
+                ],
+                "translateWords": [
+                    "는",
+                    "잔디",
+                    "초록이에요",
+                    "보통"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "톰, 새 차는 무슨 색이에요?\n파란 차예요.\n제 옛 차는 빨간색이었어요.\n좋네요! 저는 노란 자전거가 있어요.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "톰, 새 차는 무슨 색이에요? 파란 차예요. 제 옛 차는 빨간색이었어요. 좋네요! 저는 노란 자전거가 있어요.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "물건의 색깔을 묻는 올바른 질문을 고르세요",
+                "englishWord": "물건의 색깔을 묻는 올바른 질문을 고르세요",
+                "category": "질문과 답변",
+                "correct": "새 차는 무슨 색이에요?",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "몇 살이에요?"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "새 차는 무슨 색이에요?"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "이름이 뭐예요?"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "어떻게 지내세요?"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "톰은 ____ 차가 있어요.",
+                "englishWord": "톰은 ____ 차가 있어요.",
+                "category": "문장 완성",
+                "correct": "파란",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "노란"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "빨간"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "파란"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "초록"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "톰의 옛 차는 노란색이었습니다.",
+                "englishWord": "톰의 옛 차는 노란색이었습니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "자전거는 무슨 ____이에요?",
+                "englishWord": "자전거는 무슨 ____이에요?",
+                "category": "빈칸 채우기",
+                "correct": "색",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "색"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "크기"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "모양"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "이름"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "하얀 가방이에요",
+                "category": "단어 배열",
+                "correct": "하얀 가방이에요",
+                "words": [
+                    "가방이에요",
+                    "하얀"
+                ],
+                "translateWords": [
+                    "가방이에요",
+                    "하얀"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "파랑과 빨강을 섞으면 보라가 됩니다.\n하양과 빨강을 섞으면 분홍이 됩니다.\n검정과 하양은 회색을 만듭니다.",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "파랑과 빨강을 섞으면 보라가 됩니다. 하양과 빨강을 섞으면 분홍이 됩니다. 검정과 하양은 회색을 만듭니다.",
+                "englishExample": "",
+                "category": "읽기"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "파랑과 빨강을 섞으면 나오는 색깔을 고르세요",
+                "englishWord": "파랑과 빨강을 섞으면 나오는 색깔을 고르세요",
+                "category": "질문과 답변",
+                "correct": "보라",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "분홍"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "초록"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "보라"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "갈색"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "하양과 빨강을 섞으면 ____이 됩니다.",
+                "englishWord": "하양과 빨강을 섞으면 ____이 됩니다.",
+                "category": "문장 완성",
+                "correct": "분홍",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "보라"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "분홍"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "검정"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "회색"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "검정과 하양을 섞으면 보라가 됩니다.",
+                "englishWord": "검정과 하양을 섞으면 보라가 됩니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "파랑과 노랑을 ____면 초록이 됩니다.",
+                "englishWord": "파랑과 노랑을 ____면 초록이 됩니다.",
+                "category": "빈칸 채우기",
+                "correct": "섞으",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "섞으"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "그리"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "쓰"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "세"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "갈색 은 흙의 색깔이에요",
+                "category": "단어 배열",
+                "correct": "갈색 은 흙의 색깔이에요",
+                "words": [
+                    "은",
+                    "흙의",
+                    "갈색",
+                    "색깔이에요"
+                ],
+                "translateWords": [
+                    "은",
+                    "흙의",
+                    "갈색",
+                    "색깔이에요"
+                ]
+            }
+        ]
+    }
+]

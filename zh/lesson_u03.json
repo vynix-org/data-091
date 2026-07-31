@@ -1,350 +1,350 @@
 [
     {
-        "lesson_id": "L1_U01_01",
+        "lesson_id": "L1_U03_01",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¡Buenos días! Hola, soy Ana.\n¡Hola Ana! Soy Ben.\n¡Adiós Ben!\n¡Hasta luego Ana!",
+                "word": "从 1 数到 20：一、二、三、四、五、六、七、八、九、十、十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¡Buenos días! Hola, soy Ana. ¡Hola Ana! Soy Ben. ¡Adiós Ben! ¡Hasta luego Ana!",
+                "englishWord": "从 1 数到 20：一、二、三、四、五、六、七、八、九、十、十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。",
                 "englishExample": "",
-                "category": "Saludo"
+                "category": "阅读"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige el saludo correcto para la mañana",
-                "englishWord": "Elige el saludo correcto para la mañana",
-                "category": "Pregunta y respuesta",
-                "correct": "Buenos días",
+                "word": "选择数字 12 对应的正确说法",
+                "englishWord": "选择数字 12 对应的正确说法",
+                "category": "问答",
+                "correct": "十二",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Buenas noches"
+                        "text": "十一"
                     },
                     {
                         "id": "option-2",
-                        "text": "Buenos días"
+                        "text": "十二"
                     },
                     {
                         "id": "option-3",
-                        "text": "Adiós"
+                        "text": "二十"
                     },
                     {
                         "id": "option-4",
-                        "text": "Hasta luego"
+                        "text": "二"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "____, soy Ana. Mucho gusto.",
-                "englishWord": "____, soy Ana. Mucho gusto.",
-                "category": "Completa la oración",
-                "correct": "Hola",
+                "word": "2、4、6、8、___。",
+                "englishWord": "2、4、6、8、___。",
+                "category": "完成句子",
+                "correct": "十",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Adiós"
+                        "text": "九"
                     },
                     {
                         "id": "option-2",
-                        "text": "Hasta luego"
+                        "text": "十"
                     },
                     {
                         "id": "option-3",
-                        "text": "Hola"
+                        "text": "十一"
                     },
                     {
                         "id": "option-4",
-                        "text": "Noche"
+                        "text": "七"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "\"Hasta luego\" es una forma formal de saludar.",
-                "englishWord": "\"Hasta luego\" es una forma formal de saludar.",
-                "category": "Verdadero o Falso",
-                "isCorrect": false
-            },
-            {
-                "id": "card-5",
-                "type": "fill_the_blank",
-                "word": "¡Adiós Ben! \"____, Ana!\"",
-                "englishWord": "¡Adiós Ben! \"____, Ana!\"",
-                "category": "Rellena el espacio",
-                "correct": "Hasta luego",
-                "options": [
-                    {
-                        "id": "option-1",
-                        "text": "Hasta luego"
-                    },
-                    {
-                        "id": "option-2",
-                        "text": "Hola"
-                    },
-                    {
-                        "id": "option-3",
-                        "text": "Buenos días"
-                    }
-                ]
-            },
-            {
-                "id": "card-6",
-                "type": "arrange_word",
-                "englishWord": "Buenos días profesor",
-                "category": "Ordena las palabras",
-                "correct": "Buenos días profesor",
-                "words": [
-                    "días",
-                    "Buenos",
-                    "profesor"
-                ],
-                "translateWords": [
-                    "días",
-                    "Buenos",
-                    "profesor"
-                ]
-            }
-        ]
-    },
-    {
-        "lesson_id": "L1_U01_02",
-        "cards": [
-            {
-                "id": "card-1",
-                "type": "intro_word",
-                "word": "¡Hola! Me llamo David.\nSoy de Londres.\n¿Cómo te llamas?",
-                "phonetic": "",
-                "example": "",
-                "englishWord": "¡Hola! Me llamo David. Soy de Londres. ¿Cómo te llamas?",
-                "englishExample": "",
-                "category": "Saludo"
-            },
-            {
-                "id": "card-2",
-                "type": "question_answer",
-                "word": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-                "englishWord": "Elige la respuesta correcta a \"¿Cómo te llamas?\"",
-                "category": "Pregunta y respuesta",
-                "correct": "Me llamo María",
-                "options": [
-                    {
-                        "id": "option-1",
-                        "text": "Estoy bien"
-                    },
-                    {
-                        "id": "option-2",
-                        "text": "Me llamo María"
-                    },
-                    {
-                        "id": "option-3",
-                        "text": "Adiós"
-                    },
-                    {
-                        "id": "option-4",
-                        "text": "Hola"
-                    }
-                ]
-            },
-            {
-                "id": "card-3",
-                "type": "fill_the_blank",
-                "word": "Hola, ____ Juan.",
-                "englishWord": "Hola, ____ Juan.",
-                "category": "Completa la oración",
-                "correct": "soy",
-                "options": [
-                    {
-                        "id": "option-1",
-                        "text": "es"
-                    },
-                    {
-                        "id": "option-2",
-                        "text": "eres"
-                    },
-                    {
-                        "id": "option-3",
-                        "text": "soy"
-                    },
-                    {
-                        "id": "option-4",
-                        "text": "ser"
-                    }
-                ]
-            },
-            {
-                "id": "card-4",
-                "type": "true_false",
-                "word": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
-                "englishWord": "\"¿Cómo te llamas?\" se usa para preguntar el nombre de una persona.",
-                "category": "Verdadero o Falso",
+                "word": "数字 11 写作 \"十一\"。",
+                "englishWord": "数字 11 写作 \"十一\"。",
+                "category": "判断正误",
                 "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¡Hola! Me ____ Pedro.",
-                "englishWord": "¡Hola! Me ____ Pedro.",
-                "category": "Rellena el espacio",
-                "correct": "llamo",
+                "word": "7、8、9、____。",
+                "englishWord": "7、8、9、____。",
+                "category": "填空",
+                "correct": "十",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "llamo"
+                        "text": "十"
                     },
                     {
                         "id": "option-2",
-                        "text": "libro"
+                        "text": "十一"
                     },
                     {
                         "id": "option-3",
-                        "text": "casa"
+                        "text": "六"
                     },
                     {
                         "id": "option-4",
-                        "text": "amigo"
+                        "text": "十二"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Cómo te llamas",
-                "category": "Ordena las palabras",
-                "correct": "Cómo te llamas",
+                "englishWord": "五 个",
+                "category": "排列单词",
+                "correct": "五 个",
                 "words": [
-                    "llamas",
-                    "Cómo",
-                    "te"
+                    "个",
+                    "五"
                 ],
                 "translateWords": [
-                    "llamas",
-                    "Cómo",
-                    "te"
+                    "个",
+                    "五"
                 ]
             }
         ]
     },
     {
-        "lesson_id": "L1_U01_03",
+        "lesson_id": "L1_U03_02",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¡Hola Sara! ¿Cómo estás?\nEstoy bien, gracias. ¿Y tú?\n¡Estoy genial, gracias!",
+                "word": "按十位数数：30（三十）、40（四十）、50（五十）、60（六十）、70（七十）、80（八十）、90（九十）、100（一百）。45 是四十五。",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¡Hola Sara! ¿Cómo estás? Estoy bien, gracias. ¿Y tú? ¡Estoy genial, gracias!",
+                "englishWord": "按十位数数：30（三十）、40（四十）、50（五十）、60（六十）、70（七十）、80（八十）、90（九十）、100（一百）。45 是四十五。",
                 "englishExample": "",
-                "category": "Saludo"
+                "category": "阅读"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige la respuesta correcta a \"¿Cómo estás?\"",
-                "englishWord": "Elige la respuesta correcta a \"¿Cómo estás?\"",
-                "category": "Pregunta y respuesta",
-                "correct": "Estoy bien, gracias",
+                "word": "选择数字 40 对应的正确说法",
+                "englishWord": "选择数字 40 对应的正确说法",
+                "category": "问答",
+                "correct": "四十",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "Me llamo Tom"
+                        "text": "十四"
                     },
                     {
                         "id": "option-2",
-                        "text": "Estoy bien, gracias"
+                        "text": "四十四"
                     },
                     {
                         "id": "option-3",
-                        "text": "Adiós"
+                        "text": "四十"
                     },
                     {
                         "id": "option-4",
-                        "text": "Hola"
+                        "text": "四"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "Estoy bien, gracias. ¿Y ____?",
-                "englishWord": "Estoy bien, gracias. ¿Y ____?",
-                "category": "Completa la oración",
-                "correct": "tú",
+                "word": "三十、四十、五十、__。",
+                "englishWord": "三十、四十、五十、__。",
+                "category": "完成句子",
+                "correct": "六十",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "tú"
+                        "text": "六十"
                     },
                     {
                         "id": "option-2",
-                        "text": "tu"
+                        "text": "十六"
                     },
                     {
                         "id": "option-3",
-                        "text": "él"
+                        "text": "七十"
                     },
                     {
                         "id": "option-4",
-                        "text": "ella"
+                        "text": "六"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "\"Estoy genial\" significa que te sientes mal.",
-                "englishWord": "\"Estoy genial\" significa que te sientes mal.",
-                "category": "Verdadero o Falso",
-                "isCorrect": false
+                "word": "100 写作 \"一百\"。",
+                "englishWord": "100 写作 \"一百\"。",
+                "category": "判断正误",
+                "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¿Cómo ____? - Estoy bien.",
-                "englishWord": "¿Cómo ____? - Estoy bien.",
-                "category": "Rellena el espacio",
-                "correct": "estás",
+                "word": "二十____。",
+                "englishWord": "二十____。",
+                "category": "填空",
+                "correct": "五",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "estás"
+                        "text": "五"
                     },
                     {
                         "id": "option-2",
-                        "text": "es"
+                        "text": "四"
                     },
                     {
                         "id": "option-3",
-                        "text": "soy"
+                        "text": "六"
                     },
                     {
                         "id": "option-4",
-                        "text": "ser"
+                        "text": "七"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Estoy bien gracias",
-                "category": "Ordena las palabras",
-                "correct": "Estoy bien gracias",
+                "englishWord": "七十 三",
+                "category": "排列单词",
+                "correct": "七十 三",
                 "words": [
-                    "gracias",
-                    "bien",
-                    "Estoy"
+                    "三",
+                    "七十"
                 ],
                 "translateWords": [
-                    "gracias",
-                    "bien",
-                    "Estoy"
+                    "三",
+                    "七十"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U03_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "你好，我叫约翰。\n我十二岁。\n很高兴认识你。\n再见！",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "你好，我叫约翰。 我十二岁。 很高兴认识你。 再见！",
+                "englishExample": "",
+                "category": "阅读"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "选择用来询问年龄的正确问句",
+                "englishWord": "选择用来询问年龄的正确问句",
+                "category": "问答",
+                "correct": "你多大了？",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "你好吗？"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "你多大了？"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "你叫什么名字？"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "你从哪里来？"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "\"你的电话号码是多少？\" - \"____是 0912。\"",
+                "englishWord": "\"你的电话号码是多少？\" - \"____是 0912。\"",
+                "category": "完成句子",
+                "correct": "号码",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "我"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "号码"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "我的"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "你"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "\"我三十岁\" 回答的是 \"你多大了？\"",
+                "englishWord": "\"我三十岁\" 回答的是 \"你多大了？\"",
+                "category": "判断正误",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "你多____了？ - \"我十岁。\"",
+                "englishWord": "你多____了？ - \"我十岁。\"",
+                "category": "填空",
+                "correct": "大",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "大"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "少"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "长"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "远"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "我 三十 岁",
+                "category": "排列单词",
+                "correct": "我 三十 岁",
+                "words": [
+                    "三十",
+                    "我",
+                    "岁"
+                ],
+                "translateWords": [
+                    "三十",
+                    "我",
+                    "岁"
                 ]
             }
         ]

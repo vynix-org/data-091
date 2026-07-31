@@ -1,0 +1,350 @@
+[
+    {
+        "lesson_id": "L1_U01_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "좋은 아침이에요! 안녕하세요, 저는 안나예요.\n안녕 안나! 저는 벤이에요.\n안녕히 가세요 벤!\n잘 가 안나!",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "좋은 아침이에요! 안녕하세요, 저는 안나예요. 안녕 안나! 저는 벤이에요. 안녕히 가세요 벤! 잘 가 안나!",
+                "englishExample": "",
+                "category": "인사"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "아침에 알맞은 인사를 고르세요",
+                "englishWord": "아침에 알맞은 인사를 고르세요",
+                "category": "질문과 답변",
+                "correct": "좋은 아침이에요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "좋은 저녁이에요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "좋은 아침이에요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "잘 가"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "____, 저는 안나예요. 만나서 반가워요.",
+                "englishWord": "____, 저는 안나예요. 만나서 반가워요.",
+                "category": "문장 완성",
+                "correct": "안녕하세요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "잘 가"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "안녕하세요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "잘 자"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "\"잘 가\"는 격식 있는 인사입니다.",
+                "englishWord": "\"잘 가\"는 격식 있는 인사입니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "\"안녕히 가세요 벤!\" \"____, 안나!\"",
+                "englishWord": "\"안녕히 가세요 벤!\" \"____, 안나!\"",
+                "category": "빈칸 채우기",
+                "correct": "잘 가",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "잘 가"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "안녕하세요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "좋은 아침이에요"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "좋은 아침이에요 선생님",
+                "category": "단어 배열",
+                "correct": "좋은 아침이에요 선생님",
+                "words": [
+                    "좋은",
+                    "아침이에요",
+                    "선생님"
+                ],
+                "translateWords": [
+                    "좋은",
+                    "아침이에요",
+                    "선생님"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U01_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "안녕하세요! 제 이름은 데이비드예요.\n런던에서 왔어요.\n이름이 뭐예요?",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "안녕하세요! 제 이름은 데이비드예요. 런던에서 왔어요. 이름이 뭐예요?",
+                "englishExample": "",
+                "category": "인사"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "\"이름이 뭐예요?\"에 대한 올바른 대답을 고르세요",
+                "englishWord": "\"이름이 뭐예요?\"에 대한 올바른 대답을 고르세요",
+                "category": "질문과 답변",
+                "correct": "제 이름은 메리예요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "잘 지내요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "제 이름은 메리예요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "안녕하세요"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "안녕, 저는 존____.",
+                "englishWord": "안녕, 저는 존____.",
+                "category": "문장 완성",
+                "correct": "이에요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "예요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "입니다"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "이에요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "이다"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "\"이름이 뭐예요?\"는 사람의 이름을 물을 때 사용합니다.",
+                "englishWord": "\"이름이 뭐예요?\"는 사람의 이름을 물을 때 사용합니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "안녕하세요! 제 ____은 피터예요.",
+                "englishWord": "안녕하세요! 제 ____은 피터예요.",
+                "category": "빈칸 채우기",
+                "correct": "이름",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "이름"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "책"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "집"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "친구"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "이름이 뭐예요",
+                "category": "단어 배열",
+                "correct": "이름이 뭐예요",
+                "words": [
+                    "이름이",
+                    "뭐예요"
+                ],
+                "translateWords": [
+                    "이름이",
+                    "뭐예요"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U01_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "안녕 사라! 어떻게 지내세요?\n잘 지내요, 고마워요. 당신은요?\n아주 좋아요, 고마워요!",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "안녕 사라! 어떻게 지내세요? 잘 지내요, 고마워요. 당신은요? 아주 좋아요, 고마워요!",
+                "englishExample": "",
+                "category": "인사"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "\"어떻게 지내세요?\"에 대한 올바른 대답을 고르세요",
+                "englishWord": "\"어떻게 지내세요?\"에 대한 올바른 대답을 고르세요",
+                "category": "질문과 답변",
+                "correct": "잘 지내요, 고마워요",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "제 이름은 톰이에요"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "잘 지내요, 고마워요"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "안녕히 가세요"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "안녕"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "잘 지내요, 고마워요. ____은요?",
+                "englishWord": "잘 지내요, 고마워요. ____은요?",
+                "category": "문장 완성",
+                "correct": "당신",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "당신"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "당신의"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "그"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "그녀"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "\"아주 좋아요\"는 기분이 나쁘다는 뜻입니다.",
+                "englishWord": "\"아주 좋아요\"는 기분이 나쁘다는 뜻입니다.",
+                "category": "참 또는 거짓",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "어떻게 ____요? - 잘 지내요.",
+                "englishWord": "어떻게 ____요? - 잘 지내요.",
+                "category": "빈칸 채우기",
+                "correct": "지내세",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "지내세"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "있세"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "하세"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "가세"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "잘 지내요 고마워요",
+                "category": "단어 배열",
+                "correct": "잘 지내요 고마워요",
+                "words": [
+                    "잘",
+                    "지내요",
+                    "고마워요"
+                ],
+                "translateWords": [
+                    "잘",
+                    "지내요",
+                    "고마워요"
+                ]
+            }
+        ]
+    }
+]

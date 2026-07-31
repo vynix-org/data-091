@@ -1,308 +1,298 @@
 [
     {
-        "lesson_id": "L1_U01_01",
+        "lesson_id": "L1_U02_01",
         "cards": [
           {
             "id": "card-1",
             "type": "intro_word",
-            "word": "Good morning! Hello, I am Anna.\nHi Anna! I am Ben.\nGoodbye Ben!\nBye Anna!",
+            "word": "Letters: A /eɪ/, B /biː/, C /siː/, D /diː/, E /iː/, F /ef/, G /dʒiː/, H /eɪtʃ/, I /aɪ/, J /dʒeɪ/, K /keɪ/, L /el/, M /em/.",
             "phonetic": "",
             "example": "",
-            "englishWord": "\"Good morning! Hello, I am Anna.\" \"Hi Anna! I am Ben.\" \"Goodbye Ben!\" \"Bye Anna!\"",
+            "englishWord": "Letters: A /eɪ/, B /biː/, C /siː/, D /diː/, E /iː/, F /ef/, G /dʒiː/, H /eɪtʃ/, I /aɪ/, J /dʒeɪ/, K /keɪ/, L /el/, M /em/.",
             "englishExample": "",
-            "category": "Greeting"
+            "category": "Reading"
           },
           {
             "id": "card-2",
             "type": "question_answer",
-            "word": "Choose the correct greeting for the morning",
-            "englishWord": "Choose the correct greeting for the morning",
+            "word": "Which letter has the sound /eɪ/?",
+            "englishWord": "Which letter has the sound /eɪ/?",
             "category": "Question answer",
-            "correct": "Good morning",
+            "correct": "A",
             "options": [
               {
                 "id": "option-1",
-                "text": "Good evening"
+                "text": "B"
               },
               {
                 "id": "option-2",
-                "text": "Good morning"
+                "text": "C"
               },
               {
                 "id": "option-3",
-                "text": "Goodbye"
+                "text": "A"
               },
               {
                 "id": "option-4",
-                "text": "Good night"
+                "text": "F"
               }
             ]
           },
           {
             "id": "card-3",
             "type": "fill_the_blank",
-            "word": "__, I am Anna. Nice to meet you.",
-            "englishWord": "__, I am Anna. Nice to meet you.",
+            "word": "A, B, C, ___, E, F.",
+            "englishWord": "A, B, C, ___, E, F.",
             "category": "Complete the sentence",
-            "correct": "Hello",
+            "correct": "D",
             "options": [
               {
                 "id": "option-1",
-                "text": "Bye"
+                "text": "G"
               },
               {
                 "id": "option-2",
-                "text": "Goodbye"
+                "text": "D"
               },
               {
                 "id": "option-3",
-                "text": "Hello"
+                "text": "H"
               },
               {
                 "id": "option-4",
-                "text": "Night"
+                "text": "M"
               }
             ]
           },
           {
             "id": "card-4",
             "type": "true_false",
-            "word": "\"Bye\" is a formal way to say hello.",
-            "englishWord": "\"Bye\" is a formal way to say hello.",
+            "word": "The letter 'M' comes before the letter 'L' in the alphabet.",
+            "englishWord": "The letter 'M' comes before the letter 'L' in the alphabet.",
             "category": "True or False",
-            "isCorrect": true
+            "isCorrect": false
           },
           {
             "id": "card-5",
             "type": "fill_the_blank",
-            "word": "\"Goodbye Ben!\" _\", Anna!\"",
-            "englishWord": "\"Goodbye Ben!\" _\", Anna!\"",
+            "word": "H, I, ___, K, L.",
+            "englishWord": "H, I, ___, K, L.",
             "category": "Fill in the blank",
-            "correct": "Bye",
+            "correct": "J",
             "options": [
               {
                 "id": "option-1",
-                "text": "Bye"
+                "text": "J"
               },
               {
                 "id": "option-2",
-                "text": "Hello"
+                "text": "G"
               },
               {
                 "id": "option-3",
-                "text": "Good morning"
+                "text": "M"
+              },
+              {
+                "id": "option-4",
+                "text": "N"
               }
             ]
           },
           {
             "id": "card-6",
             "type": "arrange_word",
-            "englishWord": "Good morning teacher",
+            "englishWord": "ABCDE",
             "category": "Arrange the words",
-            "correct": "Good morning teacher",
-            "words": ["morning", "Good", "teacher"],
-            "translateWords": ["morning", "Good", "teacher"]
+            "correct": "ABCDE",
+            "words": [
+              "C",
+              "A",
+              "B",
+              "E",
+              "D"
+            ],
+            "translateWords": [
+              "C",
+              "A",
+              "B",
+              "E",
+              "D"
+            ]
           }
         ]
     }, 
     {
-        "lesson_id": "L1_U01_02",
+        "lesson_id": "L1_U02_02",
         "cards": [
           {
             "id": "card-1",
             "type": "intro_word",
-            "word": "Hello! My name is David. \nI am from London. \nWhat is your name?",
+            "word": "Letters: N /en/, O /oʊ/, P /piː/, Q /kjuː/, R /ɑːr/, S /es/, T /tiː/, U /juː/, V /viː/, W /ˈdʌbəl.juː/, X /eks/, Y /waɪ/, Z /zed/.",
             "phonetic": "",
             "example": "",
-            "englishWord": "Hello! My name is David. \nI am from London. \nWhat is your name?",
+            "englishWord": "Letters: N /en/, O /oʊ/, P /piː/, Q /kjuː/, R /ɑːr/, S /es/, T /tiː/, U /juː/, V /viː/, W /ˈdʌbəl.juː/, X /eks/, Y /waɪ/, Z /zed/.",
             "englishExample": "",
-            "category": "Greeting"
+            "category": "Reading"
           },
           {
             "id": "card-2",
             "type": "question_answer",
-            "word": "Choose the correct response to \"What is your name?\"",
-            "englishWord": "Choose the correct response to \"What is your name?\"",
+            "word": "Which letter has the sound /juː/?",
+            "englishWord": "Which letter has the sound /juː/?",
             "category": "Question answer",
-            "correct": "My name is Mary",
+            "correct": "U",
             "options": [
               {
                 "id": "option-1",
-                "text": "I am fine"
+                "text": "N"
               },
               {
                 "id": "option-2",
-                "text": "My name is Mary"
+                "text": "O"
               },
               {
                 "id": "option-3",
-                "text": "Goodbye"
+                "text": "U"
               },
               {
                 "id": "option-4",
-                "text": "Hello"
+                "text": "X"
               }
             ]
           },
           {
             "id": "card-3",
             "type": "fill_the_blank",
-            "word": "Hi, I ____ John.",
-            "englishWord": "Hi, I ____ John.",
+            "word": "T, U, V, ___, X.",
+            "englishWord": "T, U, V, ___, X.",
             "category": "Complete the sentence",
-            "correct": "am",
+            "correct": "W",
             "options": [
               {
                 "id": "option-1",
-                "text": "is"
+                "text": "W"
               },
               {
                 "id": "option-2",
-                "text": "are"
+                "text": "Y"
               },
               {
                 "id": "option-3",
-                "text": "am"
+                "text": "Z"
               },
               {
                 "id": "option-4",
-                "text": "be"
+                "text": "S"
               }
             ]
           },
           {
             "id": "card-4",
             "type": "true_false",
-            "word": "\"What is your name?\" is used to ask for a person's name.",
-            "englishWord": "\"What is your name?\" is used to ask for a person's name.",
+            "word": "'Z' is the last letter of the English alphabet.",
+            "englishWord": "'Z' is the last letter of the English alphabet.",
             "category": "True or False",
             "isCorrect": true
           },
           {
             "id": "card-5",
             "type": "fill_the_blank",
-            "word": "Hello! My ____ is Peter.",
-            "englishWord": "Hello! My ____ is Peter.",
+            "word": "N, O, P, ___, R.",
+            "englishWord": "N, O, P, ___, R.",
             "category": "Fill in the blank",
-            "correct": "name",
+            "correct": "Q",
             "options": [
               {
                 "id": "option-1",
-                "text": "name"
+                "text": "Q"
               },
               {
                 "id": "option-2",
-                "text": "book"
+                "text": "S"
               },
               {
                 "id": "option-3",
-                "text": "house"
+                "text": "M"
               },
               {
                 "id": "option-4",
-                "text": "friend"
+                "text": "T"
               }
             ]
           },
           {
             "id": "card-6",
             "type": "arrange_word",
-            "englishWord": "What is your name",
+            "englishWord": "XYZ",
             "category": "Arrange the words",
-            "correct": "What is your name",
-            "words": ["name", "What", "your", "is"],
-            "translateWords": ["name", "What", "your", "is"]
+            "correct": "XYZ",
+            "words": [
+              "X",
+              "Z",
+              "Y"
+            ],
+            "translateWords": [
+              "X",
+              "Z",
+              "Y"
+            ]
           }
         ]
     },
     {
-      "lesson_id": "L1_U01_03",
+      "lesson_id": "L1_U02_03",
       "cards": [
         {
           "id": "card-1",
           "type": "intro_word",
-          "word": "Hi Sarah! How are you? \nI am fine, thank you.And you? \nI am great, thanks!",
+          "word": "What is your name?\nMy name is Ben.\nHow do you spell your name?\nB-E-N.\nAnd her name is Anna, A-double N-A.",
           "phonetic": "",
           "example": "",
-          "englishWord": "Hi Sarah! How are you? \nI am fine, thank you.And you? \nI am great, thanks!",
+          "englishWord": "What is your name? My name is Ben. How do you spell your name? B-E-N. And her name is Anna, A-double N-A.",
           "englishExample": "",
-          "category": "Greeting"
+          "category": "Reading"
         },
         {
           "id": "card-2",
           "type": "question_answer",
-          "word": "Choose the correct response to \"How are you?\"",
-          "englishWord": "Choose the correct response to \"How are you?\"",
+          "word": "Choose the correct spelling for the name 'BEN'.",
+          "englishWord": "Choose the correct spelling for the name 'BEN'.",
           "category": "Question answer",
-          "correct": "I am fine, thank you",
+          "correct": "B-E-N",
           "options": [
             {
               "id": "option-1",
-              "text": "My name is Tom"
+              "text": "B-A-N"
             },
             {
               "id": "option-2",
-              "text": "I am fine, thank you"
+              "text": "B-E-N"
             },
             {
               "id": "option-3",
-              "text": "Goodbye"
+              "text": "P-E-N"
             },
             {
               "id": "option-4",
-              "text": "Hi"
+              "text": "B-I-N"
             }
           ]
         },
         {
           "id": "card-3",
           "type": "fill_the_blank",
-          "word": "I am fine, thanks. And ____",
-          "englishWord": "I am fine, thanks. And ____",
+          "word": "How ___ you spell your name?",
+          "englishWord": "How ___ you spell your name?",
           "category": "Complete the sentence",
-          "correct": "you",
+          "correct": "do",
           "options": [
             {
               "id": "option-1",
-              "text": "you"
-            },
-            {
-              "id": "option-2",
-              "text": "your"
-            },
-            {
-              "id": "option-3",
-              "text": "he"
-            },
-            {
-              "id": "option-4",
-              "text": "she"
-            }
-          ]
-        },
-        {
-          "id": "card-4",
-          "type": "true_false",
-          "word": "\"I am great\" means you are feeling bad.",
-          "englishWord": "\"I am great\" means you are feeling bad.",
-          "category": "True or False",
-          "isCorrect": false
-        },
-        {
-          "id": "card-5",
-          "type": "fill_the_blank",
-          "word": "How ____ you? - I am fine.",
-          "englishWord": "How ____ you? - I am fine.",
-          "category": "Fill in the blank",
-          "correct": "are",
-          "options": [
-            {
-              "id": "option-1",
-              "text": "are"
-            },
-            {
-              "id": "option-2",
               "text": "is"
+            },
+            {
+              "id": "option-2",
+              "text": "do"
             },
             {
               "id": "option-3",
@@ -310,18 +300,64 @@
             },
             {
               "id": "option-4",
-              "text": "be"
+              "text": "are"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'A-double N-A' spells the name ANNA.",
+          "englishWord": "'A-double N-A' spells the name ANNA.",
+          "category": "True or False",
+          "isCorrect": true
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "How do you ____ your name?",
+          "englishWord": "How do you ____ your name?",
+          "category": "Fill in the blank",
+          "correct": "spell",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "spell"
+            },
+            {
+              "id": "option-2",
+              "text": "speak"
+            },
+            {
+              "id": "option-3",
+              "text": "write"
+            },
+            {
+              "id": "option-4",
+              "text": "read"
             }
           ]
         },
         {
           "id": "card-6",
           "type": "arrange_word",
-          "englishWord": "I am fine thank you",
+          "englishWord": "DAVID",
           "category": "Arrange the words",
-          "correct": "I am fine thank you",
-          "words": ["you", "thank", "fine", "I", "am"],
-          "translateWords": ["you", "thank", "fine", "I", "am"]
+          "correct": "DAVID",
+          "words": [
+            "I",
+            "D",
+            "V",
+            "A",
+            "D"
+          ],
+          "translateWords": [
+            "I",
+            "D",
+            "V",
+            "A",
+            "D"
+          ]
         }
       ]
   }

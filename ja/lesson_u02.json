@@ -1,0 +1,360 @@
+[
+    {
+        "lesson_id": "L1_U02_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "ひらがな：あ（a）、い（i）、う（u）、え（e）、お（o）、か（ka）、き（ki）、く（ku）、け（ke）、こ（ko）、さ（sa）、し（shi）、す（su）、せ（se）、そ（so）、た（ta）、ち（chi）、つ（tsu）、て（te）、と（to）、な（na）、に（ni）、ぬ（nu）、ね（ne）、の（no）。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "ひらがな：あ（a）、い（i）、う（u）、え（e）、お（o）、か（ka）、き（ki）、く（ku）、け（ke）、こ（ko）、さ（sa）、し（shi）、す（su）、せ（se）、そ（so）、た（ta）、ち（chi）、つ（tsu）、て（te）、と（to）、な（na）、に（ni）、ぬ（nu）、ね（ne）、の（no）。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "「a」の音の文字はどれですか？",
+                "englishWord": "「a」の音の文字はどれですか？",
+                "category": "質問と回答",
+                "correct": "あ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "い"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "う"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "あ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "お"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "あ、い、う、___、お。",
+                "englishWord": "あ、い、う、___、お。",
+                "category": "文を完成させる",
+                "correct": "え",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "か"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "え"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "き"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "な"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「の」は「な」より前に来ます。",
+                "englishWord": "「の」は「な」より前に来ます。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "た、ち、___、て、と。",
+                "englishWord": "た、ち、___、て、と。",
+                "category": "空欄を埋める",
+                "correct": "つ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "つ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "さ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "な"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "に"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "あ い う え お",
+                "category": "語順を並べる",
+                "correct": "あ い う え お",
+                "words": [
+                    "う",
+                    "あ",
+                    "い",
+                    "お",
+                    "え"
+                ],
+                "translateWords": [
+                    "う",
+                    "あ",
+                    "い",
+                    "お",
+                    "え"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U02_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "ひらがな：は（ha）、ひ（hi）、ふ（fu）、へ（he）、ほ（ho）、ま（ma）、み（mi）、む（mu）、め（me）、も（mo）、や（ya）、ゆ（yu）、よ（yo）、ら（ra）、り（ri）、る（ru）、れ（re）、ろ（ro）、わ（wa）、を（o）、ん（n）。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "ひらがな：は（ha）、ひ（hi）、ふ（fu）、へ（he）、ほ（ho）、ま（ma）、み（mi）、む（mu）、め（me）、も（mo）、や（ya）、ゆ（yu）、よ（yo）、ら（ra）、り（ri）、る（ru）、れ（re）、ろ（ro）、わ（wa）、を（o）、ん（n）。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "「n」の音の文字はどれですか？",
+                "englishWord": "「n」の音の文字はどれですか？",
+                "category": "質問と回答",
+                "correct": "ん",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "は"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ま"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ん"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "わ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "や、ゆ、___。",
+                "englishWord": "や、ゆ、___。",
+                "category": "文を完成させる",
+                "correct": "よ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "よ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ら"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "わ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ん"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「ん」はひらがなの最後の文字です。",
+                "englishWord": "「ん」はひらがなの最後の文字です。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "は、ひ、ふ、___、ほ。",
+                "englishWord": "は、ひ、ふ、___、ほ。",
+                "category": "空欄を埋める",
+                "correct": "へ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "へ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ま"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "も"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "や"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "わ を ん",
+                "category": "語順を並べる",
+                "correct": "わ を ん",
+                "words": [
+                    "わ",
+                    "ん",
+                    "を"
+                ],
+                "translateWords": [
+                    "わ",
+                    "ん",
+                    "を"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U02_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "お名前は何ですか？\nベンです。\nどう書きますか？\nべ・ん。\n彼女の名前はあんなです。あ・ん・な。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "お名前は何ですか？ ベンです。 どう書きますか？ べ・ん。 彼女の名前はあんなです。あ・ん・な。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "「べん」の正しい書き方を選んでください。",
+                "englishWord": "「べん」の正しい書き方を選んでください。",
+                "category": "質問と回答",
+                "correct": "べん",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ばん"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "べん"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "ぺん"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "びん"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "名前は____書きますか？",
+                "englishWord": "名前は____書きますか？",
+                "category": "文を完成させる",
+                "correct": "どう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "なに"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "どう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "どこ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "だれ"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「あ・ん・な」は「あんな」と書きます。",
+                "englishWord": "「あ・ん・な」は「あんな」と書きます。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "名前を____ください。",
+                "englishWord": "名前を____ください。",
+                "category": "空欄を埋める",
+                "correct": "書いて",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "書いて"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "話して"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "読んで"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "聞いて"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "さ く ら",
+                "category": "語順を並べる",
+                "correct": "さ く ら",
+                "words": [
+                    "く",
+                    "さ",
+                    "ら"
+                ],
+                "translateWords": [
+                    "く",
+                    "さ",
+                    "ら"
+                ]
+            }
+        ]
+    }
+]

@@ -1,370 +1,362 @@
 [
     {
-        "lesson_id": "L1_U05_01",
+        "lesson_id": "L1_U02_01",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "Mira la mochila.\nEs de un rojo brillante.\nEl libro al lado es de un azul oscuro.\nEl lápiz es de un amarillo brillante.",
+                "word": "Letras: A (a), B (be), C (ce), D (de), E (e), F (efe), G (ge), H (hache), I (i), J (jota), K (ka), L (ele), M (eme).",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "Mira la mochila. Es de un rojo brillante. El libro al lado es de un azul oscuro. El lápiz es de un amarillo brillante.",
+                "englishWord": "Letras: A (a), B (be), C (ce), D (de), E (e), F (efe), G (ge), H (hache), I (i), J (jota), K (ka), L (ele), M (eme).",
                 "englishExample": "",
                 "category": "Lectura"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige el color primario de la mochila mencionado en el texto.",
-                "englishWord": "Elige el color primario de la mochila mencionado en el texto.",
+                "word": "¿Qué letra se pronuncia \"a\"?",
+                "englishWord": "¿Qué letra se pronuncia \"a\"?",
                 "category": "Pregunta y respuesta",
-                "correct": "rojo",
+                "correct": "A",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "azul"
+                        "text": "B"
                     },
                     {
                         "id": "option-2",
-                        "text": "verde"
+                        "text": "C"
                     },
                     {
                         "id": "option-3",
-                        "text": "rojo"
+                        "text": "A"
                     },
                     {
                         "id": "option-4",
-                        "text": "naranja"
+                        "text": "F"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "El libro al lado de la mochila es ____ oscuro.",
-                "englishWord": "El libro al lado de la mochila es ____ oscuro.",
+                "word": "A, B, C, ___, E, F.",
+                "englishWord": "A, B, C, ___, E, F.",
                 "category": "Completa la oración",
-                "correct": "azul",
+                "correct": "D",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "amarillo"
+                        "text": "G"
                     },
                     {
                         "id": "option-2",
-                        "text": "azul"
+                        "text": "D"
                     },
                     {
                         "id": "option-3",
-                        "text": "rojo"
+                        "text": "H"
                     },
                     {
                         "id": "option-4",
-                        "text": "verde"
+                        "text": "M"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "El lápiz descrito en el texto es verde.",
-                "englishWord": "El lápiz descrito en el texto es verde.",
+                "word": "La letra 'M' va antes que la letra 'L' en el alfabeto.",
+                "englishWord": "La letra 'M' va antes que la letra 'L' en el alfabeto.",
                 "category": "Verdadero o Falso",
                 "isCorrect": false
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "Los plátanos suelen ser ____.",
-                "englishWord": "Los plátanos suelen ser ____.",
+                "word": "H, I, ___, K, L.",
+                "englishWord": "H, I, ___, K, L.",
                 "category": "Rellena el espacio",
-                "correct": "amarillos",
+                "correct": "J",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "amarillos"
+                        "text": "J"
                     },
                     {
                         "id": "option-2",
-                        "text": "azules"
+                        "text": "G"
                     },
                     {
                         "id": "option-3",
-                        "text": "negros"
+                        "text": "M"
                     },
                     {
                         "id": "option-4",
-                        "text": "morados"
+                        "text": "N"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "La hierba suele ser verde",
+                "englishWord": "A B C D E",
                 "category": "Ordena las palabras",
-                "correct": "La hierba suele ser verde",
+                "correct": "A B C D E",
                 "words": [
-                    "suele",
-                    "La",
-                    "verde",
-                    "hierba",
-                    "ser"
+                    "C",
+                    "A",
+                    "B",
+                    "E",
+                    "D"
                 ],
                 "translateWords": [
-                    "suele",
-                    "La",
-                    "verde",
-                    "hierba",
-                    "ser"
+                    "C",
+                    "A",
+                    "B",
+                    "E",
+                    "D"
                 ]
             }
         ]
     },
     {
-        "lesson_id": "L1_U05_02",
+        "lesson_id": "L1_U02_02",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "¿De qué color es tu coche nuevo, Tom?\nEs un coche azul.\nMi coche viejo era rojo.\n¡Qué bien! Tengo una bicicleta amarilla.",
+                "word": "Letras: N (ene), Ñ (eñe), O (o), P (pe), Q (cu), R (erre), S (ese), T (te), U (u), V (uve), W (uve doble), X (equis), Y (i griega), Z (zeta).",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "¿De qué color es tu coche nuevo, Tom? Es un coche azul. Mi coche viejo era rojo. ¡Qué bien! Tengo una bicicleta amarilla.",
+                "englishWord": "Letras: N (ene), Ñ (eñe), O (o), P (pe), Q (cu), R (erre), S (ese), T (te), U (u), V (uve), W (uve doble), X (equis), Y (i griega), Z (zeta).",
                 "englishExample": "",
                 "category": "Lectura"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige la pregunta correcta para preguntar el color de un objeto.",
-                "englishWord": "Elige la pregunta correcta para preguntar el color de un objeto.",
+                "word": "¿Qué letra se pronuncia \"u\"?",
+                "englishWord": "¿Qué letra se pronuncia \"u\"?",
                 "category": "Pregunta y respuesta",
-                "correct": "¿De qué color es tu coche nuevo?",
+                "correct": "U",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "¿Cuántos años tiene?"
+                        "text": "N"
                     },
                     {
                         "id": "option-2",
-                        "text": "¿De qué color es tu coche nuevo?"
+                        "text": "O"
                     },
                     {
                         "id": "option-3",
-                        "text": "¿Cómo te llamas?"
+                        "text": "U"
                     },
                     {
                         "id": "option-4",
-                        "text": "¿Cómo estás?"
+                        "text": "X"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "Tom tiene un coche ____.",
-                "englishWord": "Tom tiene un coche ____.",
+                "word": "T, U, V, ___, X.",
+                "englishWord": "T, U, V, ___, X.",
                 "category": "Completa la oración",
-                "correct": "azul",
+                "correct": "W",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "amarillo"
+                        "text": "W"
                     },
                     {
                         "id": "option-2",
-                        "text": "rojo"
+                        "text": "Y"
                     },
                     {
                         "id": "option-3",
-                        "text": "azul"
+                        "text": "Z"
                     },
                     {
                         "id": "option-4",
-                        "text": "verde"
+                        "text": "S"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "El coche viejo de Tom era amarillo.",
-                "englishWord": "El coche viejo de Tom era amarillo.",
+                "word": "'Z' es la última letra del alfabeto español.",
+                "englishWord": "'Z' es la última letra del alfabeto español.",
                 "category": "Verdadero o Falso",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "¿De qué ____ es tu bicicleta?",
-                "englishWord": "¿De qué ____ es tu bicicleta?",
+                "word": "N, Ñ, O, ___, Q.",
+                "englishWord": "N, Ñ, O, ___, Q.",
                 "category": "Rellena el espacio",
-                "correct": "color",
+                "correct": "P",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "color"
+                        "text": "P"
                     },
                     {
                         "id": "option-2",
-                        "text": "tamaño"
+                        "text": "S"
                     },
                     {
                         "id": "option-3",
-                        "text": "forma"
+                        "text": "M"
                     },
                     {
                         "id": "option-4",
-                        "text": "nombre"
+                        "text": "T"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "Es una bolsa blanca",
+                "englishWord": "X Y Z",
                 "category": "Ordena las palabras",
-                "correct": "Es una bolsa blanca",
+                "correct": "X Y Z",
                 "words": [
-                    "una",
-                    "blanca",
-                    "bolsa",
-                    "Es"
+                    "X",
+                    "Z",
+                    "Y"
                 ],
                 "translateWords": [
-                    "una",
-                    "blanca",
-                    "bolsa",
-                    "Es"
+                    "X",
+                    "Z",
+                    "Y"
                 ]
             }
         ]
     },
     {
-        "lesson_id": "L1_U05_03",
+        "lesson_id": "L1_U02_03",
         "cards": [
             {
                 "id": "card-1",
                 "type": "intro_word",
-                "word": "Cuando mezclas azul y rojo, obtienes morado.\nMezcla blanco y rojo para hacer rosa.\nNegro y blanco crean gris.",
+                "word": "¿Cómo te llamas?\nMe llamo Ben.\n¿Cómo se escribe tu nombre?\nB-E-N.\nY ella se llama Anna: A-doble N-A.",
                 "phonetic": "",
                 "example": "",
-                "englishWord": "Cuando mezclas azul y rojo, obtienes morado. Mezcla blanco y rojo para hacer rosa. Negro y blanco crean gris.",
+                "englishWord": "¿Cómo te llamas? Me llamo Ben. ¿Cómo se escribe tu nombre? B-E-N. Y ella se llama Anna: A-doble N-A.",
                 "englishExample": "",
                 "category": "Lectura"
             },
             {
                 "id": "card-2",
                 "type": "question_answer",
-                "word": "Elige el color que resulta de mezclar azul y rojo.",
-                "englishWord": "Elige el color que resulta de mezclar azul y rojo.",
+                "word": "Elige la escritura correcta del nombre 'BEN'.",
+                "englishWord": "Elige la escritura correcta del nombre 'BEN'.",
                 "category": "Pregunta y respuesta",
-                "correct": "morado",
+                "correct": "B-E-N",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "rosa"
+                        "text": "B-A-N"
                     },
                     {
                         "id": "option-2",
-                        "text": "verde"
+                        "text": "B-E-N"
                     },
                     {
                         "id": "option-3",
-                        "text": "morado"
+                        "text": "P-E-N"
                     },
                     {
                         "id": "option-4",
-                        "text": "marrón"
+                        "text": "B-I-N"
                     }
                 ]
             },
             {
                 "id": "card-3",
                 "type": "fill_the_blank",
-                "word": "Mezcla blanco y rojo para hacer ____.",
-                "englishWord": "Mezcla blanco y rojo para hacer ____.",
+                "word": "¿Cómo ___ escribe tu nombre?",
+                "englishWord": "¿Cómo ___ escribe tu nombre?",
                 "category": "Completa la oración",
-                "correct": "rosa",
+                "correct": "se",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "morado"
+                        "text": "es"
                     },
                     {
                         "id": "option-2",
-                        "text": "rosa"
+                        "text": "se"
                     },
                     {
                         "id": "option-3",
-                        "text": "negro"
+                        "text": "te"
                     },
                     {
                         "id": "option-4",
-                        "text": "gris"
+                        "text": "me"
                     }
                 ]
             },
             {
                 "id": "card-4",
                 "type": "true_false",
-                "word": "Mezclar negro y blanco da como resultado un color morado.",
-                "englishWord": "Mezclar negro y blanco da como resultado un color morado.",
+                "word": "'A-doble N-A' escribe el nombre ANNA.",
+                "englishWord": "'A-doble N-A' escribe el nombre ANNA.",
                 "category": "Verdadero o Falso",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "id": "card-5",
                 "type": "fill_the_blank",
-                "word": "Cuando ____ azul y amarillo, obtienes verde.",
-                "englishWord": "Cuando ____ azul y amarillo, obtienes verde.",
+                "word": "¿Cómo se ____ tu nombre?",
+                "englishWord": "¿Cómo se ____ tu nombre?",
                 "category": "Rellena el espacio",
-                "correct": "mezclas",
+                "correct": "escribe",
                 "options": [
                     {
                         "id": "option-1",
-                        "text": "mezclas"
+                        "text": "escribe"
                     },
                     {
                         "id": "option-2",
-                        "text": "dibujas"
+                        "text": "habla"
                     },
                     {
                         "id": "option-3",
-                        "text": "escribes"
+                        "text": "lee"
                     },
                     {
                         "id": "option-4",
-                        "text": "cuentas"
+                        "text": "oye"
                     }
                 ]
             },
             {
                 "id": "card-6",
                 "type": "arrange_word",
-                "englishWord": "El marrón es el color de la tierra",
+                "englishWord": "D A V I D",
                 "category": "Ordena las palabras",
-                "correct": "El marrón es el color de la tierra",
+                "correct": "D A V I D",
                 "words": [
-                    "El",
-                    "marrón",
-                    "es",
-                    "el",
-                    "color",
-                    "de",
-                    "la",
-                    "tierra"
+                    "I",
+                    "D",
+                    "V",
+                    "A",
+                    "D"
                 ],
                 "translateWords": [
-                    "El",
-                    "marrón",
-                    "es",
-                    "el",
-                    "color",
-                    "de",
-                    "la",
-                    "tierra"
+                    "I",
+                    "D",
+                    "V",
+                    "A",
+                    "D"
                 ]
             }
         ]

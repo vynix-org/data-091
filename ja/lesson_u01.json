@@ -1,0 +1,350 @@
+[
+    {
+        "lesson_id": "L1_U01_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "おはようございます！こんにちは、アンナです。\nこんにちは、アンナさん！ベンです。\nさようなら、ベンさん！\nじゃあね、アンナさん！",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "おはようございます！こんにちは、アンナです。 こんにちは、アンナさん！ベンです。 さようなら、ベンさん！ じゃあね、アンナさん！",
+                "englishExample": "",
+                "category": "あいさつ"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "朝の正しいあいさつを選んでください",
+                "englishWord": "朝の正しいあいさつを選んでください",
+                "category": "質問と回答",
+                "correct": "おはようございます",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "こんばんは"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "おはようございます"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "じゃあね"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "____、アンナです。よろしくお願いします。",
+                "englishWord": "____、アンナです。よろしくお願いします。",
+                "category": "文を完成させる",
+                "correct": "こんにちは",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゃあね"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "こんにちは"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "おやすみ"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「じゃあね」はフォーマルなあいさつの言い方です。",
+                "englishWord": "「じゃあね」はフォーマルなあいさつの言い方です。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "「さようなら、ベンさん！」「____、アンナさん！」",
+                "englishWord": "「さようなら、ベンさん！」「____、アンナさん！」",
+                "category": "空欄を埋める",
+                "correct": "じゃあね",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "じゃあね"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "こんにちは"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "おはようございます"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "おはようございます 先生",
+                "category": "語順を並べる",
+                "correct": "おはようございます 先生",
+                "words": [
+                    "ございます",
+                    "おはよう",
+                    "先生"
+                ],
+                "translateWords": [
+                    "ございます",
+                    "おはよう",
+                    "先生"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U01_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "こんにちは！私の名前はデイビッドです。\nロンドンから来ました。\nお名前は何ですか？",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "こんにちは！私の名前はデイビッドです。 ロンドンから来ました。 お名前は何ですか？",
+                "englishExample": "",
+                "category": "あいさつ"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "「お名前は何ですか？」への正しい返答を選んでください",
+                "englishWord": "「お名前は何ですか？」への正しい返答を選んでください",
+                "category": "質問と回答",
+                "correct": "メアリーです",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "元気です"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "メアリーです"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "こんにちは"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "こんにちは、私はジョン____。",
+                "englishWord": "こんにちは、私はジョン____。",
+                "category": "文を完成させる",
+                "correct": "です",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "だ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "である"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "です"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ます"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「お名前は何ですか？」は人の名前を尋ねるときに使います。",
+                "englishWord": "「お名前は何ですか？」は人の名前を尋ねるときに使います。",
+                "category": "正しいか誤りか",
+                "isCorrect": true
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "こんにちは！私の____はピーターです。",
+                "englishWord": "こんにちは！私の____はピーターです。",
+                "category": "空欄を埋める",
+                "correct": "名前",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "名前"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "本"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "家"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "友達"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "お名前は 何ですか",
+                "category": "語順を並べる",
+                "correct": "お名前は 何ですか",
+                "words": [
+                    "何ですか",
+                    "お名前は"
+                ],
+                "translateWords": [
+                    "何ですか",
+                    "お名前は"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U01_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "こんにちは、サラさん！元気ですか？\n元気です、ありがとう。あなたは？\nとても元気です、ありがとう！",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "こんにちは、サラさん！元気ですか？ 元気です、ありがとう。あなたは？ とても元気です、ありがとう！",
+                "englishExample": "",
+                "category": "あいさつ"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "「元気ですか？」への正しい返答を選んでください",
+                "englishWord": "「元気ですか？」への正しい返答を選んでください",
+                "category": "質問と回答",
+                "correct": "元気です、ありがとう",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "トムです"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "元気です、ありがとう"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "さようなら"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "こんにちは"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "元気です、ありがとう。____は？",
+                "englishWord": "元気です、ありがとう。____は？",
+                "category": "文を完成させる",
+                "correct": "あなた",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "あなた"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "あなたの"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "彼"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "彼女"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "「とても元気です」は気分が悪いという意味です。",
+                "englishWord": "「とても元気です」は気分が悪いという意味です。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "____ですか？ - 元気です。",
+                "englishWord": "____ですか？ - 元気です。",
+                "category": "空欄を埋める",
+                "correct": "元気",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "元気"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "名前"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "何歳"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "どこ"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "元気です ありがとう",
+                "category": "語順を並べる",
+                "correct": "元気です ありがとう",
+                "words": [
+                    "です",
+                    "ありがとう",
+                    "元気"
+                ],
+                "translateWords": [
+                    "です",
+                    "ありがとう",
+                    "元気"
+                ]
+            }
+        ]
+    }
+]

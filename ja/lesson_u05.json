@@ -1,0 +1,366 @@
+[
+    {
+        "lesson_id": "L1_U05_01",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "学校のカバンを見てください。\nあかいきれいな色です。\nとなりの本は濃いあおです。\nえんぴつは明るいきいろです。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "学校のカバンを見てください。 あかいきれいな色です。 となりの本は濃いあおです。 えんぴつは明るいきいろです。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "本文で言及された学校のカバンの基本色を選んでください",
+                "englishWord": "本文で言及された学校のカバンの基本色を選んでください",
+                "category": "質問と回答",
+                "correct": "あか",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "あお"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "みどり"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "あか"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "オレンジ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "カバンのとなりの本は濃い____です。",
+                "englishWord": "カバンのとなりの本は濃い____です。",
+                "category": "文を完成させる",
+                "correct": "あお",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "きいろ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "あお"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "あか"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "みどり"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "本文で説明されているえんぴつはみどりです。",
+                "englishWord": "本文で説明されているえんぴつはみどりです。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "バナナはたいてい____です。",
+                "englishWord": "バナナはたいてい____です。",
+                "category": "空欄を埋める",
+                "correct": "きいろ",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "きいろ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "あお"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "くろ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "むらさき"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "くさ は たいてい みどり です",
+                "category": "語順を並べる",
+                "correct": "くさ は たいてい みどり です",
+                "words": [
+                    "は",
+                    "くさ",
+                    "みどり",
+                    "たいてい",
+                    "です"
+                ],
+                "translateWords": [
+                    "は",
+                    "くさ",
+                    "みどり",
+                    "たいてい",
+                    "です"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_02",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "トムさん、新しい車は何色ですか？\nあおい車です。\n古い車はあかでした。\nいいですね！きいろい自転車があります。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "トムさん、新しい車は何色ですか？ あおい車です。 古い車はあかでした。 いいですね！きいろい自転車があります。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "物の色を尋ねる正しい質問を選んでください",
+                "englishWord": "物の色を尋ねる正しい質問を選んでください",
+                "category": "質問と回答",
+                "correct": "新しい車は何色ですか？",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "何歳ですか？"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "新しい車は何色ですか？"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "お名前は？"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "元気ですか？"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "トムさんは____い車を持っています。",
+                "englishWord": "トムさんは____い車を持っています。",
+                "category": "文を完成させる",
+                "correct": "あお",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "きいろ"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "あか"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "あお"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "みどり"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "トムさんの古い車はきいろでした。",
+                "englishWord": "トムさんの古い車はきいろでした。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "自転車は何____ですか？",
+                "englishWord": "自転車は何____ですか？",
+                "category": "空欄を埋める",
+                "correct": "色",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "色"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "大きさ"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "形"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "名前"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "白い カバン です",
+                "category": "語順を並べる",
+                "correct": "白い カバン です",
+                "words": [
+                    "白い",
+                    "カバン",
+                    "です"
+                ],
+                "translateWords": [
+                    "白い",
+                    "カバン",
+                    "です"
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_id": "L1_U05_03",
+        "cards": [
+            {
+                "id": "card-1",
+                "type": "intro_word",
+                "word": "あおとあかをまぜると、むらさきになります。\nしろとあかをまぜるとピンクになります。\nくろとしろでグレーになります。",
+                "phonetic": "",
+                "example": "",
+                "englishWord": "あおとあかをまぜると、むらさきになります。 しろとあかをまぜるとピンクになります。 くろとしろでグレーになります。",
+                "englishExample": "",
+                "category": "読解"
+            },
+            {
+                "id": "card-2",
+                "type": "question_answer",
+                "word": "あおとあかをまぜてできる色を選んでください",
+                "englishWord": "あおとあかをまぜてできる色を選んでください",
+                "category": "質問と回答",
+                "correct": "むらさき",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "ピンク"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "みどり"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "むらさき"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "ちゃいろ"
+                    }
+                ]
+            },
+            {
+                "id": "card-3",
+                "type": "fill_the_blank",
+                "word": "しろとあかをまぜると____になります。",
+                "englishWord": "しろとあかをまぜると____になります。",
+                "category": "文を完成させる",
+                "correct": "ピンク",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "むらさき"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "ピンク"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "くろ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "グレー"
+                    }
+                ]
+            },
+            {
+                "id": "card-4",
+                "type": "true_false",
+                "word": "くろとしろをまぜるとむらさきになります。",
+                "englishWord": "くろとしろをまぜるとむらさきになります。",
+                "category": "正しいか誤りか",
+                "isCorrect": false
+            },
+            {
+                "id": "card-5",
+                "type": "fill_the_blank",
+                "word": "あおと黄色を____と、みどりになります。",
+                "englishWord": "あおと黄色を____と、みどりになります。",
+                "category": "空欄を埋める",
+                "correct": "まぜる",
+                "options": [
+                    {
+                        "id": "option-1",
+                        "text": "まぜる"
+                    },
+                    {
+                        "id": "option-2",
+                        "text": "かく"
+                    },
+                    {
+                        "id": "option-3",
+                        "text": "よむ"
+                    },
+                    {
+                        "id": "option-4",
+                        "text": "かぞえる"
+                    }
+                ]
+            },
+            {
+                "id": "card-6",
+                "type": "arrange_word",
+                "englishWord": "ちゃいろ は 土 の 色 です",
+                "category": "語順を並べる",
+                "correct": "ちゃいろ は 土 の 色 です",
+                "words": [
+                    "は",
+                    "土",
+                    "ちゃいろ",
+                    "の",
+                    "色",
+                    "です"
+                ],
+                "translateWords": [
+                    "は",
+                    "土",
+                    "ちゃいろ",
+                    "の",
+                    "色",
+                    "です"
+                ]
+            }
+        ]
+    }
+]

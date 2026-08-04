@@ -188,5 +188,3083 @@
           "ui_engine": "quiz"
         }
       ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U06",
+      "unit_name": "Days & Months",
+      "lessons": [
+        {
+          "lesson_id": "L1_U06_01",
+          "lesson_name": "Days of the Week",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Memorize the sequential ordering and naming of the seven calendar days.",
+          "targe_language": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U06_02",
+          "lesson_name": "Months of the Year",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn and arrange the twelve monthly temporal units in standard order.",
+          "targe_language": "January, February, March, April, May, June, July, August, September, October, November, December",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U06_03",
+          "lesson_name": "Talking About Dates",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Inquire about and articulate specific calendar dates using ordinal formatting structures.",
+          "targe_language": "When is...?, It is on, date, birthday",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U07",
+      "unit_name": "Countries & Nationalities",
+      "lessons": [
+        {
+          "lesson_id": "L1_U07_01",
+          "lesson_name": "Major Countries",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify global sovereign entities and map proper location nouns.",
+          "targe_language": "Vietnam, America, England, Japan, China, Australia",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U07_02",
+          "lesson_name": "Nationalities & Adjectives",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Formulate demographic adjectives corresponding to origin country tokens.",
+          "targe_language": "Vietnamese, American, English, Japanese, Chinese, Australian",
+          "ui_engine": "quiz"
+        },
+        {
+          "lesson_id": "L1_U07_03",
+          "lesson_name": "Asking Where Someone Is From",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Where are you from?, I am from, language, speak",
+          "targe_language": "Vietnamese, English, Japanese, American, China, Japan, America, England",
+          "ui_engine": "quiz"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U08",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U08_01",
+          "lesson_name": "Review: Aesthetic & Temporal Synthesis",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Integration",
+          "learning_objectives": "Re-evaluate and lock down visual color variables and linear calendar data.",
+          "targe_language": "red, blue, green, Monday, Friday, January, May",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U08_02",
+          "lesson_name": "Review: Global Profile Tracking",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Demographic Integration",
+          "learning_objectives": "Evaluate synthesized country patterns, nationality terms, and dates.",
+          "targe_language": "America, American, Japan, Japanese, speak, when",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U08_03",
+          "lesson_name": "Review: Full Cross-Unit Evaluation",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Cross-Analysis",
+          "learning_objectives": "Complete a unified evaluation mixing colors, dates, and geographic origins.",
+          "targe_language": "What color is...?, Where are you from?, red, white, American, speak",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U09",
+      "unit_name": "My Family",
+      "lessons": [
+        {
+          "lesson_id": "L1_U09_01",
+          "lesson_name": "Family Members",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify core immediate family structure tokens and kinship terms.",
+          "targe_language": "father, mother, brother, sister, family",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U09_02",
+          "lesson_name": "Describing Family Members",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Master possessive pronouns and adjectives to clarify family relations.",
+          "targe_language": "This is my, He is, She is, Who is this?",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U09_03",
+          "lesson_name": "Extended Family & Jobs",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Learn extended family kinship terms paired with simple career descriptions.",
+          "targe_language": "grandfather, grandmother, doctor, teacher, job",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U10",
+      "unit_name": "My House & Furniture",
+      "lessons": [
+        {
+          "lesson_id": "L1_U10_01",
+          "lesson_name": "Rooms in a House",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn the names of main living spaces and residential structural zones.",
+          "targe_language": "living room, bedroom, kitchen, bathroom, house",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U10_02",
+          "lesson_name": "Furniture & Objects",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify common residential furniture items located in specific rooms.",
+          "targe_language": "bed, sofa, table, chair, television, room",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U10_03",
+          "lesson_name": "Spatial Prepositions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use locational prepositions to describe the spatial layout of furniture.",
+          "targe_language": "in, on, under, next to, Where is...?",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U11",
+      "unit_name": "Daily Routine",
+      "lessons": [
+        {
+          "lesson_id": "L1_U11_01",
+          "lesson_name": "Morning Activities",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Memorize action verbs tracking morning habit sequences.",
+          "targe_language": "wake up, wash my face, brush my teeth, eat breakfast, morning",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U11_02",
+          "lesson_name": "Afternoon & Evening Routines",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Frame personal schedules across later day parts using active verbs.",
+          "targe_language": "go to school, go to work, eat dinner, go to bed, afternoon, evening",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U11_03",
+          "lesson_name": "Telling Time for Routines",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Link routine habits to exact time structures using targeted queries.",
+          "targe_language": "What time is it?, at ... o'clock, time, half past",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U12",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U12_01",
+          "lesson_name": "Review: Domestic Environment",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Space & Relation Integration",
+          "learning_objectives": "Review and tie together kinship links, housing sectors, and home object layouts.",
+          "targe_language": "father, mother, sister, bedroom, living room, bed, on",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U12_02",
+          "lesson_name": "Review: Routine Tracking",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Temporal Integration",
+          "learning_objectives": "Review daily life activities cross-referenced with exact clock metrics.",
+          "targe_language": "wake up, eat breakfast, go to school, at ... o'clock, morning, afternoon",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U12_03",
+          "lesson_name": "Review: Integrated Lifecycle Check",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Consolidate home configurations, family professions, and evening timeline steps.",
+          "targe_language": "grandfather, doctor, kitchen, table, evening, eat dinner, at",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "M01",
+      "unit_name": "Mocktest Level 1 (Units 1-13)",
+      "lessons": [
+        {
+          "lesson_id": "L1_M02_PART1",
+          "lesson_name": "Mocktest Part 1: Identity & Greetings",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate basic introductions, greeting vocabulary, name spelling, and functional well-being checks.",
+          "targe_language": "Good morning, What is your name?, My name is, How do you spell...?, How are you?",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M02_PART2",
+          "lesson_name": "Mocktest Part 2: Numbers & Profiles",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate cardinal number recognition up to 100, age declarations, and phone digit exchanges.",
+          "targe_language": "How old are you?, I am ... years old, What is your phone number?, numbers 1 to 100",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M02_PART3",
+          "lesson_name": "Mocktest Part 3: Time, Dates & Origin",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate global origins, nationality terms, calendar months, date structures, and whole clock hours.",
+          "targe_language": "Where are you from?, I am from, Japanese, When is...?, It is on, o'clock",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U13",
+      "unit_name": "Telling the Time",
+      "lessons": [
+        {
+          "lesson_id": "L1_U13_01",
+          "lesson_name": "Standard Clock Hours",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Master reading and asking for exact, whole-hour clock measurements.",
+          "targe_language": "What time is it?, It is [number] o'clock, time, hour",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U13_02",
+          "lesson_name": "Quarter and Half Hours",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Learn fractional clock expressions including quarter past, quarter to, and half past.",
+          "targe_language": "quarter past, quarter to, half past, past, to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U13_03",
+          "lesson_name": "Time and Daily Actions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Link specific daily tasks and routines to absolute fractional time stamps.",
+          "targe_language": "at [time], what time do you...?, schedule, noon",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U14",
+      "unit_name": "Hobbies & Interests",
+      "lessons": [
+        {
+          "lesson_id": "L1_U14_01",
+          "lesson_name": "Common Hobbies",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and define standard vocabulary tokens for personal leisure activities.",
+          "targe_language": "play football, read books, listen to music, watch TV, hobby",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U14_02",
+          "lesson_name": "Expressing Likes & Dislikes",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Master verb structures with direct objects to convey standard preference levels.",
+          "targe_language": "I like, I do not like, Do you like...?, yes, no",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U14_03",
+          "lesson_name": "Creative & Artistic Hobbies",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Expand core leisure vocabulary into creative, musical, and artistic domains.",
+          "targe_language": "paint pictures, sing songs, play the guitar, dance, favorite",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U15",
+      "unit_name": "My Clothes",
+      "lessons": [
+        {
+          "lesson_id": "L1_U15_01",
+          "lesson_name": "Basic Garments",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify primary daily apparel pieces and standard clothing tokens.",
+          "targe_language": "shirt, T-shirt, trousers, skirt, dress, clothes",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U15_02",
+          "lesson_name": "Footwear & Accessories",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Expand apparel vocabulary into footwear and structural accessory tokens.",
+          "targe_language": "shoes, socks, hat, jacket, wear",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U15_03",
+          "lesson_name": "Describing Outfits",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use present continuous tracking structures to declare ongoing apparel states.",
+          "targe_language": "I am wearing, He is wearing, She is wearing, what are you wearing?",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U16",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U16_01",
+          "lesson_name": "Review: Time and Outfit Integration",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Cross-Domain Synthesis",
+          "learning_objectives": "Evaluate blended knowledge loops connecting time parameters to daily outfit states.",
+          "targe_language": "It is [time], wearing, T-shirt, trousers, shoes",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U16_02",
+          "lesson_name": "Review: Leisure and Time Blocks",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Cross-Domain Liking",
+          "learning_objectives": "Audit conversational combinations tracking hobby preference states across time points.",
+          "targe_language": "play football, read books, like, do not like, at [time]",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U16_03",
+          "lesson_name": "Review: Full Environmental Profile",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Execute an integrated structural check combining apparel styles, creative hobbies, and times.",
+          "targe_language": "wearing, paint pictures, favorite, at, o'clock",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U17",
+      "unit_name": "Fruits & Vegetables",
+      "lessons": [
+        {
+          "lesson_id": "L1_U17_01",
+          "lesson_name": "Fresh Fruits",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify basic fruit tokens and names in daily life.",
+          "targe_language": "apple, banana, orange, strawberry, fruit",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U17_02",
+          "lesson_name": "Everyday Vegetables",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Identify common vegetable tokens and categorize healthy plant-based food items.",
+          "targe_language": "potato, tomato, onion, carrot, vegetable",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U17_03",
+          "lesson_name": "Expressing Food Quantities",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use singular and plural noun structures with specific number counters for food.",
+          "targe_language": "some, an, apples, tomatoes, bananas",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U18",
+      "unit_name": "Common Drinks",
+      "lessons": [
+        {
+          "lesson_id": "L1_U18_01",
+          "lesson_name": "Hot & Cold Beverages",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Master baseline vocabulary tokens representing universal liquid drinks.",
+          "targe_language": "water, milk, coffee, tea, juice",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U18_02",
+          "lesson_name": "Ordering Drinks",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Use polite request structures to order specific beverage options.",
+          "targe_language": "Can I have...?, please, bottle, cup",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U18_02",
+          "lesson_name": "Describing Drink Preferences",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Link specific drink parameters to positive and negative preference lines.",
+          "targe_language": "I like to drink, with sugar, without ice, sugar, ice",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U19",
+      "unit_name": "Ordering Food",
+      "lessons": [
+        {
+          "lesson_id": "L1_U19_01",
+          "lesson_name": "Main Dishes & Menu Tokens",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn primary restaurant menu tokens representing popular standard main courses.",
+          "targe_language": "chicken, fish, rice, bread, noodles, menu",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U19_02",
+          "lesson_name": "Restaurant Interaction Patterns",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Execute standard guest routines to order full meals from a waiter structure.",
+          "targe_language": "I would like, what would you like?, for dinner, bill",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U19_03",
+          "lesson_name": "Expressing Hunger & Fullness",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Describe basic physiological states related to food consumption tracks.",
+          "targe_language": "hungry, full, want to eat, delicious",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U20",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U20_01",
+          "lesson_name": "Review: Grocery & Diet Consolidation",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Food Category Integration",
+          "learning_objectives": "Review and verify combined tracking of fruit items, vegetable components, and numeric quantities.",
+          "targe_language": "apple, banana, tomato, carrot, some, numbers 1 to 10",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U20_02",
+          "lesson_name": "Review: Cafe Order Flows",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Drink & Preference Integration",
+          "learning_objectives": "Re-evaluate functional order sequences for liquid drink variants in an active cafe scenario.",
+          "targe_language": "Can I have...?, cup, bottle, coffee, water, please",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U20_03",
+          "lesson_name": "Review: Full Dining Scenario Check",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize meal choices, guest ordering patterns, and satisfaction declarations in a restaurant ecosystem.",
+          "targe_language": "I would like, fish, rice, hungry, full, delicious",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U21",
+      "unit_name": "At the Supermarket",
+      "lessons": [
+        {
+          "lesson_id": "L1_U21_01",
+          "lesson_name": "Shopping Items & Sections",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify common store areas and essential food/household item tokens.",
+          "targe_language": "shopping cart, basket, aisle, fruit section, supermarket",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U21_02",
+          "lesson_name": "Finding Items",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Ask for directions to specific grocery locations using polite request structures.",
+          "targe_language": "Where can I find...?, Excuse me, next to, over there",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U21_03",
+          "lesson_name": "Quantities & Containers",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Learn standard packaging tokens and units for food items.",
+          "targe_language": "a bag of, a box of, a kilo of, pack, buy",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U22",
+      "unit_name": "Prices & Money",
+      "lessons": [
+        {
+          "lesson_id": "L1_U22_01",
+          "lesson_name": "Currency & Basic Asking",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Master price vocabulary tokens and ask for cost metrics.",
+          "targe_language": "How much is...?, dollars, cents, price, money",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U22_02",
+          "lesson_name": "Payment Methods",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Differentiate and execute payment preferences at a checkout counter.",
+          "targe_language": "cash, credit card, pay with, change, receipt",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U22_03",
+          "lesson_name": "Cheap vs. Expensive",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use core value adjectives to evaluate product price states.",
+          "targe_language": "cheap, expensive, costs, too much",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U23",
+      "unit_name": "Jobs & Occupations",
+      "lessons": [
+        {
+          "lesson_id": "L1_U23_01",
+          "lesson_name": "Common Professions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Memorize baseline job tokens representing popular employment paths.",
+          "targe_language": "teacher, doctor, nurse, student, worker, job",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U23_02",
+          "lesson_name": "Professional Workplaces",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Formulate location statements matching jobs to standard physical worksites.",
+          "targe_language": "works in, works at, hospital, school, office",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U23_03",
+          "lesson_name": "Asking About Careers",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Execute interrogative routines to discover professional backgrounds and desires.",
+          "targe_language": "What do you do?, want to be, career, future",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U24",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U24_01",
+          "lesson_name": "Review: Market Procurement Flows",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Commerce Integration",
+          "learning_objectives": "Review and tie together store locations, commodity metrics, and costs.",
+          "targe_language": "supermarket, aisle, a kilo of, costs, dollars",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U24_02",
+          "lesson_name": "Review: Counter Settlement Routines",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Financial Integration",
+          "learning_objectives": "Verify checkout counter communication involving totals, cost levels, and payment choices.",
+          "targe_language": "total, pay with, credit card, expensive, cheap",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U24_03",
+          "lesson_name": "Review: Household Economic Profile",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize family career lines, specific worksites, and grocery budget habits in a cohesive system check.",
+          "targe_language": "teacher, works at, hospital, school, office, cash",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U25",
+      "unit_name": "School/Office Supplies",
+      "lessons": [
+        {
+          "lesson_id": "L1_U25_01",
+          "lesson_name": "Basic Stationery",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify core stationary item tokens used for writing and recording tasks.",
+          "targe_language": "pen, pencil, notebook, ruler, eraser",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U25_02",
+          "lesson_name": "Carrying & Organizing",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Describe possession and organization of stationery items using core verbs.",
+          "targe_language": "have, put in, pencil case, backpack, supplies",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U25_03",
+          "lesson_name": "Advanced Office Tools",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Expand supply vocabulary to include modern processing and binding equipment.",
+          "targe_language": "calculator, computer, paper, scissors, file",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U26",
+      "unit_name": "In the Classroom",
+      "lessons": [
+        {
+          "lesson_id": "L1_U26_01",
+          "lesson_name": "Classroom Fixtures",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify structural elements and permanent furniture fixtures inside a classroom.",
+          "targe_language": "whiteboard, desk, chair, clock, map",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U26_02",
+          "lesson_name": "Pointing & Demonstrating",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Master demonstrative pronouns to clarify the proximity of classroom assets.",
+          "targe_language": "This is a, That is a, These are, Those are",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U26_03",
+          "lesson_name": "Classroom Imperatives",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Understand and execute basic operational commands delivered by an instructor.",
+          "targe_language": "Open your, Close your, Stand up, Sit down, listen",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U27",
+      "unit_name": "Workspace",
+      "lessons": [
+        {
+          "lesson_id": "L1_U27_01",
+          "lesson_name": "Office Equipment",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Learn primary vocabulary tokens representing infrastructure assets inside a workplace office.",
+          "targe_language": "desk, office chair, laptop, phone, keyboard",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U27_02",
+          "lesson_name": "Workspace Habits & Actions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Formulate lifestyle statements tracking office work actions via active verbs.",
+          "targe_language": "send emails, write reports, make phone calls, print documents, daily",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U27_03",
+          "lesson_name": "Professional Layout Coordinates",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Link professional furniture states to distinct directional layout coordinates.",
+          "targe_language": "on the left, on the right, in the middle, background",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U28",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U28_01",
+          "lesson_name": "Review: Institutional Supply Inventory",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Logistics Integration",
+          "learning_objectives": "Review and cross-examine stationery tokens, item placement rules, and containment boxes.",
+          "targe_language": "pen, notebook, pencil case, backpack, have, put in",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U28_02",
+          "lesson_name": "Review: Instructor Directional Loops",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Instructional Integration",
+          "learning_objectives": "Verify accuracy regarding classroom pronoun pointers and instructor command loops.",
+          "targe_language": "This is a, That is a, Open your, Close your, whiteboard",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U28_03",
+          "lesson_name": "Review: Integrated Workplace Mapping",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize workspace configurations, typing assets, task routines, and coordinate placements.",
+          "targe_language": "laptop, keyboard, write reports, send emails, on the left",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "M02",
+      "unit_name": "Mocktest Level 1",
+      "lessons": [
+        {
+          "lesson_id": "L1_M01_PART1",
+          "lesson_name": "Mocktest Part 1: Routine & Style",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate overall retention of hobby choices, outfit descriptions, and clock time metrics.",
+          "targe_language": "play football, wearing, dress, half past, watch TV",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M01_PART2",
+          "lesson_name": "Mocktest Part 2: Dining & Orders",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate competency in food items, drinks, quantities, and restaurant interactions.",
+          "targe_language": "I would like, fish, rice, water, delicious",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M01_PART3",
+          "lesson_name": "Mocktest Part 3: Workspace & Logistics",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate mastery of supermarket shopping, occupation parameters, and workspace tools.",
+          "targe_language": "supermarket, works at, teacher, calculator, costs",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U29",
+      "unit_name": "The Weather",
+      "lessons": [
+        {
+          "lesson_id": "L1_U29_01",
+          "lesson_name": "Core Weather Conditions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify basic atmospheric conditions and descriptors.",
+          "targe_language": "sunny, rainy, windy, snowy, cloudy, weather",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U29_02",
+          "lesson_name": "Inquiring About Weather",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Execute conversational routines checking ambient climate status.",
+          "targe_language": "What is the weather like?, It is, hot, cold",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U29_03",
+          "lesson_name": "Weather Activities & Gear",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Connect environmental climate status to human routine decisions and tools.",
+          "targe_language": "raincoat, umbrella, boots, fly a kite, go outside",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U30",
+      "unit_name": "Animals",
+      "lessons": [
+        {
+          "lesson_id": "L1_U30_01",
+          "lesson_name": "Common Domestic Pets",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify structural names for companion animals.",
+          "targe_language": "dog, cat, bird, fish, pet",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U30_02",
+          "lesson_name": "Farm Animals & Actions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Identify baseline livestock animals and describe ongoing actions using active verbs.",
+          "targe_language": "cow, horse, duck, chicken, swimming, running",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U30_03",
+          "lesson_name": "Describing Animals",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use possessive descriptors to attribute physical traits to animals.",
+          "targe_language": "It has, big ears, long tail, fur, feathers",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U31",
+      "unit_name": "Body Parts",
+      "lessons": [
+        {
+          "lesson_id": "L1_U31_01",
+          "lesson_name": "Head & Facial Features",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify core anatomical zones located within the human head region.",
+          "targe_language": "head, eye, ear, nose, mouth, face",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U31_02",
+          "lesson_name": "Limbs & Movement Units",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Identify structural names for upper and lower human limbs and manual processing units.",
+          "targe_language": "arm, leg, hand, foot, finger, toe",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U31_03",
+          "lesson_name": "Active Body Commands",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Link human physical units to immediate operational instructions using action verbs.",
+          "targe_language": "touch your, wave your, clap your hands, shake your",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U32",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U32_01",
+          "lesson_name": "Review: Eco-Climate Tracking",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Climate & Animal Integration",
+          "learning_objectives": "Review and cross-examine atmospheric climate data, animal activity states, and gear tracking parameters.",
+          "targe_language": "sunny, rainy, windy, duck, swimming, fly a kite",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U32_02",
+          "lesson_name": "Review: Structural Specimen Checks",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Trait & Anatomy Integration",
+          "learning_objectives": "Verify trait tracking data combining animal body configurations and facial anatomy parameters.",
+          "targe_language": "It has, big ears, long tail, eye, ear, mouth",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U32_03",
+          "lesson_name": "Review: Integrated Lifecycle Map",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize outdoor weather metrics, active command protocols, and limb coordinate allocations.",
+          "targe_language": "windy, touch your, hand, arm, leg, wave your",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U33",
+      "unit_name": "Transportation",
+      "lessons": [
+        {
+          "lesson_id": "L1_U33_01",
+          "lesson_name": "Basic Vehicles",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify primary physical vehicle tokens and transit modes.",
+          "targe_language": "car, bus, bicycle, train, plane, travel",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U33_02",
+          "lesson_name": "Verbs of Motion",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Master specific action verbs coupled with unique transportation assets.",
+          "targe_language": "drive a car, ride a bicycle, take a bus, by train, how do you...?",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U33_03",
+          "lesson_name": "Speed & Comparison",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use descriptive adjectives to compare the functional speed metrics of transit assets.",
+          "targe_language": "fast, slow, tracking speed, faster than",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U34",
+      "unit_name": "Giving Directions",
+      "lessons": [
+        {
+          "lesson_id": "L1_U34_01",
+          "lesson_name": "Spatial Movements",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Memorize immediate navigational movement directives and navigation paths.",
+          "targe_language": "turn left, turn right, go straight, stop, block",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U34_02",
+          "lesson_name": "Map Coordinates",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use structural position prepositions to describe a target point's location on a coordinate field.",
+          "targe_language": "next to, opposite, between, on the corner of",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U34_03",
+          "lesson_name": "Help Routines",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Execute navigation inquiries to track target layout positions politely.",
+          "targe_language": "Excuse me, how do I get to...?, thank you, path",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U35",
+      "unit_name": "Places in Town",
+      "lessons": [
+        {
+          "lesson_id": "L1_U35_01",
+          "lesson_name": "Core Public Buildings",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Identify baseline municipal structures and urban location names.",
+          "targe_language": "school, hospital, bank, supermarket, park, town",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U35_02",
+          "lesson_name": "Leisure & Dining Placements",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Expand urban infrastructure vocabulary into retail, dining, and hospitality structures.",
+          "targe_language": "restaurant, cafe, shop, cinema, hotel",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U35_03",
+          "lesson_name": "Describing Urban Hubs",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Connect urban structures to standard occupant activities using active relational clauses.",
+          "targe_language": "there is a, there are, live in, visit",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U36",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U36_01",
+          "lesson_name": "Review: Urban Commute Routing",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Transit & Building Integration",
+          "learning_objectives": "Review and cross-examine transportation assets, occupancy actions, and destination points.",
+          "targe_language": "take a bus, drive a car, hospital, bank, fast, slow",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U36_02",
+          "lesson_name": "Review: Navigational Spatial Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Direction & Position Integration",
+          "learning_objectives": "Verify navigational waypoint commands and coordinates relative to municipal structures.",
+          "targe_language": "turn left, turn right, go straight, opposite, next to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U36_03",
+          "lesson_name": "Review: Integrated Infrastructure Hub",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize residential choices, public building allocations, item presence markers, and movement lines.",
+          "targe_language": "there is a, there are, live in, restaurant, supermarket",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U37",
+      "unit_name": "Feelings & Emotions",
+      "lessons": [
+        {
+          "lesson_id": "L1_U37_01",
+          "lesson_name": "Basic Emotional States",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify basic personal emotional feelings and conditions.",
+          "targe_language": "happy, sad, angry, tired, scared, feel",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U37_02",
+          "lesson_name": "Expressing Mood Causes",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Formulate foundational sentences linking emotional moods to direct reasons.",
+          "targe_language": "Why are you...?, because, look happy, sad face",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U37_03",
+          "lesson_name": "Physical Sensations",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Identify and declare immediate biological sensations separate from moods.",
+          "targe_language": "hungry, thirsty, hot, cold, need to",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U38",
+      "unit_name": "Describing People",
+      "lessons": [
+        {
+          "lesson_id": "L1_U38_01",
+          "lesson_name": "Height & Build Traits",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Memorize structural attributes describing human stature and weight lines.",
+          "targe_language": "tall, short, young, old, thin, person",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U38_02",
+          "lesson_name": "Hair & Eye Attributes",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Use possessive alignment syntax to state specific facial feature states.",
+          "targe_language": "long hair, short hair, blue eyes, glasses, wears",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U38_03",
+          "lesson_name": "What Does He Look Like?",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Execute interrogative descriptive protocols targeting an individual's appearance.",
+          "targe_language": "What does he look like?, What does she look like?, beautiful, handsome",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U39",
+      "unit_name": "Free Time Activities",
+      "lessons": [
+        {
+          "lesson_id": "L1_U39_01",
+          "lesson_name": "Outdoor Leisure Activities",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Reading & Listening",
+          "lesson_scope": "Vocabulary",
+          "learning_objectives": "Recognize and identify structural terms for outdoor recreational hobbies.",
+          "targe_language": "ride a bike, walk in the park, play tennis, go swimming, free time",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U39_02",
+          "lesson_name": "Indoor Entertainment",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Speaking & Writing",
+          "lesson_scope": "Vocabulary Extension",
+          "learning_objectives": "Identify and describe indoor leisure habits using targeted media and game tokens.",
+          "targe_language": "play video games, watch a movie, play chess, listen to music",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U39_03",
+          "lesson_name": "Frequency Introductions",
+          "lesson_type": "NEW KNOWLEDGE",
+          "lesson_skill": "Listening & Speaking",
+          "lesson_scope": "Grammar",
+          "learning_objectives": "Connect personal leisure activities to standard frequency frameworks.",
+          "targe_language": "every day, on Saturdays, sometimes, never, when I am",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "U40",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L1_U40_01",
+          "lesson_name": "Review: Emotional Routine Diagnostics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Mood & Activity Integration",
+          "learning_objectives": "Review and cross-examine emotional states, sensation metrics, and leisure habit tracking.",
+          "targe_language": "feel happy, because, tired, ride a bike, sometimes",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U40_02",
+          "lesson_name": "Review: Character Portrait Mapping",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Appearance & Trait Integration",
+          "learning_objectives": "Verify physical trait data combining height, build metrics, hair styles, and accessories.",
+          "targe_language": "tall, thin, has long hair, wears glasses, look",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_U40_03",
+          "lesson_name": "Review: Full Social Architecture Check",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Full Domain Consolidation",
+          "learning_objectives": "Synthesize appearance queries, positive emotional moods, indoor media sports, and fixed frequencies.",
+          "targe_language": "What does he look like?, happy, play video games, every day",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L1",
+      "level_name": "Starter",
+      "unit_id": "M03",
+      "unit_name": "Mocktest Level 1 (Part 3)",
+      "lessons": [
+        {
+          "lesson_id": "L1_M03_PART1",
+          "lesson_name": "Mocktest Part 1: Climate & Mobility",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner retention on weather conditions, basic transport, and movement verbs.",
+          "targe_language": "sunny, rainy, windy, take a bus, drive a car",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M03_PART2",
+          "lesson_name": "Mocktest Part 2: Town Coordinates",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner competency in public places, map navigation, and directional phrases.",
+          "targe_language": "hospital, supermarket, bank, turn left, opposite",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L1_M03_PART3",
+          "lesson_name": "Mocktest Part 3: Profiles & Leisure",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner synthesis of emotional states, physical descriptions, and free-time frequencies.",
+          "targe_language": "feel happy, tall, short hair, play video games, sometimes",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U01",
+      "unit_name": "My Childhood",
+      "lessons": [
+        {
+          "lesson_id": "L2_U01_L1",
+          "lesson_name": "Childhood Memories: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn regular and irregular past tense verbs related to childhood memories.",
+          "targe_language": "grew up, used to, played, collected, remembered",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U01_L2",
+          "lesson_name": "Past Simple Structures: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master Past Simple affirmative, negative, and question forms for past actions.",
+          "targe_language": "did not have, did you live, was, went, bought",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U01_L3",
+          "lesson_name": "Storytelling Skills: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Connect past events logically using linkers like because, although, and when.",
+          "targe_language": "because, although, when, first, after that",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U02",
+      "unit_name": "My Best Friend",
+      "lessons": [
+        {
+          "lesson_id": "L2_U02_L1",
+          "lesson_name": "Describing Personality: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire descriptive adjectives for personality, behavior, and character traits.",
+          "targe_language": "reliable, cheerful, generous, helpful, sense of humor",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U02_L2",
+          "lesson_name": "Comparative Adjectives: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Formulate comparative sentences using short and long adjectives for people.",
+          "targe_language": "taller than, more patient, kinder, older, as friendly as",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U02_L3",
+          "lesson_name": "Sharing Experiences: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze text to infer relational dynamics and hidden context clues.",
+          "targe_language": "known each other, secrets, support, keep in touch, hang out",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U03",
+      "unit_name": "My Hometown",
+      "lessons": [
+        {
+          "lesson_id": "L2_U03_L1",
+          "lesson_name": "Local Landmarks & Features: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire noun phrases and features describing modern and traditional localities.",
+          "targe_language": "outskirts, historic landmarks, facility, peaceful, population",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U03_L2",
+          "lesson_name": "Quantifiers & Modifiers: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Apply quantifiers with countable and uncountable nouns accurately.",
+          "targe_language": "too much traffic, a few parks, many buildings, not enough, a lot of",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U03_L3",
+          "lesson_name": "Urban vs. Rural Living: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract structural trade-offs and implicit meanings from descriptive texts.",
+          "targe_language": "convenient, polluted, peaceful lifestyle, public transport, public facilities",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U04",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U04_R1",
+          "lesson_name": "Review Part 1: History & Memory",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate past narrative forms, memory lexicons, and past sequence linkers.",
+          "targe_language": "grew up, used to, collected, because, although",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U04_R2",
+          "lesson_name": "Review Part 2: Friend Attributes",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate character adjectives, comparative patterns, and relational expressions.",
+          "targe_language": "reliable, more patient, taller than, known each other, hang out",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U04_R3",
+          "lesson_name": "Review Part 3: Spatial Diagnostics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate modern landmark terms, geographic quantifiers, and lifestyle tradeoffs.",
+          "targe_language": "outskirts, too much, public transport, convenient, peaceful lifestyle",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U05",
+      "unit_name": "Important Life Events",
+      "lessons": [
+        {
+          "lesson_id": "L2_U05_L1",
+          "lesson_name": "Milestones & Transitions: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn major life event verbs and milestone markers in past and present formats.",
+          "targe_language": "graduate from, get a job, move to, get married, milestone",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U05_L2",
+          "lesson_name": "Irregular Past & Time Expressions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master irregular past tense verbs and specific historical time markers (ago, in).",
+          "targe_language": "irregular past verbs (won, left, met), time expressions (five years ago, in 2018)",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U05_L3",
+          "lesson_name": "Narrative Chronology: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Structure life stories chronologically using ordering phrases and linkers.",
+          "targe_language": "at first, eventually, suddenly, changing point",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U06",
+      "unit_name": "Personal Strengths",
+      "lessons": [
+        {
+          "lesson_id": "L2_U06_L1",
+          "lesson_name": "Adjectives of Capability: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire complex descriptive adjectives for professional and cognitive talents.",
+          "targe_language": "organized, creative, hard-working, problem-solving, skillful",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U06_L2",
+          "lesson_name": "Modals of Ability: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Differentiate present and past physical/cognitive abilities using modals.",
+          "targe_language": "can, cannot, could, could not, be good at",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U06_L3",
+          "lesson_name": "Contextual Talent Valuation",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Infer operational capacity and professional value statements from job profiles.",
+          "targe_language": "reliable asset, handle pressure, leadership, team player, communication",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U07",
+      "unit_name": "Making Plans",
+      "lessons": [
+        {
+          "lesson_id": "L2_U07_L1",
+          "lesson_name": "Arrangements & Intentions: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire terminology for structured travel, bookings, and agenda management.",
+          "targe_language": "book a flight, look forward to, schedule, accommodation, itinerary",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U07_L2",
+          "lesson_name": "Intentions & Predictions: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Differentiate future intent structures using be going to and present continuous.",
+          "targe_language": "be going to, am meeting, planning to, intend to, next week",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U07_L3",
+          "lesson_name": "Conditional Contingencies: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze text to handle conditional situational changes and backup choices.",
+          "targe_language": "if it rains, what if, backup plan, alternative, cancel",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U08",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U08_R1",
+          "lesson_name": "Review Part 1: Lifecycle Turning Points",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate milestone vocabulary items, irregular past models, and sequencing linkers.",
+          "targe_language": "graduate from, get a job, met, five years ago, eventually",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U08_R2",
+          "lesson_name": "Review Part 2: Organizational Asset Check",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate capability adjectives, ability modals, and corporate value terms.",
+          "targe_language": "organized, problem-solving, can, could not, handle pressure",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U08_R3",
+          "lesson_name": "Review Part 3: Future Contingency Schemes",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate scheduling terms, structured arrangements, and first conditional adjustments.",
+          "targe_language": "itinerary, am meeting, be going to, if it rains, backup plan",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U09",
+      "unit_name": "Inviting Someone Out",
+      "lessons": [
+        {
+          "lesson_id": "L2_U09_L1",
+          "lesson_name": "Making Invitations: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn essential verbs, phrases, and time markers for proposing social gatherings.",
+          "targe_language": "Would you like to, join us, go out for dinner, free tonight, invitation",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U09_L2",
+          "lesson_name": "Polite Requests & Suggestions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master modal structures and gerund/infinitive frameworks for social proposals.",
+          "targe_language": "How about, Why don't we, sounds great, love to, but I can't",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U09_L3",
+          "lesson_name": "Confirming Social Plans: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze text to coordinate meeting logs, pick locations, and fix schedules.",
+          "targe_language": "pick you up, meet at, let me know, cancel, change plans",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U10",
+      "unit_name": "Talking about Yesterday",
+      "lessons": [
+        {
+          "lesson_id": "L2_U10_L1",
+          "lesson_name": "Past Daily Actions: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire past simple verbs detailing completed household, academic, and transit routines.",
+          "targe_language": "stayed at home, cleaned, studied, cooked, washed",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U10_L2",
+          "lesson_name": "Past Simple Questions & Negatives",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Formulate Past Simple question structures and negative boundaries for standard actions.",
+          "targe_language": "did you do, did not watch, did she go, went to bed, early",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U10_L3",
+          "lesson_name": "Yesterday's Narrative Balance",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze text to extract event timelines and reconcile conflicting yesterday schedules.",
+          "targe_language": "morning routine, unexpected, turned out, productive day, instead of",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U11",
+      "unit_name": "Family Celebrations",
+      "lessons": [
+        {
+          "lesson_id": "L2_U11_L1",
+          "lesson_name": "Festive Occasions: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn specialized vocabulary tokens and activities for standard family gatherings.",
+          "targe_language": "birthday party, anniversary, gather, decorate, relative",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U11_L2",
+          "lesson_name": "Describing Ongoing Preparations",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master Present Continuous configurations tracking active event preparation stages.",
+          "targe_language": "is baking, are putting up, is wrapping, making preparations, currently",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U11_L3",
+          "lesson_name": "Cultural Customs & Meanings",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract social expectations and underlying values from family event texts.",
+          "targe_language": "traditional dress, exchange gifts, wish someone health, generation, look forward to",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U12",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U12_R1",
+          "lesson_name": "Review Part 1: Social Logic & Queries",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate invitation proposals, modal suggestion formats, and cancellation phrases.",
+          "targe_language": "Would you like to, How about, Why don't we, sounds great, let me know",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U12_R2",
+          "lesson_name": "Review Part 2: Timeline Reconciliations",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate past narrative verb forms, yesterday timelines, and negative question boundaries.",
+          "targe_language": "stayed at home, cleaned, studied, what did you do, did not watch",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U12_R3",
+          "lesson_name": "Review Part 3: Preparation Logistics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate gathering vocabulary terms, continuous preparation verbs, and custom descriptions.",
+          "targe_language": "relatives, gather, is baking, wrapping gifts, traditional dress",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "M01",
+      "unit_name": "Mocktest Level 2 (Part 1)",
+      "lessons": [
+        {
+          "lesson_id": "L2_M01_PART1",
+          "lesson_name": "Mocktest Part 1: Childhood Stories",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner mastery of past simple structures, habit phrases, and chronological sequencing linkers.",
+          "targe_language": "grew up, used to, did not have, although, first",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M01_PART2",
+          "lesson_name": "Mocktest Part 2: Friend Profiles",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner competency in personality adjectives, comparative structures, and relational duration.",
+          "targe_language": "reliable, cheerful, more patient, taller than, known each other",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M01_PART3",
+          "lesson_name": "Mocktest Part 3: Hometown Infrastructure",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner synthesis of urban/rural geography vocabulary, environmental quantifiers, and tradeoffs.",
+          "targe_language": "outskirts, historic landmarks, too much traffic, convenient, polluted",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U13",
+      "unit_name": "Giving Advice",
+      "lessons": [
+        {
+          "lesson_id": "L2_U13_L1",
+          "lesson_name": "Health Problems & Symptoms: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn essential vocabulary tokens for physical symptoms and health conditions.",
+          "targe_language": "headache, sore throat, fever, cough, stomachache",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U13_L2",
+          "lesson_name": "Modals for Recommendation: Grammar",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master modal structures (should, should not, must) to deliver health advice.",
+          "targe_language": "should see a doctor, should not drink, must rest, ought to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U13_L3",
+          "lesson_name": "Empathetic Responses: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze conversational data to match appropriate remedies to unique symptoms.",
+          "targe_language": "Poor you!, Why don't you, take some medicine, stay up late",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U14",
+      "unit_name": "At the Airport",
+      "lessons": [
+        {
+          "lesson_id": "L2_U14_L1",
+          "lesson_name": "Departure Terminal Logistics: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire primary airport infrastructure terminology and transit document names.",
+          "targe_language": "check-in desk, boarding pass, luggage, gate, passport",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U14_L2",
+          "lesson_name": "Prepositions of Direction & Space",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Formulate structural position rows using airport transit prepositions.",
+          "targe_language": "through security, over head, inside the bag, behind the line",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U14_L3",
+          "lesson_name": "Delay & Transit Resolutions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract situational transit changes and schedule updates from airport scripts.",
+          "targe_language": "delayed, flight announcement, final call, look for, direct flight",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U15",
+      "unit_name": "Staying at a Hotel",
+      "lessons": [
+        {
+          "lesson_id": "L2_U15_L1",
+          "lesson_name": "Lodging Operations & Rooms: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn administrative terminology for registering, staying, and interacting at lodging counters.",
+          "targe_language": "check in, double room, reception desk, room key, single room",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U15_L2",
+          "lesson_name": "Politeness with Modals of Request",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master polite request auxiliary models (Could I, Would you mind) for customer needs.",
+          "targe_language": "Could I have, Would you mind, extra towel, included in, view",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U15_L3",
+          "lesson_name": "Handling Amenity Logistics",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract asset profiles, solve service errors, and navigate check-out rules from lodging data.",
+          "targe_language": "room service, check out, facilities, air conditioning, complain",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U16",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U16_R1",
+          "lesson_name": "Review Part 1: Diagnostic Advice Loops",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate symptom tokens, health recommendation modals, and empathetic feedback items.",
+          "targe_language": "headache, sore throat, fever, should see a doctor, must rest",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U16_R2",
+          "lesson_name": "Review Part 2: Terminal Space Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate departure terms, spatial transit prepositions, and scheduling markers.",
+          "targe_language": "check-in desk, boarding pass, through security, delayed, final call",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U16_R3",
+          "lesson_name": "Review Part 3: Hospitality Settlement",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate hotel operation terms, polite request structures, and amenity logs.",
+          "targe_language": "check in, reception desk, Would you mind, extra towel, check out",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U17",
+      "unit_name": "Holiday Postcards",
+      "lessons": [
+        {
+          "lesson_id": "L2_U17_L1",
+          "lesson_name": "Postcard Greetings & Openings: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn standard epistolary phrases and holiday descriptors for brief travel notes.",
+          "targe_language": "greeting from, having a wonderful time, spectacular, wish you were here, postcard",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U17_L2",
+          "lesson_name": "Present Continuous for Current Vacation Actions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master Present Continuous structures to describe temporary vacation actions.",
+          "targe_language": "am sitting by the pool, is swimming, are eating, lying on the beach",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U17_L3",
+          "lesson_name": "Summarizing Travel Logs: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Connect immediate vacation updates logically using current timeline markers.",
+          "targe_language": "so far, currently, missing home, heading to, local cuisine",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U18",
+      "unit_name": "Famous Landmarks",
+      "lessons": [
+        {
+          "lesson_id": "L2_U18_L1",
+          "lesson_name": "Structural Marvels & Sites: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire primary architectural and tourist site description terminology.",
+          "targe_language": "ancient palace, historic monument, modern architecture, tour guide, explore",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U18_L2",
+          "lesson_name": "Superlative Adjectives for Landmarks",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Formulate superlative sentences using short and long adjectives for tourist attractions.",
+          "targe_language": "the oldest, the most famous, the tallest, the most beautiful, in the world",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U18_L3",
+          "lesson_name": "Tourism Routing & Rules: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Analyze visitor guidelines, entrance rules, and historical facts from site descriptions.",
+          "targe_language": "entry fee, photography allowed, background information, audio guide, crowded",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U19",
+      "unit_name": "Beach vs. Mountains",
+      "lessons": [
+        {
+          "lesson_id": "L2_U19_L1",
+          "lesson_name": "Geographic Landscapes: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn specialized geography terminology contrasting seaside and highland environments.",
+          "targe_language": "sandy beach, mountain peak, hiking trail, scenery, seafood",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U19_L2",
+          "lesson_name": "Preferences with Prefer and Would Rather",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master comparative preference syntax using prefer... to and would rather... than.",
+          "targe_language": "prefer... to, would rather... than, relaxing, adventurous, outdoor activities",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U19_L3",
+          "lesson_name": "Destination Pros & Cons: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract environmental benefits, drawbacks, and practical terrain tradeoffs from travel copy.",
+          "targe_language": "drawback, benefit, sunbathe, escape the city, dynamic landscape",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U20",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U20_R1",
+          "lesson_name": "Review Part 1: Epistolary & Action Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate travel postcard vocabulary tokens, continuous vacation actions, and progress markers.",
+          "targe_language": "Greetings from, am sitting, wish you were here, so far, heading to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U20_R2",
+          "lesson_name": "Review Part 2: Landmark Architectural Metrics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate structural marvel lexicons, landmark superlatives, and site guidelines.",
+          "targe_language": "ancient palace, tour guide, the oldest, the most famous, entry fee",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U20_R3",
+          "lesson_name": "Review Part 3: Terrain Choice Matrices",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate landscape terms, preference structures, and wilderness tradeoff descriptors.",
+          "targe_language": "mountain peak, hiking trail, prefer... to, would rather... than, drawback",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U21",
+      "unit_name": "Healthy Habits",
+      "lessons": [
+        {
+          "lesson_id": "L2_U21_L1",
+          "lesson_name": "Daily Routines & Wellness: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn dynamic phrases and action verbs representing positive personal physical care habits.",
+          "targe_language": "stay active, balanced diet, stay hydrated, get enough sleep, lifestyle",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U21_L2",
+          "lesson_name": "Adverbs of Frequency & Intensity",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master adverbs of frequency and behavioral patterns within an active lifestyle routine.",
+          "targe_language": "regularly, rarely, frequently, consistently, basic verbs",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U21_L3",
+          "lesson_name": "Behavioral Advice: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze health entries to identify lifestyle tradeoffs and process positive physiological advice.",
+          "targe_language": "cut down on, keep up, habit, choice, beneficial",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U22",
+      "unit_name": "Favorite Recipes",
+      "lessons": [
+        {
+          "lesson_id": "L2_U22_L1",
+          "lesson_name": "Culinary Actions & Steps: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn essential cooking preparation verbs and recipe execution keywords.",
+          "targe_language": "chop the onions, boil the water, stir the soup, bake, ingredient",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U22_L2",
+          "lesson_name": "Sequence Adverbs for Processes",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master logical process sequencing structures to explain an orderly recipe execution.",
+          "targe_language": "first, then, after that, finally, instructions",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U22_L3",
+          "lesson_name": "Recipe Adjustments: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract measurements, handle conditional alternative seasonings, and balance recipe values.",
+          "targe_language": "pinch of salt, teaspoon, tablespoon, instead of, flavor",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U23",
+      "unit_name": "Common Illnesses",
+      "lessons": [
+        {
+          "lesson_id": "L2_U23_L1",
+          "lesson_name": "Advanced Medical Conditions: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire specialized medical terms describing non-emergency viral conditions and symptoms.",
+          "targe_language": "flu, allergy, infection, stomach bug, swollen",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U23_L2",
+          "lesson_name": "Giving Reasons with Because of and Due to",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Differentiate reason markers followed by full clauses vs. noun phrases.",
+          "targe_language": "because of the flu, due to an allergy, since, as, reason",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U23_L3",
+          "lesson_name": "Clinical Instructions & Pharmacy Rules",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Reconcile medication schedules, dosage amounts, and clinical limitations from patient files.",
+          "targe_language": "prescription, dose, pharmacy, side effects, avoid",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U24",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U24_R1",
+          "lesson_name": "Review Part 1: Routine Wellness Integrations",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-examine life care vocabularies, frequency behaviors, and diagnostic advice linkers.",
+          "targe_language": "balanced diet, stay hydrated, regularly, rarely, cut down on",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U24_R2",
+          "lesson_name": "Review Part 2: Procedural Production Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-examine cooking preparation verbs, execution sequence adverbs, and seasoning measurements.",
+          "targe_language": "chop the onions, boil the water, first, finally, pinch of salt",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U24_R3",
+          "lesson_name": "Review Part 3: Clinical System Controls",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-examine infection afflictions, advanced reason formulas, and pharmaceutical regulations.",
+          "targe_language": "flu, infection, swollen, because of the flu, prescription",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "M02",
+      "unit_name": "Mocktest Level 2 (Part 2)",
+      "lessons": [
+        {
+          "lesson_id": "L2_M02_PART1",
+          "lesson_name": "Mocktest Part 1: Life Transitions",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner mastery of historical milestones, irregular past verbs, and narrative ordering markers.",
+          "targe_language": "graduate from, get a job, met, five years ago, eventually",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M02_PART2",
+          "lesson_name": "Mocktest Part 2: Professional Talents",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner competency in capability adjectives, present/past ability modals, and workplace resilience terms.",
+          "targe_language": "organized, problem-solving, can, could not, handle pressure",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M02_PART3",
+          "lesson_name": "Mocktest Part 3: Future Contingencies",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner synthesis of travel arrangements, fixed calendar entries, and first conditional structures.",
+          "targe_language": "itinerary, am meeting, be going to, if it rains, backup plan",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U25",
+      "unit_name": "At the Doctor",
+      "lessons": [
+        {
+          "lesson_id": "L2_U25_L1",
+          "lesson_name": "Clinical Consultations: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn core verbs and technical phrases used during a standard medical examination.",
+          "targe_language": "medical check-up, symptom, diagnose, examine, prescription",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U25_L2",
+          "lesson_name": "First Conditional for Medical Outcomes",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master First Conditional structures to explain future health consequences and warnings.",
+          "targe_language": "if you take, will feel, unless you rest, will not recover",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U25_L3",
+          "lesson_name": "Post-Check Instructions: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract recovery timelines and specific behavioral restrictions from clinical dialogues.",
+          "targe_language": "take days off, follow advice, medical certificate, recover fully, avoid",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U26",
+      "unit_name": "Fast Food vs. Cooking",
+      "lessons": [
+        {
+          "lesson_id": "L2_U26_L1",
+          "lesson_name": "Dietary Habits & Food Types: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire comparative vocabulary representing processed quick-service items and fresh home cuisine.",
+          "targe_language": "processed food, home-cooked meal, convenient choice, nutritious, takeaway",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U26_L2",
+          "lesson_name": "Comparative Modifiers for Food Quality",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Use structural modifiers (much better, far more expensive) to sharpen dietary comparisons.",
+          "targe_language": "much better, far more expensive, healthier than, less nutritious, cheaper",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U26_L3",
+          "lesson_name": "Lifestyle Preferences: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract domestic budgeting, nutritional benefits, and cooking trade-offs from lifestyle essays.",
+          "targe_language": "save money, fresh ingredients, time-consuming, financial benefit, health value",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U27",
+      "unit_name": "Using Social Media",
+      "lessons": [
+        {
+          "lesson_id": "L2_U27_L1",
+          "lesson_name": "Digital Interaction Channels: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn technological terms and active verbs describing internet networking platforms.",
+          "targe_language": "post a comment, scroll through, viral video, notifications, content creator",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U27_L2",
+          "lesson_name": "Gerunds vs. Infinitives for Digital Actions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Differentiate verb shapes acting as subject heads or trailing specific control verbs.",
+          "targe_language": "spending time online, avoids checking, decided to upload, stop scrolling, keep posting",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U27_L3",
+          "lesson_name": "Screen Time Management: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze user diagnostic profile records to evaluate digital downsides and screen boundaries.",
+          "targe_language": "screen time, stay connected, distraction, digital detox, reduce",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U28",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U28_R1",
+          "lesson_name": "Review Part 1: Medical Consultation Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate clinical examination verbs, first conditional outcomes, and workplace absence guidelines.",
+          "targe_language": "examine, diagnose, will feel, unless you rest, medical certificate",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U28_R2",
+          "lesson_name": "Review Part 2: Dietary Value Metrics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate fresh vs processed food vocabulary, intense comparative modifiers, and lifestyle tradeoffs.",
+          "targe_language": "home-cooked meal, nutritious, far more expensive, much better, save money",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U28_R3",
+          "lesson_name": "Review Part 3: Digital Screen Controls",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate technological social verbs, gerund subject structures, and digital detox boundaries.",
+          "targe_language": "scroll through, post a comment, spending time online, screen time, digital detox",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U29",
+      "unit_name": "My First Job",
+      "lessons": [
+        {
+          "lesson_id": "L2_U29_L1",
+          "lesson_name": "Workplace Entry: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn essential verbs and phrases for first job experiences and professional entries.",
+          "targe_language": "entry-level, internship, colleague, uniform, salary",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U29_L2",
+          "lesson_name": "Past Continuous for Workplace Backgrounds",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master Past Continuous structures to establish background scenes and ongoing actions in past narratives.",
+          "targe_language": "was working, were typing, was preparing, was dealing with",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U29_L3",
+          "lesson_name": "Interrupted Past Actions: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Connect past background states to sudden events logically using when and while.",
+          "targe_language": "when the phone rang, while I was writing, suddenly, interrupted",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U30",
+      "unit_name": "Modern Gadgets",
+      "lessons": [
+        {
+          "lesson_id": "L2_U30_L1",
+          "lesson_name": "Hardware Accessories: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire noun phrases representing common electronic personal consumer assets and devices.",
+          "targe_language": "wireless headphones, smart watch, power bank, portable speaker, gadget",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U30_L2",
+          "lesson_name": "Relative Clauses for Device Functions",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master defining relative clauses using which and who to attribute specific capabilities to equipment.",
+          "targe_language": "which links to, which stores energy, who design devices, that allows you to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U30_L3",
+          "lesson_name": "Device Troubleshooting: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze user reports to handle hardware failure tokens, diagnostic steps, and feature glitches.",
+          "targe_language": "low battery, signal connection, freeze, charge the device, restart",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U31",
+      "unit_name": "Computer Basics",
+      "lessons": [
+        {
+          "lesson_id": "L2_U31_L1",
+          "lesson_name": "Operating System Interface: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn administrative interface terminology, file operations, and folder directory units.",
+          "targe_language": "desktop background, folder, create a file, delete, password protection",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U31_L2",
+          "lesson_name": "Conjunctions for Logical Sequences",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Apply logical sequencing connectors (as soon as, before, while) to data processing tasks.",
+          "targe_language": "as soon as you log in, before saving, back up, until it finishes",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U31_L3",
+          "lesson_name": "Corporate Software Guidelines",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract operational security constraints, authorization steps, and document parameters from office briefs.",
+          "targe_language": "download attachment, security warning, run antivirus, virus, update software",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U32",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U32_R1",
+          "lesson_name": "Review Part 1: Workplace Timeline Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate professional entry lexicons, past background scenes, and interrupted timeline linkers.",
+          "targe_language": "entry-level, internship, was working, when the phone rang, interrupted",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U32_R2",
+          "lesson_name": "Review Part 2: Device Capability Metrics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate hardware accessory tokens, defining relative clause configurations, and system failure logs.",
+          "targe_language": "smart watch, power bank, which links to, freeze, restart the system",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U32_R3",
+          "lesson_name": "Review Part 3: Operational Security Controls",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate interface workspace terms, sequential processing conjunctions, and network safety rules.",
+          "targe_language": "folder, delete, as soon as you log in, before saving, download attachment",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U33",
+      "unit_name": "Writing Emails",
+      "lessons": [
+        {
+          "lesson_id": "L2_U33_L1",
+          "lesson_name": "Professional Email Components: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn administrative terminology and structural elements for workplace email correspondence.",
+          "targe_language": "subject line, attachment, dear, best regards, forward",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U33_L2",
+          "lesson_name": "Modals for Polite Corporate Inquiries",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master modal auxiliary frameworks (I would like to, Could you please) to structure office requests.",
+          "targe_language": "I would like to, Could you please, am writing to, let me know",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U33_L3",
+          "lesson_name": "Digital Correspondence Ethics",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract delivery parameters, confirm responses, and manage data loops from text trails.",
+          "targe_language": "reply to all, urgent request, confirm receipt, out of office, copy",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U34",
+      "unit_name": "Nature & Environment",
+      "lessons": [
+        {
+          "lesson_id": "L2_U34_L1",
+          "lesson_name": "Ecosystem Elements & Wildlife: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire complex noun phrases describing geography, biodiversity, and wild settings.",
+          "targe_language": "tropical rainforest, wildlife, scenery, protection, nature reserve",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U34_L2",
+          "lesson_name": "Cause and Effect with Because and So",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master complex coordination syntax using because and so to explain eco-balances.",
+          "targe_language": "because it is protected, so we must reduce, because of pollution, so it is vital",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U34_L3",
+          "lesson_name": "Environmental Preservation Issues",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze ecological data briefs to process recycling plans, damage alerts, and climate tradeoffs.",
+          "targe_language": "climate change, plastic waste, recycle, eco-friendly, protect nature",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U35",
+      "unit_name": "Life in the Countryside",
+      "lessons": [
+        {
+          "lesson_id": "L2_U35_L1",
+          "lesson_name": "Rural Infrastructures & Farming: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn agricultural vocabulary tokens, rural landscape properties, and cottage lexicons.",
+          "targe_language": "cottage, farmhouse, wheat field, harvest, livestock",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U35_L2",
+          "lesson_name": "Comparative Structures for Countryside vs. City",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Formulate advanced comparisons detailing environmental qualities and space metrics.",
+          "targe_language": "much quieter than, less crowded, cleaner air, far more spacious, slower pace",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U35_L3",
+          "lesson_name": "Rural Commute & Connectivity: Context",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract transport limitations, internet accessibility issues, and community frameworks from rural logs.",
+          "targe_language": "limited access, remote area, commute, community feel, strong bond",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U36",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U36_R1",
+          "lesson_name": "Review Part 1: Administrative Text Audits",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate formal email components, request modals, and thread response ethics.",
+          "targe_language": "subject line, Could you please, urgent request, confirm receipt, reply to all",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U36_R2",
+          "lesson_name": "Review Part 2: Ecological Balance Metrics",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate wilderness terminology, causal sentence linkers, and preservation issues.",
+          "targe_language": "tropical rainforest, nature reserve, because, so, climate change",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U36_R3",
+          "lesson_name": "Review Part 3: Rural Quality Dimensions",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate farm infrastructure lexicons, intensified rural comparisons, and isolation tradeoffs.",
+          "targe_language": "cottage, wheat field, much quieter than, less crowded than, remote area",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U37",
+      "unit_name": "Shopping Malls",
+      "lessons": [
+        {
+          "lesson_id": "L2_U37_L1",
+          "lesson_name": "Mall Facilities & Navigation: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn common phrases and directional locations inside a multi-story shopping complex.",
+          "targe_language": "escalator, food court, department store, fitting room, discount",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U37_L2",
+          "lesson_name": "Present Perfect with Just, Already, and Yet",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master Present Perfect structures to state immediate past actions and uncompleted shopping tasks.",
+          "targe_language": "have just bought, has already eaten, have not found yet, since, for",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U37_L3",
+          "lesson_name": "Consumer Exchanges & Refunds",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract return rules, financial transaction data, and item parameter choices from service counter exchanges.",
+          "targe_language": "receipt, refund, exchange for, customer service, faulty product",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U38",
+      "unit_name": "Public Holidays",
+      "lessons": [
+        {
+          "lesson_id": "L2_U38_L1",
+          "lesson_name": "National Festivals & Breaks: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Acquire primary holiday terminology, civic breaks, and festive custom vocabularies.",
+          "targe_language": "public holiday, firework display, parade, bank holiday, celebrate",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U38_L2",
+          "lesson_name": "Present Perfect with Since and For",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master temporal constraints using since for point timelines vs. duration blocks.",
+          "targe_language": "have lived here since, for three days, since 2015, have not seen",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U38_L3",
+          "lesson_name": "Festive Scheduling & Constraints",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Analyze institutional schedule amendments, seasonal closures, and regional custom rules.",
+          "targe_language": "peak season, fully booked, closure, opening hours, annual festival",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U39",
+      "unit_name": "My Neighborhood",
+      "lessons": [
+        {
+          "lesson_id": "L2_U39_L1",
+          "lesson_name": "Suburban Facilities & Spots: Vocab",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Vocabulary Focus",
+          "learning_objectives": "Learn administrative neighborhood structures, urban landmarks, and communal amenities.",
+          "targe_language": "community center, pedestrian zone, grocery store, pharmacy, safe neighborhood",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U39_L2",
+          "lesson_name": "Prepositions of Place for Urban Mapping",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Grammar Calibration",
+          "learning_objectives": "Master positional spatial mappings (along the street, at the corner, next to).",
+          "targe_language": "along the street, at the corner, across from, within walking distance, next to",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U39_L3",
+          "lesson_name": "Neighborhood Quality Appraisals",
+          "lesson_type": "STANDARD",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Functional Language",
+          "learning_objectives": "Extract urban layout benefits, neighborhood downsides, and civic property parameters from city surveys.",
+          "targe_language": "lively atmosphere, low crime rate, noise pollution, clean streets, downside",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "U40",
+      "unit_name": "Review Unit",
+      "lessons": [
+        {
+          "lesson_id": "L2_U40_R1",
+          "lesson_name": "Review Part 1: Retail Interaction Controls",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate shopping center facilities, present perfect transaction markers, and client return rules.",
+          "targe_language": "escalator, food court, fitting room, have just bought, have not found yet",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U40_R2",
+          "lesson_name": "Review Part 2: Festival Timeline Verifications",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate national civic celebrations, duration prepositions, and high-volume reservation limits.",
+          "targe_language": "bank holiday, firework display, have lived here since, for three years, fully booked",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_U40_R3",
+          "lesson_name": "Review Part 3: Urban Layout Layouts",
+          "lesson_type": "REVIEW",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Re-evaluate neighborhood facility terms, local mapping configurations, and district quality dimensions.",
+          "targe_language": "pedestrian zone, community center, at the corner, within walking distance, downside",
+          "ui_engine": "QUIZ"
+        }
+      ]
+    },
+    {
+      "level_id": "L2",
+      "level_name": "Elementary",
+      "unit_id": "M03",
+      "unit_name": "Mocktest Level 2 (Part 3)",
+      "lessons": [
+        {
+          "lesson_id": "L2_M03_PART1",
+          "lesson_name": "Mocktest Part 1: Medical Symptoms & Advice",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner mastery of health symptom tokens, recommendation modals, and empathetic responses.",
+          "targe_language": "headache, sore throat, fever, should see a doctor, must rest",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M03_PART2",
+          "lesson_name": "Mocktest Part 2: Airport Navigation & Space",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Listening & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner competency in departure infrastructure terms, prepositions of direction, and travel statuses.",
+          "targe_language": "check-in desk, boarding pass, through security, delayed, final call",
+          "ui_engine": "QUIZ"
+        },
+        {
+          "lesson_id": "L2_M03_PART3",
+          "lesson_name": "Mocktest Part 3: Hospitality Operations",
+          "lesson_type": "MOCKTEST",
+          "lesson_skill": "Reading & Quiz",
+          "lesson_scope": "Comprehensive Test",
+          "learning_objectives": "Evaluate learner synthesis of hotel operations, polite requests with modals, and amenity grievance processing.",
+          "targe_language": "reception desk, Would you mind, extra towel, check out, facilities",
+          "ui_engine": "QUIZ"
+        }
+      ]
     }
   ]

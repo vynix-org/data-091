@@ -1,0 +1,366 @@
+[
+    {
+      "lesson_id": "L1_U09_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hello, my name is Alex. I have a small family.\nThis is my father and this is my mother.\nI also have one brother and one sister.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hello, my name is Alex. I have a small family. This is my father and this is my mother. I also have one brother and one sister.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used for Alex's male sibling.",
+          "englishWord": "Choose the term used for Alex's male sibling.",
+          "category": "Question answer",
+          "correct": "brother",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sister"
+            },
+            {
+              "id": "option-2",
+              "text": "mother"
+            },
+            {
+              "id": "option-3",
+              "text": "father"
+            },
+            {
+              "id": "option-4",
+              "text": "brother"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Alex has a small ____.",
+          "englishWord": "Alex has a small ____.",
+          "category": "Complete the sentence",
+          "correct": "family",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "car"
+            },
+            {
+              "id": "option-2",
+              "text": "bag"
+            },
+            {
+              "id": "option-3",
+              "text": "family"
+            },
+            {
+              "id": "option-4",
+              "text": "house"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Alex has two sisters according to the text.",
+          "englishWord": "Alex has two sisters according to the text.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My father and ____ are my parents.",
+          "englishWord": "My father and ____ are my parents.",
+          "category": "Fill in the blank",
+          "correct": "mother",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "mother"
+            },
+            {
+              "id": "option-2",
+              "text": "brother"
+            },
+            {
+              "id": "option-3",
+              "text": "sister"
+            },
+            {
+              "id": "option-4",
+              "text": "grandmother"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "father",
+          "category": "Arrange the words",
+          "correct": "father",
+          "words": [
+            "h",
+            "t",
+            "a",
+            "r",
+            "e",
+            "f"
+          ],
+          "translateWords": [
+            "h",
+            "t",
+            "a",
+            "r",
+            "e",
+            "f"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U09_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Who is this, Emma?\nThis is my brother. His name is Sam. He is ten years old.\nAnd who is that? She is my mother.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Who is this, Emma? This is my brother. His name is Sam. He is ten years old. And who is that? She is my mother.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct question used to ask about an unknown person's identity.",
+          "englishWord": "Choose the correct question used to ask about an unknown person's identity.",
+          "category": "Question answer",
+          "correct": "Who is this?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "What color is it?"
+            },
+            {
+              "id": "option-2",
+              "text": "Who is this?"
+            },
+            {
+              "id": "option-3",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-4",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "This is ____ brother.",
+          "englishWord": "This is ____ brother.",
+          "category": "Complete the sentence",
+          "correct": "my",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "me"
+            },
+            {
+              "id": "option-2",
+              "text": "my"
+            },
+            {
+              "id": "option-3",
+              "text": "you"
+            },
+            {
+              "id": "option-4",
+              "text": "he"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Sam is Emma's father.",
+          "englishWord": "Sam is Emma's father.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ is ten years old.",
+          "englishWord": "____ is ten years old.",
+          "category": "Fill in the blank",
+          "correct": "He",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "He"
+            },
+            {
+              "id": "option-2",
+              "text": "She"
+            },
+            {
+              "id": "option-3",
+              "text": "They"
+            },
+            {
+              "id": "option-4",
+              "text": "We"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "This is my sister",
+          "category": "Arrange the words",
+          "correct": "This is my sister",
+          "words": [
+            "my",
+            "sister",
+            "is",
+            "This"
+          ],
+          "translateWords": [
+            "my",
+            "sister",
+            "is",
+            "This"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U09_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This is my grandfather. He is a doctor.\nAnd this is my grandmother. She is a teacher.\nThey love our family.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This is my grandfather. He is a doctor. And this is my grandmother. She is a teacher. They love our family.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the occupation of the grandfather mentioned in the text.",
+          "englishWord": "Choose the occupation of the grandfather mentioned in the text.",
+          "category": "Question answer",
+          "correct": "doctor",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "teacher"
+            },
+            {
+              "id": "option-2",
+              "text": "student"
+            },
+            {
+              "id": "option-3",
+              "text": "doctor"
+            },
+            {
+              "id": "option-4",
+              "text": "driver"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "My grandmother is a ____.",
+          "englishWord": "My grandmother is a ____.",
+          "category": "Complete the sentence",
+          "correct": "teacher",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "doctor"
+            },
+            {
+              "id": "option-2",
+              "text": "sister"
+            },
+            {
+              "id": "option-3",
+              "text": "family"
+            },
+            {
+              "id": "option-4",
+              "text": "teacher"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The grandfather is a teacher.",
+          "englishWord": "The grandfather is a teacher.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My mother's mother is my grand____.",
+          "englishWord": "My mother's mother is my grand____.",
+          "category": "Fill in the blank",
+          "correct": "mother",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "mother"
+            },
+            {
+              "id": "option-2",
+              "text": "father"
+            },
+            {
+              "id": "option-3",
+              "text": "sister"
+            },
+            {
+              "id": "option-4",
+              "text": "brother"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He is a doctor",
+          "category": "Arrange the words",
+          "correct": "He is a doctor",
+          "words": [
+            "a",
+            "is",
+            "doctor",
+            "He"
+          ],
+          "translateWords": [
+            "a",
+            "is",
+            "doctor",
+            "He"
+          ]
+        }
+      ]
+    }
+  ]

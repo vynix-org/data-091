@@ -1,0 +1,366 @@
+[
+    {
+      "lesson_id": "L1_U08_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Our team meeting is on Monday, May 5th.\nPlease bring a blue pen and a red notebook.\nNo green items.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Our team meeting is on Monday, May 5th. Please bring a blue pen and a red notebook. No green items.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the day token assigned for the team event.",
+          "englishWord": "Choose the day token assigned for the team event.",
+          "category": "Question answer",
+          "correct": "Monday",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Friday"
+            },
+            {
+              "id": "option-2",
+              "text": "Monday"
+            },
+            {
+              "id": "option-3",
+              "text": "Sunday"
+            },
+            {
+              "id": "option-4",
+              "text": "Wednesday"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Bring a ____ pen.",
+          "englishWord": "Bring a ____ pen.",
+          "category": "Complete the sentence",
+          "correct": "blue",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "red"
+            },
+            {
+              "id": "option-2",
+              "text": "green"
+            },
+            {
+              "id": "option-3",
+              "text": "blue"
+            },
+            {
+              "id": "option-4",
+              "text": "yellow"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The meeting is scheduled during the weekend.",
+          "englishWord": "The meeting is scheduled during the weekend.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The event is in the month of ____.",
+          "englishWord": "The event is in the month of ____.",
+          "category": "Fill in the blank",
+          "correct": "May",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "January"
+            },
+            {
+              "id": "option-2",
+              "text": "March"
+            },
+            {
+              "id": "option-3",
+              "text": "May"
+            },
+            {
+              "id": "option-4",
+              "text": "October"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Blue Green Red",
+          "category": "Arrange the words",
+          "correct": "Blue Green Red",
+          "words": [
+            "Green",
+            "Blue",
+            "Red"
+          ],
+          "translateWords": [
+            "Green",
+            "Blue",
+            "Red"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U08_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Name: Yuki. Origin: Japan.\nNationality: Japanese.\nBirthday: October 12th.\nLanguage: speaks Japanese and English.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Name: Yuki. Origin: Japan. Nationality: Japanese. Birthday: October 12th. Language: speaks Japanese and English.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct description for Yuki's identity profile.",
+          "englishWord": "Choose the correct description for Yuki's identity profile.",
+          "category": "Question answer",
+          "correct": "She is Japanese",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "She is American"
+            },
+            {
+              "id": "option-2",
+              "text": "She is Japanese"
+            },
+            {
+              "id": "option-3",
+              "text": "She is from England"
+            },
+            {
+              "id": "option-4",
+              "text": "She is Chinese"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Yuki's birthday is on ____ 12th.",
+          "englishWord": "Yuki's birthday is on ____ 12th.",
+          "category": "Complete the sentence",
+          "correct": "October",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "May"
+            },
+            {
+              "id": "option-2",
+              "text": "January"
+            },
+            {
+              "id": "option-3",
+              "text": "October"
+            },
+            {
+              "id": "option-4",
+              "text": "December"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Yuki can speak English.",
+          "englishWord": "Yuki can speak English.",
+          "category": "True or False",
+          "isCorrect": true
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ are you from? - I am from Japan.",
+          "englishWord": "____ are you from? - I am from Japan.",
+          "category": "Fill in the blank",
+          "correct": "Where",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Where"
+            },
+            {
+              "id": "option-2",
+              "text": "Who"
+            },
+            {
+              "id": "option-3",
+              "text": "What"
+            },
+            {
+              "id": "option-4",
+              "text": "When"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "When is your birthday?",
+          "category": "Arrange the words",
+          "correct": "When is your birthday?",
+          "words": [
+            "birthday",
+            "is",
+            "When",
+            "your",
+            "?"
+          ],
+          "translateWords": [
+            "birthday",
+            "is",
+            "When",
+            "your",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U08_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Sarah is from America.\nShe is American.\nShe lives in a white house with a red door.\nHer birthday is March 3rd.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Sarah is from America. She is American. She lives in a white house with a red door. Her birthday is March 3rd.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the nationality adjective that describes Sarah.",
+          "englishWord": "Choose the nationality adjective that describes Sarah.",
+          "category": "Question answer",
+          "correct": "American",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Vietnamese"
+            },
+            {
+              "id": "option-2",
+              "text": "English"
+            },
+            {
+              "id": "option-3",
+              "text": "Japanese"
+            },
+            {
+              "id": "option-4",
+              "text": "American"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sarah lives in a ____ house.",
+          "englishWord": "Sarah lives in a ____ house.",
+          "category": "Complete the sentence",
+          "correct": "white",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "red"
+            },
+            {
+              "id": "option-2",
+              "text": "white"
+            },
+            {
+              "id": "option-3",
+              "text": "blue"
+            },
+            {
+              "id": "option-4",
+              "text": "green"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Sarah's birthday occurs in the summer month of July.",
+          "englishWord": "Sarah's birthday occurs in the summer month of July.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Sarah is ____ America.",
+          "englishWord": "Sarah is ____ America.",
+          "category": "Fill in the blank",
+          "correct": "from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "from"
+            },
+            {
+              "id": "option-2",
+              "text": "in"
+            },
+            {
+              "id": "option-3",
+              "text": "to"
+            },
+            {
+              "id": "option-4",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What color is your car?",
+          "category": "Arrange the words",
+          "correct": "What color is your car?",
+          "words": [
+            "is",
+            "car",
+            "color",
+            "your",
+            "What",
+            "?"
+          ],
+          "translateWords": [
+            "is",
+            "car",
+            "color",
+            "your",
+            "What",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

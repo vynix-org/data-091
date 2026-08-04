@@ -1,0 +1,372 @@
+[
+    {
+      "lesson_id": "L1_U07_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hello! My name is Kenji.\nI am from Japan.\nMy friend John is from America, and Lin is from China.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hello! My name is Kenji. I am from Japan. My friend John is from America, and Lin is from China.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Kenji's country of origin based on the text.",
+          "englishWord": "Choose Kenji's country of origin based on the text.",
+          "category": "Question answer",
+          "correct": "Japan",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "England"
+            },
+            {
+              "id": "option-2",
+              "text": "Japan"
+            },
+            {
+              "id": "option-3",
+              "text": "China"
+            },
+            {
+              "id": "option-4",
+              "text": "America"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "John is from ____.",
+          "englishWord": "John is from ____.",
+          "category": "Complete the sentence",
+          "correct": "America",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Vietnam"
+            },
+            {
+              "id": "option-2",
+              "text": "Japan"
+            },
+            {
+              "id": "option-3",
+              "text": "America"
+            },
+            {
+              "id": "option-4",
+              "text": "Australia"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Lin is from England.",
+          "englishWord": "Lin is from England.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "London is a city in ____.",
+          "englishWord": "London is a city in ____.",
+          "category": "Fill in the blank",
+          "correct": "England",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "England"
+            },
+            {
+              "id": "option-2",
+              "text": "Japan"
+            },
+            {
+              "id": "option-3",
+              "text": "China"
+            },
+            {
+              "id": "option-4",
+              "text": "America"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Australia",
+          "category": "Arrange the words",
+          "correct": "Australia",
+          "words": [
+            "a",
+            "i",
+            "l",
+            "a",
+            "r",
+            "t",
+            "s",
+            "u",
+            "A"
+          ],
+          "translateWords": [
+            "a",
+            "i",
+            "l",
+            "a",
+            "r",
+            "t",
+            "s",
+            "u",
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U07_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Are you English, Peter? No, I am American. I am from New York. My wife is Japanese.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Are you English, Peter? No, I am American. I am from New York. My wife is Japanese.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Peter's proper demographic classification.",
+          "englishWord": "Choose Peter's proper demographic classification.",
+          "category": "Question answer",
+          "correct": "American",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "English"
+            },
+            {
+              "id": "option-2",
+              "text": "Japanese"
+            },
+            {
+              "id": "option-3",
+              "text": "American"
+            },
+            {
+              "id": "option-4",
+              "text": "Chinese"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Peter's wife is ____.",
+          "englishWord": "Peter's wife is ____.",
+          "category": "Complete the sentence",
+          "correct": "Japanese",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "American"
+            },
+            {
+              "id": "option-2",
+              "text": "Japanese"
+            },
+            {
+              "id": "option-3",
+              "text": "Vietnamese"
+            },
+            {
+              "id": "option-4",
+              "text": "Australian"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Peter is from London.",
+          "englishWord": "Peter is from London.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Lin is from Beijing. She is ____.",
+          "englishWord": "Lin is from Beijing. She is ____.",
+          "category": "Fill in the blank",
+          "correct": "Chinese",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Chinese"
+            },
+            {
+              "id": "option-2",
+              "text": "Japanese"
+            },
+            {
+              "id": "option-3",
+              "text": "Vietnamese"
+            },
+            {
+              "id": "option-4",
+              "text": "American"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I am Vietnamese",
+          "category": "Arrange the words",
+          "correct": "I am Vietnamese",
+          "words": [
+            "I",
+            "Vietnamese",
+            "am"
+          ],
+          "translateWords": [
+            "I",
+            "Vietnamese",
+            "am"
+          ]
+        }
+      ]
+    },
+    {
+     "lesson_id": "L1_U07_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Where are you from, Maria? I am from Spain. I speak Spanish. Do you speak English?",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Where are you from, Maria? I am from Spain. I speak Spanish. Do you speak English?",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the standard interrogative structure for origin inquiries.",
+          "englishWord": "Choose the standard interrogative structure for origin inquiries.",
+          "category": "Question answer",
+          "correct": "Where are you from?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "What is your name?"
+            },
+            {
+              "id": "option-2",
+              "text": "Where are you from?"
+            },
+            {
+              "id": "option-3",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-4",
+              "text": "What color is it?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Maria is ____ Spain.",
+          "englishWord": "Maria is ____ Spain.",
+          "category": "Complete the sentence",
+          "correct": "from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "at"
+            },
+            {
+              "id": "option-2",
+              "text": "to"
+            },
+            {
+              "id": "option-3",
+              "text": "from"
+            },
+            {
+              "id": "option-4",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Maria speaks Japanese as her main language.",
+          "englishWord": "Maria speaks Japanese as her main language.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I can ____ English and Vietnamese.",
+          "englishWord": "I can ____ English and Vietnamese.",
+          "category": "Fill in the blank",
+          "correct": "speak",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "speak"
+            },
+            {
+              "id": "option-2",
+              "text": "write"
+            },
+            {
+              "id": "option-3",
+              "text": "read"
+            },
+            {
+              "id": "option-4",
+              "text": "learn"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Where are you from?",
+          "category": "Arrange the words",
+          "correct": "Where are you from?",
+          "words": [
+            "you",
+            "from",
+            "Where",
+            "are",
+            "?"
+          ],
+          "translateWords": [
+            "you",
+            "from",
+            "Where",
+            "are",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,354 @@
+[
+    {
+      "lesson_id": "L1_U11_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Every morning, I wake up at six o'clock.\nI wash my face and brush my teeth.\nThen, I eat breakfast with my family.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Every morning, I wake up at six o'clock. I wash my face and brush my teeth. Then, I eat breakfast with my family.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the act performed at six o'clock based on the text.",
+          "englishWord": "Choose the act performed at six o'clock based on the text.",
+          "category": "Question answer",
+          "correct": "wake up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "eat breakfast"
+            },
+            {
+              "id": "option-2",
+              "text": "brush my teeth"
+            },
+            {
+              "id": "option-3",
+              "text": "wake up"
+            },
+            {
+              "id": "option-4",
+              "text": "wash my face"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I wash my face and brush my ____.",
+          "englishWord": "I wash my face and brush my ____.",
+          "category": "Complete the sentence",
+          "correct": "teeth",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hair"
+            },
+            {
+              "id": "option-2",
+              "text": "teeth"
+            },
+            {
+              "id": "option-3",
+              "text": "hands"
+            },
+            {
+              "id": "option-4",
+              "text": "eyes"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The person eats breakfast alone in the morning.",
+          "englishWord": "The person eats breakfast alone in the morning.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I do these activities every ____.",
+          "englishWord": "I do these activities every ____.",
+          "category": "Fill in the blank",
+          "correct": "morning",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "morning"
+            },
+            {
+              "id": "option-2",
+              "text": "afternoon"
+            },
+            {
+              "id": "option-3",
+              "text": "evening"
+            },
+            {
+              "id": "option-4",
+              "text": "night"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "eat breakfast",
+          "category": "Arrange the words",
+          "correct": "eat breakfast",
+          "words": [
+            "eat",
+            "breakfast"
+          ],
+          "translateWords": [
+            "eat",
+            "breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U11_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "In the afternoon, I go to school from Monday to Friday.\nIn the evening, I eat dinner with my sister.\nI go to bed at nine o'clock.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "In the afternoon, I go to school from Monday to Friday. In the evening, I eat dinner with my sister. I go to bed at nine o'clock.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the target destination for weekdays in the afternoon.",
+          "englishWord": "Choose the target destination for weekdays in the afternoon.",
+          "category": "Question answer",
+          "correct": "go to school",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "go to work"
+            },
+            {
+              "id": "option-2",
+              "text": "go to school"
+            },
+            {
+              "id": "option-3",
+              "text": "go to bed"
+            },
+            {
+              "id": "option-4",
+              "text": "wash face"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "In the evening, I eat ____.",
+          "englishWord": "In the evening, I eat ____.",
+          "category": "Complete the sentence",
+          "correct": "dinner",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "breakfast"
+            },
+            {
+              "id": "option-2",
+              "text": "lunch"
+            },
+            {
+              "id": "option-3",
+              "text": "dinner"
+            },
+            {
+              "id": "option-4",
+              "text": "teeth"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The individual sleeps at eleven o'clock.",
+          "englishWord": "The individual sleeps at eleven o'clock.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I relax and eat dinner in the ____.",
+          "englishWord": "I relax and eat dinner in the ____.",
+          "category": "Fill in the blank",
+          "correct": "evening",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "morning"
+            },
+            {
+              "id": "option-2",
+              "text": "afternoon"
+            },
+            {
+              "id": "option-3",
+              "text": "evening"
+            },
+            {
+              "id": "option-4",
+              "text": "night"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "go to bed",
+          "category": "Arrange the words",
+          "correct": "go to bed",
+          "words": [
+            "to",
+            "bed",
+            "go"
+          ],
+          "translateWords": [
+            "to",
+            "bed",
+            "go"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U11_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What time is it, dad?\nIt is seven o'clock.\nTime to go to school!\nOh, I wake up at half past six every day.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What time is it, dad? It is seven o'clock. Time to go to school! Oh, I wake up at half past six every day.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the question used to check temporal status.",
+          "englishWord": "Choose the question used to check temporal status.",
+          "category": "Question answer",
+          "correct": "What time is it?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Where are you from?"
+            },
+            {
+              "id": "option-2",
+              "text": "What time is it?"
+            },
+            {
+              "id": "option-3",
+              "text": "Who is this?"
+            },
+            {
+              "id": "option-4",
+              "text": "How old are you?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "It is seven ____.",
+          "englishWord": "It is seven ____.",
+          "category": "Complete the sentence",
+          "correct": "o'clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "time"
+            },
+            {
+              "id": "option-2",
+              "text": "date"
+            },
+            {
+              "id": "option-3",
+              "text": "o'clock"
+            },
+            {
+              "id": "option-4",
+              "text": "hours"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The child wakes up at exactly seven o'clock.",
+          "englishWord": "The child wakes up at exactly seven o'clock.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I go to school ____ eight o'clock.",
+          "englishWord": "I go to school ____ eight o'clock.",
+          "category": "Fill in the blank",
+          "correct": "at",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "at"
+            },
+            {
+              "id": "option-2",
+              "text": "in"
+            },
+            {
+              "id": "option-3",
+              "text": "on"
+            },
+            {
+              "id": "option-4",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "half past six",
+          "category": "Arrange the words",
+          "correct": "half past six",
+          "words": [
+            "past",
+            "half",
+            "six"
+          ],
+          "translateWords": [
+            "past",
+            "half",
+            "six"
+          ]
+        }
+      ]
+    }
+  ]

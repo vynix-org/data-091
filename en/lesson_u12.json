@@ -1,0 +1,370 @@
+[
+    {
+      "lesson_id": "L1_U12_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This is my mother.\nShe is in the living room on the green sofa.\nMy sister is in the bedroom.\nHer book is on the bed.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This is my mother. She is in the living room on the green sofa. My sister is in the bedroom. Her book is on the bed.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the spatial sector where the mother is located.",
+          "englishWord": "Choose the spatial sector where the mother is located.",
+          "category": "Question answer",
+          "correct": "living room",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "kitchen"
+            },
+            {
+              "id": "option-2",
+              "text": "bathroom"
+            },
+            {
+              "id": "option-3",
+              "text": "bedroom"
+            },
+            {
+              "id": "option-4",
+              "text": "living room"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The sister's book is ____ the bed.",
+          "englishWord": "The sister's book is ____ the bed.",
+          "category": "Complete the sentence",
+          "correct": "on",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "under"
+            },
+            {
+              "id": "option-2",
+              "text": "on"
+            },
+            {
+              "id": "option-3",
+              "text": "next to"
+            },
+            {
+              "id": "option-4",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The father is mentioned as being on the sofa.",
+          "englishWord": "The father is mentioned as being on the sofa.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My ____ is in the bedroom.",
+          "englishWord": "My ____ is in the bedroom.",
+          "category": "Fill in the blank",
+          "correct": "sister",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sister"
+            },
+            {
+              "id": "option-2",
+              "text": "mother"
+            },
+            {
+              "id": "option-3",
+              "text": "brother"
+            },
+            {
+              "id": "option-4",
+              "text": "father"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The book is on the bed",
+          "category": "Arrange the words",
+          "correct": "The book is on the bed",
+          "words": [
+            "on",
+            "bed",
+            "The",
+            "is",
+            "book",
+            "the"
+          ],
+          "translateWords": [
+            "on",
+            "bed",
+            "The",
+            "is",
+            "book",
+            "the"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U12_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What time do you wake up, brother?\nI wake up at six o'clock in the morning.\nThen I eat breakfast and go to school at seven o'clock.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What time do you wake up, brother? I wake up at six o'clock in the morning. Then I eat breakfast and go to school at seven o'clock.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the morning routine target execution time for waking up.",
+          "englishWord": "Choose the morning routine target execution time for waking up.",
+          "category": "Question answer",
+          "correct": "six o'clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "seven o'clock"
+            },
+            {
+              "id": "option-2",
+              "text": "six o'clock"
+            },
+            {
+              "id": "option-3",
+              "text": "half past six"
+            },
+            {
+              "id": "option-4",
+              "text": "eight o'clock"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I eat breakfast and go to ____.",
+          "englishWord": "I eat breakfast and go to ____.",
+          "category": "Complete the sentence",
+          "correct": "school",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "home"
+            },
+            {
+              "id": "option-2",
+              "text": "bed"
+            },
+            {
+              "id": "option-3",
+              "text": "school"
+            },
+            {
+              "id": "option-4",
+              "text": "work"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The brother leaves for school at six o'clock.",
+          "englishWord": "The brother leaves for school at six o'clock.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "He wakes up at six ____.",
+          "englishWord": "He wakes up at six ____.",
+          "category": "Fill in the blank",
+          "correct": "o'clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "o'clock"
+            },
+            {
+              "id": "option-2",
+              "text": "hours"
+            },
+            {
+              "id": "option-3",
+              "text": "morning"
+            },
+            {
+              "id": "option-4",
+              "text": "time"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What time is it?",
+          "category": "Arrange the words",
+          "correct": "What time is it?",
+          "words": [
+            "is",
+            "What",
+            "time",
+            "it",
+            "?"
+          ],
+          "translateWords": [
+            "is",
+            "What",
+            "time",
+            "it",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U12_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My grandfather is a doctor.\nIn the evening, at six o'clock, he is in the kitchen.\nHe eats dinner at the big table.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My grandfather is a doctor. In the evening, at six o'clock, he is in the kitchen. He eats dinner at the big table.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the family unit role linked to the medicine path.",
+          "englishWord": "Choose the family unit role linked to the medicine path.",
+          "category": "Question answer",
+          "correct": "grandfather",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "brother"
+            },
+            {
+              "id": "option-2",
+              "text": "grandmother"
+            },
+            {
+              "id": "option-3",
+              "text": "grandfather"
+            },
+            {
+              "id": "option-4",
+              "text": "sister"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The grandfather eats dinner in the ____.",
+          "englishWord": "The grandfather eats dinner in the ____.",
+          "category": "Complete the sentence",
+          "correct": "kitchen",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "bedroom"
+            },
+            {
+              "id": "option-2",
+              "text": "bathroom"
+            },
+            {
+              "id": "option-3",
+              "text": "kitchen"
+            },
+            {
+              "id": "option-4",
+              "text": "living room"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The grandfather stays in the kitchen during the morning.",
+          "englishWord": "The grandfather stays in the kitchen during the morning.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "At six o'clock, he ____ dinner.",
+          "englishWord": "At six o'clock, he ____ dinner.",
+          "category": "Fill in the blank",
+          "correct": "eats",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "eats"
+            },
+            {
+              "id": "option-2",
+              "text": "cooks"
+            },
+            {
+              "id": "option-3",
+              "text": "washes"
+            },
+            {
+              "id": "option-4",
+              "text": "finds"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "It is at six o'clock",
+          "category": "Arrange the words",
+          "correct": "It is at six o'clock",
+          "words": [
+            "six",
+            "at",
+            "o'clock",
+            "It",
+            "is"
+          ],
+          "translateWords": [
+            "six",
+            "at",
+            "o'clock",
+            "It",
+            "is"
+          ]
+        }
+      ]
+    }
+  ]

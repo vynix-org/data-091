@@ -1,0 +1,362 @@
+[
+    {
+      "lesson_id": "L1_M01_PART1",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Good morning! My name is Ben.\nB-E-N.\nI am fine, thank you.\nWhat is your name?",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Good morning! My name is Ben. B-E-N. I am fine, thank you. What is your name?",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct morning greeting from the text.",
+          "englishWord": "Choose the correct morning greeting from the text.",
+          "category": "Question answer",
+          "correct": "Good morning",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Good evening"
+            },
+            {
+              "id": "option-2",
+              "text": "Good morning"
+            },
+            {
+              "id": "option-3",
+              "text": "Goodbye"
+            },
+            {
+              "id": "option-4",
+              "text": "Good night"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "My ____ is Ben.",
+          "englishWord": "My ____ is Ben.",
+          "category": "Complete the sentence",
+          "correct": "name",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "spell"
+            },
+            {
+              "id": "option-2",
+              "text": "old"
+            },
+            {
+              "id": "option-3",
+              "text": "name"
+            },
+            {
+              "id": "option-4",
+              "text": "phone"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Ben spells his name as B-A-N.",
+          "englishWord": "Ben spells his name as B-A-N.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "How ____ you? - I am fine, thanks.",
+          "englishWord": "How ____ you? - I am fine, thanks.",
+          "category": "Fill in the blank",
+          "correct": "are",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "am"
+            },
+            {
+              "id": "option-2",
+              "text": "is"
+            },
+            {
+              "id": "option-3",
+              "text": "are"
+            },
+            {
+              "id": "option-4",
+              "text": "be"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "BEN",
+          "category": "Arrange the words",
+          "correct": "BEN",
+          "words": [
+            "E",
+            "B",
+            "N"
+          ],
+          "translateWords": [
+            "E",
+            "B",
+            "N"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_M01_PART2",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hello, I am Anna.\nI am thirty-five years old.\nMy phone number is zero-seven-nine-two.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hello, I am Anna. I am thirty-five years old. My phone number is zero-seven-nine-two.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Anna's correct age word based on the text.",
+          "englishWord": "Choose Anna's correct age word based on the text.",
+          "category": "Question answer",
+          "correct": "Thirty-five",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Thirteen"
+            },
+            {
+              "id": "option-2",
+              "text": "Thirty-five"
+            },
+            {
+              "id": "option-3",
+              "text": "Fifty-three"
+            },
+            {
+              "id": "option-4",
+              "text": "Twenty-five"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Anna's phone number starts with ____.",
+          "englishWord": "Anna's phone number starts with ____.",
+          "category": "Complete the sentence",
+          "correct": "zero",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "zero"
+            },
+            {
+              "id": "option-2",
+              "text": "one"
+            },
+            {
+              "id": "option-3",
+              "text": "seven"
+            },
+            {
+              "id": "option-4",
+              "text": "nine"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "\"How old are you?\" is used to ask for a person's telephone digits.",
+          "englishWord": "\"How old are you?\" is used to ask for a person's telephone digits.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "F_rty",
+          "englishWord": "F_rty",
+          "category": "Fill in the blank",
+          "correct": "o",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "a"
+            },
+            {
+              "id": "option-2",
+              "text": "e"
+            },
+            {
+              "id": "option-3",
+              "text": "i"
+            },
+            {
+              "id": "option-4",
+              "text": "o"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I am twenty years old",
+          "category": "Arrange the words",
+          "correct": "I am twenty years old",
+          "words": [
+            "old",
+            "twenty",
+            "years",
+            "am",
+            "I"
+          ],
+          "translateWords": [
+            "old",
+            "twenty",
+            "years",
+            "am",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_M01_PART3",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Yuki is from Japan.\nShe is Japanese.\nHer birthday is on May 12th.\nToday is Monday, and it is eight o'clock in the morning.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Yuki is from Japan. She is Japanese. Her birthday is on May 12th. Today is Monday, and it is eight o'clock in the morning.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Yuki's correct nationality adjective.",
+          "englishWord": "Choose Yuki's correct nationality adjective.",
+          "category": "Question answer",
+          "correct": "Japanese",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "American"
+            },
+            {
+              "id": "option-2",
+              "text": "Japanese"
+            },
+            {
+              "id": "option-3",
+              "text": "Vietnamese"
+            },
+            {
+              "id": "option-4",
+              "text": "English"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Yuki's birthday is on ____ 12th.",
+          "englishWord": "Yuki's birthday is on ____ 12th.",
+          "category": "Complete the sentence",
+          "correct": "May",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "January"
+            },
+            {
+              "id": "option-2",
+              "text": "March"
+            },
+            {
+              "id": "option-3",
+              "text": "May"
+            },
+            {
+              "id": "option-4",
+              "text": "December"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text says it is eight o'clock in the evening.",
+          "englishWord": "The text says it is eight o'clock in the evening.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Where are you ____? - I am from Vietnam.",
+          "englishWord": "Where are you ____? - I am from Vietnam.",
+          "category": "Fill in the blank",
+          "correct": "from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "from"
+            },
+            {
+              "id": "option-2",
+              "text": "to"
+            },
+            {
+              "id": "option-3",
+              "text": "in"
+            },
+            {
+              "id": "option-4",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "It is ten o'clock",
+          "category": "Arrange the words",
+          "correct": "It is ten o'clock",
+          "words": [
+            "o'clock",
+            "It",
+            "ten",
+            "is"
+          ],
+          "translateWords": [
+            "o'clock",
+            "It",
+            "ten",
+            "is"
+          ]
+        }
+      ]
+    }
+  ]

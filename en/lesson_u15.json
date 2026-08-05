@@ -1,0 +1,374 @@
+[
+  {
+    "lesson_id": "L1_U15_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Look at my clothes.\nI have a white shirt for school, a blue T-shirt for football, and black trousers.\nMy sister has a beautiful red dress.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Look at my clothes. I have a white shirt for school, a blue T-shirt for football, and black trousers. My sister has a beautiful red dress.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the color property attached to the T-shirt item.",
+        "englishWord": "Choose the color property attached to the T-shirt item.",
+        "category": "Question answer",
+        "correct": "blue",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "white"
+          },
+          {
+            "id": "option-2",
+            "text": "blue"
+          },
+          {
+            "id": "option-3",
+            "text": "black"
+          },
+          {
+            "id": "option-4",
+            "text": "red"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The sister has a beautiful red ____.",
+        "englishWord": "The sister has a beautiful red ____.",
+        "category": "Complete the sentence",
+        "correct": "dress",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "shirt"
+          },
+          {
+            "id": "option-2",
+            "text": "trousers"
+          },
+          {
+            "id": "option-3",
+            "text": "dress"
+          },
+          {
+            "id": "option-4",
+            "text": "skirt"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The white shirt is designated for playing football.",
+        "englishWord": "The white shirt is designated for playing football.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "He wears black ____ with his white shirt.",
+        "englishWord": "He wears black ____ with his white shirt.",
+        "category": "Fill in the blank",
+        "correct": "trousers",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "trousers"
+          },
+          {
+            "id": "option-2",
+            "text": "shoes"
+          },
+          {
+            "id": "option-3",
+            "text": "socks"
+          },
+          {
+            "id": "option-4",
+            "text": "dress"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "T-shirt",
+        "category": "Arrange the words",
+        "correct": "T-shirt",
+        "words": [
+          "r",
+          "t",
+          "S",
+          "h",
+          "i",
+          "t",
+          "-"
+        ],
+        "translateWords": [
+          "r",
+          "t",
+          "S",
+          "h",
+          "i",
+          "t",
+          "-"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U15_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "It is cold today.\nI wear a warm brown jacket and a yellow hat.\nI also wear black shoes and white socks on my feet.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "It is cold today. I wear a warm brown jacket and a yellow hat. I also wear black shoes and white socks on my feet.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the accessory token meant for the head area.",
+        "englishWord": "Choose the accessory token meant for the head area.",
+        "category": "Question answer",
+        "correct": "hat",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "shoes"
+          },
+          {
+            "id": "option-2",
+            "text": "jacket"
+          },
+          {
+            "id": "option-3",
+            "text": "hat"
+          },
+          {
+            "id": "option-4",
+            "text": "socks"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "On my feet, I wear black ____.",
+        "englishWord": "On my feet, I wear black ____.",
+        "category": "Complete the sentence",
+        "correct": "shoes",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "jackets"
+          },
+          {
+            "id": "option-2",
+            "text": "hats"
+          },
+          {
+            "id": "option-3",
+            "text": "trousers"
+          },
+          {
+            "id": "option-4",
+            "text": "shoes"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The jacket described in the checklist is yellow.",
+        "englishWord": "The jacket described in the checklist is yellow.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Every day, I ____ a white T-shirt.",
+        "englishWord": "Every day, I ____ a white T-shirt.",
+        "category": "Fill in the blank",
+        "correct": "wear",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "wear"
+          },
+          {
+            "id": "option-2",
+            "text": "have"
+          },
+          {
+            "id": "option-3",
+            "text": "put"
+          },
+          {
+            "id": "option-4",
+            "text": "dress"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "socks",
+        "category": "Arrange the words",
+        "correct": "socks",
+        "words": [
+          "s",
+          "k",
+          "c",
+          "o",
+          "s"
+        ],
+        "translateWords": [
+          "s",
+          "k",
+          "c",
+          "o",
+          "s"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U15_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "What are you wearing to the party, Lucy?\nI am wearing my favorite pink dress and white shoes.\nLook at John!\nHe is wearing a blue jacket and black trousers.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "What are you wearing to the party, Lucy? I am wearing my favorite pink dress and white shoes. Look at John! He is wearing a blue jacket and black trousers.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the complete clothing setup assigned to Lucy.",
+        "englishWord": "Choose the complete clothing setup assigned to Lucy.",
+        "category": "Question answer",
+        "correct": "pink dress and white shoes",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "blue jacket and trousers"
+          },
+          {
+            "id": "option-2",
+            "text": "pink dress and white shoes"
+          },
+          {
+            "id": "option-3",
+            "text": "green skirt"
+          },
+          {
+            "id": "option-4",
+            "text": "red dress and black shoes"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "John is ____ a blue jacket.",
+        "englishWord": "John is ____ a blue jacket.",
+        "category": "Complete the sentence",
+        "correct": "wearing",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "wear"
+          },
+          {
+            "id": "option-2",
+            "text": "wearing"
+          },
+          {
+            "id": "option-3",
+            "text": "wears"
+          },
+          {
+            "id": "option-4",
+            "text": "naked"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Lucy is wearing a blue jacket to the party.",
+        "englishWord": "Lucy is wearing a blue jacket to the party.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "What ____ you wearing?",
+        "englishWord": "What ____ you wearing?",
+        "category": "Fill in the blank",
+        "correct": "are",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "am"
+          },
+          {
+            "id": "option-2",
+            "text": "is"
+          },
+          {
+            "id": "option-3",
+            "text": "are"
+          },
+          {
+            "id": "option-4",
+            "text": "do"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "I am wearing a black hat",
+        "category": "Arrange the words",
+        "correct": "I am wearing a black hat",
+        "words": [
+          "wearing",
+          "am",
+          "a",
+          "hat",
+          "I",
+          "black"
+        ],
+        "translateWords": [
+          "wearing",
+          "am",
+          "a",
+          "hat",
+          "I",
+          "black"
+        ]
+      }
+    ]
+  }
+]

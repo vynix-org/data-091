@@ -1,0 +1,360 @@
+[
+    {
+      "lesson_id": "L1_U14_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hi! My name is Ben.\nMy favorite hobby is to read books in my bedroom.\nMy brother Sam does not like reading.\nHe plays football every afternoon.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hi! My name is Ben. My favorite hobby is to read books in my bedroom. My brother Sam does not like reading. He plays football every afternoon.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Ben's favorite personal leisure activity.",
+          "englishWord": "Choose Ben's favorite personal leisure activity.",
+          "category": "Question answer",
+          "correct": "read books",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "play football"
+            },
+            {
+              "id": "option-2",
+              "text": "watch TV"
+            },
+            {
+              "id": "option-3",
+              "text": "read books"
+            },
+            {
+              "id": "option-4",
+              "text": "listen to music"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sam plays ____ every afternoon.",
+          "englishWord": "Sam plays ____ every afternoon.",
+          "category": "Complete the sentence",
+          "correct": "football",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "tennis"
+            },
+            {
+              "id": "option-2",
+              "text": "football"
+            },
+            {
+              "id": "option-3",
+              "text": "guitar"
+            },
+            {
+              "id": "option-4",
+              "text": "piano"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Sam enjoys reading books in his bedroom.",
+          "englishWord": "Sam enjoys reading books in his bedroom.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What is your favorite ____? - I like to listen to music.",
+          "englishWord": "What is your favorite ____? - I like to listen to music.",
+          "category": "Fill in the blank",
+          "correct": "hobby",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "game"
+            },
+            {
+              "id": "option-2",
+              "text": "hobby"
+            },
+            {
+              "id": "option-3",
+              "text": "sport"
+            },
+            {
+              "id": "option-4",
+              "text": "movie"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I read books",
+          "category": "Arrange the words",
+          "correct": "I read books",
+          "words": [
+            "books",
+            "read",
+            "I"
+          ],
+          "translateWords": [
+            "books",
+            "read",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U14_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Do you like to watch TV, Linda?\nYes, I like watching movies.\nBut I do not like to play football.\nIt is difficult.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Do you like to watch TV, Linda? Yes, I like watching movies. But I do not like to play football. It is difficult.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the accurate statement regarding Linda's preference parameters.",
+          "englishWord": "Choose the accurate statement regarding Linda's preference parameters.",
+          "category": "Question answer",
+          "correct": "She likes to watch TV",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "She likes to play football"
+            },
+            {
+              "id": "option-2",
+              "text": "She does not like to watch TV"
+            },
+            {
+              "id": "option-3",
+              "text": "She likes to watch TV"
+            },
+            {
+              "id": "option-4",
+              "text": "She hates movies"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "____ you like to read books?",
+          "englishWord": "____ you like to read books?",
+          "category": "Complete the sentence",
+          "correct": "Do",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Is"
+            },
+            {
+              "id": "option-2",
+              "text": "Are"
+            },
+            {
+              "id": "option-3",
+              "text": "Do"
+            },
+            {
+              "id": "option-4",
+              "text": "Am"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Linda thinks playing football is an easy hobby.",
+          "englishWord": "Linda thinks playing football is an easy hobby.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I ____ not like to play football.",
+          "englishWord": "I ____ not like to play football.",
+          "category": "Fill in the blank",
+          "correct": "do",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "do"
+            },
+            {
+              "id": "option-2",
+              "text": "am"
+            },
+            {
+              "id": "option-3",
+              "text": "is"
+            },
+            {
+              "id": "option-4",
+              "text": "can"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I like listen to music",
+          "category": "Arrange the words",
+          "correct": "I like listen to music",
+          "words": [
+            "listen",
+            "music",
+            "to",
+            "I",
+            "like"
+          ],
+          "translateWords": [
+            "listen",
+            "music",
+            "to",
+            "I",
+            "like"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U14_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Wow, you can paint pictures beautifully, Anna!\nThank you!\nPainting is my favorite hobby.\nI can use many colors like red and blue.\nMy sister cannot paint, but she likes to sing songs.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Wow, you can paint pictures beautifully, Anna! Thank you! Painting is my favorite hobby. I can use many colors like red and blue. My sister cannot paint, but she likes to sing songs.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Anna's main creative skill mentioned in the dialogue.",
+          "englishWord": "Choose Anna's main creative skill mentioned in the dialogue.",
+          "category": "Question answer",
+          "correct": "paint pictures",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sing songs"
+            },
+            {
+              "id": "option-2",
+              "text": "play the guitar"
+            },
+            {
+              "id": "option-3",
+              "text": "paint pictures"
+            },
+            {
+              "id": "option-4",
+              "text": "dance"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Anna's sister likes to ____ songs.",
+          "englishWord": "Anna's sister likes to ____ songs.",
+          "category": "Complete the sentence",
+          "correct": "sing",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "paint"
+            },
+            {
+              "id": "option-2",
+              "text": "sing"
+            },
+            {
+              "id": "option-3",
+              "text": "play"
+            },
+            {
+              "id": "option-4",
+              "text": "dance"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Painting is a hobby that Anna does not like.",
+          "englishWord": "Painting is a hobby that Anna does not like.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What is your ____ hobby? - I like to dance.",
+          "englishWord": "What is your ____ hobby? - I like to dance.",
+          "category": "Fill in the blank",
+          "correct": "favorite",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "best"
+            },
+            {
+              "id": "option-2",
+              "text": "favorite"
+            },
+            {
+              "id": "option-3",
+              "text": "good"
+            },
+            {
+              "id": "option-4",
+              "text": "main"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "play the guitar",
+          "category": "Arrange the words",
+          "correct": "play the guitar",
+          "words": [
+            "guitar",
+            "play",
+            "the"
+          ],
+          "translateWords": [
+            "guitar",
+            "play",
+            "the"
+          ]
+        }
+      ]
+    }
+  ]

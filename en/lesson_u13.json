@@ -1,0 +1,372 @@
+[
+    {
+      "lesson_id": "L1_U13_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look at the big clock on the wall.\nThe small hand points to nine.\nIt is nine o'clock in the morning.\nTime for school!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look at the big clock on the wall. The small hand points to nine. It is nine o'clock in the morning. Time for school!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the correct question used to check the clock status.",
+          "englishWord": "Choose the correct question used to check the clock status.",
+          "category": "Question answer",
+          "correct": "What time is it?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Where are you from?"
+            },
+            {
+              "id": "option-2",
+              "text": "What time is it?"
+            },
+            {
+              "id": "option-3",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-4",
+              "text": "Who is this?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The small hand points to nine, so it is nine ____.",
+          "englishWord": "The small hand points to nine, so it is nine ____.",
+          "category": "Complete the sentence",
+          "correct": "o'clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hours"
+            },
+            {
+              "id": "option-2",
+              "text": "time"
+            },
+            {
+              "id": "option-3",
+              "text": "o'clock"
+            },
+            {
+              "id": "option-4",
+              "text": "dates"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text says it is nine o'clock in the evening.",
+          "englishWord": "The text says it is nine o'clock in the evening.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What ____ is it?",
+          "englishWord": "What ____ is it?",
+          "category": "Fill in the blank",
+          "correct": "time",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "day"
+            },
+            {
+              "id": "option-2",
+              "text": "clock"
+            },
+            {
+              "id": "option-3",
+              "text": "time"
+            },
+            {
+              "id": "option-4",
+              "text": "hour"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "It is five o'clock",
+          "category": "Arrange the words",
+          "correct": "It is five o'clock",
+          "words": [
+            "is",
+            "five",
+            "It",
+            "o'clock"
+          ],
+          "translateWords": [
+            "is",
+            "five",
+            "It",
+            "o'clock"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U13_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What time is it, Mary?\nIt is quarter past ten.\nMy English lesson starts at half past ten.\nWe have fifteen minutes left.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What time is it, Mary? It is quarter past ten. My English lesson starts at half past ten. We have fifteen minutes left.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the current time state mentioned by Mary.",
+          "englishWord": "Choose the current time state mentioned by Mary.",
+          "category": "Question answer",
+          "correct": "quarter past ten",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "half past ten"
+            },
+            {
+              "id": "option-2",
+              "text": "quarter past ten"
+            },
+            {
+              "id": "option-3",
+              "text": "quarter to ten"
+            },
+            {
+              "id": "option-4",
+              "text": "ten o'clock"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The lesson starts at half ____ ten.",
+          "englishWord": "The lesson starts at half ____ ten.",
+          "category": "Complete the sentence",
+          "correct": "past",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "past"
+            },
+            {
+              "id": "option-3",
+              "text": "inside"
+            },
+            {
+              "id": "option-4",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Quarter past ten' means it is 10:45.",
+          "englishWord": "'Quarter past ten' means it is 10:45.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "It is fifteen minutes to eleven, or quarter ____ eleven.",
+          "englishWord": "It is fifteen minutes to eleven, or quarter ____ eleven.",
+          "category": "Fill in the blank",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "past"
+            },
+            {
+              "id": "option-2",
+              "text": "after"
+            },
+            {
+              "id": "option-3",
+              "text": "to"
+            },
+            {
+              "id": "option-4",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "It is half past eight",
+          "category": "Arrange the words",
+          "correct": "It is half past eight",
+          "words": [
+            "past",
+            "is",
+            "half",
+            "It",
+            "eight"
+          ],
+          "translateWords": [
+            "past",
+            "is",
+            "half",
+            "It",
+            "eight"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U13_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What time do you eat lunch, Tom?\n\nI eat lunch at noon, exactly twelve o'clock.\nThen I go back to work at quarter to one.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What time do you eat lunch, Tom? I eat lunch at noon, exactly twelve o'clock. Then I go back to work at quarter to one.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the exact time token that matches 'noon'.",
+          "englishWord": "Choose the exact time token that matches 'noon'.",
+          "category": "Question answer",
+          "correct": "twelve o'clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "six o'clock"
+            },
+            {
+              "id": "option-2",
+              "text": "twelve o'clock"
+            },
+            {
+              "id": "option-3",
+              "text": "half past twelve"
+            },
+            {
+              "id": "option-4",
+              "text": "quarter past one"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tom eats lunch ____ noon.",
+          "englishWord": "Tom eats lunch ____ noon.",
+          "category": "Complete the sentence",
+          "correct": "at",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "on"
+            },
+            {
+              "id": "option-2",
+              "text": "in"
+            },
+            {
+              "id": "option-3",
+              "text": "at"
+            },
+            {
+              "id": "option-4",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Tom returns to his workplace at half past one.",
+          "englishWord": "Tom returns to his workplace at half past one.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ time do you eat lunch?",
+          "englishWord": "____ time do you eat lunch?",
+          "category": "Fill in the blank",
+          "correct": "What",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "How"
+            },
+            {
+              "id": "option-2",
+              "text": "When"
+            },
+            {
+              "id": "option-3",
+              "text": "What"
+            },
+            {
+              "id": "option-4",
+              "text": "Which"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What time do you go to school?",
+          "category": "Arrange the words",
+          "correct": "What time do you go to school?",
+          "words": [
+            "school",
+            "you",
+            "to",
+            "go",
+            "What",
+            "time",
+            "do",
+            "?"
+          ],
+          "translateWords": [
+            "school",
+            "you",
+            "to",
+            "go",
+            "What",
+            "time",
+            "do",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

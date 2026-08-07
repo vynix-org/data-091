@@ -1,0 +1,378 @@
+[
+  {
+    "lesson_id": "L1_U17_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Look at the fruit basket on the table. It has a red apple, a yellow banana, and an orange. I like to eat a sweet strawberry too.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Look at the fruit basket on the table. It has a red apple, a yellow banana, and an orange. I like to eat a sweet strawberry too.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the color of the banana mentioned in the text.",
+        "englishWord": "Choose the color of the banana mentioned in the text.",
+        "category": "Question answer",
+        "correct": "yellow",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "red"
+          },
+          {
+            "id": "option-2",
+            "text": "green"
+          },
+          {
+            "id": "option-3",
+            "text": "yellow"
+          },
+          {
+            "id": "option-4",
+            "text": "blue"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The fruit basket contains an orange and a red ____.",
+        "englishWord": "The fruit basket contains an orange and a red ____.",
+        "category": "Complete the sentence",
+        "correct": "apple",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "banana"
+          },
+          {
+            "id": "option-2",
+            "text": "apple"
+          },
+          {
+            "id": "option-3",
+            "text": "potato"
+          },
+          {
+            "id": "option-4",
+            "text": "onion"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text mentions a green strawberry.",
+        "englishWord": "The text mentions a green strawberry.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "b_n_n",
+        "englishWord": "b_n_n",
+        "category": "Fill in the blank",
+        "correct": "banana",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "banana"
+          },
+          {
+            "id": "option-2",
+            "text": "apple"
+          },
+          {
+            "id": "option-3",
+            "text": "orange"
+          },
+          {
+            "id": "option-4",
+            "text": "tomato"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "strawberry",
+        "category": "Arrange the words",
+        "correct": "strawberry",
+        "words": [
+          "w",
+          "r",
+          "b",
+          "s",
+          "r",
+          "a",
+          "t",
+          "e",
+          "r",
+          "y"
+        ],
+        "translateWords": [
+          "w",
+          "r",
+          "b",
+          "s",
+          "r",
+          "a",
+          "t",
+          "e",
+          "r",
+          "y"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U17_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "We need to buy vegetables today. Please get one big potato, a red tomato, an onion, and two orange carrots for the soup.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "We need to buy vegetables today. Please get one big potato, a red tomato, an onion, and two orange carrots for the soup.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the color property attached to the tomato in the text.",
+        "englishWord": "Choose the color property attached to the tomato in the text.",
+        "category": "Question answer",
+        "correct": "red",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "orange"
+          },
+          {
+            "id": "option-2",
+            "text": "yellow"
+          },
+          {
+            "id": "option-3",
+            "text": "green"
+          },
+          {
+            "id": "option-4",
+            "text": "red"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Please get two orange ____ for the soup.",
+        "englishWord": "Please get two orange ____ for the soup.",
+        "category": "Complete the sentence",
+        "correct": "carrots",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "apples"
+          },
+          {
+            "id": "option-2",
+            "text": "potatoes"
+          },
+          {
+            "id": "option-3",
+            "text": "carrots"
+          },
+          {
+            "id": "option-4",
+            "text": "onions"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Potato and onion are categorized as fruits in the text.",
+        "englishWord": "Potato and onion are categorized as fruits in the text.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "A carrot is a healthy ____.",
+        "englishWord": "A carrot is a healthy ____.",
+        "category": "Fill in the blank",
+        "correct": "vegetable",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "vegetable"
+          },
+          {
+            "id": "option-2",
+            "text": "fruit"
+          },
+          {
+            "id": "option-3",
+            "text": "drink"
+          },
+          {
+            "id": "option-4",
+            "text": "food"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "potato",
+        "category": "Arrange the words",
+        "correct": "potato",
+        "words": [
+          "o",
+          "t",
+          "p",
+          "a",
+          "t",
+          "o"
+        ],
+        "translateWords": [
+          "o",
+          "t",
+          "p",
+          "a",
+          "t",
+          "o"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U17_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "What do you have in your bag, Mary?\nI have an apple, three bananas, and some tomatoes.\nI love fresh food.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "What do you have in your bag, Mary? I have an apple, three bananas, and some tomatoes. I love fresh food.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the correct determiner used before the word 'apple'.",
+        "englishWord": "Choose the correct determiner used before the word 'apple'.",
+        "category": "Question answer",
+        "correct": "an",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "a"
+          },
+          {
+            "id": "option-2",
+            "text": "an"
+          },
+          {
+            "id": "option-3",
+            "text": "some"
+          },
+          {
+            "id": "option-4",
+            "text": "two"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Mary has three ____.",
+        "englishWord": "Mary has three ____.",
+        "category": "Complete the sentence",
+        "correct": "bananas",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "apple"
+          },
+          {
+            "id": "option-2",
+            "text": "tomato"
+          },
+          {
+            "id": "option-3",
+            "text": "bananas"
+          },
+          {
+            "id": "option-4",
+            "text": "onion"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Mary has exactly one tomato in her bag.",
+        "englishWord": "Mary has exactly one tomato in her bag.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "I have ____ tomatoes in my kitchen.",
+        "englishWord": "I have ____ tomatoes in my kitchen.",
+        "category": "Fill in the blank",
+        "correct": "some",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "some"
+          },
+          {
+            "id": "option-2",
+            "text": "a"
+          },
+          {
+            "id": "option-3",
+            "text": "an"
+          },
+          {
+            "id": "option-4",
+            "text": "one"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "I have some tomatoes",
+        "category": "Arrange the words",
+        "correct": "I have some tomatoes",
+        "words": [
+          "tomatoes",
+          "have",
+          "some",
+          "I"
+        ],
+        "translateWords": [
+          "tomatoes",
+          "have",
+          "some",
+          "I"
+        ]
+      }
+    ]
+  }
+]

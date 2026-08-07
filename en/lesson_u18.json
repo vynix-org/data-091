@@ -1,0 +1,368 @@
+[
+  {
+    "lesson_id": "L1_U18_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Every morning, I drink a hot cup of coffee or green tea.\nMy little brother drinks cold milk.\nWe also have fresh orange juice and clean water on the table.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Every morning, I drink a hot cup of coffee or green tea. My little brother drinks cold milk. We also have fresh orange juice and clean water on the table.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the cold liquid option assigned to the little brother.",
+        "englishWord": "Choose the cold liquid option assigned to the little brother.",
+        "category": "Question answer",
+        "correct": "milk",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "coffee"
+          },
+          {
+            "id": "option-2",
+            "text": "tea"
+          },
+          {
+            "id": "option-3",
+            "text": "milk"
+          },
+          {
+            "id": "option-4",
+            "text": "water"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Every morning, I drink a hot cup of ____.",
+        "englishWord": "Every morning, I drink a hot cup of ____.",
+        "category": "Complete the sentence",
+        "correct": "coffee",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "juice"
+          },
+          {
+            "id": "option-2",
+            "text": "coffee"
+          },
+          {
+            "id": "option-3",
+            "text": "water"
+          },
+          {
+            "id": "option-4",
+            "text": "milk"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text says coffee is a cold beverage item.",
+        "englishWord": "The text says coffee is a cold beverage item.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "I love to drink orange ____ in the afternoon.",
+        "englishWord": "I love to drink orange ____ in the afternoon.",
+        "category": "Fill in the blank",
+        "correct": "juice",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "juice"
+          },
+          {
+            "id": "option-2",
+            "text": "tea"
+          },
+          {
+            "id": "option-3",
+            "text": "coffee"
+          },
+          {
+            "id": "option-4",
+            "text": "milk"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "water",
+        "category": "Arrange the words",
+        "correct": "water",
+        "words": [
+          "t",
+          "a",
+          "r",
+          "e",
+          "w"
+        ],
+        "translateWords": [
+          "t",
+          "a",
+          "r",
+          "e",
+          "w"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U18_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Good afternoon! What would you like?\nCan I have a cup of hot tea, please?\nSure.\nAnything else?\nYes, one bottle of water.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Good afternoon! What would you like? Can I have a cup of hot tea, please? Sure. Anything else? Yes, one bottle of water.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the standard polite phrase used to request an item.",
+        "englishWord": "Choose the standard polite phrase used to request an item.",
+        "category": "Question answer",
+        "correct": "Can I have",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "Where are you from?"
+          },
+          {
+            "id": "option-2",
+            "text": "What is your name?"
+          },
+          {
+            "id": "option-3",
+            "text": "Can I have"
+          },
+          {
+            "id": "option-4",
+            "text": "How old are you?"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Can I have a ____ of hot tea, please?",
+        "englishWord": "Can I have a ____ of hot tea, please?",
+        "category": "Complete the sentence",
+        "correct": "cup",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "bottle"
+          },
+          {
+            "id": "option-2",
+            "text": "cup"
+          },
+          {
+            "id": "option-3",
+            "text": "bag"
+          },
+          {
+            "id": "option-4",
+            "text": "table"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The customer requests a hot cup of coffee.",
+        "englishWord": "The customer requests a hot cup of coffee.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Can I have one bottle of water, ____?",
+        "englishWord": "Can I have one bottle of water, ____?",
+        "category": "Fill in the blank",
+        "correct": "please",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "please"
+          },
+          {
+            "id": "option-2",
+            "text": "thanks"
+          },
+          {
+            "id": "option-3",
+            "text": "hello"
+          },
+          {
+            "id": "option-4",
+            "text": "sorry"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Can I have water please?",
+        "category": "Arrange the words",
+        "correct": "Can I have water please?",
+        "words": [
+          "water",
+          "please",
+          "Can",
+          "have",
+          "I",
+          "?"
+        ],
+        "translateWords": [
+          "water",
+          "please",
+          "Can",
+          "have",
+          "I",
+          "?"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U18_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Do you like coffee, David?\nYes, I like to drink hot coffee with sugar. But I like my orange juice cold and without ice.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Do you like coffee, David? Yes, I like to drink hot coffee with sugar. But I like my orange juice cold and without ice.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose David's specific parameter rule for coffee.",
+        "englishWord": "Choose David's specific parameter rule for coffee.",
+        "category": "Question answer",
+        "correct": "with sugar",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "without sugar"
+          },
+          {
+            "id": "option-2",
+            "text": "with ice"
+          },
+          {
+            "id": "option-3",
+            "text": "with sugar"
+          },
+          {
+            "id": "option-4",
+            "text": "cold"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "David likes his orange juice cold and without ____.",
+        "englishWord": "David likes his orange juice cold and without ____.",
+        "category": "Complete the sentence",
+        "correct": "ice",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "sugar"
+          },
+          {
+            "id": "option-2",
+            "text": "milk"
+          },
+          {
+            "id": "option-3",
+            "text": "ice"
+          },
+          {
+            "id": "option-4",
+            "text": "water"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "David does not like to drink hot coffee.",
+        "englishWord": "David does not like to drink hot coffee.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "I ____ to drink green tea in the evening.",
+        "englishWord": "I ____ to drink green tea in the evening.",
+        "category": "Fill in the blank",
+        "correct": "like",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "like"
+          },
+          {
+            "id": "option-2",
+            "text": "want"
+          },
+          {
+            "id": "option-3",
+            "text": "need"
+          },
+          {
+            "id": "option-4",
+            "text": "prefer"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "It is without ice",
+        "category": "Arrange the words",
+        "correct": "It is without ice",
+        "words": [
+          "without",
+          "ice",
+          "It",
+          "is"
+        ],
+        "translateWords": [
+          "without",
+          "ice",
+          "It",
+          "is"
+        ]
+      }
+    ]
+  }
+]

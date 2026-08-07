@@ -1,0 +1,364 @@
+[
+  {
+    "lesson_id": "L1_U20_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "For a healthy salad, we mix one red tomato, an apple, two carrots, and some strawberries. Do not add any onions.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "For a healthy salad, we mix one red tomato, an apple, two carrots, and some strawberries. Do not add any onions.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the specific visual component count assigned to the carrot item.",
+        "englishWord": "Choose the specific visual component count assigned to the carrot item.",
+        "category": "Question answer",
+        "correct": "two",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "one"
+          },
+          {
+            "id": "option-2",
+            "text": "two"
+          },
+          {
+            "id": "option-3",
+            "text": "three"
+          },
+          {
+            "id": "option-4",
+            "text": "some"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Mix a red tomato, two carrots, and some ____.",
+        "englishWord": "Mix a red tomato, two carrots, and some ____.",
+        "category": "Complete the sentence",
+        "correct": "strawberries",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "bananas"
+          },
+          {
+            "id": "option-2",
+            "text": "onions"
+          },
+          {
+            "id": "option-3",
+            "text": "potatoes"
+          },
+          {
+            "id": "option-4",
+            "text": "strawberries"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The recipe mandates adding onions into the salad mixture.",
+        "englishWord": "The recipe mandates adding onions into the salad mixture.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "We need to slice ____ apple for the meal.",
+        "englishWord": "We need to slice ____ apple for the meal.",
+        "category": "Fill in the blank",
+        "correct": "an",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "a"
+          },
+          {
+            "id": "option-2",
+            "text": "an"
+          },
+          {
+            "id": "option-3",
+            "text": "the"
+          },
+          {
+            "id": "option-4",
+            "text": "some"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Carrot Vegetable Apple Fruit",
+        "category": "Arrange the words",
+        "correct": "Carrot Vegetable Apple Fruit",
+        "words": [
+          "Carrot",
+          "Vegetable",
+          "Apple",
+          "Fruit"
+        ],
+        "translateWords": [
+          "Carrot",
+          "Vegetable",
+          "Apple",
+          "Fruit"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U20_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Can I have a cup of hot coffee with sugar, please?\nSure.\nAnd for your friend?\nHe wants a bottle of cold water, without ice.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Can I have a cup of hot coffee with sugar, please? Sure. And for your friend? He wants a bottle of cold water, without ice.",
+        "englishExample": "",
+        "category": "Dialogue"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the modifier element linked to the customer's coffee request.",
+        "englishWord": "Choose the modifier element linked to the customer's coffee request.",
+        "category": "Question answer",
+        "correct": "with sugar",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "without sugar"
+          },
+          {
+            "id": "option-2",
+            "text": "with sugar"
+          },
+          {
+            "id": "option-3",
+            "text": "with ice"
+          },
+          {
+            "id": "option-4",
+            "text": "cold"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The friend wants a ____ of cold water.",
+        "englishWord": "The friend wants a ____ of cold water.",
+        "category": "Complete the sentence",
+        "correct": "bottle",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "cup"
+          },
+          {
+            "id": "option-2",
+            "text": "box"
+          },
+          {
+            "id": "option-3",
+            "text": "glass"
+          },
+          {
+            "id": "option-4",
+            "text": "bottle"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The customer orders hot tea for himself.",
+        "englishWord": "The customer orders hot tea for himself.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "____ I have a cup of hot coffee?",
+        "englishWord": "____ I have a cup of hot coffee?",
+        "category": "Fill in the blank",
+        "correct": "Can",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "Can"
+          },
+          {
+            "id": "option-2",
+            "text": "Do"
+          },
+          {
+            "id": "option-3",
+            "text": "May"
+          },
+          {
+            "id": "option-4",
+            "text": "Will"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "It is without ice",
+        "category": "Arrange the words",
+        "correct": "It is without ice",
+        "words": [
+          "without",
+          "It",
+          "ice",
+          "is"
+        ],
+        "translateWords": [
+          "without",
+          "It",
+          "ice",
+          "is"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U20_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "John enters the restaurant very hungry. He looks at the menu and says: 'I would like fresh fish with white rice, please.'\nAfter eating, he is full. The meal was delicious.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "John enters the restaurant very hungry. He looks at the menu and says: 'I would like fresh fish with white rice, please.' After eating, he is full. The meal was delicious.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose John's entry physiological state.",
+        "englishWord": "Choose John's entry physiological state.",
+        "category": "Question answer",
+        "correct": "hungry",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "full"
+          },
+          {
+            "id": "option-2",
+            "text": "thirsty"
+          },
+          {
+            "id": "option-3",
+            "text": "tired"
+          },
+          {
+            "id": "option-4",
+            "text": "hungry"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "John orders fresh fish with white ____.",
+        "englishWord": "John orders fresh fish with white ____.",
+        "category": "Complete the sentence",
+        "correct": "rice",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "bread"
+          },
+          {
+            "id": "option-2",
+            "text": "noodles"
+          },
+          {
+            "id": "option-3",
+            "text": "rice"
+          },
+          {
+            "id": "option-4",
+            "text": "tomato"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "John complains that his meal choice was bad and cold.",
+        "englishWord": "John complains that his meal choice was bad and cold.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "John finishes the entire plate. He is not hungry now, he is ____.",
+        "englishWord": "John finishes the entire plate. He is not hungry now, he is ____.",
+        "category": "Fill in the blank",
+        "correct": "full",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "hungry"
+          },
+          {
+            "id": "option-2",
+            "text": "full"
+          },
+          {
+            "id": "option-3",
+            "text": "thirsty"
+          },
+          {
+            "id": "option-4",
+            "text": "tired"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "I would like to order",
+        "category": "Arrange the words",
+        "correct": "I would like to order",
+        "words": [
+          "like",
+          "would",
+          "I",
+          "order",
+          "to"
+        ],
+        "translateWords": [
+          "like",
+          "would",
+          "I",
+          "order",
+          "to"
+        ]
+      }
+    ]
+  }
+]

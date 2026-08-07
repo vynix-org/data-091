@@ -1,0 +1,372 @@
+[
+  {
+    "lesson_id": "L1_U16_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "It is half past seven in the morning. Time to go to work! Dave is wearing a blue shirt, black trousers, and black shoes.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "It is half past seven in the morning. Time to go to work! Dave is wearing a blue shirt, black trousers, and black shoes.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the current precise clock status recorded in the text.",
+        "englishWord": "Choose the current precise clock status recorded in the text.",
+        "category": "Question answer",
+        "correct": "half past seven",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "seven o'clock"
+          },
+          {
+            "id": "option-2",
+            "text": "half past seven"
+          },
+          {
+            "id": "option-3",
+            "text": "quarter past seven"
+          },
+          {
+            "id": "option-4",
+            "text": "quarter to eight"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Dave is wearing a blue ____.",
+        "englishWord": "Dave is wearing a blue ____.",
+        "category": "Complete the sentence",
+        "correct": "shirt",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "T-shirt"
+          },
+          {
+            "id": "option-2",
+            "text": "dress"
+          },
+          {
+            "id": "option-3",
+            "text": "shirt"
+          },
+          {
+            "id": "option-4",
+            "text": "jacket"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Dave is dressed and prepared to go to school.",
+        "englishWord": "Dave is dressed and prepared to go to school.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Dave is wearing black ____ on his feet.",
+        "englishWord": "Dave is wearing black ____ on his feet.",
+        "category": "Fill in the blank",
+        "correct": "shoes",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "shoes"
+          },
+          {
+            "id": "option-2",
+            "text": "socks"
+          },
+          {
+            "id": "option-3",
+            "text": "boots"
+          },
+          {
+            "id": "option-4",
+            "text": "sandals"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "It is half past nine",
+        "category": "Arrange the words",
+        "correct": "It is half past nine",
+        "words": [
+          "It",
+          "past",
+          "half",
+          "is",
+          "nine"
+        ],
+        "translateWords": [
+          "It",
+          "past",
+          "half",
+          "is",
+          "nine"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U16_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "I have a busy day. I go to work in the morning. But in the afternoon, at quarter to four, I play football with my friends. I like football very much.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "I have a busy day. I go to work in the morning. But in the afternoon, at quarter to four, I play football with my friends. I like football very much.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the activity match designated for the late afternoon block.",
+        "englishWord": "Choose the activity match designated for the late afternoon block.",
+        "category": "Question answer",
+        "correct": "play football",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "go to work"
+          },
+          {
+            "id": "option-2",
+            "text": "read books"
+          },
+          {
+            "id": "option-3",
+            "text": "play football"
+          },
+          {
+            "id": "option-4",
+            "text": "watch TV"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The football activity starts at quarter to ____.",
+        "englishWord": "The football activity starts at quarter to ____.",
+        "category": "Complete the sentence",
+        "correct": "four",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "three"
+          },
+          {
+            "id": "option-2",
+            "text": "four"
+          },
+          {
+            "id": "option-3",
+            "text": "twelve"
+          },
+          {
+            "id": "option-4",
+            "text": "five"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The speaker does not like football.",
+        "englishWord": "The speaker does not like football.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Do you ____ to read books?",
+        "englishWord": "Do you ____ to read books?",
+        "category": "Fill in the blank",
+        "correct": "like",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "like"
+          },
+          {
+            "id": "option-2",
+            "text": "want"
+          },
+          {
+            "id": "option-3",
+            "text": "need"
+          },
+          {
+            "id": "option-4",
+            "text": "go"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "I do not like to listen music",
+        "category": "Arrange the words",
+        "correct": "I do not like to listen music",
+        "words": [
+          "do",
+          "not",
+          "music",
+          "I",
+          "like",
+          "to",
+          "listen"
+        ],
+        "translateWords": [
+          "do",
+          "not",
+          "music",
+          "I",
+          "like",
+          "to",
+          "listen"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U16_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "It is eight o'clock in the evening. Mary is in her room. She is wearing a comfortable pink dress. Her favorite hobby is to paint pictures, and she is painting a mountain now.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "It is eight o'clock in the evening. Mary is in her room. She is wearing a comfortable pink dress. Her favorite hobby is to paint pictures, and she is painting a mountain now.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the current time state given in the master snapshot.",
+        "englishWord": "Choose the current time state given in the master snapshot.",
+        "category": "Question answer",
+        "correct": "eight o'clock",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "seven o'clock"
+          },
+          {
+            "id": "option-2",
+            "text": "eight o'clock"
+          },
+          {
+            "id": "option-3",
+            "text": "half past eight"
+          },
+          {
+            "id": "option-4",
+            "text": "quarter past eight"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Mary is wearing a pink ____.",
+        "englishWord": "Mary is wearing a pink ____.",
+        "category": "Complete the sentence",
+        "correct": "dress",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "skirt"
+          },
+          {
+            "id": "option-2",
+            "text": "jacket"
+          },
+          {
+            "id": "option-3",
+            "text": "dress"
+          },
+          {
+            "id": "option-4",
+            "text": "T-shirt"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Mary's favorite leisure pursuit is singing songs.",
+        "englishWord": "Mary's favorite leisure pursuit is singing songs.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Mary is tracking her hobby ____ eight o'clock.",
+        "englishWord": "Mary is tracking her hobby ____ eight o'clock.",
+        "category": "Fill in the blank",
+        "correct": "at",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "at"
+          },
+          {
+            "id": "option-2",
+            "text": "in"
+          },
+          {
+            "id": "option-3",
+            "text": "on"
+          },
+          {
+            "id": "option-4",
+            "text": "to"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "I like to paint pictures",
+        "category": "Arrange the words",
+        "correct": "I like to paint pictures",
+        "words": [
+          "pictures",
+          "paint",
+          "I",
+          "like",
+          "to"
+        ],
+        "translateWords": [
+          "pictures",
+          "paint",
+          "I",
+          "like",
+          "to"
+        ]
+      }
+    ]
+  }
+]

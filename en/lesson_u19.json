@@ -1,0 +1,372 @@
+[
+  {
+    "lesson_id": "L1_U19_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Welcome! Today we have fresh fish with white rice, hot chicken soup, and beef noodles.\nWe also serve fresh bread with butter.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Welcome! Today we have fresh fish with white rice, hot chicken soup, and beef noodles. We also serve fresh bread with butter.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the food option paired with white rice based on the menu.",
+        "englishWord": "Choose the food option paired with white rice based on the menu.",
+        "category": "Question answer",
+        "correct": "fish",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "chicken"
+          },
+          {
+            "id": "option-2",
+            "text": "fish"
+          },
+          {
+            "id": "option-3",
+            "text": "bread"
+          },
+          {
+            "id": "option-4",
+            "text": "banana"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The kitchen serves hot chicken ____.",
+        "englishWord": "The kitchen serves hot chicken ____.",
+        "category": "Complete the sentence",
+        "correct": "soup",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "juice"
+          },
+          {
+            "id": "option-2",
+            "text": "milk"
+          },
+          {
+            "id": "option-3",
+            "text": "soup"
+          },
+          {
+            "id": "option-4",
+            "text": "bread"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The restaurant menu features strawberry noodles.",
+        "englishWord": "The restaurant menu features strawberry noodles.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "We eat sandwiches made with fresh ____.",
+        "englishWord": "We eat sandwiches made with fresh ____.",
+        "category": "Fill in the blank",
+        "correct": "bread",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "bread"
+          },
+          {
+            "id": "option-2",
+            "text": "rice"
+          },
+          {
+            "id": "option-3",
+            "text": "fish"
+          },
+          {
+            "id": "option-4",
+            "text": "butter"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "noodles",
+        "category": "Arrange the words",
+        "correct": "noodles",
+        "words": [
+          "s",
+          "e",
+          "l",
+          "d",
+          "o",
+          "o",
+          "n"
+        ],
+        "translateWords": [
+          "s",
+          "e",
+          "l",
+          "d",
+          "o",
+          "o",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U19_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Good evening! What would you like to order for dinner?\nI would like beef noodles and a bottle of water, please.\nSure.\nComing up soon!",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Good evening! What would you like to order for dinner? I would like beef noodles and a bottle of water, please. Sure. Coming up soon!",
+        "englishExample": "",
+        "category": "Dialogue"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the guest phrase used to declare a meal selection.",
+        "englishWord": "Choose the guest phrase used to declare a meal selection.",
+        "category": "Question answer",
+        "correct": "I would like",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "How are you?"
+          },
+          {
+            "id": "option-2",
+            "text": "I would like"
+          },
+          {
+            "id": "option-3",
+            "text": "Where is it?"
+          },
+          {
+            "id": "option-4",
+            "text": "My name is"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Good evening! What ____ you like to order?",
+        "englishWord": "Good evening! What ____ you like to order?",
+        "category": "Complete the sentence",
+        "correct": "would",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "do"
+          },
+          {
+            "id": "option-2",
+            "text": "are"
+          },
+          {
+            "id": "option-3",
+            "text": "would"
+          },
+          {
+            "id": "option-4",
+            "text": "can"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The customer orders fish and white rice for dinner.",
+        "englishWord": "The customer orders fish and white rice for dinner.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "What do you want to eat for ____? - Chicken rice, please.",
+        "englishWord": "What do you want to eat for ____? - Chicken rice, please.",
+        "category": "Fill in the blank",
+        "correct": "dinner",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "breakfast"
+          },
+          {
+            "id": "option-2",
+            "text": "lunch"
+          },
+          {
+            "id": "option-3",
+            "text": "dinner"
+          },
+          {
+            "id": "option-4",
+            "text": "dessert"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Can I have the bill please?",
+        "category": "Arrange the words",
+        "correct": "Can I have the bill please?",
+        "words": [
+          "bill",
+          "please",
+          "the",
+          "Can",
+          "have",
+          "I",
+          "?"
+        ],
+        "translateWords": [
+          "bill",
+          "please",
+          "the",
+          "Can",
+          "have",
+          "I",
+          "?"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U19_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Are you still hungry, Tom?\nNo, I am full!\nThe fish and rice were delicious. I do not want to eat anything else.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Are you still hungry, Tom? No, I am full! The fish and rice were delicious. I do not want to eat anything else.",
+        "englishExample": "",
+        "category": "Dialogue"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose Tom's physiological status following his dinner block.",
+        "englishWord": "Choose Tom's physiological status following his dinner block.",
+        "category": "Question answer",
+        "correct": "full",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "hungry"
+          },
+          {
+            "id": "option-2",
+            "text": "thirsty"
+          },
+          {
+            "id": "option-3",
+            "text": "full"
+          },
+          {
+            "id": "option-4",
+            "text": "sick"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The fish and rice were ____.",
+        "englishWord": "The fish and rice were ____.",
+        "category": "Complete the sentence",
+        "correct": "delicious",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "hot"
+          },
+          {
+            "id": "option-2",
+            "text": "cold"
+          },
+          {
+            "id": "option-3",
+            "text": "full"
+          },
+          {
+            "id": "option-4",
+            "text": "delicious"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "Tom wants to eat more food items because he is starving.",
+        "englishWord": "Tom wants to eat more food items because he is starving.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "I did not have lunch today. I am very ____ now.",
+        "englishWord": "I did not have lunch today. I am very ____ now.",
+        "category": "Fill in the blank",
+        "correct": "hungry",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "hungry"
+          },
+          {
+            "id": "option-2",
+            "text": "full"
+          },
+          {
+            "id": "option-3",
+            "text": "thirsty"
+          },
+          {
+            "id": "option-4",
+            "text": "sleepy"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "want to eat",
+        "category": "Arrange the words",
+        "correct": "want to eat",
+        "words": [
+          "eat",
+          "to",
+          "want"
+        ],
+        "translateWords": [
+          "eat",
+          "to",
+          "want"
+        ]
+      }
+    ]
+  }
+]

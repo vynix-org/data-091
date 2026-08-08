@@ -1,0 +1,336 @@
+[
+    {
+      "lesson_id": "L1_U23_01",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Hello! My name is Sarah. I am a student.\nMy father works at a school, he is a teacher.\nMy mother works at a clinic, she is a nurse.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Hello! My name is Sarah. I am a student. My father works at a school, he is a teacher. My mother works at a clinic, she is a nurse.",
+          "englishExample": "",
+          "category": "Jobs"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Sarah's role in the profile text",
+          "englishWord": "Choose Sarah's role in the profile text",
+          "category": "Question answer",
+          "correct": "worker",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "teacher"
+            },
+            {
+              "id": "option-2",
+              "text": "nurse"
+            },
+            {
+              "id": "option-3",
+              "text": "worker"
+            },
+            {
+              "id": "option-4",
+              "text": "student"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sarah's mother is a ____.",
+          "englishWord": "Sarah's mother is a ____.",
+          "category": "Complete the sentence",
+          "correct": "nurse",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "doctor"
+            },
+            {
+              "id": "option-2",
+              "text": "nurse"
+            },
+            {
+              "id": "option-3",
+              "text": "teacher"
+            },
+            {
+              "id": "option-4",
+              "text": "student"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Sarah's father works at a big supermarket clinic.",
+          "englishWord": "Sarah's father works at a big supermarket clinic.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What is your father's ____? - He is a factory worker.",
+          "englishWord": "What is your father's ____? - He is a factory worker.",
+          "category": "Fill in the blank",
+          "correct": "job",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "job"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "teacher",
+          "category": "Arrange the words",
+          "correct": "teacher",
+          "words": [
+            "h",
+            "r",
+            "e",
+            "e",
+            "t",
+            "a",
+            "c"
+          ],
+          "translateWords": [
+            "h",
+            "r",
+            "e",
+            "e",
+            "t",
+            "a",
+            "c"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U23_02",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This is my brother, John. He is a doctor. He works at a big hospital in London.\nMy sister is an assistant, she works in an office.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This is my brother, John. He is a doctor. He works at a big hospital in London. My sister is an assistant, she works in an office.",
+          "englishExample": "",
+          "category": "Jobs and Workplaces"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose John's active physical worksite",
+          "englishWord": "Choose John's active physical worksite",
+          "category": "Question answer",
+          "correct": "hospital",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "school"
+            },
+            {
+              "id": "option-2",
+              "text": "hospital"
+            },
+            {
+              "id": "option-3",
+              "text": "office"
+            },
+            {
+              "id": "option-4",
+              "text": "supermarket"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The sister works as an assistant in an ____.",
+          "englishWord": "The sister works as an assistant in an ____.",
+          "category": "Complete the sentence",
+          "correct": "office",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hospital"
+            },
+            {
+              "id": "option-2",
+              "text": "school"
+            },
+            {
+              "id": "option-3",
+              "text": "office"
+            },
+            {
+              "id": "option-4",
+              "text": "house"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "John is a teacher who works in a modern office setup.",
+          "englishWord": "John is a teacher who works in a modern office setup.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The English teacher ____ a school.",
+          "englishWord": "The English teacher ____ a school.",
+          "category": "Fill in the blank",
+          "correct": "works at",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "works at"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "She works in an office",
+          "category": "Arrange the words",
+          "correct": "She works in an office",
+          "words": [
+            "an",
+            "office",
+            "in",
+            "works",
+            "She"
+          ],
+          "translateWords": [
+            "an",
+            "office",
+            "in",
+            "works",
+            "She"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U23_03",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What do you do, Tom?\nI am a college student. In the future, I want to be a doctor and help people. That is a great career!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What do you do, Tom? I am a college student. In the future, I want to be a doctor and help people. That is a great career!",
+          "englishExample": "",
+          "category": "Career"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the interrogative formula used to request a person's employment status",
+          "englishWord": "Choose the interrogative formula used to request a person's employment status",
+          "category": "Question answer",
+          "correct": "What do you do?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Where are you from?"
+            },
+            {
+              "id": "option-2",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-3",
+              "text": "What do you do?"
+            },
+            {
+              "id": "option-4",
+              "text": "What color is it?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "In the future, I want to be a ____.",
+          "englishWord": "In the future, I want to be a ____.",
+          "category": "Complete the sentence",
+          "correct": "doctor",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "teacher"
+            },
+            {
+              "id": "option-2",
+              "text": "student"
+            },
+            {
+              "id": "option-3",
+              "text": "doctor"
+            },
+            {
+              "id": "option-4",
+              "text": "nurse"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Tom is currently working as a full-time doctor in a hospital.",
+          "englishWord": "Tom is currently working as a full-time doctor in a hospital.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I love music. I want ____ a singer.",
+          "englishWord": "I love music. I want ____ a singer.",
+          "category": "Fill in the blank",
+          "correct": "to be",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to be"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What do you do?",
+          "category": "Arrange the words",
+          "correct": "What do you do?",
+          "words": [
+            "do",
+            "do",
+            "you",
+            "What",
+            "?"
+          ],
+          "translateWords": [
+            "do",
+            "do",
+            "you",
+            "What",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

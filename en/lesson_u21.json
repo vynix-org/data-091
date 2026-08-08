@@ -1,0 +1,368 @@
+[
+    {
+      "lesson_id": "L1_U21_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Welcome to our supermarket! Grab a shopping cart or a small basket at the entrance.\nMilk is in aisle two. Fresh apples are in the fruit section.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Welcome to our supermarket! Grab a shopping cart or a small basket at the entrance. Milk is in aisle two. Fresh apples are in the fruit section.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the equipment used for carrying many items.",
+          "englishWord": "Choose the equipment used for carrying many items.",
+          "category": "Question answer",
+          "correct": "shopping cart",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "aisle"
+            },
+            {
+              "id": "option-2",
+              "text": "basket"
+            },
+            {
+              "id": "option-3",
+              "text": "shopping cart"
+            },
+            {
+              "id": "option-4",
+              "text": "counter"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Fresh apples are located in the fruit ____.",
+          "englishWord": "Fresh apples are located in the fruit ____.",
+          "category": "Complete the sentence",
+          "correct": "section",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "aisle"
+            },
+            {
+              "id": "option-2",
+              "text": "basket"
+            },
+            {
+              "id": "option-3",
+              "text": "section"
+            },
+            {
+              "id": "option-4",
+              "text": "cart"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the guide, milk is located in aisle five.",
+          "englishWord": "According to the guide, milk is located in aisle five.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We buy food at the super____.",
+          "englishWord": "We buy food at the super____.",
+          "category": "Fill in the blank",
+          "correct": "market",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "market"
+            },
+            {
+              "id": "option-2",
+              "text": "store"
+            },
+            {
+              "id": "option-3",
+              "text": "shop"
+            },
+            {
+              "id": "option-4",
+              "text": "place"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "aisle",
+          "category": "Arrange the words",
+          "correct": "aisle",
+          "words": [
+            "e",
+            "l",
+            "s",
+            "i",
+            "a"
+          ],
+          "translateWords": [
+            "e",
+            "l",
+            "s",
+            "i",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U21_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Excuse me, where can I find the green tea? It is in aisle four, next to the coffee.\nThank you! You are welcome.\nIt is right over there.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Excuse me, where can I find the green tea? It is in aisle four, next to the coffee. Thank you! You are welcome. It is right over there.",
+          "englishExample": "",
+          "category": "Dialogue"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the polite phrase used to start a question with a clerk.",
+          "englishWord": "Choose the polite phrase used to start a question with a clerk.",
+          "category": "Question answer",
+          "correct": "Excuse me",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Goodbye"
+            },
+            {
+              "id": "option-2",
+              "text": "Hello"
+            },
+            {
+              "id": "option-3",
+              "text": "Excuse me"
+            },
+            {
+              "id": "option-4",
+              "text": "What is your name"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The tea is in aisle four, ____ the coffee.",
+          "englishWord": "The tea is in aisle four, ____ the coffee.",
+          "category": "Complete the sentence",
+          "correct": "next to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "under"
+            },
+            {
+              "id": "option-2",
+              "text": "next to"
+            },
+            {
+              "id": "option-3",
+              "text": "on"
+            },
+            {
+              "id": "option-4",
+              "text": "inside"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The customer is looking for white rice in the dialogue.",
+          "englishWord": "The customer is looking for white rice in the dialogue.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Where ____ I find the bread?",
+          "englishWord": "Where ____ I find the bread?",
+          "category": "Fill in the blank",
+          "correct": "can",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "can"
+            },
+            {
+              "id": "option-2",
+              "text": "do"
+            },
+            {
+              "id": "option-3",
+              "text": "am"
+            },
+            {
+              "id": "option-4",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Where can I find milk?",
+          "category": "Arrange the words",
+          "correct": "Where can I find milk?",
+          "words": [
+            "find",
+            "can",
+            "I",
+            "Where",
+            "milk",
+            "?"
+          ],
+          "translateWords": [
+            "find",
+            "can",
+            "I",
+            "Where",
+            "milk",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U21_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We need to buy food for dinner.\nPlease get a bag of rice, a box of tea, a pack of bread, and a kilo of fresh carrots.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We need to buy food for dinner. Please get a bag of rice, a box of tea, a pack of bread, and a kilo of fresh carrots.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the container assigned to the rice item.",
+          "englishWord": "Choose the container assigned to the rice item.",
+          "category": "Question answer",
+          "correct": "bag",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "box"
+            },
+            {
+              "id": "option-2",
+              "text": "bag"
+            },
+            {
+              "id": "option-3",
+              "text": "pack"
+            },
+            {
+              "id": "option-4",
+              "text": "kilo"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Please get a kilo of fresh ____.",
+          "englishWord": "Please get a kilo of fresh ____.",
+          "category": "Complete the sentence",
+          "correct": "carrots",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "tea"
+            },
+            {
+              "id": "option-2",
+              "text": "bread"
+            },
+            {
+              "id": "option-3",
+              "text": "carrots"
+            },
+            {
+              "id": "option-4",
+              "text": "rice"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The shopping list requests two boxes of tea.",
+          "englishWord": "The shopping list requests two boxes of tea.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I want to buy a ____ of cereal for breakfast.",
+          "englishWord": "I want to buy a ____ of cereal for breakfast.",
+          "category": "Fill in the blank",
+          "correct": "box",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "box"
+            },
+            {
+              "id": "option-2",
+              "text": "bag"
+            },
+            {
+              "id": "option-3",
+              "text": "kilo"
+            },
+            {
+              "id": "option-4",
+              "text": "pack"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "a kilo of bananas",
+          "category": "Arrange the words",
+          "correct": "a kilo of bananas",
+          "words": [
+            "of",
+            "kilo",
+            "a",
+            "bananas"
+          ],
+          "translateWords": [
+            "of",
+            "kilo",
+            "a",
+            "bananas"
+          ]
+        }
+      ]
+    }
+  ]

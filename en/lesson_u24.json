@@ -1,0 +1,336 @@
+[
+    {
+      "lesson_id": "L1_U24_01",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "At the supermarket, Mary goes to the fruit section. She buys a kilo of carrots. It costs four dollars.\nRice is in aisle three.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "At the supermarket, Mary goes to the fruit section. She buys a kilo of carrots. It costs four dollars. Rice is in aisle three.",
+          "englishExample": "",
+          "category": "Shopping"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the store section Mary visits first",
+          "englishWord": "Choose the store section Mary visits first",
+          "category": "Question answer",
+          "correct": "fruit section",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "aisle three"
+            },
+            {
+              "id": "option-2",
+              "text": "office"
+            },
+            {
+              "id": "option-3",
+              "text": "hospital"
+            },
+            {
+              "id": "option-4",
+              "text": "fruit section"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Mary buys a kilo of carrots for four ____.",
+          "englishWord": "Mary buys a kilo of carrots for four ____.",
+          "category": "Complete the sentence",
+          "correct": "dollars",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cents"
+            },
+            {
+              "id": "option-2",
+              "text": "dollars"
+            },
+            {
+              "id": "option-3",
+              "text": "receipts"
+            },
+            {
+              "id": "option-4",
+              "text": "cards"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the record, the rice container bag is located in aisle ten.",
+          "englishWord": "According to the record, the rice container bag is located in aisle ten.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "A pack of bread ____ three dollars.",
+          "englishWord": "A pack of bread ____ three dollars.",
+          "category": "Fill in the blank",
+          "correct": "costs",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "costs"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Where can I find water?",
+          "category": "Arrange the words",
+          "correct": "Where can I find water?",
+          "words": [
+            "find",
+            "I",
+            "can",
+            "Where",
+            "water",
+            "?"
+          ],
+          "translateWords": [
+            "find",
+            "I",
+            "can",
+            "Where",
+            "water",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U24_02",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Your total is eighty dollars. That is expensive! Can I pay with a credit card?\nYes. Sign here for your receipt, please.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Your total is eighty dollars. That is expensive! Can I pay with a credit card? Yes. Sign here for your receipt, please.",
+          "englishExample": "",
+          "category": "Payment"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the final financial value summary recorded for the customer",
+          "englishWord": "Choose the final financial value summary recorded for the customer",
+          "category": "Question answer",
+          "correct": "eighty dollars",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "forty dollars"
+            },
+            {
+              "id": "option-2",
+              "text": "eighty dollars"
+            },
+            {
+              "id": "option-3",
+              "text": "three dollars"
+            },
+            {
+              "id": "option-4",
+              "text": "fifty cents"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The customer thinks eighty dollars is ____.",
+          "englishWord": "The customer thinks eighty dollars is ____.",
+          "category": "Complete the sentence",
+          "correct": "expensive",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cheap"
+            },
+            {
+              "id": "option-2",
+              "text": "free"
+            },
+            {
+              "id": "option-3",
+              "text": "expensive"
+            },
+            {
+              "id": "option-4",
+              "text": "old"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The customer requests to settle the counter total with hard cash coins.",
+          "englishWord": "The customer requests to settle the counter total with hard cash coins.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I do not have cash, so I will pay with a credit ____.",
+          "englishWord": "I do not have cash, so I will pay with a credit ____.",
+          "category": "Fill in the blank",
+          "correct": "card",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "card"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "How much is this box?",
+          "category": "Arrange the words",
+          "correct": "How much is this box?",
+          "words": [
+            "is",
+            "much",
+            "box",
+            "How",
+            "this",
+            "?"
+          ],
+          "translateWords": [
+            "is",
+            "much",
+            "box",
+            "How",
+            "this",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U24_03",
+      "cards": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Linda is a nurse. She works at a hospital. Her sister is a teacher at a school.\nOn weekends, they spend cash at the supermarket. Their total is forty dollars.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Linda is a nurse. She works at a hospital. Her sister is a teacher at a school. On weekends, they spend cash at the supermarket. Their total is forty dollars.",
+          "englishExample": "",
+          "category": "Jobs and Shopping"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the family entity connected to the hospital facility platform",
+          "englishWord": "Choose the family entity connected to the hospital facility platform",
+          "category": "Question answer",
+          "correct": "Linda",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "teacher"
+            },
+            {
+              "id": "option-2",
+              "text": "sister"
+            },
+            {
+              "id": "option-3",
+              "text": "Linda"
+            },
+            {
+              "id": "option-4",
+              "text": "worker"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Linda's sister works as a teacher at a ____.",
+          "englishWord": "Linda's sister works as a teacher at a ____.",
+          "category": "Complete the sentence",
+          "correct": "clinic",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hospital"
+            },
+            {
+              "id": "option-2",
+              "text": "office"
+            },
+            {
+              "id": "option-3",
+              "text": "clinic"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Linda and her sister settle their supermarket bill using a credit card.",
+          "englishWord": "Linda and her sister settle their supermarket bill using a credit card.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They prefer to pay for groceries using raw ____.",
+          "englishWord": "They prefer to pay for groceries using raw ____.",
+          "category": "Fill in the blank",
+          "correct": "cash",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cash"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What do you do?",
+          "category": "Arrange the words",
+          "correct": "What do you do?",
+          "words": [
+            "you",
+            "do",
+            "do",
+            "What",
+            "?"
+          ],
+          "translateWords": [
+            "you",
+            "do",
+            "do",
+            "What",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

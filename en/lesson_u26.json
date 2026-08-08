@@ -1,0 +1,366 @@
+[
+    {
+      "lesson_id": "L1_U26_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Welcome to our classroom. There is a big whiteboard on the wall.\nThe teacher stands next to the desk. A world map hangs next to the clock.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Welcome to our classroom. There is a big whiteboard on the wall. The teacher stands next to the desk. A world map hangs next to the clock.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the specific wall feature used for writing lessons.",
+          "englishWord": "Choose the specific wall feature used for writing lessons.",
+          "category": "Question answer",
+          "correct": "whiteboard",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "desk"
+            },
+            {
+              "id": "option-2",
+              "text": "chair"
+            },
+            {
+              "id": "option-3",
+              "text": "map"
+            },
+            {
+              "id": "option-4",
+              "text": "whiteboard"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "A world map hangs next to the ____.",
+          "englishWord": "A world map hangs next to the ____.",
+          "category": "Complete the sentence",
+          "correct": "clock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "whiteboard"
+            },
+            {
+              "id": "option-2",
+              "text": "desk"
+            },
+            {
+              "id": "option-3",
+              "text": "clock"
+            },
+            {
+              "id": "option-4",
+              "text": "chair"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that students sit on top of the whiteboard.",
+          "englishWord": "The text notes that students sit on top of the whiteboard.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Our class has twenty desks inside the ____.",
+          "englishWord": "Our class has twenty desks inside the ____.",
+          "category": "Fill in the blank",
+          "correct": "room",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "room"
+            },
+            {
+              "id": "option-2",
+              "text": "school"
+            },
+            {
+              "id": "option-3",
+              "text": "desk"
+            },
+            {
+              "id": "option-4",
+              "text": "wall"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "clock",
+          "category": "Arrange the words",
+          "correct": "clock",
+          "words": [
+            "k",
+            "c",
+            "o",
+            "l",
+            "c"
+          ],
+          "translateWords": [
+            "k",
+            "c",
+            "o",
+            "l",
+            "c"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U26_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look here! This is my pencil case. These are my pens.\nNow look over there near the wall. That is the teacher's desk, and those are student chairs.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look here! This is my pencil case. These are my pens. Now look over there near the wall. That is the teacher's desk, and those are student chairs.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the demonstrative pronoun used for a single item located far away.",
+          "englishWord": "Choose the demonstrative pronoun used for a single item located far away.",
+          "category": "Question answer",
+          "correct": "That",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "This"
+            },
+            {
+              "id": "option-2",
+              "text": "That"
+            },
+            {
+              "id": "option-3",
+              "text": "These"
+            },
+            {
+              "id": "option-4",
+              "text": "Those"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "____ are my pens here on my desk.",
+          "englishWord": "____ are my pens here on my desk.",
+          "category": "Complete the sentence",
+          "correct": "These",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "This"
+            },
+            {
+              "id": "option-2",
+              "text": "That"
+            },
+            {
+              "id": "option-3",
+              "text": "These"
+            },
+            {
+              "id": "option-4",
+              "text": "Those"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Those are' is used to demonstrate multiple items close to the speaker.",
+          "englishWord": "'Those are' is used to demonstrate multiple items close to the speaker.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ are student chairs near the back wall.",
+          "englishWord": "____ are student chairs near the back wall.",
+          "category": "Fill in the blank",
+          "correct": "Those",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "This"
+            },
+            {
+              "id": "option-2",
+              "text": "That"
+            },
+            {
+              "id": "option-3",
+              "text": "These"
+            },
+            {
+              "id": "option-4",
+              "text": "Those"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "This is a textbook.",
+          "category": "Arrange the words",
+          "correct": "This is a textbook.",
+          "words": [
+            "is",
+            "textbook",
+            "a",
+            "This",
+            "."
+          ],
+          "translateWords": [
+            "is",
+            "textbook",
+            "a",
+            "This",
+            "."
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U26_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Good morning class! Please sit down.\nOpen your English books to page ten.\nListen to my words and do not close your notebooks yet.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Good morning class! Please sit down. Open your English books to page ten. Listen to my words and do not close your notebooks yet.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the standard command used to initiate text reading.",
+          "englishWord": "Choose the standard command used to initiate text reading.",
+          "category": "Question answer",
+          "correct": "Open your book",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Sit down"
+            },
+            {
+              "id": "option-2",
+              "text": "Stand up"
+            },
+            {
+              "id": "option-3",
+              "text": "Open your book"
+            },
+            {
+              "id": "option-4",
+              "text": "Close your notebook"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Good morning class! Please sit ____.",
+          "englishWord": "Good morning class! Please sit ____.",
+          "category": "Complete the sentence",
+          "correct": "down",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "up"
+            },
+            {
+              "id": "option-2",
+              "text": "down"
+            },
+            {
+              "id": "option-3",
+              "text": "out"
+            },
+            {
+              "id": "option-4",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The instructor requests that students close their notebooks immediately.",
+          "englishWord": "The instructor requests that students close their notebooks immediately.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please ____ to the audio track carefully.",
+          "englishWord": "Please ____ to the audio track carefully.",
+          "category": "Fill in the blank",
+          "correct": "listen",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "listen"
+            },
+            {
+              "id": "option-2",
+              "text": "speak"
+            },
+            {
+              "id": "option-3",
+              "text": "read"
+            },
+            {
+              "id": "option-4",
+              "text": "write"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Stand up, please",
+          "category": "Arrange the words",
+          "correct": "Stand up, please",
+          "words": [
+            "up",
+            "Stand",
+            ",",
+            "please"
+          ],
+          "translateWords": [
+            "up",
+            "Stand",
+            ",",
+            "please"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,356 @@
+[
+    {
+      "lesson_id": "L1_U28_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Inside my school backpack, I have five blue notebooks and one plastic pencil case.\nI put my red pen and black eraser inside the pencil case.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Inside my school backpack, I have five blue notebooks and one plastic pencil case. I put my red pen and black eraser inside the pencil case.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the main carrier vessel container mentioned in the log.",
+          "englishWord": "Choose the main carrier vessel container mentioned in the log.",
+          "category": "Question answer",
+          "correct": "backpack",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pencil case"
+            },
+            {
+              "id": "option-2",
+              "text": "desk"
+            },
+            {
+              "id": "option-3",
+              "text": "whiteboard"
+            },
+            {
+              "id": "option-4",
+              "text": "backpack"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The red pen is stored inside the ____.",
+          "englishWord": "The red pen is stored inside the ____.",
+          "category": "Complete the sentence",
+          "correct": "pencil case",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "box"
+            },
+            {
+              "id": "option-2",
+              "text": "backpack"
+            },
+            {
+              "id": "option-3",
+              "text": "pencil case"
+            },
+            {
+              "id": "option-4",
+              "text": "aisle"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The log checks an inventory containing twelve green notebooks.",
+          "englishWord": "The log checks an inventory containing twelve green notebooks.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I ____ my loose pens inside the storage case.",
+          "englishWord": "I ____ my loose pens inside the storage case.",
+          "category": "Fill in the blank",
+          "correct": "put",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "put"
+            },
+            {
+              "id": "option-2",
+              "text": "keep"
+            },
+            {
+              "id": "option-3",
+              "text": "take"
+            },
+            {
+              "id": "option-4",
+              "text": "carry"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Eraser Notebook Pen",
+          "category": "Arrange the words",
+          "correct": "Eraser Notebook Pen",
+          "words": [
+            "Notebook",
+            "Eraser",
+            "Pen"
+          ],
+          "translateWords": [
+            "Notebook",
+            "Eraser",
+            "Pen"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U28_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Teacher says: 'Look at the wall! That is a world map.\nNow open your notebooks and write down the current clock time.'",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Teacher says: 'Look at the wall! That is a world map. Now open your notebooks and write down the current clock time.'",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the asset demonstrated by the instructor on the wall space.",
+          "englishWord": "Choose the asset demonstrated by the instructor on the wall space.",
+          "category": "Question answer",
+          "correct": "world map",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "whiteboard"
+            },
+            {
+              "id": "option-2",
+              "text": "world map"
+            },
+            {
+              "id": "option-3",
+              "text": "desk"
+            },
+            {
+              "id": "option-4",
+              "text": "office chair"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The teacher orders: '____ your notebooks.'",
+          "englishWord": "The teacher orders: '____ your notebooks.'",
+          "category": "Complete the sentence",
+          "correct": "Open",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Close"
+            },
+            {
+              "id": "option-2",
+              "text": "Open"
+            },
+            {
+              "id": "option-3",
+              "text": "Stand"
+            },
+            {
+              "id": "option-4",
+              "text": "Sit"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The instructor utilizes 'This is a' to point out a map located far away.",
+          "englishWord": "The instructor utilizes 'This is a' to point out a map located far away.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ is my writing pen here in my hand.",
+          "englishWord": "____ is my writing pen here in my hand.",
+          "category": "Fill in the blank",
+          "correct": "This",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "This"
+            },
+            {
+              "id": "option-2",
+              "text": "That"
+            },
+            {
+              "id": "option-3",
+              "text": "These"
+            },
+            {
+              "id": "option-4",
+              "text": "Those"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Close your books",
+          "category": "Arrange the words",
+          "correct": "Close your books",
+          "words": [
+            "books",
+            "your",
+            "Close"
+          ],
+          "translateWords": [
+            "books",
+            "your",
+            "Close"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U28_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My office setup is clean. My laptop is in the middle of the desk.\nEvery day, I use the keyboard to write reports and send emails to my team.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My office setup is clean. My laptop is in the middle of the desk. Every day, I use the keyboard to write reports and send emails to my team.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the specific hardware infrastructure node used for processing the day's reports.",
+          "englishWord": "Choose the specific hardware infrastructure node used for processing the day's reports.",
+          "category": "Question answer",
+          "correct": "laptop",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "calculator"
+            },
+            {
+              "id": "option-2",
+              "text": "clock"
+            },
+            {
+              "id": "option-3",
+              "text": "printer"
+            },
+            {
+              "id": "option-4",
+              "text": "laptop"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I use the keyboard to write reports and ____.",
+          "englishWord": "I use the keyboard to write reports and ____.",
+          "category": "Complete the sentence",
+          "correct": "send emails",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "make phone calls"
+            },
+            {
+              "id": "option-2",
+              "text": "print documents"
+            },
+            {
+              "id": "option-3",
+              "text": "send emails"
+            },
+            {
+              "id": "option-4",
+              "text": "wash face"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The master snapshot states that the laptop sits on the left perimeter boundary.",
+          "englishWord": "The master snapshot states that the laptop sits on the left perimeter boundary.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The main processing terminal sits ____ of the desk.",
+          "englishWord": "The main processing terminal sits ____ of the desk.",
+          "category": "Fill in the blank",
+          "correct": "in the middle",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "in the middle"
+            },
+            {
+              "id": "option-2",
+              "text": "on the left"
+            },
+            {
+              "id": "option-3",
+              "text": "on the right"
+            },
+            {
+              "id": "option-4",
+              "text": "underneath"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I write reports",
+          "category": "Arrange the words",
+          "correct": "I write reports",
+          "words": [
+            "reports",
+            "write",
+            "I"
+          ],
+          "translateWords": [
+            "reports",
+            "write",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]

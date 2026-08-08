@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L1_U25_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look at my desk.\nI have a black pen, a yellow pencil, and a red notebook.\nI use a long ruler and a small eraser for my drawings.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look at my desk. I have a black pen, a yellow pencil, and a red notebook. I use a long ruler and a small eraser for my drawings.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the tool used for making pencil corrections.",
+          "englishWord": "Choose the tool used for making pencil corrections.",
+          "category": "Question answer",
+          "correct": "eraser",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pen"
+            },
+            {
+              "id": "option-2",
+              "text": "ruler"
+            },
+            {
+              "id": "option-3",
+              "text": "eraser"
+            },
+            {
+              "id": "option-4",
+              "text": "notebook"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The text describes a yellow ____ on the desk.",
+          "englishWord": "The text describes a yellow ____ on the desk.",
+          "category": "Complete the sentence",
+          "correct": "pencil",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pen"
+            },
+            {
+              "id": "option-2",
+              "text": "pencil"
+            },
+            {
+              "id": "option-3",
+              "text": "ruler"
+            },
+            {
+              "id": "option-4",
+              "text": "notebook"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The notebook mentioned in the guide is blue.",
+          "englishWord": "The notebook mentioned in the guide is blue.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Write your English words inside this note____.",
+          "englishWord": "Write your English words inside this note____.",
+          "category": "Fill in the blank",
+          "correct": "book",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "book"
+            },
+            {
+              "id": "option-2",
+              "text": "pen"
+            },
+            {
+              "id": "option-3",
+              "text": "case"
+            },
+            {
+              "id": "option-4",
+              "text": "pad"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "ruler",
+          "category": "Arrange the words",
+          "correct": "ruler",
+          "words": [
+            "r",
+            "l",
+            "e",
+            "u",
+            "r"
+          ],
+          "translateWords": [
+            "r",
+            "l",
+            "e",
+            "u",
+            "r"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U25_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What do you have in your backpack, Tim?\nI have three notebooks and a blue pencil case. I put my pens and pencils in the pencil case.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What do you have in your backpack, Tim? I have three notebooks and a blue pencil case. I put my pens and pencils in the pencil case.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the container used for storing loose writing tools.",
+          "englishWord": "Choose the container used for storing loose writing tools.",
+          "category": "Question answer",
+          "correct": "pencil case",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "backpack"
+            },
+            {
+              "id": "option-2",
+              "text": "notebook"
+            },
+            {
+              "id": "option-3",
+              "text": "desk"
+            },
+            {
+              "id": "option-4",
+              "text": "pencil case"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tim has three ____ inside his backpack.",
+          "englishWord": "Tim has three ____ inside his backpack.",
+          "category": "Complete the sentence",
+          "correct": "notebooks",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pens"
+            },
+            {
+              "id": "option-2",
+              "text": "rulers"
+            },
+            {
+              "id": "option-3",
+              "text": "notebooks"
+            },
+            {
+              "id": "option-4",
+              "text": "erasers"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Tim carries his notebooks inside his small pencil case.",
+          "englishWord": "Tim carries his notebooks inside his small pencil case.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I ____ my pencils in the pencil case.",
+          "englishWord": "I ____ my pencils in the pencil case.",
+          "category": "Fill in the blank",
+          "correct": "put",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "put"
+            },
+            {
+              "id": "option-2",
+              "text": "have"
+            },
+            {
+              "id": "option-3",
+              "text": "carry"
+            },
+            {
+              "id": "option-4",
+              "text": "write"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I have a big backpack",
+          "category": "Arrange the words",
+          "correct": "I have a big backpack",
+          "words": [
+            "backpack",
+            "have",
+            "a",
+            "big",
+            "I"
+          ],
+          "translateWords": [
+            "backpack",
+            "have",
+            "a",
+            "big",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U25_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We need new office supplies.\nPlease buy ten packs of white paper, one expensive computer, two small calculators, and sharp scissors.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We need new office supplies. Please buy ten packs of white paper, one expensive computer, two small calculators, and sharp scissors.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the high-cost hardware device required in the manifest.",
+          "englishWord": "Choose the high-cost hardware device required in the manifest.",
+          "category": "Question answer",
+          "correct": "computer",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "calculator"
+            },
+            {
+              "id": "option-2",
+              "text": "computer"
+            },
+            {
+              "id": "option-3",
+              "text": "paper"
+            },
+            {
+              "id": "option-4",
+              "text": "scissors"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Please buy ten packs of white ____.",
+          "englishWord": "Please buy ten packs of white ____.",
+          "category": "Complete the sentence",
+          "correct": "paper",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "file"
+            },
+            {
+              "id": "option-2",
+              "text": "notebooks"
+            },
+            {
+              "id": "option-3",
+              "text": "paper"
+            },
+            {
+              "id": "option-4",
+              "text": "pens"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The company requires ten small calculators for the team.",
+          "englishWord": "The company requires ten small calculators for the team.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I use a ____ to calculate high numbers.",
+          "englishWord": "I use a ____ to calculate high numbers.",
+          "category": "Fill in the blank",
+          "correct": "calculator",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "calculator"
+            },
+            {
+              "id": "option-2",
+              "text": "computer"
+            },
+            {
+              "id": "option-3",
+              "text": "ruler"
+            },
+            {
+              "id": "option-4",
+              "text": "notebook"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "scissors",
+          "category": "Arrange the words",
+          "correct": "scissors",
+          "words": [
+            "s",
+            "r",
+            "o",
+            "s",
+            "s",
+            "i",
+            "c",
+            "s"
+          ],
+          "translateWords": [
+            "s",
+            "r",
+            "o",
+            "s",
+            "s",
+            "i",
+            "c",
+            "s"
+          ]
+        }
+      ]
+    }
+  ]

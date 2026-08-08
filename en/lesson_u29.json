@@ -1,0 +1,370 @@
+[
+    {
+      "lesson_id": "L1_U29_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look out the window. Today the weather is sunny and hot.\nYesterday it was rainy.\nTomorrow it will be cloudy and windy.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look out the window. Today the weather is sunny and hot. Yesterday it was rainy. Tomorrow it will be cloudy and windy.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the weather word that matches bright sunlight.",
+          "englishWord": "Choose the weather word that matches bright sunlight.",
+          "category": "Question answer",
+          "correct": "sunny",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "rainy"
+            },
+            {
+              "id": "option-2",
+              "text": "snowy"
+            },
+            {
+              "id": "option-3",
+              "text": "sunny"
+            },
+            {
+              "id": "option-4",
+              "text": "cloudy"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Yesterday it was ____.",
+          "englishWord": "Yesterday it was ____.",
+          "category": "Complete the sentence",
+          "correct": "rainy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "windy"
+            },
+            {
+              "id": "option-2",
+              "text": "rainy"
+            },
+            {
+              "id": "option-3",
+              "text": "sunny"
+            },
+            {
+              "id": "option-4",
+              "text": "hot"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The report text says it is currently snowing outside.",
+          "englishWord": "The report text says it is currently snowing outside.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Strong trees bend when it is very win____.",
+          "englishWord": "Strong trees bend when it is very win____.",
+          "category": "Fill in the blank",
+          "correct": "dy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "dy"
+            },
+            {
+              "id": "option-2",
+              "text": "ny"
+            },
+            {
+              "id": "option-3",
+              "text": "ry"
+            },
+            {
+              "id": "option-4",
+              "text": "ty"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "cloudy",
+          "category": "Arrange the words",
+          "correct": "cloudy",
+          "words": [
+            "o",
+            "u",
+            "l",
+            "c",
+            "d",
+            "y"
+          ],
+          "translateWords": [
+            "o",
+            "u",
+            "l",
+            "c",
+            "d",
+            "y"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U29_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What is the weather like in Hanoi today, Minh?\nIt is very hot and sunny.\nI want a bottle of cold water.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What is the weather like in Hanoi today, Minh? It is very hot and sunny. I want a bottle of cold water.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the interrogative formula used to request a climate report.",
+          "englishWord": "Choose the interrogative formula used to request a climate report.",
+          "category": "Question answer",
+          "correct": "What is the weather like?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "What color is it?"
+            },
+            {
+              "id": "option-2",
+              "text": "What is the weather like?"
+            },
+            {
+              "id": "option-3",
+              "text": "How old are you?"
+            },
+            {
+              "id": "option-4",
+              "text": "Where are you from?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Minh says: '____ is very hot today.'",
+          "englishWord": "Minh says: '____ is very hot today.'",
+          "category": "Complete the sentence",
+          "correct": "It",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "He"
+            },
+            {
+              "id": "option-2",
+              "text": "It"
+            },
+            {
+              "id": "option-3",
+              "text": "This"
+            },
+            {
+              "id": "option-4",
+              "text": "Those"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Minh wants a hot cup of coffee because the environment is freezing.",
+          "englishWord": "Minh wants a hot cup of coffee because the environment is freezing.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "In winter, the weather is ____.",
+          "englishWord": "In winter, the weather is ____.",
+          "category": "Fill in the blank",
+          "correct": "cold",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cold"
+            },
+            {
+              "id": "option-2",
+              "text": "hot"
+            },
+            {
+              "id": "option-3",
+              "text": "sunny"
+            },
+            {
+              "id": "option-4",
+              "text": "windy"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What is the weather like?",
+          "category": "Arrange the words",
+          "correct": "What is the weather like?",
+          "words": [
+            "like",
+            "is",
+            "weather",
+            "What",
+            "the",
+            "?"
+          ],
+          "translateWords": [
+            "like",
+            "is",
+            "weather",
+            "What",
+            "the",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U29_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "It is rainy today. Take your umbrella and red boots.\nDo not go outside. When it is windy, you can fly a kite.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "It is rainy today. Take your umbrella and red boots. Do not go outside. When it is windy, you can fly a kite.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the accessory used to block rain drops.",
+          "englishWord": "Choose the accessory used to block rain drops.",
+          "category": "Question answer",
+          "correct": "umbrella",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hat"
+            },
+            {
+              "id": "option-2",
+              "text": "umbrella"
+            },
+            {
+              "id": "option-3",
+              "text": "shirt"
+            },
+            {
+              "id": "option-4",
+              "text": "keyboard"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "When it is windy, we can ____.",
+          "englishWord": "When it is windy, we can ____.",
+          "category": "Complete the sentence",
+          "correct": "fly a kite",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "go to bed"
+            },
+            {
+              "id": "option-2",
+              "text": "fly a kite"
+            },
+            {
+              "id": "option-3",
+              "text": "buy milk"
+            },
+            {
+              "id": "option-4",
+              "text": "paint pictures"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text encourages children to go outside during heavy rain.",
+          "englishWord": "The text encourages children to go outside during heavy rain.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Put on your rain ____ before walking in the water.",
+          "englishWord": "Put on your rain ____ before walking in the water.",
+          "category": "Fill in the blank",
+          "correct": "boots",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "boots"
+            },
+            {
+              "id": "option-2",
+              "text": "hat"
+            },
+            {
+              "id": "option-3",
+              "text": "shirt"
+            },
+            {
+              "id": "option-4",
+              "text": "gloves"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Do not go outside",
+          "category": "Arrange the words",
+          "correct": "Do not go outside",
+          "words": [
+            "outside",
+            "go",
+            "Do",
+            "not"
+          ],
+          "translateWords": [
+            "outside",
+            "go",
+            "Do",
+            "not"
+          ]
+        }
+      ]
+    }
+  ]

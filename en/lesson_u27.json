@@ -1,0 +1,360 @@
+[
+    {
+      "lesson_id": "L1_U27_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Welcome to my desk. I work in a modern office. I use a laptop, a black keyboard, and a phone to call clients.\nMy office chair is very soft.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Welcome to my desk. I work in a modern office. I use a laptop, a black keyboard, and a phone to call clients. My office chair is very soft.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the interface hardware used for typing text data.",
+          "englishWord": "Choose the interface hardware used for typing text data.",
+          "category": "Question answer",
+          "correct": "keyboard",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "phone"
+            },
+            {
+              "id": "option-2",
+              "text": "office chair"
+            },
+            {
+              "id": "option-3",
+              "text": "laptop"
+            },
+            {
+              "id": "option-4",
+              "text": "keyboard"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I use a laptop and a ____ to call clients.",
+          "englishWord": "I use a laptop and a ____ to call clients.",
+          "category": "Complete the sentence",
+          "correct": "phone",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "calendar"
+            },
+            {
+              "id": "option-2",
+              "text": "phone"
+            },
+            {
+              "id": "option-3",
+              "text": "book"
+            },
+            {
+              "id": "option-4",
+              "text": "ruler"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the speaker operates a large desktop instead of a laptop.",
+          "englishWord": "The text notes that the speaker operates a large desktop instead of a laptop.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I sit on my office chair and work at my ____.",
+          "englishWord": "I sit on my office chair and work at my ____.",
+          "category": "Fill in the blank",
+          "correct": "desk",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "desk"
+            },
+            {
+              "id": "option-2",
+              "text": "chair"
+            },
+            {
+              "id": "option-3",
+              "text": "phone"
+            },
+            {
+              "id": "option-4",
+              "text": "keyboard"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "laptop",
+          "category": "Arrange the words",
+          "correct": "laptop",
+          "words": [
+            "p",
+            "t",
+            "o",
+            "a",
+            "l",
+            "e"
+          ],
+          "translateWords": [
+            "p",
+            "t",
+            "o",
+            "a",
+            "l",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U27_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Every day at my office desk, I write reports on my laptop. Then, I send emails to my team and print documents using the office printer.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Every day at my office desk, I write reports on my laptop. Then, I send emails to my team and print documents using the office printer.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the digital communication task executed daily.",
+          "englishWord": "Choose the digital communication task executed daily.",
+          "category": "Question answer",
+          "correct": "send emails",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "write reports"
+            },
+            {
+              "id": "option-2",
+              "text": "send emails"
+            },
+            {
+              "id": "option-3",
+              "text": "print documents"
+            },
+            {
+              "id": "option-4",
+              "text": "make phone calls"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I use the machine to print ____.",
+          "englishWord": "I use the machine to print ____.",
+          "category": "Complete the sentence",
+          "correct": "documents",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "emails"
+            },
+            {
+              "id": "option-2",
+              "text": "reports"
+            },
+            {
+              "id": "option-3",
+              "text": "documents"
+            },
+            {
+              "id": "option-4",
+              "text": "phones"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The worker drafts reports inside a notebook instead of a laptop.",
+          "englishWord": "The worker drafts reports inside a notebook instead of a laptop.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I write ____ on my laptop every afternoon.",
+          "englishWord": "I write ____ on my laptop every afternoon.",
+          "category": "Fill in the blank",
+          "correct": "reports",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "reports"
+            },
+            {
+              "id": "option-2",
+              "text": "emails"
+            },
+            {
+              "id": "option-3",
+              "text": "documents"
+            },
+            {
+              "id": "option-4",
+              "text": "letters"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "send emails",
+          "category": "Arrange the words",
+          "correct": "send emails",
+          "words": [
+            "emails",
+            "send"
+          ],
+          "translateWords": [
+            "emails",
+            "send"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U27_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Where is my phone, Alex?\nYour laptop is in the middle of the desk.\nYour phone is on the left, and your keyboard is on the right.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Where is my phone, Alex? Your laptop is in the middle of the desk. Your phone is on the left, and your keyboard is on the right.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the coordinate assigned to the phone device asset.",
+          "englishWord": "Choose the coordinate assigned to the phone device asset.",
+          "category": "Question answer",
+          "correct": "on the left",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "on the right"
+            },
+            {
+              "id": "option-2",
+              "text": "in the middle"
+            },
+            {
+              "id": "option-3",
+              "text": "on the left"
+            },
+            {
+              "id": "option-4",
+              "text": "background"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Your laptop is located in the ____ of the desk.",
+          "englishWord": "Your laptop is located in the ____ of the desk.",
+          "category": "Complete the sentence",
+          "correct": "middle",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "left"
+            },
+            {
+              "id": "option-2",
+              "text": "middle"
+            },
+            {
+              "id": "option-3",
+              "text": "right"
+            },
+            {
+              "id": "option-4",
+              "text": "under"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text registers that the keyboard sits on the left flank of the layout.",
+          "englishWord": "The text registers that the keyboard sits on the left flank of the layout.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The documents are placed on the ____ side.",
+          "englishWord": "The documents are placed on the ____ side.",
+          "category": "Fill in the blank",
+          "correct": "right",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "left"
+            },
+            {
+              "id": "option-2",
+              "text": "middle"
+            },
+            {
+              "id": "option-3",
+              "text": "right"
+            },
+            {
+              "id": "option-4",
+              "text": "under"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "on the left",
+          "category": "Arrange the words",
+          "correct": "on the left",
+          "words": [
+            "left",
+            "the",
+            "on"
+          ],
+          "translateWords": [
+            "left",
+            "the",
+            "on"
+          ]
+        }
+      ]
+    }
+  ]

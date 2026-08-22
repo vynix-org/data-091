@@ -1,0 +1,46 @@
+[
+    {
+        "level_id": "L1",
+        "level_name": "Starter",
+        "unit_id": "U01",
+        "unit_name": "Greetings & Introductions",
+        "lessons": [
+          {
+            "lesson_id": "L1_U01_01",
+            "lesson_name": "Hola, ¿qué tal?",
+            "lesson_type": "CORE",
+            "lesson_skill": "Speaking",
+            "lesson_scope": "Greeting expressions",
+            "learning_objectives": "Use basic greetings and farewells appropriately.",
+            "targe_language": "hola, adiós, buenos días, buenas tardes, buenas noches",
+            "ui_engine": "chatbot",
+            "phase_1": "[Bubble Type: Introduction] ¡Hola! Welcome! Today you'll learn basic greetings to start and end conversations in Spanish.\n[Bubble Type: Teaching] To say \"hello\", use \"¡Hola!\". To say \"goodbye\", use \"¡Adiós!\". The 'H' is always silent!\n[Bubble Type: Example] ¡Hola, buenos días! (Hello, good morning!)",
+            "phase_2": "[Item 1: Translation] Translate \"Hello\"\n[Target answer: ¡Hola!]\n[Explanation: ¡Hola means Hello and the letter H is silent.]\n[Item 2: Fill in the blank] \"¡_____, nos vemos!\"\n[Target answer: Adiós]\n[Explanation: Adiós is the standard way to say goodbye.]\n[Item 3: Multiple Choice] Good morning: A) Buenas noches B) Buenos días C) Buenas tardes\n[Target answer: B) Buenos días]\n[Explanation: Buenos días translates to good morning.]"
+          },
+          {
+            "lesson_id": "L1_U01_02",
+            "lesson_name": "¿Cómo te llamas?",
+            "lesson_type": "CORE",
+            "lesson_skill": "Speaking",
+            "lesson_scope": "Verb llamarse (yo/tú)",
+            "learning_objectives": "Ask and give your name.",
+            "targe_language": "me llamo, ¿cómo te llamas?, mucho gusto",
+            "ui_engine": "chatbot",
+            "phase_1": "[Bubble Type: Introduction] Welcome! Today you will learn how to ask someone's name and introduce yourself.\n[Bubble Type: Teaching] Ask \"What's your name?\" with \"¿Cómo te llamas?\". Answer \"My name is...\" with \"Me llamo [name]\".\n[Bubble Type: Example] — ¿Cómo te llamas? — Me llamo Carlos.",
+            "phase_2": "[Item 1: Translation] Translate \"My name is Juan\"\n[Target answer: Me llamo Juan.]\n[Explanation: Me llamo is used for My name is.]\n[Item 2: Fill in the blank] \"¿Cómo _____ llamas?\"\n[Target answer: te]\n[Explanation: te goes with llamas when asking someone informally.]\n[Item 3: Dialogue Completion] Complete: \"— ¿Cómo te llamas? — _____, mucho gusto.\"\n[Target answer: Me llamo Maria]\n[Explanation: Use Me llamo followed by your name.]"
+          },
+          {
+            "lesson_id": "L1_U01_03",
+            "lesson_name": "Yo soy...",
+            "lesson_type": "CORE",
+            "lesson_skill": "Speaking",
+            "lesson_scope": "Ser (yo, tú, él/ella)",
+            "learning_objectives": "Introduce yourself using the verb ser.",
+            "targe_language": "soy, eres, es, nombre",
+            "ui_engine": "chatbot",
+            "phase_1": "[Bubble Type: Introduction] Hi there! Today you'll learn how to say \"I am...\" using the Spanish verb \"ser\".\n[Bubble Type: Teaching] Use \"Yo soy\" to say \"I am\". You can also drop \"yo\" and just say \"Soy\".\n[Bubble Type: Example] Yo soy Ana. / Soy estudiante.",
+            "phase_2": "[Item 1: Sentence Building] Arrange: \"soy / Yo / Elena\"\n[Target answer: Yo soy Elena]\n[Explanation: Yo soy means I am.]\n[Item 2: Fill in the blank] \"Yo _____ profesor.\"\n[Target answer: soy]\n[Explanation: soy is the 'I am' form of ser.]\n[Item 3: Multiple Choice] How do you say \"I am\"? A) Yo eres B) Yo soy C) Yo es\n[Target answer: B) Yo soy]\n[Explanation: Yo always pairs with soy.]"
+          }
+        ]
+      }
+]

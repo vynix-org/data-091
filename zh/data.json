@@ -4,6 +4,7 @@
     "level_name": "入门",
     "unit_id": "U01",
     "unit_name": "问候与自我介绍",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U01_01",
@@ -42,6 +43,7 @@
     "level_name": "入门",
     "unit_id": "U02",
     "unit_name": "拼音与书写",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U02_01",
@@ -80,6 +82,7 @@
     "level_name": "入门",
     "unit_id": "U03",
     "unit_name": "数字（1-100）",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U03_01",
@@ -118,6 +121,7 @@
     "level_name": "入门",
     "unit_id": "U04",
     "unit_name": "复习单元",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U04_01",
@@ -156,6 +160,7 @@
     "level_name": "入门",
     "unit_id": "U05",
     "unit_name": "颜色",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U05_01",

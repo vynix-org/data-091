@@ -42,6 +42,7 @@
     "level_name": "初級",
     "unit_id": "U02",
     "unit_name": "ひらがなと書き方",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U02_01",
@@ -80,6 +81,7 @@
     "level_name": "初級",
     "unit_id": "U03",
     "unit_name": "数字（1〜100）",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U03_01",
@@ -118,6 +120,7 @@
     "level_name": "初級",
     "unit_id": "U04",
     "unit_name": "復習ユニット",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U04_01",
@@ -156,6 +159,7 @@
     "level_name": "初級",
     "unit_id": "U05",
     "unit_name": "色",
+    "ui_engine": "quiz",
     "lessons": [
       {
         "lesson_id": "L1_U05_01",

@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L1_U35_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Welcome to our small town! We have a clean hospital for sick people, a school for students, a big bank for money, and a park with green grass.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Welcome to our small town! We have a clean hospital for sick people, a school for students, a big bank for money, and a park with green grass.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the facility dedicated to currency processing and storage.",
+          "englishWord": "Choose the facility dedicated to currency processing and storage.",
+          "category": "Question answer",
+          "correct": "bank",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hospital"
+            },
+            {
+              "id": "option-2",
+              "text": "park"
+            },
+            {
+              "id": "option-3",
+              "text": "bank"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The town has a clean ____ for sick people.",
+          "englishWord": "The town has a clean ____ for sick people.",
+          "category": "Complete the sentence",
+          "correct": "hospital",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "bank"
+            },
+            {
+              "id": "option-2",
+              "text": "hospital"
+            },
+            {
+              "id": "option-3",
+              "text": "supermarket"
+            },
+            {
+              "id": "option-4",
+              "text": "park"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The summary registers that students attend class inside the local bank vault.",
+          "englishWord": "The summary registers that students attend class inside the local bank vault.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Children love running on the grass inside the town ____.",
+          "englishWord": "Children love running on the grass inside the town ____.",
+          "category": "Fill in the blank",
+          "correct": "park",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "park"
+            },
+            {
+              "id": "option-2",
+              "text": "hospital"
+            },
+            {
+              "id": "option-3",
+              "text": "bank"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "supermarket",
+          "category": "Arrange the words",
+          "correct": "supermarket",
+          "words": [
+            "k",
+            "r",
+            "e",
+            "m",
+            "a",
+            "p",
+            "e",
+            "r",
+            "s",
+            "u"
+          ],
+          "translateWords": [
+            "k",
+            "r",
+            "e",
+            "m",
+            "a",
+            "p",
+            "e",
+            "r",
+            "s",
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U35_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I love this city. On Saturday, I watch a movie at the cinema.\nThen, I drink hot tea at a quiet cafe and eat dinner at an Italian restaurant.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I love this city. On Saturday, I watch a movie at the cinema. Then, I drink hot tea at a quiet cafe and eat dinner at an Italian restaurant.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the facility selected for movie viewing tasks.",
+          "englishWord": "Choose the facility selected for movie viewing tasks.",
+          "category": "Question answer",
+          "correct": "cinema",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "shop"
+            },
+            {
+              "id": "option-2",
+              "text": "hotel"
+            },
+            {
+              "id": "option-3",
+              "text": "cinema"
+            },
+            {
+              "id": "option-4",
+              "text": "hospital"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The planner eats dinner at an Italian ____.",
+          "englishWord": "The planner eats dinner at an Italian ____.",
+          "category": "Complete the sentence",
+          "correct": "restaurant",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "bank"
+            },
+            {
+              "id": "option-2",
+              "text": "restaurant"
+            },
+            {
+              "id": "option-3",
+              "text": "cinema"
+            },
+            {
+              "id": "option-4",
+              "text": "hotel"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that hot tea is purchased inside the local cinema hall.",
+          "englishWord": "The text indicates that hot tea is purchased inside the local cinema hall.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She enters the clothing ____ to buy a new pink dress.",
+          "englishWord": "She enters the clothing ____ to buy a new pink dress.",
+          "category": "Fill in the blank",
+          "correct": "shop",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "shop"
+            },
+            {
+              "id": "option-2",
+              "text": "hotel"
+            },
+            {
+              "id": "option-3",
+              "text": "bank"
+            },
+            {
+              "id": "option-4",
+              "text": "cinema"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "hotel",
+          "category": "Arrange the words",
+          "correct": "hotel",
+          "words": [
+            "l",
+            "e",
+            "t",
+            "o",
+            "h"
+          ],
+          "translateWords": [
+            "l",
+            "e",
+            "t",
+            "o",
+            "h"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U35_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I live in a beautiful city. There is a famous hospital near the center.\nThere are forty schools and many parks for families to visit.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I live in a beautiful city. There is a famous hospital near the center. There are forty schools and many parks for families to visit.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase pattern used to introduce multiple plural urban assets.",
+          "englishWord": "Choose the phrase pattern used to introduce multiple plural urban assets.",
+          "category": "Question answer",
+          "correct": "there are",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "there is a"
+            },
+            {
+              "id": "option-2",
+              "text": "there are"
+            },
+            {
+              "id": "option-3",
+              "text": "live in"
+            },
+            {
+              "id": "option-4",
+              "text": "what is"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "____ famous hospital near the city center.",
+          "englishWord": "____ famous hospital near the city center.",
+          "category": "Complete the sentence",
+          "correct": "There is a",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "There are"
+            },
+            {
+              "id": "option-2",
+              "text": "There is a"
+            },
+            {
+              "id": "option-3",
+              "text": "They are"
+            },
+            {
+              "id": "option-4",
+              "text": "It have"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The census entry states that there are exactly zero parks inside the municipal line.",
+          "englishWord": "The census entry states that there are exactly zero parks inside the municipal line.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My family and I ____ a small apartment in Hanoi.",
+          "englishWord": "My family and I ____ a small apartment in Hanoi.",
+          "category": "Fill in the blank",
+          "correct": "live in",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "live in"
+            },
+            {
+              "id": "option-2",
+              "text": "live at"
+            },
+            {
+              "id": "option-3",
+              "text": "are"
+            },
+            {
+              "id": "option-4",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "There is a big park",
+          "category": "Arrange the words",
+          "correct": "There is a big park",
+          "words": [
+            "park",
+            "a",
+            "big",
+            "is",
+            "There"
+          ],
+          "translateWords": [
+            "park",
+            "a",
+            "big",
+            "is",
+            "There"
+          ]
+        }
+      ]
+    }
+  ]

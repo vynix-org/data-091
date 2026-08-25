@@ -1,0 +1,370 @@
+[
+    {
+      "lesson_id": "L1_U36_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Every morning, I take a bus to the hospital where I work.\nMy brother drives a car to the bank.\nA car is fast, but the bus is slower than a car.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Every morning, I take a bus to the hospital where I work. My brother drives a car to the bank. A car is fast, but the bus is slower than a car.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the destination point assigned to the speaker's morning bus routine.",
+          "englishWord": "Choose the destination point assigned to the speaker's morning bus routine.",
+          "category": "Question answer",
+          "correct": "hospital",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "school"
+            },
+            {
+              "id": "option-2",
+              "text": "bank"
+            },
+            {
+              "id": "option-3",
+              "text": "hospital"
+            },
+            {
+              "id": "option-4",
+              "text": "cinema"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "My brother ____ a car to the bank.",
+          "englishWord": "My brother ____ a car to the bank.",
+          "category": "Complete the sentence",
+          "correct": "drives",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "rides"
+            },
+            {
+              "id": "option-2",
+              "text": "takes"
+            },
+            {
+              "id": "option-3",
+              "text": "flies"
+            },
+            {
+              "id": "option-4",
+              "text": "drives"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The mobility log establishes that a transit bus travels faster than a private car.",
+          "englishWord": "The mobility log establishes that a transit bus travels faster than a private car.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I do not walk to work; I ____ to save time.",
+          "englishWord": "I do not walk to work; I ____ to save time.",
+          "category": "Fill in the blank",
+          "correct": "take a bus",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "take a bus"
+            },
+            {
+              "id": "option-2",
+              "text": "walk"
+            },
+            {
+              "id": "option-3",
+              "text": "ride a bicycle"
+            },
+            {
+              "id": "option-4",
+              "text": "take a train"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Bicycle Car Plane",
+          "category": "Arrange the words",
+          "correct": "Bicycle Car Plane",
+          "words": [
+            "Plane",
+            "Bicycle",
+            "Car"
+          ],
+          "translateWords": [
+            "Plane",
+            "Bicycle",
+            "Car"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U36_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "To find the Italian restaurant, go straight for one block and turn right.\nIt is located opposite the bank and next to a small cafe.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "To find the Italian restaurant, go straight for one block and turn right. It is located opposite the bank and next to a small cafe.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the navigational command required at the intersection point.",
+          "englishWord": "Choose the navigational command required at the intersection point.",
+          "category": "Question answer",
+          "correct": "turn right",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "turn left"
+            },
+            {
+              "id": "option-2",
+              "text": "stop"
+            },
+            {
+              "id": "option-3",
+              "text": "turn right"
+            },
+            {
+              "id": "option-4",
+              "text": "fly away"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The restaurant is situated ____ the town bank.",
+          "englishWord": "The restaurant is situated ____ the town bank.",
+          "category": "Complete the sentence",
+          "correct": "opposite",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "next to"
+            },
+            {
+              "id": "option-2",
+              "text": "inside"
+            },
+            {
+              "id": "option-3",
+              "text": "between"
+            },
+            {
+              "id": "option-4",
+              "text": "opposite"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The waypoint data indicates that the Italian restaurant sits next to a school.",
+          "englishWord": "The waypoint data indicates that the Italian restaurant sits next to a school.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ for two blocks to reach the park entrance.",
+          "englishWord": "____ for two blocks to reach the park entrance.",
+          "category": "Fill in the blank",
+          "correct": "Go straight",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Go straight"
+            },
+            {
+              "id": "option-2",
+              "text": "Turn left"
+            },
+            {
+              "id": "option-3",
+              "text": "Turn right"
+            },
+            {
+              "id": "option-4",
+              "text": "Stop"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "how do I get to the bank?",
+          "category": "Arrange the words",
+          "correct": "how do I get to the bank?",
+          "words": [
+            "get",
+            "bank",
+            "to",
+            "do",
+            "how",
+            "I",
+            "the",
+            "?"
+          ],
+          "translateWords": [
+            "get",
+            "bank",
+            "to",
+            "do",
+            "how",
+            "I",
+            "the",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U36_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We live in a busy city. There is a big supermarket opposite our hotel.\nOn this main road, there are three cafes and an excellent fish restaurant.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We live in a busy city. There is a big supermarket opposite our hotel. On this main road, there are three cafes and an excellent fish restaurant.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the specific infrastructure asset located opposite the visitor hotel.",
+          "englishWord": "Choose the specific infrastructure asset located opposite the visitor hotel.",
+          "category": "Question answer",
+          "correct": "supermarket",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hospital"
+            },
+            {
+              "id": "option-2",
+              "text": "bank"
+            },
+            {
+              "id": "option-3",
+              "text": "cinema"
+            },
+            {
+              "id": "option-4",
+              "text": "supermarket"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "On this main road, ____ three cafes.",
+          "englishWord": "On this main road, ____ three cafes.",
+          "category": "Complete the sentence",
+          "correct": "there are",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "there is a"
+            },
+            {
+              "id": "option-2",
+              "text": "there are"
+            },
+            {
+              "id": "option-3",
+              "text": "have"
+            },
+            {
+              "id": "option-4",
+              "text": "it has"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The configuration profile reports that the target family resides inside a small rural schoolhouse.",
+          "englishWord": "The configuration profile reports that the target family resides inside a small rural schoolhouse.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ excellent fish restaurant down the street.",
+          "englishWord": "____ excellent fish restaurant down the street.",
+          "category": "Fill in the blank",
+          "correct": "There is a",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "There is a"
+            },
+            {
+              "id": "option-2",
+              "text": "There are"
+            },
+            {
+              "id": "option-3",
+              "text": "It has"
+            },
+            {
+              "id": "option-4",
+              "text": "There have"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Where is the hotel?",
+          "category": "Arrange the words",
+          "correct": "Where is the hotel?",
+          "words": [
+            "the",
+            "hotel",
+            "Where",
+            "is",
+            "?"
+          ],
+          "translateWords": [
+            "the",
+            "hotel",
+            "Where",
+            "is",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

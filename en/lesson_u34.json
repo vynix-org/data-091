@@ -1,0 +1,366 @@
+[
+    {
+      "lesson_id": "L1_U34_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Walk down this street. Go straight for one block. Then, turn left at the red shop. Do not turn right.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Walk down this street. Go straight for one block. Then, turn left at the red shop. Do not turn right.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the direction assigned at the red shop marker.",
+          "englishWord": "Choose the direction assigned at the red shop marker.",
+          "category": "Question answer",
+          "correct": "turn left",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "turn right"
+            },
+            {
+              "id": "option-2",
+              "text": "turn left"
+            },
+            {
+              "id": "option-3",
+              "text": "stop"
+            },
+            {
+              "id": "option-4",
+              "text": "go straight"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Walk down this street. ____ straight for one block.",
+          "englishWord": "Walk down this street. ____ straight for one block.",
+          "category": "Complete the sentence",
+          "correct": "Go",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Turn"
+            },
+            {
+              "id": "option-2",
+              "text": "Stop"
+            },
+            {
+              "id": "option-3",
+              "text": "Go"
+            },
+            {
+              "id": "option-4",
+              "text": "Drive"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The footpath guide tells the visitor to turn right at the corner.",
+          "englishWord": "The footpath guide tells the visitor to turn right at the corner.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Red traffic lights mean you must ____.",
+          "englishWord": "Red traffic lights mean you must ____.",
+          "category": "Fill in the blank",
+          "correct": "stop",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "stop"
+            },
+            {
+              "id": "option-2",
+              "text": "go"
+            },
+            {
+              "id": "option-3",
+              "text": "turn"
+            },
+            {
+              "id": "option-4",
+              "text": "walk"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "right",
+          "category": "Arrange the words",
+          "correct": "right",
+          "words": [
+            "h",
+            "g",
+            "i",
+            "r",
+            "t"
+          ],
+          "translateWords": [
+            "h",
+            "g",
+            "i",
+            "r",
+            "t"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U34_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The small bakery is next to the shoe shop.\nThe big bank is opposite the school.\nThe blue car is parked between two trees.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The small bakery is next to the shoe shop. The big bank is opposite the school. The blue car is parked between two trees.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the location of the big bank relative to the school asset.",
+          "englishWord": "Choose the location of the big bank relative to the school asset.",
+          "category": "Question answer",
+          "correct": "opposite",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "next to"
+            },
+            {
+              "id": "option-2",
+              "text": "between"
+            },
+            {
+              "id": "option-3",
+              "text": "opposite"
+            },
+            {
+              "id": "option-4",
+              "text": "inside"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The bakery is located ____ the shoe shop.",
+          "englishWord": "The bakery is located ____ the shoe shop.",
+          "category": "Complete the sentence",
+          "correct": "next to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "between"
+            },
+            {
+              "id": "option-2",
+              "text": "next to"
+            },
+            {
+              "id": "option-3",
+              "text": "opposite"
+            },
+            {
+              "id": "option-4",
+              "text": "under"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The layout registers that the blue car sits on top of the school roof space.",
+          "englishWord": "The layout registers that the blue car sits on top of the school roof space.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The book shop is ____ the bank and the market.",
+          "englishWord": "The book shop is ____ the bank and the market.",
+          "category": "Fill in the blank",
+          "correct": "between",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "between"
+            },
+            {
+              "id": "option-2",
+              "text": "next to"
+            },
+            {
+              "id": "option-3",
+              "text": "opposite"
+            },
+            {
+              "id": "option-4",
+              "text": "under"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "on the corner of",
+          "category": "Arrange the words",
+          "correct": "on the corner of",
+          "words": [
+            "the",
+            "corner",
+            "on",
+            "of"
+          ],
+          "translateWords": [
+            "the",
+            "corner",
+            "on",
+            "of"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U34_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Excuse me, how do I get to the train station? Go straight for two blocks, it is opposite the bank.\nThank you!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Excuse me, how do I get to the train station? Go straight for two blocks, it is opposite the bank. Thank you!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the polite phrase used to initiate a navigation request with a stranger.",
+          "englishWord": "Choose the polite phrase used to initiate a navigation request with a stranger.",
+          "category": "Question answer",
+          "correct": "Excuse me",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Goodbye"
+            },
+            {
+              "id": "option-2",
+              "text": "Excuse me"
+            },
+            {
+              "id": "option-3",
+              "text": "Wave hand"
+            },
+            {
+              "id": "option-4",
+              "text": "Sit down"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Excuse me, ____ the train station?",
+          "englishWord": "Excuse me, ____ the train station?",
+          "category": "Complete the sentence",
+          "correct": "how do I get to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "what color is"
+            },
+            {
+              "id": "option-2",
+              "text": "how do I get to"
+            },
+            {
+              "id": "option-3",
+              "text": "when is"
+            },
+            {
+              "id": "option-4",
+              "text": "what do you do"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The station asset is hidden behind the local school fence lines.",
+          "englishWord": "The station asset is hidden behind the local school fence lines.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Here is your map. - ____ you very much!",
+          "englishWord": "Here is your map. - ____ you very much!",
+          "category": "Fill in the blank",
+          "correct": "Thank",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Thank"
+            },
+            {
+              "id": "option-2",
+              "text": "Help"
+            },
+            {
+              "id": "option-3",
+              "text": "Welcome"
+            },
+            {
+              "id": "option-4",
+              "text": "Excuse"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Where is the school?",
+          "category": "Arrange the words",
+          "correct": "Where is the school?",
+          "words": [
+            "the",
+            "school",
+            "is",
+            "Where",
+            "?"
+          ],
+          "translateWords": [
+            "the",
+            "school",
+            "is",
+            "Where",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,360 @@
+[
+    {
+      "lesson_id": "L1_U39_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "On weekends, I have lots of free time. In the afternoon, I ride a bike or go swimming at the pool.\nMy friends like to play tennis.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "On weekends, I have lots of free time. In the afternoon, I ride a bike or go swimming at the pool. My friends like to play tennis.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the outdoor hobby asset linked to the tennis ball item.",
+          "englishWord": "Choose the outdoor hobby asset linked to the tennis ball item.",
+          "category": "Question answer",
+          "correct": "play tennis",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "ride a bike"
+            },
+            {
+              "id": "option-2",
+              "text": "play tennis"
+            },
+            {
+              "id": "option-3",
+              "text": "read books"
+            },
+            {
+              "id": "option-4",
+              "text": "send emails"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "In the afternoon, I go ____ at the pool.",
+          "englishWord": "In the afternoon, I go ____ at the pool.",
+          "category": "Complete the sentence",
+          "correct": "swimming",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "swimming"
+            },
+            {
+              "id": "option-2",
+              "text": "running"
+            },
+            {
+              "id": "option-3",
+              "text": "walking"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The data profile indicates that the speaker plays tennis inside his bedroom.",
+          "englishWord": "The data profile indicates that the speaker plays tennis inside his bedroom.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What do you do in your ____ time? - I walk in the park.",
+          "englishWord": "What do you do in your ____ time? - I walk in the park.",
+          "category": "Fill in the blank",
+          "correct": "free",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "free"
+            },
+            {
+              "id": "option-2",
+              "text": "busy"
+            },
+            {
+              "id": "option-3",
+              "text": "work"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "ride a bike",
+          "category": "Arrange the words",
+          "correct": "ride a bike",
+          "words": [
+            "bike",
+            "a",
+            "ride"
+          ],
+          "translateWords": [
+            "bike",
+            "a",
+            "ride"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U39_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "It is rainy today, so we stay home.\nMy brother and I play video games on the television.\nMy father likes to play chess with his friend.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "It is rainy today, so we stay home. My brother and I play video games on the television. My father likes to play chess with his friend.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the electronic entertainment type deployment item linked to the television display.",
+          "englishWord": "Choose the electronic entertainment type deployment item linked to the television display.",
+          "category": "Question answer",
+          "correct": "play video games",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "play chess"
+            },
+            {
+              "id": "option-2",
+              "text": "watch a movie"
+            },
+            {
+              "id": "option-3",
+              "text": "play video games"
+            },
+            {
+              "id": "option-4",
+              "text": "read books"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The father likes to play ____ with his friend.",
+          "englishWord": "The father likes to play ____ with his friend.",
+          "category": "Complete the sentence",
+          "correct": "chess",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "chess"
+            },
+            {
+              "id": "option-2",
+              "text": "football"
+            },
+            {
+              "id": "option-3",
+              "text": "tennis"
+            },
+            {
+              "id": "option-4",
+              "text": "keyboard"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The indoor log indicates that the family is swimming inside the kitchen zone.",
+          "englishWord": "The indoor log indicates that the family is swimming inside the kitchen zone.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Let's watch a ____ at the cinema tonight.",
+          "englishWord": "Let's watch a ____ at the cinema tonight.",
+          "category": "Fill in the blank",
+          "correct": "movie",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "movie"
+            },
+            {
+              "id": "option-2",
+              "text": "book"
+            },
+            {
+              "id": "option-3",
+              "text": "game"
+            },
+            {
+              "id": "option-4",
+              "text": "song"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "listen to music",
+          "category": "Arrange the words",
+          "correct": "listen to music",
+          "words": [
+            "music",
+            "to",
+            "listen"
+          ],
+          "translateWords": [
+            "music",
+            "to",
+            "listen"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U39_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I love sports. I play tennis every day after work.\nOn Saturdays, I go swimming. Sometimes I watch a movie, but I never play chess.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I love sports. I play tennis every day after work. On Saturdays, I go swimming. Sometimes I watch a movie, but I never play chess.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the absolute frequency metric assigned to the tennis sport task.",
+          "englishWord": "Choose the absolute frequency metric assigned to the tennis sport task.",
+          "category": "Question answer",
+          "correct": "every day",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sometimes"
+            },
+            {
+              "id": "option-2",
+              "text": "never"
+            },
+            {
+              "id": "option-3",
+              "text": "every day"
+            },
+            {
+              "id": "option-4",
+              "text": "on Saturdays"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "On Saturdays, the tracker goes ____.",
+          "englishWord": "On Saturdays, the tracker goes ____.",
+          "category": "Complete the sentence",
+          "correct": "swimming",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "chess"
+            },
+            {
+              "id": "option-2",
+              "text": "swimming"
+            },
+            {
+              "id": "option-3",
+              "text": "cinema"
+            },
+            {
+              "id": "option-4",
+              "text": "school"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The routine log notes that the user plays chess seventy times every single week.",
+          "englishWord": "The routine log notes that the user plays chess seventy times every single week.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I do not like video games. I ____ play them.",
+          "englishWord": "I do not like video games. I ____ play them.",
+          "category": "Fill in the blank",
+          "correct": "never",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "never"
+            },
+            {
+              "id": "option-2",
+              "text": "always"
+            },
+            {
+              "id": "option-3",
+              "text": "sometimes"
+            },
+            {
+              "id": "option-4",
+              "text": "often"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Sometimes I play video games",
+          "category": "Arrange the words",
+          "correct": "Sometimes I play video games",
+          "words": [
+            "I",
+            "video",
+            "games",
+            "Sometimes",
+            "play"
+          ],
+          "translateWords": [
+            "I",
+            "video",
+            "games",
+            "Sometimes",
+            "play"
+          ]
+        }
+      ]
+    }
+  ]

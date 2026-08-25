@@ -1,0 +1,362 @@
+[
+    {
+      "lesson_id": "L1_U38_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look at this picture. My father is a tall man.\nMy grandmother is seventy years old, so she is old.\nMy sister is young and short.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look at this picture. My father is a tall man. My grandmother is seventy years old, so she is old. My sister is young and short.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the height modifier attached to the father profile.",
+          "englishWord": "Choose the height modifier attached to the father profile.",
+          "category": "Question answer",
+          "correct": "tall",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "short"
+            },
+            {
+              "id": "option-2",
+              "text": "thin"
+            },
+            {
+              "id": "option-3",
+              "text": "tall"
+            },
+            {
+              "id": "option-4",
+              "text": "young"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The grandmother is seventy, so she is ____.",
+          "englishWord": "The grandmother is seventy, so she is ____.",
+          "category": "Complete the sentence",
+          "correct": "old",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "young"
+            },
+            {
+              "id": "option-2",
+              "text": "old"
+            },
+            {
+              "id": "option-3",
+              "text": "thin"
+            },
+            {
+              "id": "option-4",
+              "text": "tall"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The portrait text states that the sister is a very old and tall person.",
+          "englishWord": "The portrait text states that the sister is a very old and tall person.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "John is a very nice per____.",
+          "englishWord": "John is a very nice per____.",
+          "category": "Fill in the blank",
+          "correct": "son",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "son"
+            },
+            {
+              "id": "option-2",
+              "text": "man"
+            },
+            {
+              "id": "option-3",
+              "text": "boy"
+            },
+            {
+              "id": "option-4",
+              "text": "person"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "thin",
+          "category": "Arrange the words",
+          "correct": "thin",
+          "words": [
+            "n",
+            "i",
+            "h",
+            "t"
+          ],
+          "translateWords": [
+            "n",
+            "i",
+            "h",
+            "t"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U38_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The new student is Sarah. She has long blonde hair and beautiful blue eyes.\nShe wears glasses when she writes reports on her laptop.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The new student is Sarah. She has long blonde hair and beautiful blue eyes. She wears glasses when she writes reports on her laptop.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the visual processing attribute assigned to Sarah.",
+          "englishWord": "Choose the visual processing attribute assigned to Sarah.",
+          "category": "Question answer",
+          "correct": "blue eyes",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "brown eyes"
+            },
+            {
+              "id": "option-2",
+              "text": "blue eyes"
+            },
+            {
+              "id": "option-3",
+              "text": "big ears"
+            },
+            {
+              "id": "option-4",
+              "text": "short hair"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sarah has long hair and she wears ____.",
+          "englishWord": "Sarah has long hair and she wears ____.",
+          "category": "Complete the sentence",
+          "correct": "glasses",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "a hat"
+            },
+            {
+              "id": "option-2",
+              "text": "boots"
+            },
+            {
+              "id": "option-3",
+              "text": "glasses"
+            },
+            {
+              "id": "option-4",
+              "text": "a raincoat"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The character file registers that Sarah operates with a short black haircut line.",
+          "englishWord": "The character file registers that Sarah operates with a short black haircut line.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My grandfather ____ glasses to read books.",
+          "englishWord": "My grandfather ____ glasses to read books.",
+          "category": "Fill in the blank",
+          "correct": "wears",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "wears"
+            },
+            {
+              "id": "option-2",
+              "text": "buys"
+            },
+            {
+              "id": "option-3",
+              "text": "takes"
+            },
+            {
+              "id": "option-4",
+              "text": "uses"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He has short hair",
+          "category": "Arrange the words",
+          "correct": "He has short hair",
+          "words": [
+            "hair",
+            "short",
+            "has",
+            "He"
+          ],
+          "translateWords": [
+            "hair",
+            "short",
+            "has",
+            "He"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U38_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I am looking for my sister, Lucy. What does she look like?\nShe is tall, beautiful, and has long black hair.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I am looking for my sister, Lucy. What does she look like? She is tall, beautiful, and has long black hair.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the interrogative formula used to request a physical appearance profile.",
+          "englishWord": "Choose the interrogative formula used to request a physical appearance profile.",
+          "category": "Question answer",
+          "correct": "What does she look like?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "What do you do?"
+            },
+            {
+              "id": "option-2",
+              "text": "Where is she from?"
+            },
+            {
+              "id": "option-3",
+              "text": "What does she look like?"
+            },
+            {
+              "id": "option-4",
+              "text": "How old is she?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Lucy is tall, ____, and has long hair.",
+          "englishWord": "Lucy is tall, ____, and has long hair.",
+          "category": "Complete the sentence",
+          "correct": "beautiful",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "handsome"
+            },
+            {
+              "id": "option-2",
+              "text": "beautiful"
+            },
+            {
+              "id": "option-3",
+              "text": "angry"
+            },
+            {
+              "id": "option-4",
+              "text": "cold"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that Lucy is a short person with blue glasses.",
+          "englishWord": "The text indicates that Lucy is a short person with blue glasses.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "What does your brother look ____?",
+          "englishWord": "What does your brother look ____?",
+          "category": "Fill in the blank",
+          "correct": "like",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "like"
+            },
+            {
+              "id": "option-2",
+              "text": "look"
+            },
+            {
+              "id": "option-3",
+              "text": "with"
+            },
+            {
+              "id": "option-4",
+              "text": "for"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He is very handsome",
+          "category": "Arrange the words",
+          "correct": "He is very handsome",
+          "words": [
+            "is",
+            "handsome",
+            "He",
+            "very"
+          ],
+          "translateWords": [
+            "is",
+            "handsome",
+            "He",
+            "very"
+          ]
+        }
+      ]
+    }
+  ]

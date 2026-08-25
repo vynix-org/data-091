@@ -1,0 +1,360 @@
+[
+  {
+    "lesson_id": "L1_U30_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "I love animals. My family lives in a big house with many pets.\nWe have one white dog, two small cats, and a blue bird in a cage.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "I love animals. My family lives in a big house with many pets. We have one white dog, two small cats, and a blue bird in a cage.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the animal category name for companion beasts.",
+        "englishWord": "Choose the animal category name for companion beasts.",
+        "category": "Question answer",
+        "correct": "pet",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "food"
+          },
+          {
+            "id": "option-2",
+            "text": "job"
+          },
+          {
+            "id": "option-3",
+            "text": "pet"
+          },
+          {
+            "id": "option-4",
+            "text": "aisle"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The family has two small ____.",
+        "englishWord": "The family has two small ____.",
+        "category": "Complete the sentence",
+        "correct": "cats",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "dogs"
+          },
+          {
+            "id": "option-2",
+            "text": "cats"
+          },
+          {
+            "id": "option-3",
+            "text": "fish"
+          },
+          {
+            "id": "option-4",
+            "text": "birds"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text logs a profile containing five red elephants.",
+        "englishWord": "The text logs a profile containing five red elephants.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "The orange goldfish swims in the glass bowl.",
+        "englishWord": "The orange goldfish swims in the glass bowl.",
+        "category": "Fill in the blank",
+        "correct": "fish",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "fish"
+          },
+          {
+            "id": "option-2",
+            "text": "dog"
+          },
+          {
+            "id": "option-3",
+            "text": "bird"
+          },
+          {
+            "id": "option-4",
+            "text": "cat"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "bird",
+        "category": "Arrange the words",
+        "correct": "bird",
+        "words": [
+          "r",
+          "b",
+          "i",
+          "d"
+        ],
+        "translateWords": [
+          "r",
+          "b",
+          "i",
+          "d"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U30_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Look at the farm! The white duck is swimming in the water.\nThe brown horse is running very fast.\nThe cow eats green grass.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Look at the farm! The white duck is swimming in the water. The brown horse is running very fast. The cow eats green grass.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the livestock item linked to the water swimming activity.",
+        "englishWord": "Choose the livestock item linked to the water swimming activity.",
+        "category": "Question answer",
+        "correct": "duck",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "horse"
+          },
+          {
+            "id": "option-2",
+            "text": "cow"
+          },
+          {
+            "id": "option-3",
+            "text": "chicken"
+          },
+          {
+            "id": "option-4",
+            "text": "duck"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The brown horse is ____ fast.",
+        "englishWord": "The brown horse is ____ fast.",
+        "category": "Complete the sentence",
+        "correct": "running",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "swimming"
+          },
+          {
+            "id": "option-2",
+            "text": "running"
+          },
+          {
+            "id": "option-3",
+            "text": "sleeping"
+          },
+          {
+            "id": "option-4",
+            "text": "cooking"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text notes that the cow is flying high in the sky area.",
+        "englishWord": "The text notes that the cow is flying high in the sky area.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "The brown ____ walks near the barn door.",
+        "englishWord": "The brown ____ walks near the barn door.",
+        "category": "Fill in the blank",
+        "correct": "chicken",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "chicken"
+          },
+          {
+            "id": "option-2",
+            "text": "duck"
+          },
+          {
+            "id": "option-3",
+            "text": "horse"
+          },
+          {
+            "id": "option-4",
+            "text": "cow"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "cow",
+        "category": "Arrange the words",
+        "correct": "cow",
+        "words": [
+          "w",
+          "o",
+          "c"
+        ],
+        "translateWords": [
+          "w",
+          "o",
+          "c"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1_U30_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "What animal is this?\nIt is a dog. It has big ears and a long tail.\nIts fur is brown and very soft.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "What animal is this? It is a dog. It has big ears and a long tail. Its fur is brown and very soft.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the body attribute attached to the dog's hearing structures.",
+        "englishWord": "Choose the body attribute attached to the dog's hearing structures.",
+        "category": "Question answer",
+        "correct": "big ears",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "long tail"
+          },
+          {
+            "id": "option-2",
+            "text": "big ears"
+          },
+          {
+            "id": "option-3",
+            "text": "white wings"
+          },
+          {
+            "id": "option-4",
+            "text": "green eyes"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The dog has a long ____.",
+        "englishWord": "The dog has a long ____.",
+        "category": "Complete the sentence",
+        "correct": "tail",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "foot"
+          },
+          {
+            "id": "option-2",
+            "text": "hand"
+          },
+          {
+            "id": "option-3",
+            "text": "tail"
+          },
+          {
+            "id": "option-4",
+            "text": "hair"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The riddle states that the target animal token is a blue duck.",
+        "englishWord": "The riddle states that the target animal token is a blue duck.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Cats clean their soft ____ every afternoon.",
+        "englishWord": "Cats clean their soft ____ every afternoon.",
+        "category": "Fill in the blank",
+        "correct": "fur",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "fur"
+          },
+          {
+            "id": "option-2",
+            "text": "tail"
+          },
+          {
+            "id": "option-3",
+            "text": "ears"
+          },
+          {
+            "id": "option-4",
+            "text": "eyes"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "It has big eyes",
+        "category": "Arrange the words",
+        "correct": "It has big eyes",
+        "words": [
+          "has",
+          "big",
+          "eyes",
+          "It"
+        ],
+        "translateWords": [
+          "has",
+          "big",
+          "eyes",
+          "It"
+        ]
+      }
+    ]
+  }
+]

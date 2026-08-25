@@ -1,0 +1,368 @@
+[
+    {
+      "lesson_id": "L1_U40_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "On Saturdays, I have free time. I ride a bike in the park.\nI feel happy because sports are fun. Sometimes I am tired and thirsty, so I need water.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "On Saturdays, I have free time. I ride a bike in the park. I feel happy because sports are fun. Sometimes I am tired and thirsty, so I need water.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the basic feeling recorded during the outdoor bicycle task block.",
+          "englishWord": "Choose the basic feeling recorded during the outdoor bicycle task block.",
+          "category": "Question answer",
+          "correct": "happy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "angry"
+            },
+            {
+              "id": "option-2",
+              "text": "sad"
+            },
+            {
+              "id": "option-3",
+              "text": "happy"
+            },
+            {
+              "id": "option-4",
+              "text": "scared"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sometimes the rider is tired and ____.",
+          "englishWord": "Sometimes the rider is tired and ____.",
+          "category": "Complete the sentence",
+          "correct": "thirsty",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hungry"
+            },
+            {
+              "id": "option-2",
+              "text": "thirsty"
+            },
+            {
+              "id": "option-3",
+              "text": "short"
+            },
+            {
+              "id": "option-4",
+              "text": "handsome"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The snapshot notes that the subject rides a bike across the room every Monday night.",
+          "englishWord": "The snapshot notes that the subject rides a bike across the room every Monday night.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I feel tired ____ I walk for three blocks.",
+          "englishWord": "I feel tired ____ I walk for three blocks.",
+          "category": "Fill in the blank",
+          "correct": "because",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "but"
+            },
+            {
+              "id": "option-3",
+              "text": "or"
+            },
+            {
+              "id": "option-4",
+              "text": "and"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Every day Sometimes Never",
+          "category": "Arrange the words",
+          "correct": "Every day Sometimes Never",
+          "words": [
+            "Sometimes",
+            "Never",
+            "Every day"
+          ],
+          "translateWords": [
+            "Sometimes",
+            "Never",
+            "Every day"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U40_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The assistant director is John. He is a tall, thin man.\nHe has short brown hair and wears glasses. He looks very handsome and professional.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The assistant director is John. He is a tall, thin man. He has short brown hair and wears glasses. He looks very handsome and professional.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the statural height and build configuration pairing assigned to John.",
+          "englishWord": "Choose the statural height and build configuration pairing assigned to John.",
+          "category": "Question answer",
+          "correct": "tall and thin",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "short and thin"
+            },
+            {
+              "id": "option-2",
+              "text": "tall and thin"
+            },
+            {
+              "id": "option-3",
+              "text": "short and old"
+            },
+            {
+              "id": "option-4",
+              "text": "tall and beautiful"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "John has short brown hair and ____.",
+          "englishWord": "John has short brown hair and ____.",
+          "category": "Complete the sentence",
+          "correct": "wears glasses",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "a blue hat"
+            },
+            {
+              "id": "option-2",
+              "text": "a red dress"
+            },
+            {
+              "id": "option-3",
+              "text": "wears glasses"
+            },
+            {
+              "id": "option-4",
+              "text": "a raincoat"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The transmission describes a female manager who has long blonde hair.",
+          "englishWord": "The transmission describes a female manager who has long blonde hair.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Mary has beautiful blue eyes; she ____ amazing.",
+          "englishWord": "Mary has beautiful blue eyes; she ____ amazing.",
+          "category": "Fill in the blank",
+          "correct": "looks",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "looks"
+            },
+            {
+              "id": "option-2",
+              "text": "feels"
+            },
+            {
+              "id": "option-3",
+              "text": "has"
+            },
+            {
+              "id": "option-4",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What does she look like?",
+          "category": "Arrange the words",
+          "correct": "What does she look like?",
+          "words": [
+            "look",
+            "What",
+            "like",
+            "she",
+            "does",
+            "?"
+          ],
+          "translateWords": [
+            "look",
+            "What",
+            "like",
+            "she",
+            "does",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U40_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My brother is named Tom. What does he look like?\nHe is a tall, handsome person. He feels happy every day because he likes to play video games in his room.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My brother is named Tom. What does he look like? He is a tall, handsome person. He feels happy every day because he likes to play video games in his room.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose Tom's entry primary emotional state setting line.",
+          "englishWord": "Choose Tom's entry primary emotional state setting line.",
+          "category": "Question answer",
+          "correct": "happy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sad"
+            },
+            {
+              "id": "option-2",
+              "text": "angry"
+            },
+            {
+              "id": "option-3",
+              "text": "scared"
+            },
+            {
+              "id": "option-4",
+              "text": "happy"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tom likes to ____ in his room.",
+          "englishWord": "Tom likes to ____ in his room.",
+          "category": "Complete the sentence",
+          "correct": "play video games",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "play chess"
+            },
+            {
+              "id": "option-2",
+              "text": "play video games"
+            },
+            {
+              "id": "option-3",
+              "text": "fly a kite"
+            },
+            {
+              "id": "option-4",
+              "text": "drive a car"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The profile indicates that Tom feels extremely sad because he plays tennis out in the heavy rain.",
+          "englishWord": "The profile indicates that Tom feels extremely sad because he plays tennis out in the heavy rain.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "He tracks his favorite indoor hobby ____ after finishing his work.",
+          "englishWord": "He tracks his favorite indoor hobby ____ after finishing his work.",
+          "category": "Fill in the blank",
+          "correct": "every day",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "every day"
+            },
+            {
+              "id": "option-2",
+              "text": "sometimes"
+            },
+            {
+              "id": "option-3",
+              "text": "never"
+            },
+            {
+              "id": "option-4",
+              "text": "once a week"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "What does he look like?",
+          "category": "Arrange the words",
+          "correct": "What does he look like?",
+          "words": [
+            "look",
+            "he",
+            "like",
+            "What",
+            "does",
+            "?"
+          ],
+          "translateWords": [
+            "look",
+            "he",
+            "like",
+            "What",
+            "does",
+            "?"
+          ]
+        }
+      ]
+    }
+  ]

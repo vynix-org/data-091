@@ -1,0 +1,340 @@
+[
+    {
+      "lesson_id": "L1_U33_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I travel to work every day. I usually take the big blue bus.\nSome people drive a red car or ride a bicycle.\nFor long distances, we take a fast train or a plane.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I travel to work every day. I usually take the big blue bus. Some people drive a red car or ride a bicycle. For long distances, we take a fast train or a plane.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the vehicle token used for flying across long distances.",
+          "englishWord": "Choose the vehicle token used for flying across long distances.",
+          "category": "Question answer",
+          "correct": "plane",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "bus"
+            },
+            {
+              "id": "option-2",
+              "text": "train"
+            },
+            {
+              "id": "option-3",
+              "text": "car"
+            },
+            {
+              "id": "option-4",
+              "text": "plane"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The speaker usually takes a big blue ____.",
+          "englishWord": "The speaker usually takes a big blue ____.",
+          "category": "Complete the sentence",
+          "correct": "bus",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "train"
+            },
+            {
+              "id": "option-2",
+              "text": "bus"
+            },
+            {
+              "id": "option-3",
+              "text": "bicycle"
+            },
+            {
+              "id": "option-4",
+              "text": "plane"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The transit log states that a train is a very slow vehicle asset.",
+          "englishWord": "The transit log states that a train is a very slow vehicle asset.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "He rides a bi____ to the school.",
+          "englishWord": "He rides a bi____ to the school.",
+          "category": "Fill in the blank",
+          "correct": "cycle",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cycle"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "train",
+          "category": "Arrange the words",
+          "correct": "train",
+          "words": [
+            "n",
+            "a",
+            "i",
+            "r",
+            "t"
+          ],
+          "translateWords": [
+            "n",
+            "a",
+            "i",
+            "r",
+            "t"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U33_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "How do you go to school, Tony? I ride a bicycle.\nMy father drives a car to work, and my mother takes a bus.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "How do you go to school, Tony? I ride a bicycle. My father drives a car to work, and my mother takes a bus.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb phrase linked to a single-user car asset.",
+          "englishWord": "Choose the verb phrase linked to a single-user car asset.",
+          "category": "Question answer",
+          "correct": "drive a car",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "ride a car"
+            },
+            {
+              "id": "option-2",
+              "text": "drive a car"
+            },
+            {
+              "id": "option-3",
+              "text": "take a plane"
+            },
+            {
+              "id": "option-4",
+              "text": "fly a car"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tony says: 'I ____ a bicycle to school.'",
+          "englishWord": "Tony says: 'I ____ a bicycle to school.'",
+          "category": "Complete the sentence",
+          "correct": "ride",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "drive"
+            },
+            {
+              "id": "option-2",
+              "text": "take"
+            },
+            {
+              "id": "option-3",
+              "text": "ride"
+            },
+            {
+              "id": "option-4",
+              "text": "fly"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Tony's mother drives a train to her daily workspace.",
+          "englishWord": "Tony's mother drives a train to her daily workspace.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We travel from Hanoi to Hue ____ train.",
+          "englishWord": "We travel from Hanoi to Hue ____ train.",
+          "category": "Fill in the blank",
+          "correct": "by",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "by"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "How do you go to work?",
+          "category": "Arrange the words",
+          "correct": "How do you go to work?",
+          "words": [
+            "you",
+            "to",
+            "work",
+            "go",
+            "do",
+            "How",
+            "?"
+          ],
+          "translateWords": [
+            "you",
+            "to",
+            "work",
+            "go",
+            "do",
+            "How",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U33_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "A plane is very fast. A bicycle is slow.\nA car is faster than a bus in heavy traffic.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "A plane is very fast. A bicycle is slow. A car is faster than a bus in heavy traffic.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the adjective assigned to the bicycle asset.",
+          "englishWord": "Choose the adjective assigned to the bicycle asset.",
+          "category": "Question answer",
+          "correct": "slow",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "fast"
+            },
+            {
+              "id": "option-2",
+              "text": "cold"
+            },
+            {
+              "id": "option-3",
+              "text": "slow"
+            },
+            {
+              "id": "option-4",
+              "text": "hot"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "A car is ____ a bus.",
+          "englishWord": "A car is ____ a bus.",
+          "category": "Complete the sentence",
+          "correct": "faster than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "fast than"
+            },
+            {
+              "id": "option-2",
+              "text": "faster than"
+            },
+            {
+              "id": "option-3",
+              "text": "slow than"
+            },
+            {
+              "id": "option-4",
+              "text": "slower"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the sheet, a plane is a slow way to travel.",
+          "englishWord": "According to the sheet, a plane is a slow way to travel.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The train moves down the track. It is very ____.",
+          "englishWord": "The train moves down the track. It is very ____.",
+          "category": "Fill in the blank",
+          "correct": "fast",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "fast"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "A bus is slower than a car",
+          "category": "Arrange the words",
+          "correct": "A bus is slower than a car",
+          "words": [
+            "is",
+            "slower",
+            "A",
+            "than",
+            "bus",
+            "a",
+            "car"
+          ],
+          "translateWords": [
+            "is",
+            "slower",
+            "A",
+            "than",
+            "bus",
+            "a",
+            "car"
+          ]
+        }
+      ]
+    }
+  ]

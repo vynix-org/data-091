@@ -1,0 +1,358 @@
+[
+    {
+      "lesson_id": "L1_U32_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Today the weather is rainy and cold.\nThe yellow duck is swimming happily in the water.\nI cannot fly a kite. I need my umbrella and boots.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Today the weather is rainy and cold. The yellow duck is swimming happily in the water. I cannot fly a kite. I need my umbrella and boots.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the weather pattern recorded in the text.",
+          "englishWord": "Choose the weather pattern recorded in the text.",
+          "category": "Question answer",
+          "correct": "rainy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sunny"
+            },
+            {
+              "id": "option-2",
+              "text": "rainy"
+            },
+            {
+              "id": "option-3",
+              "text": "snowy"
+            },
+            {
+              "id": "option-4",
+              "text": "hot"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The speaker needs an umbrella and ____.",
+          "englishWord": "The speaker needs an umbrella and ____.",
+          "category": "Complete the sentence",
+          "correct": "boots",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "a hat"
+            },
+            {
+              "id": "option-2",
+              "text": "a raincoat"
+            },
+            {
+              "id": "option-3",
+              "text": "boots"
+            },
+            {
+              "id": "option-4",
+              "text": "trousers"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The snapshot states that a horse is flying a kite across the cloud layer.",
+          "englishWord": "The snapshot states that a horse is flying a kite across the cloud layer.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The farm duck is ____ in the cold water.",
+          "englishWord": "The farm duck is ____ in the cold water.",
+          "category": "Fill in the blank",
+          "correct": "swimming",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "swimming"
+            },
+            {
+              "id": "option-2",
+              "text": "flying"
+            },
+            {
+              "id": "option-3",
+              "text": "running"
+            },
+            {
+              "id": "option-4",
+              "text": "sleeping"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Rainy Sunny Windy",
+          "category": "Arrange the words",
+          "correct": "Rainy Sunny Windy",
+          "words": [
+            "Windy",
+            "Sunny",
+            "Rainy"
+          ],
+          "translateWords": [
+            "Windy",
+            "Sunny",
+            "Rainy"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U32_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look at this farm dog. It is a big pet.\nIt has soft black fur, two big ears, a long tail, and a wide mouth on its face.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look at this farm dog. It is a big pet. It has soft black fur, two big ears, a long tail, and a wide mouth on its face.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the hearing structures described on the farm dog asset.",
+          "englishWord": "Choose the hearing structures described on the farm dog asset.",
+          "category": "Question answer",
+          "correct": "big ears",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "small nose"
+            },
+            {
+              "id": "option-2",
+              "text": "big ears"
+            },
+            {
+              "id": "option-3",
+              "text": "blue eyes"
+            },
+            {
+              "id": "option-4",
+              "text": "short tail"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The farm dog has a long ____.",
+          "englishWord": "The farm dog has a long ____.",
+          "category": "Complete the sentence",
+          "correct": "tail",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "leg"
+            },
+            {
+              "id": "option-2",
+              "text": "arm"
+            },
+            {
+              "id": "option-3",
+              "text": "tail"
+            },
+            {
+              "id": "option-4",
+              "text": "finger"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The catalog notes that the test animal is a small cat with blue wings.",
+          "englishWord": "The catalog notes that the test animal is a small cat with blue wings.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The animal ____ soft black fur.",
+          "englishWord": "The animal ____ soft black fur.",
+          "category": "Fill in the blank",
+          "correct": "has",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "has"
+            },
+            {
+              "id": "option-2",
+              "text": "have"
+            },
+            {
+              "id": "option-3",
+              "text": "is"
+            },
+            {
+              "id": "option-4",
+              "text": "are"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Open your mouth",
+          "category": "Arrange the words",
+          "correct": "Open your mouth",
+          "words": [
+            "your",
+            "mouth",
+            "Open"
+          ],
+          "translateWords": [
+            "your",
+            "mouth",
+            "Open"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U32_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The weather is windy outside. The teacher stands inside the room and says: 'Look here! Wave your right hand, touch your nose, and stamp your foot.'",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The weather is windy outside. The teacher stands inside the room and says: 'Look here! Wave your right hand, touch your nose, and stamp your foot.'",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the current ambient weather parameter given in the master log.",
+          "englishWord": "Choose the current ambient weather parameter given in the master log.",
+          "category": "Question answer",
+          "correct": "windy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "rainy"
+            },
+            {
+              "id": "option-2",
+              "text": "snowy"
+            },
+            {
+              "id": "option-3",
+              "text": "sunny"
+            },
+            {
+              "id": "option-4",
+              "text": "windy"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The teacher orders: 'Wave your right ____.'",
+          "englishWord": "The teacher orders: 'Wave your right ____.'",
+          "category": "Complete the sentence",
+          "correct": "hand",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "foot"
+            },
+            {
+              "id": "option-2",
+              "text": "leg"
+            },
+            {
+              "id": "option-3",
+              "text": "hand"
+            },
+            {
+              "id": "option-4",
+              "text": "nose"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The instructor requests that students close their eyes and go to sleep.",
+          "englishWord": "The instructor requests that students close their eyes and go to sleep.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ your nose using your index finger.",
+          "englishWord": "____ your nose using your index finger.",
+          "category": "Fill in the blank",
+          "correct": "Touch",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Touch"
+            },
+            {
+              "id": "option-2",
+              "text": "Wave"
+            },
+            {
+              "id": "option-3",
+              "text": "Stamp"
+            },
+            {
+              "id": "option-4",
+              "text": "Open"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Move your legs please",
+          "category": "Arrange the words",
+          "correct": "Move your legs please",
+          "words": [
+            "legs",
+            "move",
+            "Your",
+            "please"
+          ],
+          "translateWords": [
+            "legs",
+            "move",
+            "Your",
+            "please"
+          ]
+        }
+      ]
+    }
+  ]

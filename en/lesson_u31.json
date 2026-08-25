@@ -1,0 +1,360 @@
+[
+    {
+      "lesson_id": "L1_U31_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Look at this cartoon character. It has a very big head.\nOn its face, it has two blue eyes, a small nose, and a wide mouth.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Look at this cartoon character. It has a very big head. On its face, it has two blue eyes, a small nose, and a wide mouth.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the anatomical structure used for visual processing.",
+          "englishWord": "Choose the anatomical structure used for visual processing.",
+          "category": "Question answer",
+          "correct": "eye",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "ear"
+            },
+            {
+              "id": "option-2",
+              "text": "nose"
+            },
+            {
+              "id": "option-3",
+              "text": "eye"
+            },
+            {
+              "id": "option-4",
+              "text": "head"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The character has a small ____ on its face.",
+          "englishWord": "The character has a small ____ on its face.",
+          "category": "Complete the sentence",
+          "correct": "nose",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "head"
+            },
+            {
+              "id": "option-2",
+              "text": "tail"
+            },
+            {
+              "id": "option-3",
+              "text": "nose"
+            },
+            {
+              "id": "option-4",
+              "text": "arm"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The portrait features a character with green ears inside the layout text.",
+          "englishWord": "The portrait features a character with green ears inside the layout text.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Open your ____ and repeat my words.",
+          "englishWord": "Open your ____ and repeat my words.",
+          "category": "Fill in the blank",
+          "correct": "mouth",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "mouth"
+            },
+            {
+              "id": "option-2",
+              "text": "nose"
+            },
+            {
+              "id": "option-3",
+              "text": "eye"
+            },
+            {
+              "id": "option-4",
+              "text": "ear"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "ear",
+          "category": "Arrange the words",
+          "correct": "ear",
+          "words": [
+            "r",
+            "a",
+            "e"
+          ],
+          "translateWords": [
+            "r",
+            "a",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U31_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We have two arms and two legs.\nWe hold objects with our hands and type with ten fingers.\nWe stand on our feet.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We have two arms and two legs. We hold objects with our hands and type with ten fingers. We stand on our feet.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the manual terminal structure used for typing tasks.",
+          "englishWord": "Choose the manual terminal structure used for typing tasks.",
+          "category": "Question answer",
+          "correct": "finger",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "leg"
+            },
+            {
+              "id": "option-2",
+              "text": "toe"
+            },
+            {
+              "id": "option-3",
+              "text": "arm"
+            },
+            {
+              "id": "option-4",
+              "text": "finger"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Humans walk and stand using two ____.",
+          "englishWord": "Humans walk and stand using two ____.",
+          "category": "Complete the sentence",
+          "correct": "legs",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hands"
+            },
+            {
+              "id": "option-2",
+              "text": "arms"
+            },
+            {
+              "id": "option-3",
+              "text": "legs"
+            },
+            {
+              "id": "option-4",
+              "text": "mouths"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the guide, a person types text files using their toes.",
+          "englishWord": "According to the guide, a person types text files using their toes.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Put the pencil inside your right ____.",
+          "englishWord": "Put the pencil inside your right ____.",
+          "category": "Fill in the blank",
+          "correct": "hand",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hand"
+            },
+            {
+              "id": "option-2",
+              "text": "arm"
+            },
+            {
+              "id": "option-3",
+              "text": "leg"
+            },
+            {
+              "id": "option-4",
+              "text": "foot"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "arm",
+          "category": "Arrange the words",
+          "correct": "arm",
+          "words": [
+            "m",
+            "r",
+            "a"
+          ],
+          "translateWords": [
+            "m",
+            "r",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U31_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Good morning class! Let's move our bodies.\nTouch your nose with your finger.\nNow wave your hand and clap your hands three times!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Good morning class! Let's move our bodies. Touch your nose with your finger. Now wave your hand and clap your hands three times!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the motor action linked to the hand structures.",
+          "englishWord": "Choose the motor action linked to the hand structures.",
+          "category": "Question answer",
+          "correct": "clap your hands",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "touch nose"
+            },
+            {
+              "id": "option-2",
+              "text": "clap your hands"
+            },
+            {
+              "id": "option-3",
+              "text": "shake leg"
+            },
+            {
+              "id": "option-4",
+              "text": "open mouth"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Listen to the command: 'Touch your ____.'",
+          "englishWord": "Listen to the command: 'Touch your ____.'",
+          "category": "Complete the sentence",
+          "correct": "nose",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "wave"
+            },
+            {
+              "id": "option-2",
+              "text": "clap"
+            },
+            {
+              "id": "option-3",
+              "text": "nose"
+            },
+            {
+              "id": "option-4",
+              "text": "hand"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The instructor orders students to shake their ears immediately.",
+          "englishWord": "The instructor orders students to shake their ears immediately.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Stand up and ____ your hand to say hello.",
+          "englishWord": "Stand up and ____ your hand to say hello.",
+          "category": "Fill in the blank",
+          "correct": "wave",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "wave"
+            },
+            {
+              "id": "option-2",
+              "text": "clap"
+            },
+            {
+              "id": "option-3",
+              "text": "touch"
+            },
+            {
+              "id": "option-4",
+              "text": "hold"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Touch your head, please",
+          "category": "Arrange the words",
+          "correct": "Touch your head, please",
+          "words": [
+            "your",
+            "head",
+            "Touch",
+            ",",
+            "please"
+          ],
+          "translateWords": [
+            "your",
+            "head",
+            "Touch",
+            ",",
+            "please"
+          ]
+        }
+      ]
+    }
+  ]

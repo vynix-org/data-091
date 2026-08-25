@@ -1,0 +1,224 @@
+[
+    {
+      "lesson_id": "L1_M03_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Today the weather is rainy and cold. I do not drive a car or ride a bicycle in the rain. I take a bus to work because it is safe.\nWhen it is sunny and windy, I like to walk.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Today the weather is rainy and cold. I do not drive a car or ride a bicycle in the rain. I take a bus to work because it is safe. When it is sunny and windy, I like to walk.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the weather state described by the speaker.",
+          "englishWord": "Choose the weather state described by the speaker.",
+          "category": "Question answer",
+          "correct": "rainy",
+          "options": [
+            { "id": "option-1", "text": "snowy" },
+            { "id": "option-2", "text": "sunny" },
+            { "id": "option-3", "text": "rainy" },
+            { "id": "option-4", "text": "cloudy" }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The speaker takes a ____ to work today.",
+          "englishWord": "The speaker takes a ____ to work today.",
+          "category": "Complete the sentence",
+          "correct": "bus",
+          "options": [
+            { "id": "option-1", "text": "train" },
+            { "id": "option-2", "text": "bus" },
+            { "id": "option-3", "text": "plane" },
+            { "id": "option-4", "text": "bicycle" }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The speaker loves to ride a bicycle when it is cold and rainy.",
+          "englishWord": "The speaker loves to ride a bicycle when it is cold and rainy.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My father likes to ____ his red car on weekends.",
+          "englishWord": "My father likes to ____ his red car on weekends.",
+          "category": "Fill in the blank",
+          "correct": "drive",
+          "options": [
+            { "id": "option-1", "text": "drive" },
+            { "id": "option-2", "text": "ride" },
+            { "id": "option-3", "text": "walk" },
+            { "id": "option-4", "text": "take" }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The train is very fast",
+          "category": "Arrange the words",
+          "correct": "The train is very fast",
+          "words": ["is", "train", "fast", "The", "very"],
+          "translateWords": ["is", "train", "fast", "The", "very"]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_M03_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Excuse me, how do I get to the town hospital? Go straight for one block, then turn left at the corner.\nIt is a big building opposite the bank and next to the supermarket.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Excuse me, how do I get to the town hospital? Go straight for one block, then turn left at the corner. It is a big building opposite the bank and next to the supermarket.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the main destination building the traveler is looking for.",
+          "englishWord": "Choose the main destination building the traveler is looking for.",
+          "category": "Question answer",
+          "correct": "hospital",
+          "options": [
+            { "id": "option-1", "text": "school" },
+            { "id": "option-2", "text": "park" },
+            { "id": "option-3", "text": "cafe" },
+            { "id": "option-4", "text": "hospital" }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Go straight for one block, then turn ____.",
+          "englishWord": "Go straight for one block, then turn ____.",
+          "category": "Complete the sentence",
+          "correct": "left",
+          "options": [
+            { "id": "option-1", "text": "right" },
+            { "id": "option-2", "text": "left" },
+            { "id": "option-3", "text": "stop" },
+            { "id": "option-4", "text": "back" }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The town hospital is located opposite a small park with green grass.",
+          "englishWord": "The town hospital is located opposite a small park with green grass.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The bookstore is located ____ the bank and the supermarket.",
+          "englishWord": "The bookstore is located ____ the bank and the supermarket.",
+          "category": "Fill in the blank",
+          "correct": "between",
+          "options": [
+            { "id": "option-1", "text": "between" },
+            { "id": "option-2", "text": "behind" },
+            { "id": "option-3", "text": "under" },
+            { "id": "option-4", "text": "inside" }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "how do I get to the bank?",
+          "category": "Arrange the words",
+          "correct": "how do I get to the bank?",
+          "words": ["get", "to", "I", "how", "do", "the", "bank", "?"],
+          "translateWords": ["get", "to", "I", "how", "do", "the", "bank", "?"]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_M03_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My brother John is a tall, thin person. He has short hair and wears glasses.\nHe feels happy because he plays video games every day. Sometimes he plays chess with me.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My brother John is a tall, thin person. He has short hair and wears glasses. He feels happy because he plays video games every day. Sometimes he plays chess with me.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose John's current height and build description trait.",
+          "englishWord": "Choose John's current height and build description trait.",
+          "category": "Question answer",
+          "correct": "tall and thin",
+          "options": [
+            { "id": "option-1", "text": "short and thin" },
+            { "id": "option-2", "text": "tall and thin" },
+            { "id": "option-3", "text": "tall and old" },
+            { "id": "option-4", "text": "short and beautiful" }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "John feels happy because he plays video ____ every day.",
+          "englishWord": "John feels happy because he plays video ____ every day.",
+          "category": "Complete the sentence",
+          "correct": "games",
+          "options": [
+            { "id": "option-1", "text": "games" },
+            { "id": "option-2", "text": "chess" },
+            { "id": "option-3", "text": "tennis" },
+            { "id": "option-4", "text": "football" }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that John has long blonde hair lines and never smiles.",
+          "englishWord": "The text notes that John has long blonde hair lines and never smiles.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I feel tired ____ I walk to school for four blocks.",
+          "englishWord": "I feel tired ____ I walk to school for four blocks.",
+          "category": "Fill in the blank",
+          "correct": "because",
+          "options": [
+            { "id": "option-1", "text": "because" },
+            { "id": "option-2", "text": "but" },
+            { "id": "option-3", "text": "and" },
+            { "id": "option-4", "text": "or" }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Sometimes I play chess",
+          "category": "Arrange the words",
+          "correct": "Sometimes I play chess",
+          "words": ["Sometimes", "chess", "play", "I"],
+          "translateWords": ["Sometimes", "chess", "play", "I"]
+        }
+      ]
+    }
+  ]

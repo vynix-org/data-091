@@ -1,0 +1,366 @@
+[
+    {
+      "lesson_id": "L1_U37_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Today I feel happy because my family is here.\nBut my brother is sad and tired after a long day at school. He wants to go to bed.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Today I feel happy because my family is here. But my brother is sad and tired after a long day at school. He wants to go to bed.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the emotional state that matches a positive, smiling condition.",
+          "englishWord": "Choose the emotional state that matches a positive, smiling condition.",
+          "category": "Question answer",
+          "correct": "happy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sad"
+            },
+            {
+              "id": "option-2",
+              "text": "angry"
+            },
+            {
+              "id": "option-3",
+              "text": "happy"
+            },
+            {
+              "id": "option-4",
+              "text": "scared"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "My brother is sad and ____ after school.",
+          "englishWord": "My brother is sad and ____ after school.",
+          "category": "Complete the sentence",
+          "correct": "tired",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "happy"
+            },
+            {
+              "id": "option-2",
+              "text": "tired"
+            },
+            {
+              "id": "option-3",
+              "text": "excited"
+            },
+            {
+              "id": "option-4",
+              "text": "scared"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text says the brother feels happy and wants to play football.",
+          "englishWord": "The text says the brother feels happy and wants to play football.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "How do you ____ today? - I am fine, thanks.",
+          "englishWord": "How do you ____ today? - I am fine, thanks.",
+          "category": "Fill in the blank",
+          "correct": "feel",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "feel"
+            },
+            {
+              "id": "option-2",
+              "text": "look"
+            },
+            {
+              "id": "option-3",
+              "text": "are"
+            },
+            {
+              "id": "option-4",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "angry",
+          "category": "Arrange the words",
+          "correct": "angry",
+          "words": [
+            "r",
+            "g",
+            "y",
+            "a",
+            "n"
+          ],
+          "translateWords": [
+            "r",
+            "g",
+            "y",
+            "a",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U37_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Why are you angry, Anna? I am angry because my computer is broken.\nI have to write reports today.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Why are you angry, Anna? I am angry because my computer is broken. I have to write reports today.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the question particle used to ask for an emotional reason.",
+          "englishWord": "Choose the question particle used to ask for an emotional reason.",
+          "category": "Question answer",
+          "correct": "Why",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Where"
+            },
+            {
+              "id": "option-2",
+              "text": "What"
+            },
+            {
+              "id": "option-3",
+              "text": "Why"
+            },
+            {
+              "id": "option-4",
+              "text": "Who"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I am angry ____ my computer is broken.",
+          "englishWord": "I am angry ____ my computer is broken.",
+          "category": "Complete the sentence",
+          "correct": "because",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "but"
+            },
+            {
+              "id": "option-3",
+              "text": "next to"
+            },
+            {
+              "id": "option-4",
+              "text": "opposite"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Anna feels angry because she wants to go to the public cinema.",
+          "englishWord": "Anna feels angry because she wants to go to the public cinema.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Smile! You ____ very happy today.",
+          "englishWord": "Smile! You ____ very happy today.",
+          "category": "Fill in the blank",
+          "correct": "look",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "look"
+            },
+            {
+              "id": "option-2",
+              "text": "feel"
+            },
+            {
+              "id": "option-3",
+              "text": "are"
+            },
+            {
+              "id": "option-4",
+              "text": "have"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Why are you tired?",
+          "category": "Arrange the words",
+          "correct": "Why are you tired?",
+          "words": [
+            "you",
+            "tired",
+            "Why",
+            "are",
+            "?"
+          ],
+          "translateWords": [
+            "you",
+            "tired",
+            "Why",
+            "are",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L1_U37_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I am very thirsty after walking in the sun. I need a bottle of cold water.\nAre you hungry, Tom? Yes, I want some bread.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I am very thirsty after walking in the sun. I need a bottle of cold water. Are you hungry, Tom? Yes, I want some bread.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the physical sensation linked to a high demand for fluid drinking.",
+          "englishWord": "Choose the physical sensation linked to a high demand for fluid drinking.",
+          "category": "Question answer",
+          "correct": "thirsty",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hungry"
+            },
+            {
+              "id": "option-2",
+              "text": "tired"
+            },
+            {
+              "id": "option-3",
+              "text": "thirsty"
+            },
+            {
+              "id": "option-4",
+              "text": "cold"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tom wants some bread because he is ____.",
+          "englishWord": "Tom wants some bread because he is ____.",
+          "category": "Complete the sentence",
+          "correct": "hungry",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "thirsty"
+            },
+            {
+              "id": "option-2",
+              "text": "hungry"
+            },
+            {
+              "id": "option-3",
+              "text": "angry"
+            },
+            {
+              "id": "option-4",
+              "text": "scared"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The speaker requests a hot cup of coffee because he feels freezing cold.",
+          "englishWord": "The speaker requests a hot cup of coffee because he feels freezing cold.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I am thirsty. I need ____ drink some milk.",
+          "englishWord": "I am thirsty. I need ____ drink some milk.",
+          "category": "Fill in the blank",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "and"
+            },
+            {
+              "id": "option-3",
+              "text": "for"
+            },
+            {
+              "id": "option-4",
+              "text": "with"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "cold",
+          "category": "Arrange the words",
+          "correct": "cold",
+          "words": [
+            "d",
+            "l",
+            "o",
+            "c"
+          ],
+          "translateWords": [
+            "d",
+            "l",
+            "o",
+            "c"
+          ]
+        }
+      ]
+    }
+  ]

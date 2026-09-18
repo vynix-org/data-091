@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_M03_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 1: You have a red sore throat and a high fever. Poor you! You should see a doctor immediately.\nYou must rest in bed and you should not go outside today.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 1: You have a red sore throat and a high fever. Poor you! You should see a doctor immediately. You must rest in bed and you should not go outside today.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the modal structure that marks a critical baseline health requirement.",
+          "englishWord": "Choose the modal structure that marks a critical baseline health requirement.",
+          "category": "Question answer",
+          "correct": "must",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "should"
+            },
+            {
+              "id": "option-2",
+              "text": "must"
+            },
+            {
+              "id": "option-3",
+              "text": "ought"
+            },
+            {
+              "id": "option-4",
+              "text": "can"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "You have a severe headache, so you ______ look at a computer screen.",
+          "englishWord": "You have a severe headache, so you ______ look at a computer screen.",
+          "category": "Complete the sentence",
+          "correct": "should not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "must"
+            },
+            {
+              "id": "option-2",
+              "text": "should"
+            },
+            {
+              "id": "option-3",
+              "text": "should not"
+            },
+            {
+              "id": "option-4",
+              "text": "ought"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The diagnostic text dictates that a patient with a deep fever must run outside immediately.",
+          "englishWord": "The diagnostic text dictates that a patient with a deep fever must run outside immediately.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "______ you! I hope your painful stomachache disappears soon.",
+          "englishWord": "______ you! I hope your painful stomachache disappears soon.",
+          "category": "Fill in the blank",
+          "correct": "Poor",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Poor"
+            },
+            {
+              "id": "option-2",
+              "text": "Lucky"
+            },
+            {
+              "id": "option-3",
+              "text": "Happy"
+            },
+            {
+              "id": "option-4",
+              "text": "Fine"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Why don't you take some medicine?",
+          "category": "Arrange the words",
+          "correct": "Why don't you take some medicine?",
+          "words": [
+            "some",
+            "medicine",
+            "don't",
+            "take",
+            "you",
+            "Why",
+            "?"
+          ],
+          "translateWords": [
+            "some",
+            "medicine",
+            "don't",
+            "take",
+            "you",
+            "Why",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M03_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 2: Show your passport at the check-in desk to receive your boarding pass.\nWalk through security carefully.\nOur flight is delayed, so listen for the final call.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 2: Show your passport at the check-in desk to receive your boarding pass. Walk through security carefully. Our flight is delayed, so listen for the final call.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the spatial preposition tracking alignment matching an item moving across a security border tunnel.",
+          "englishWord": "Pick the spatial preposition tracking alignment matching an item moving across a security border tunnel.",
+          "category": "Question answer",
+          "correct": "through",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "behind"
+            },
+            {
+              "id": "option-2",
+              "text": "through"
+            },
+            {
+              "id": "option-3",
+              "text": "inside"
+            },
+            {
+              "id": "option-4",
+              "text": "over"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The plane cannot take off because it is heavily ______ by snow.",
+          "englishWord": "The plane cannot take off because it is heavily ______ by snow.",
+          "category": "Complete the sentence",
+          "correct": "delayed",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "checked"
+            },
+            {
+              "id": "option-2",
+              "text": "final"
+            },
+            {
+              "id": "option-3",
+              "text": "direct"
+            },
+            {
+              "id": "option-4",
+              "text": "delayed"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The terminal space log indicates that travel passports are issued at the boarding gate entrance.",
+          "englishWord": "The terminal space log indicates that travel passports are issued at the boarding gate entrance.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Keep your official boarding pass and your ______ in your hand.",
+          "englishWord": "Keep your official boarding pass and your ______ in your hand.",
+          "category": "Fill in the blank",
+          "correct": "passport",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "passport"
+            },
+            {
+              "id": "option-2",
+              "text": "ticket"
+            },
+            {
+              "id": "option-3",
+              "text": "luggage"
+            },
+            {
+              "id": "option-4",
+              "text": "wallet"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Please stand behind the yellow line",
+          "category": "Arrange the words",
+          "correct": "Please stand behind the yellow line",
+          "words": [
+            "line",
+            "stand",
+            "the",
+            "behind",
+            "yellow",
+            "Please"
+          ],
+          "translateWords": [
+            "line",
+            "stand",
+            "the",
+            "behind",
+            "yellow",
+            "Please"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M03_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 3: We arrived at the reception desk to check in.\nCould I have an extra towel, please?\nWould you mind bringing my room key?\nWe need to check out tomorrow because the facilities are busy.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 3: We arrived at the reception desk to check in. Could I have an extra towel, please? Would you mind bringing my room key? We need to check out tomorrow because the facilities are busy.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the specific lodging facility station where guests declare reservation data.",
+          "englishWord": "Identify the specific lodging facility station where guests declare reservation data.",
+          "category": "Question answer",
+          "correct": "reception desk",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "double room"
+            },
+            {
+              "id": "option-2",
+              "text": "gate"
+            },
+            {
+              "id": "option-3",
+              "text": "check-in desk"
+            },
+            {
+              "id": "option-4",
+              "text": "reception desk"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "______ waiting for five minutes while I check the hotel bill?",
+          "englishWord": "______ waiting for five minutes while I check the hotel bill?",
+          "category": "Complete the sentence",
+          "correct": "Would you mind",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Could I have"
+            },
+            {
+              "id": "option-2",
+              "text": "Would you mind"
+            },
+            {
+              "id": "option-3",
+              "text": "Can I"
+            },
+            {
+              "id": "option-4",
+              "text": "Why don't"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The hospitality log establishes that a guest checks out of the building before they can check in.",
+          "englishWord": "The hospitality log establishes that a guest checks out of the building before they can check in.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "______ I have a replacement key card for my room?",
+          "englishWord": "______ I have a replacement key card for my room?",
+          "category": "Fill in the blank",
+          "correct": "Could",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Could"
+            },
+            {
+              "id": "option-2",
+              "text": "Would"
+            },
+            {
+              "id": "option-3",
+              "text": "Should"
+            },
+            {
+              "id": "option-4",
+              "text": "Must"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Let's call room service inside the hotel",
+          "category": "Arrange the words",
+          "correct": "Let's call room service inside the hotel",
+          "words": [
+            "hotel",
+            "inside",
+            "room service",
+            "call",
+            "Let's",
+            "the"
+          ],
+          "translateWords": [
+            "hotel",
+            "inside",
+            "room service",
+            "call",
+            "Let's",
+            "the"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_M02_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 1: I met my business partner five years ago at university.\nAt first, we struggled to find opportunities.\nHowever, after we graduated from college, we eventually got a job at a top tech firm. It was our biggest milestone.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 1: I met my business partner five years ago at university. At first, we struggled to find opportunities. However, after we graduated from college, we eventually got a job at a top tech firm. It was our biggest milestone.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the irregular past verb representing the historical introduction point.",
+          "englishWord": "Choose the irregular past verb representing the historical introduction point.",
+          "category": "Question answer",
+          "correct": "met",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "graduated"
+            },
+            {
+              "id": "option-2",
+              "text": "met"
+            },
+            {
+              "id": "option-3",
+              "text": "left"
+            },
+            {
+              "id": "option-4",
+              "text": "got"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "They relocated to Berlin six months ______.",
+          "englishWord": "They relocated to Berlin six months ______.",
+          "category": "Complete the sentence",
+          "correct": "ago",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "last"
+            },
+            {
+              "id": "option-2",
+              "text": "in"
+            },
+            {
+              "id": "option-3",
+              "text": "ago"
+            },
+            {
+              "id": "option-4",
+              "text": "next"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text states that the characters instantly got a job without any early struggles.",
+          "englishWord": "The text states that the characters instantly got a job without any early struggles.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They will ______ university next summer.",
+          "englishWord": "They will ______ university next summer.",
+          "category": "Fill in the blank",
+          "correct": "graduate from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "graduate from"
+            },
+            {
+              "id": "option-2",
+              "text": "graduate to"
+            },
+            {
+              "id": "option-3",
+              "text": "graduated from"
+            },
+            {
+              "id": "option-4",
+              "text": "graduating from"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Eventually we found a solution",
+          "category": "Arrange the words",
+          "correct": "Eventually we found a solution",
+          "words": [
+            "Eventually",
+            "found",
+            "a",
+            "solution",
+            "we"
+          ],
+          "translateWords": [
+            "Eventually",
+            "found",
+            "a",
+            "solution",
+            "we"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M02_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 2: Our manager is an organized asset.\nWhen she joined the firm, she could not manage database files, but she was very good at problem-solving. Now, she can handle pressure perfectly.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 2: Our manager is an organized asset. When she joined the firm, she could not manage database files, but she was very good at problem-solving. Now, she can handle pressure perfectly.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the corporate capability description matching an employee's neat efficiency.",
+          "englishWord": "Pick the corporate capability description matching an employee's neat efficiency.",
+          "category": "Question answer",
+          "correct": "organized",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "creative"
+            },
+            {
+              "id": "option-2",
+              "text": "organized"
+            },
+            {
+              "id": "option-3",
+              "text": "skillful"
+            },
+            {
+              "id": "option-4",
+              "text": "physical"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She is highly skilled, so she ______ fix this broken engine now.",
+          "englishWord": "She is highly skilled, so she ______ fix this broken engine now.",
+          "category": "Complete the sentence",
+          "correct": "can",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "could"
+            },
+            {
+              "id": "option-2",
+              "text": "can"
+            },
+            {
+              "id": "option-3",
+              "text": "has"
+            },
+            {
+              "id": "option-4",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the manager was bad at problem-solving when she first joined the firm.",
+          "englishWord": "The text notes that the manager was bad at problem-solving when she first joined the firm.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Ten years ago, I ______ speak English fluently.",
+          "englishWord": "Ten years ago, I ______ speak English fluently.",
+          "category": "Fill in the blank",
+          "correct": "could not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "could not"
+            },
+            {
+              "id": "option-2",
+              "text": "can"
+            },
+            {
+              "id": "option-3",
+              "text": "cannot"
+            },
+            {
+              "id": "option-4",
+              "text": "will not"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He can handle pressure well",
+          "category": "Arrange the words",
+          "correct": "He can handle pressure well",
+          "words": [
+            "pressure",
+            "well",
+            "can",
+            "handle",
+            "He"
+          ],
+          "translateWords": [
+            "pressure",
+            "well",
+            "can",
+            "handle",
+            "He"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M02_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 3: I checked our holiday itinerary.\nOn Monday morning, I am meeting the travel agent.\nI am going to book a flight online.\nIf it rains on our trip, our backup plan is to visit the local theater.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 3: I checked our holiday itinerary. On Monday morning, I am meeting the travel agent. I am going to book a flight online. If it rains on our trip, our backup plan is to visit the local theater.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the term that means a document record of a travel journey route.",
+          "englishWord": "Identify the term that means a document record of a travel journey route.",
+          "category": "Question answer",
+          "correct": "itinerary",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "schedule"
+            },
+            {
+              "id": "option-2",
+              "text": "accommodation"
+            },
+            {
+              "id": "option-3",
+              "text": "itinerary"
+            },
+            {
+              "id": "option-4",
+              "text": "option"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tomorrow at noon, I ______ the new client.",
+          "englishWord": "Tomorrow at noon, I ______ the new client.",
+          "category": "Complete the sentence",
+          "correct": "am meeting",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "am meeting"
+            },
+            {
+              "id": "option-2",
+              "text": "meet"
+            },
+            {
+              "id": "option-3",
+              "text": "met"
+            },
+            {
+              "id": "option-4",
+              "text": "meets"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The 'backup plan' represents the first choice that we execute when everything goes perfectly.",
+          "englishWord": "The 'backup plan' represents the first choice that we execute when everything goes perfectly.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They are ______ buy a new house next winter.",
+          "englishWord": "They are ______ buy a new house next winter.",
+          "category": "Fill in the blank",
+          "correct": "going to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "going to"
+            },
+            {
+              "id": "option-2",
+              "text": "going"
+            },
+            {
+              "id": "option-3",
+              "text": "go to"
+            },
+            {
+              "id": "option-4",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "If it snows, we will cancel our walks",
+          "category": "Arrange the words",
+          "correct": "If it snows, we will cancel our walks",
+          "words": [
+            "it",
+            "walks",
+            "If",
+            "snows",
+            ",",
+            "we",
+            "cancel",
+            "will",
+            "our"
+          ],
+          "translateWords": [
+            "it",
+            "walks",
+            "If",
+            "snows",
+            ",",
+            "we",
+            "cancel",
+            "will",
+            "our"
+          ]
+        }
+      ]
+    }
+  ]

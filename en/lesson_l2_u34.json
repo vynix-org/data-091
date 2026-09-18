@@ -1,0 +1,392 @@
+[
+    {
+      "lesson_id": "L2_U34_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We spent three days exploring a vast tropical rainforest.\nThe local nature reserve offers powerful protection for rare wildlife.\nThe natural mountain scenery was completely breathtaking.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We spent three days exploring a vast tropical rainforest. The local nature reserve offers powerful protection for rare wildlife. The natural mountain scenery was completely breathtaking.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing a dense, high-rainfall forest ecosystem located near the equator line.",
+          "englishWord": "Choose the term representing a dense, high-rainfall forest ecosystem located near the equator line.",
+          "category": "Question answer",
+          "correct": "tropical rainforest",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nature reserve"
+            },
+            {
+              "id": "option-2",
+              "text": "scenery"
+            },
+            {
+              "id": "option-3",
+              "text": "tropical rainforest"
+            },
+            {
+              "id": "option-4",
+              "text": "wildlife"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Photographers visit the reserve to capture images of native ______.",
+          "englishWord": "Photographers visit the reserve to capture images of native ______.",
+          "category": "Complete the sentence",
+          "correct": "wildlife",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "protection"
+            },
+            {
+              "id": "option-2",
+              "text": "wildlife"
+            },
+            {
+              "id": "option-3",
+              "text": "scenery"
+            },
+            {
+              "id": "option-4",
+              "text": "outskirts"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that a nature reserve is constructed to encourage developers to chop down trees.",
+          "englishWord": "The text notes that a nature reserve is constructed to encourage developers to chop down trees.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Environmental laws provide strict ______ for endangered plants.",
+          "englishWord": "Environmental laws provide strict ______ for endangered plants.",
+          "category": "Fill in the blank",
+          "correct": "protection",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "protection"
+            },
+            {
+              "id": "option-2",
+              "text": "pollution"
+            },
+            {
+              "id": "option-3",
+              "text": "scenery"
+            },
+            {
+              "id": "option-4",
+              "text": "waste"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "nature reserve",
+          "category": "Arrange the words",
+          "correct": "nature reserve",
+          "words": [
+            "e",
+            "v",
+            "r",
+            "e",
+            "s",
+            "e",
+            "r",
+            "e",
+            "r",
+            "u",
+            "t",
+            "a",
+            "n"
+          ],
+          "translateWords": [
+            "e",
+            "v",
+            "r",
+            "e",
+            "s",
+            "e",
+            "r",
+            "e",
+            "r",
+            "u",
+            "t",
+            "a",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U34_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The reserve is beautiful because it is protected from cutting.\nGlobal temperatures are rising, so we must reduce waste.\nSoil quality drops because of pollution, so it is vital to act.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The reserve is beautiful because it is protected from cutting. Global temperatures are rising, so we must reduce waste. Soil quality drops because of pollution, so it is vital to act.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the cause-linking connector that must be immediately followed by a full subject-verb clause.",
+          "englishWord": "Select the cause-linking connector that must be immediately followed by a full subject-verb clause.",
+          "category": "Question answer",
+          "correct": "because",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because of"
+            },
+            {
+              "id": "option-2",
+              "text": "so"
+            },
+            {
+              "id": "option-3",
+              "text": "because"
+            },
+            {
+              "id": "option-4",
+              "text": "due to"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The local river is heavily polluted, ______ humans cannot swim in it.",
+          "englishWord": "The local river is heavily polluted, ______ humans cannot swim in it.",
+          "category": "Complete the sentence",
+          "correct": "so",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "so"
+            },
+            {
+              "id": "option-3",
+              "text": "since"
+            },
+            {
+              "id": "option-4",
+              "text": "although"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The conjunction 'so' introduces the underlying primary cause or reason behind an event.",
+          "englishWord": "The conjunction 'so' introduces the underlying primary cause or reason behind an event.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We want to save rare wildlife, ______ we protect the local forest.",
+          "englishWord": "We want to save rare wildlife, ______ we protect the local forest.",
+          "category": "Fill in the blank",
+          "correct": "so",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "so"
+            },
+            {
+              "id": "option-2",
+              "text": "because"
+            },
+            {
+              "id": "option-3",
+              "text": "although"
+            },
+            {
+              "id": "option-4",
+              "text": "but"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The wildlife is sick because water is polluted",
+          "category": "Arrange the words",
+          "correct": "The wildlife is sick because water is polluted",
+          "words": [
+            "is",
+            "sick",
+            "wildlife",
+            "because",
+            "water",
+            "polluted",
+            "The",
+            "is"
+          ],
+          "translateWords": [
+            "is",
+            "sick",
+            "wildlife",
+            "because",
+            "water",
+            "polluted",
+            "The",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U34_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Industrial centers trigger rapid climate change.\nWe must recycle every bottle to cut down on plastic waste.\nMaking an eco-friendly choice helps protect nature for generations.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Industrial centers trigger rapid climate change. We must recycle every bottle to cut down on plastic waste. Making an eco-friendly choice helps protect nature for generations.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the global environmental issue term meaning long-term shifts in temperatures and weather systems.",
+          "englishWord": "Identify the global environmental issue term meaning long-term shifts in temperatures and weather systems.",
+          "category": "Question answer",
+          "correct": "climate change",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "plastic waste"
+            },
+            {
+              "id": "option-2",
+              "text": "climate change"
+            },
+            {
+              "id": "option-3",
+              "text": "nature reserve"
+            },
+            {
+              "id": "option-4",
+              "text": "eco-friendly"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Our oceans are heavily polluted with discarded single-use ______.",
+          "englishWord": "Our oceans are heavily polluted with discarded single-use ______.",
+          "category": "Complete the sentence",
+          "correct": "plastic waste",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nature reserves"
+            },
+            {
+              "id": "option-2",
+              "text": "eco-friendly"
+            },
+            {
+              "id": "option-3",
+              "text": "plastic waste"
+            },
+            {
+              "id": "option-4",
+              "text": "scenery"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text claims that throwing plastic waste into rivers is considered a highly eco-friendly habit.",
+          "englishWord": "The text claims that throwing plastic waste into rivers is considered a highly eco-friendly habit.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please separate your trash so the factory can ______ the aluminum cans.",
+          "englishWord": "Please separate your trash so the factory can ______ the aluminum cans.",
+          "category": "Fill in the blank",
+          "correct": "recycle",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "recycle"
+            },
+            {
+              "id": "option-2",
+              "text": "protect"
+            },
+            {
+              "id": "option-3",
+              "text": "pollute"
+            },
+            {
+              "id": "option-4",
+              "text": "waste"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We must protect wild nature together",
+          "category": "Arrange the words",
+          "correct": "We must protect wild nature together",
+          "words": [
+            "nature",
+            "protect",
+            "together",
+            "must",
+            "we",
+            "wild"
+          ],
+          "translateWords": [
+            "nature",
+            "protect",
+            "together",
+            "must",
+            "we",
+            "wild"
+          ]
+        }
+      ]
+    }
+  ]

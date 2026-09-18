@@ -1,0 +1,332 @@
+[
+    {
+      "lesson_id": "L2_U40_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: I have just bought a dress.\nI took the escalator to customer service to present my shopping receipt.\nI want a refund because the product is faulty. I have not checked the food court yet.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: I have just bought a dress. I took the escalator to customer service to present my shopping receipt. I want a refund because the product is faulty. I have not checked the food court yet.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the present perfect structure that represents a task accomplished a very brief moment ago.",
+          "englishWord": "Choose the present perfect structure that represents a task accomplished a very brief moment ago.",
+          "category": "Question answer",
+          "correct": "have just bought",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "buy"
+            },
+            {
+              "id": "option-2",
+              "text": "am buying"
+            },
+            {
+              "id": "option-3",
+              "text": "have just bought"
+            },
+            {
+              "id": "option-4",
+              "text": "bought"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If an item breaks after two hours, carry it directly back to the ______ desk.",
+          "englishWord": "If an item breaks after two hours, carry it directly back to the ______ desk.",
+          "category": "Complete the sentence",
+          "correct": "customer service",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "escalator"
+            },
+            {
+              "id": "option-2",
+              "text": "fitting room"
+            },
+            {
+              "id": "option-3",
+              "text": "customer service"
+            },
+            {
+              "id": "option-4",
+              "text": "food court"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The retail transaction text notes that a client must throw away their official receipt to obtain a financial cash refund.",
+          "englishWord": "The retail transaction text notes that a client must throw away their official receipt to obtain a financial cash refund.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The lift broke down, so shoppers must climb the ______ to access the upper floor.",
+          "englishWord": "The lift broke down, so shoppers must climb the ______ to access the upper floor.",
+          "category": "Fill in the blank",
+          "correct": "escalator"
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Our manager has not finished the report yet",
+          "category": "Arrange the words",
+          "correct": "Our manager has not finished the report yet",
+          "words": [
+            "the",
+            "report",
+            "manager",
+            "finished",
+            "has",
+            "already",
+            "not",
+            "yet",
+            "Our"
+          ],
+          "translateWords": [
+            "the",
+            "report",
+            "manager",
+            "finished",
+            "has",
+            "already",
+            "not",
+            "yet",
+            "Our"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U40_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: Today is a national bank holiday.\nWe have lived here since 2018.\nDuring this peak season, local hotels are completely fully booked. We are waiting to celebrate and watch the firework display.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: Today is a national bank holiday. We have lived here since 2018. During this peak season, local hotels are completely fully booked. We are waiting to celebrate and watch the firework display.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the spatial/temporal duration preposition paired with a specific calculated span block of days/years.",
+          "englishWord": "Pick the spatial/temporal duration preposition paired with a specific calculated span block of days/years.",
+          "category": "Question answer",
+          "correct": "for",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "since"
+            },
+            {
+              "id": "option-2",
+              "text": "for"
+            },
+            {
+              "id": "option-3",
+              "text": "ago"
+            },
+            {
+              "id": "option-4",
+              "text": "during"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Post offices are closed today because it is a statutory ______.",
+          "englishWord": "Post offices are closed today because it is a statutory ______.",
+          "category": "Complete the sentence",
+          "correct": "bank holiday",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "peak season"
+            },
+            {
+              "id": "option-2",
+              "text": "firework display"
+            },
+            {
+              "id": "option-3",
+              "text": "bank holiday"
+            },
+            {
+              "id": "option-4",
+              "text": "parade"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The temporal review log notes that a hospitality business registered as 'fully booked' contains dozens of vacant unoccupied bedrooms.",
+          "englishWord": "The temporal review log notes that a hospitality business registered as 'fully booked' contains dozens of vacant unoccupied bedrooms.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The community center has been hosting this annual festival ______ last Monday.",
+          "englishWord": "The community center has been hosting this annual festival ______ last Monday.",
+          "category": "Fill in the blank",
+          "correct": "since"
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "My family watched a spectacular firework display",
+          "category": "Arrange the words",
+          "correct": "My family watched a spectacular firework display",
+          "words": [
+            "spectacular",
+            "watched",
+            "display",
+            "family",
+            "firework",
+            "a",
+            "My"
+          ],
+          "translateWords": [
+            "spectacular",
+            "watched",
+            "display",
+            "family",
+            "firework",
+            "a",
+            "My"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U40_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: Our safe neighborhood sits within walking distance of the central pedestrian zone.\nThere is a bakery at the corner, but the downside is noise pollution. The community center is clean.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: Our safe neighborhood sits within walking distance of the central pedestrian zone. There is a bakery at the corner, but the downside is noise pollution. The community center is clean.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the specific walking corridor infrastructure feature highlighted in the appraisal summary.",
+          "englishWord": "Identify the specific walking corridor infrastructure feature highlighted in the appraisal summary.",
+          "category": "Question answer",
+          "correct": "pedestrian zone",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "grocery store"
+            },
+            {
+              "id": "option-2",
+              "text": "pharmacy"
+            },
+            {
+              "id": "option-3",
+              "text": "pedestrian zone"
+            },
+            {
+              "id": "option-4",
+              "text": "outskirts"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The central bus terminal is located ______ our local corporate headquarters.",
+          "englishWord": "The central bus terminal is located ______ our local corporate headquarters.",
+          "category": "Complete the sentence",
+          "correct": "within walking distance of",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "at the corner"
+            },
+            {
+              "id": "option-2",
+              "text": "within walking distance of"
+            },
+            {
+              "id": "option-3",
+              "text": "along the street"
+            },
+            {
+              "id": "option-4",
+              "text": "downside"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The district layout review log notes that a 'downside' parameter represents a highly useful advantage that increases local property valuation.",
+          "englishWord": "The district layout review log notes that a 'downside' parameter represents a highly useful advantage that increases local property valuation.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The newsstand sits ______ of the block next to the subway entrance.",
+          "englishWord": "The newsstand sits ______ of the block next to the subway entrance.",
+          "category": "Fill in the blank",
+          "correct": "at the corner"
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "This district maintains a stable low crime rate",
+          "category": "Arrange the words",
+          "correct": "This district maintains a stable low crime rate",
+          "words": [
+            "rate",
+            "district",
+            "maintains",
+            "crime",
+            "a",
+            "stable",
+            "low",
+            "This"
+          ],
+          "translateWords": [
+            "rate",
+            "district",
+            "maintains",
+            "crime",
+            "a",
+            "stable",
+            "low",
+            "This"
+          ]
+        }
+      ]
+    }
+  ]

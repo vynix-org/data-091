@@ -1,0 +1,386 @@
+[
+    {
+      "lesson_id": "L2_U23_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Many students are absent because of the seasonal flu.\nSymptoms include a high fever and a painful chest infection.\nSome have a stomach bug, and their throats are swollen.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Many students are absent because of the seasonal flu. Symptoms include a high fever and a painful chest infection. Some have a stomach bug, and their throats are swollen.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing a widespread contagious viral respiratory tract illness.",
+          "englishWord": "Choose the term representing a widespread contagious viral respiratory tract illness.",
+          "category": "Question answer",
+          "correct": "flu",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "allergy"
+            },
+            {
+              "id": "option-2",
+              "text": "infection"
+            },
+            {
+              "id": "option-3",
+              "text": "flu"
+            },
+            {
+              "id": "option-4",
+              "text": "stomach bug"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Dirty cuts on your skin can lead to a dangerous bacterial ______.",
+          "englishWord": "Dirty cuts on your skin can lead to a dangerous bacterial ______.",
+          "category": "Complete the sentence",
+          "correct": "infection",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "flu"
+            },
+            {
+              "id": "option-2",
+              "text": "allergy"
+            },
+            {
+              "id": "option-3",
+              "text": "infection"
+            },
+            {
+              "id": "option-4",
+              "text": "bug"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text registers that a stomach bug leaves an individual's throat completely empty and small.",
+          "englishWord": "The text registers that a stomach bug leaves an individual's throat completely empty and small.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "He dropped a heavy rock on his hand; now his finger is ______.",
+          "englishWord": "He dropped a heavy rock on his hand; now his finger is ______.",
+          "category": "Fill in the blank",
+          "correct": "swollen",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "swollen"
+            },
+            {
+              "id": "option-2",
+              "text": "healthy"
+            },
+            {
+              "id": "option-3",
+              "text": "smooth"
+            },
+            {
+              "id": "option-4",
+              "text": "normal"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "stomach bug",
+          "category": "Arrange the words",
+          "correct": "stomach bug",
+          "words": [
+            "g",
+            "u",
+            "b",
+            "h",
+            "c",
+            "a",
+            "m",
+            "o",
+            "t",
+            "s"
+          ],
+          "translateWords": [
+            "g",
+            "u",
+            "b",
+            "h",
+            "c",
+            "a",
+            "m",
+            "o",
+            "t",
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U23_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "He missed his final project presentation because of the flu.\nHis red skin condition is entirely due to an allergy to seafood.\nSince he is sick, he must stay home today.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "He missed his final project presentation because of the flu. His red skin condition is entirely due to an allergy to seafood. Since he is sick, he must stay home today.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the reason phrase that must be directly followed by a noun or noun phrase rather than a complete verb clause.",
+          "englishWord": "Select the reason phrase that must be directly followed by a noun or noun phrase rather than a complete verb clause.",
+          "category": "Question answer",
+          "correct": "because of the flu",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "since"
+            },
+            {
+              "id": "option-3",
+              "text": "because of the flu"
+            },
+            {
+              "id": "option-4",
+              "text": "as"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The flight delay was ______ a technical computer screen error.",
+          "englishWord": "The flight delay was ______ a technical computer screen error.",
+          "category": "Complete the sentence",
+          "correct": "due to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "due to"
+            },
+            {
+              "id": "option-3",
+              "text": "since"
+            },
+            {
+              "id": "option-4",
+              "text": "as"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The reason marker 'due to' must be followed immediately by a full structural sentence containing a subject and a verb.",
+          "englishWord": "The reason marker 'due to' must be followed immediately by a full structural sentence containing a subject and a verb.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ you are very tired, you should not drive a vehicle tonight.",
+          "englishWord": "____ you are very tired, you should not drive a vehicle tonight.",
+          "category": "Fill in the blank",
+          "correct": "Since",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Since"
+            },
+            {
+              "id": "option-2",
+              "text": "Because of"
+            },
+            {
+              "id": "option-3",
+              "text": "Due to"
+            },
+            {
+              "id": "option-4",
+              "text": "For"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He stayed at home because of his illness",
+          "category": "Arrange the words",
+          "correct": "He stayed at home because of his illness",
+          "words": [
+            "stayed",
+            "home",
+            "of",
+            "illness",
+            "because",
+            "his",
+            "He",
+            "at"
+          ],
+          "translateWords": [
+            "stayed",
+            "home",
+            "of",
+            "illness",
+            "because",
+            "his",
+            "He",
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U23_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Take this written prescription to the local pharmacy.\nThe standard dose is two small pills every morning.\nAvoid drinking hot tea with it, and watch out for minor side effects.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Take this written prescription to the local pharmacy. The standard dose is two small pills every morning. Avoid drinking hot tea with it, and watch out for minor side effects.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the formal medical asset term representing an official note written by a doctor authorizing treatment.",
+          "englishWord": "Choose the formal medical asset term representing an official note written by a doctor authorizing treatment.",
+          "category": "Question answer",
+          "correct": "prescription",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pharmacy"
+            },
+            {
+              "id": "option-2",
+              "text": "dose"
+            },
+            {
+              "id": "option-3",
+              "text": "prescription"
+            },
+            {
+              "id": "option-4",
+              "text": "side effect"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Do not exceed the recommended ______ of three pills per day.",
+          "englishWord": "Do not exceed the recommended ______ of three pills per day.",
+          "category": "Complete the sentence",
+          "correct": "dose",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "prescription"
+            },
+            {
+              "id": "option-2",
+              "text": "dose"
+            },
+            {
+              "id": "option-3",
+              "text": "pharmacy"
+            },
+            {
+              "id": "option-4",
+              "text": "side effect"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the clinical instruction, the patient should consume their pills alongside a steaming hot mug of tea.",
+          "englishWord": "According to the clinical instruction, the patient should consume their pills alongside a steaming hot mug of tea.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We went to the 24-hour ______ to buy some fresh bandages.",
+          "englishWord": "We went to the 24-hour ______ to buy some fresh bandages.",
+          "category": "Fill in the blank",
+          "correct": "pharmacy",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pharmacy"
+            },
+            {
+              "id": "option-2",
+              "text": "hospital"
+            },
+            {
+              "id": "option-3",
+              "text": "school"
+            },
+            {
+              "id": "option-4",
+              "text": "office"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Avoid driving after taking this medicine",
+          "category": "Arrange the words",
+          "correct": "Avoid driving after taking this medicine",
+          "words": [
+            "driving",
+            "avoid",
+            "medicine",
+            "taking",
+            "after",
+            "this"
+          ],
+          "translateWords": [
+            "driving",
+            "avoid",
+            "medicine",
+            "taking",
+            "after",
+            "this"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,384 @@
+[
+    {
+      "lesson_id": "L2_U37_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I went to the new mega shopping mall downtown.\nFirst, I took the escalator to the second floor to browse a large department store.\nI found a jacket, tried it on in the fitting room, and then ate lunch at the crowded food court because there was a big discount.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I went to the new mega shopping mall downtown. First, I took the escalator to the second floor to browse a large department store. I found a jacket, tried it on in the fitting room, and then ate lunch at the crowded food court because there was a big discount.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing a massive shared dining area inside a commercial facility.",
+          "englishWord": "Choose the term representing a massive shared dining area inside a commercial facility.",
+          "category": "Question answer",
+          "correct": "food court",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "department store"
+            },
+            {
+              "id": "option-2",
+              "text": "food court"
+            },
+            {
+              "id": "option-3",
+              "text": "fitting room"
+            },
+            {
+              "id": "option-4",
+              "text": "escalator"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "You can try on clothes to check your size in the ______.",
+          "englishWord": "You can try on clothes to check your size in the ______.",
+          "category": "Complete the sentence",
+          "correct": "fitting room",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "food court"
+            },
+            {
+              "id": "option-2",
+              "text": "escalator"
+            },
+            {
+              "id": "option-3",
+              "text": "department store"
+            },
+            {
+              "id": "option-4",
+              "text": "fitting room"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the narrator took a helicopter transit flight to reach the second floor.",
+          "englishWord": "The text notes that the narrator took a helicopter transit flight to reach the second floor.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please hold the handrail firmly when standing on the ______.",
+          "englishWord": "Please hold the handrail firmly when standing on the ______.",
+          "category": "Fill in the blank",
+          "correct": "escalator",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "escalator"
+            },
+            {
+              "id": "option-2",
+              "text": "elevator"
+            },
+            {
+              "id": "option-3",
+              "text": "staircase"
+            },
+            {
+              "id": "option-4",
+              "text": "platform"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "discount",
+          "category": "Arrange the words",
+          "correct": "discount",
+          "words": [
+            "t",
+            "n",
+            "u",
+            "o",
+            "c",
+            "s",
+            "i",
+            "d"
+          ],
+          "translateWords": [
+            "t",
+            "n",
+            "u",
+            "o",
+            "c",
+            "s",
+            "i",
+            "d"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U37_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I have just bought a blue dress from the department store.\nMy brother has already eaten a hot meal at the food court, but I have not found new leather shoes yet.\nHave you finished shopping?",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I have just bought a blue dress from the department store. My brother has already eaten a hot meal at the food court, but I have not found new leather shoes yet. Have you finished shopping?",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct present perfect structure signaling an action that happened a very short moment ago.",
+          "englishWord": "Select the correct present perfect structure signaling an action that happened a very short moment ago.",
+          "category": "Question answer",
+          "correct": "have just bought",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "just bought"
+            },
+            {
+              "id": "option-2",
+              "text": "have just bought"
+            },
+            {
+              "id": "option-3",
+              "text": "am just buying"
+            },
+            {
+              "id": "option-4",
+              "text": "just buy"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The fitting room is busy, so I have not tried on the shirt ______.",
+          "englishWord": "The fitting room is busy, so I have not tried on the shirt ______.",
+          "category": "Complete the sentence",
+          "correct": "yet",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "already"
+            },
+            {
+              "id": "option-2",
+              "text": "just"
+            },
+            {
+              "id": "option-3",
+              "text": "yet"
+            },
+            {
+              "id": "option-4",
+              "text": "since"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The modifier 'already' is utilized exclusively to describe structural predictions scheduled far away in the future.",
+          "englishWord": "The modifier 'already' is utilized exclusively to describe structural predictions scheduled far away in the future.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Tom is full; he has ______ finished his giant noodle bowl.",
+          "englishWord": "Tom is full; he has ______ finished his giant noodle bowl.",
+          "category": "Fill in the blank",
+          "correct": "already",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "already"
+            },
+            {
+              "id": "option-2",
+              "text": "just"
+            },
+            {
+              "id": "option-3",
+              "text": "yet"
+            },
+            {
+              "id": "option-4",
+              "text": "since"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I have not paid the bill yet",
+          "category": "Arrange the words",
+          "correct": "I have not paid the bill yet",
+          "words": [
+            "not",
+            "paid",
+            "changes",
+            "bill",
+            "have",
+            "I",
+            "yet",
+            "the"
+          ],
+          "translateWords": [
+            "not",
+            "paid",
+            "changes",
+            "bill",
+            "have",
+            "I",
+            "yet",
+            "the"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U37_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I brought this shirt back to the customer service desk because it is a faulty product.\nI have my shopping receipt here.\nI do not want an exchange for another size; I prefer a full cash refund.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I brought this shirt back to the customer service desk because it is a faulty product. I have my shopping receipt here. I do not want an exchange for another size; I prefer a full cash refund.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the administrative document slip proving an item was officially bought at a retail station.",
+          "englishWord": "Identify the administrative document slip proving an item was officially bought at a retail station.",
+          "category": "Question answer",
+          "correct": "receipt",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "boarding pass"
+            },
+            {
+              "id": "option-2",
+              "text": "medical certificate"
+            },
+            {
+              "id": "option-3",
+              "text": "recipe"
+            },
+            {
+              "id": "option-4",
+              "text": "receipt"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If the electronic gadget is broken, you can claim a full ______.",
+          "englishWord": "If the electronic gadget is broken, you can claim a full ______.",
+          "category": "Complete the sentence",
+          "correct": "refund",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "receipt"
+            },
+            {
+              "id": "option-2",
+              "text": "refund"
+            },
+            {
+              "id": "option-3",
+              "text": "exchange"
+            },
+            {
+              "id": "option-4",
+              "text": "discount"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that the customer wants to exchange for a smaller item instead of taking their money back.",
+          "englishWord": "The text indicates that the customer wants to exchange for a smaller item instead of taking their money back.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Walk to the front ______ desk to complain about your broken screen.",
+          "englishWord": "Walk to the front ______ desk to complain about your broken screen.",
+          "category": "Fill in the blank",
+          "correct": "customer service",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "customer service"
+            },
+            {
+              "id": "option-2",
+              "text": "department store"
+            },
+            {
+              "id": "option-3",
+              "text": "fitting room"
+            },
+            {
+              "id": "option-4",
+              "text": "food court"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Exchange this dress for that blue one",
+          "category": "Arrange the words",
+          "correct": "Exchange this dress for that blue one",
+          "words": [
+            "this",
+            "for",
+            "dress",
+            "blue",
+            "Exchange",
+            "one",
+            "that"
+          ],
+          "translateWords": [
+            "this",
+            "for",
+            "dress",
+            "blue",
+            "Exchange",
+            "one",
+            "that"
+          ]
+        }
+      ]
+    }
+  ]

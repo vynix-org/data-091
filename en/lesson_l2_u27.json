@@ -1,0 +1,341 @@
+[
+    {
+      "lesson_id": "L2_U27_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I open my favorite app and scroll through the feed every morning.\nI often post a comment on an interesting thread.\nSuddenly, a viral video appeared and triggered millions of notifications.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I open my favorite app and scroll through the feed every morning. I often post a comment on an interesting thread. Suddenly, a viral video appeared and triggered millions of notifications.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrasal verb meaning 'to move text or images up and down across an electronic display screen view'.",
+          "englishWord": "Choose the phrasal verb meaning 'to move text or images up and down across an electronic display screen view'.",
+          "category": "Question answer",
+          "correct": "scroll through",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "post a comment"
+            },
+            {
+              "id": "option-2",
+              "text": "scroll through"
+            },
+            {
+              "id": "option-3",
+              "text": "book a flight"
+            },
+            {
+              "id": "option-4",
+              "text": "turn off"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you agree with the content creator's idea, you should ______ below.",
+          "englishWord": "If you agree with the content creator's idea, you should ______ below.",
+          "category": "Complete the sentence",
+          "correct": "post a comment",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "post a comment"
+            },
+            {
+              "id": "option-2",
+              "text": "scroll through"
+            },
+            {
+              "id": "option-3",
+              "text": "final call"
+            },
+            {
+              "id": "option-4",
+              "text": "check in"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The interaction text establishes that a viral video attracts exactly zero user notifications globally.",
+          "englishWord": "The interaction text establishes that a viral video attracts exactly zero user notifications globally.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The funny cat clip became a ______ video within three short hours.",
+          "englishWord": "The funny cat clip became a ______ video within three short hours.",
+          "category": "Fill in the blank",
+          "correct": "viral",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "notifications",
+          "category": "Arrange the words",
+          "correct": "notifications",
+          "words": [
+            "s",
+            "n",
+            "o",
+            "i",
+            "t",
+            "a",
+            "c",
+            "i",
+            "f",
+            "i",
+            "t",
+            "o",
+            "n"
+          ],
+          "translateWords": [
+            "s",
+            "n",
+            "o",
+            "i",
+            "t",
+            "a",
+            "c",
+            "i",
+            "f",
+            "i",
+            "t",
+            "o",
+            "n"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U27_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Spending time online can be fun.\nMy brother avoids checking his phone during dinner.\nHowever, last night he decided to upload a short photo log and told me to stop scrolling.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Spending time online can be fun. My brother avoids checking his phone during dinner. However, last night he decided to upload a short photo log and told me to stop scrolling.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct gerund structure serving as the primary noun subject head of the line.",
+          "englishWord": "Select the correct gerund structure serving as the primary noun subject head of the line.",
+          "category": "Question answer",
+          "correct": "Spending time online",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Spent time online"
+            },
+            {
+              "id": "option-2",
+              "text": "To spending time"
+            },
+            {
+              "id": "option-3",
+              "text": "Spending time online"
+            },
+            {
+              "id": "option-4",
+              "text": "Spend time"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The clever student avoids ______ social media feeds before exams.",
+          "englishWord": "The clever student avoids ______ social media feeds before exams.",
+          "category": "Complete the sentence",
+          "correct": "checking",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "check"
+            },
+            {
+              "id": "option-2",
+              "text": "to check"
+            },
+            {
+              "id": "option-3",
+              "text": "checking"
+            },
+            {
+              "id": "option-4",
+              "text": "checked"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The control verb phrase 'decided' must be followed immediately by a verb ending in '-ing' (e.g., 'decided uploading').",
+          "englishWord": "The control verb phrase 'decided' must be followed immediately by a verb ending in '-ing' (e.g., 'decided uploading').",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please stop ______ your screen and look at the whiteboard now.",
+          "englishWord": "Please stop ______ your screen and look at the whiteboard now.",
+          "category": "Fill in the blank",
+          "correct": "scrolling",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He decided to upload a viral video",
+          "category": "Arrange the words",
+          "correct": "He decided to upload a viral video",
+          "words": [
+            "to",
+            "upload",
+            "video",
+            "decided",
+            "a",
+            "He",
+            "viral"
+          ],
+          "translateWords": [
+            "to",
+            "upload",
+            "video",
+            "decided",
+            "a",
+            "He",
+            "viral"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U27_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Social networks help us stay connected with relatives.\nThe main drawback is screen time distraction.\nTo protect my sleep cycle, I plan a weekly digital detox to reduce phone usage.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Social networks help us stay connected with relatives. The main drawback is screen time distraction. To protect my sleep cycle, I plan a weekly digital detox to reduce phone usage.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the compound noun meaning 'the total amount of time an individual spends looking at an electronic monitor'.",
+          "englishWord": "Choose the compound noun meaning 'the total amount of time an individual spends looking at an electronic monitor'.",
+          "category": "Question answer",
+          "correct": "screen time",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "distraction"
+            },
+            {
+              "id": "option-2",
+              "text": "screen time"
+            },
+            {
+              "id": "option-3",
+              "text": "digital detox"
+            },
+            {
+              "id": "option-4",
+              "text": "internet feed"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Incoming alerts on your smartphone are a constant ______ during work hours.",
+          "englishWord": "Incoming alerts on your smartphone are a constant ______ during work hours.",
+          "category": "Complete the sentence",
+          "correct": "distraction",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "screen time"
+            },
+            {
+              "id": "option-2",
+              "text": "stay connected"
+            },
+            {
+              "id": "option-3",
+              "text": "distraction"
+            },
+            {
+              "id": "option-4",
+              "text": "digital detox"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the profile context, a 'digital detox' period involves increasing real-time phone usage by seventy hours.",
+          "englishWord": "According to the profile context, a 'digital detox' period involves increasing real-time phone usage by seventy hours.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Messaging applications allow long-distance families to ______ daily.",
+          "englishWord": "Messaging applications allow long-distance families to ______ daily.",
+          "category": "Fill in the blank",
+          "correct": "stay connected",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We need to reduce our screen time",
+          "category": "Arrange the words",
+          "correct": "We need to reduce our screen time",
+          "words": [
+            "need",
+            "we",
+            "time",
+            "screen",
+            "reduce",
+            "to",
+            "Our"
+          ],
+          "translateWords": [
+            "need",
+            "we",
+            "time",
+            "screen",
+            "reduce",
+            "to",
+            "Our"
+          ]
+        }
+      ]
+    }
+  ]

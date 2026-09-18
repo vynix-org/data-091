@@ -1,0 +1,334 @@
+[
+    {
+      "lesson_id": "L2_U22_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Let's prepare this dinner recipe.\nFirst, chop the onions and carrots on the board.\nNext, boil the water in a deep pan.\nPut the ingredients inside, and gently stir the soup.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Let's prepare this dinner recipe. First, chop the onions and carrots on the board. Next, boil the water in a deep pan. Put the ingredients inside, and gently stir the soup.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase indicating the manual mechanical cutting of items into tiny pieces.",
+          "englishWord": "Choose the phrase indicating the manual mechanical cutting of items into tiny pieces.",
+          "category": "Question answer",
+          "correct": "chop the onions",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "boil the water"
+            },
+            {
+              "id": "option-2",
+              "text": "stir the soup"
+            },
+            {
+              "id": "option-3",
+              "text": "chop the onions"
+            },
+            {
+              "id": "option-4",
+              "text": "bake"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "To make fresh tea, you must ______ first.",
+          "englishWord": "To make fresh tea, you must ______ first.",
+          "category": "Complete the sentence",
+          "correct": "boil the water",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "chop the onions"
+            },
+            {
+              "id": "option-2",
+              "text": "boil the water"
+            },
+            {
+              "id": "option-3",
+              "text": "stir the soup"
+            },
+            {
+              "id": "option-4",
+              "text": "bake the bread"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text suggests that a cook must bake the entire liquid soup mixture inside a dry oven space.",
+          "englishWord": "The text suggests that a cook must bake the entire liquid soup mixture inside a dry oven space.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Fresh salt is a necessary ______ for this meal.",
+          "englishWord": "Fresh salt is a necessary ______ for this meal.",
+          "category": "Fill in the blank",
+          "correct": "ingredient",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "ingredient"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Please stir the soup gently",
+          "category": "Arrange the words",
+          "correct": "Please stir the soup gently",
+          "words": [
+            "soup",
+            "the",
+            "gently",
+            "stir",
+            "Please"
+          ],
+          "translateWords": [
+            "soup",
+            "the",
+            "gently",
+            "stir",
+            "Please"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U22_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Follow these simple instructions.\nFirst, heat the clean pan.\nThen, add two eggs and fresh salt.\nAfter that, stir the mixture smoothly.\nFinally, serve the hot dish on a white plate.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Follow these simple instructions. First, heat the clean pan. Then, add two eggs and fresh salt. After that, stir the mixture smoothly. Finally, serve the hot dish on a white plate.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the sequence adverb that exclusively signals the absolute concluding termination step of a process.",
+          "englishWord": "Select the sequence adverb that exclusively signals the absolute concluding termination step of a process.",
+          "category": "Question answer",
+          "correct": "Finally",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "First"
+            },
+            {
+              "id": "option-2",
+              "text": "Then"
+            },
+            {
+              "id": "option-3",
+              "text": "After that"
+            },
+            {
+              "id": "option-4",
+              "text": "Finally"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "First, wash the red tomatoes. ______, chop them into small pieces.",
+          "englishWord": "First, wash the red tomatoes. ______, chop them into small pieces.",
+          "category": "Complete the sentence",
+          "correct": "Then",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Finally"
+            },
+            {
+              "id": "option-2",
+              "text": "Instructions"
+            },
+            {
+              "id": "option-3",
+              "text": "Then"
+            },
+            {
+              "id": "option-4",
+              "text": "First"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text instructs the cook to serve the completed dish raw before heating the clean pan.",
+          "englishWord": "The text instructs the cook to serve the completed dish raw before heating the clean pan.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please read the manual ______ before cooking the fish.",
+          "englishWord": "Please read the manual ______ before cooking the fish.",
+          "category": "Fill in the blank",
+          "correct": "instructions",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "instructions"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "After that, mix the ingredients",
+          "category": "Arrange the words",
+          "correct": "After that, mix the ingredients",
+          "words": [
+            "that",
+            "mix",
+            "after",
+            "ingredients",
+            "the",
+            ","
+          ],
+          "translateWords": [
+            "that",
+            "mix",
+            "after",
+            "ingredients",
+            "the",
+            ","
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U22_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This noodle soup lacks flavor.\nAdd a small pinch of salt or a teaspoon of sugar.\nUse fresh pepper instead of chili if you do not like spicy dishes.\nIt improves the taste.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This noodle soup lacks flavor. Add a small pinch of salt or a teaspoon of sugar. Use fresh pepper instead of chili if you do not like spicy dishes. It improves the taste.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the precise manual micro-measurement phrase representing an amount picked up between the thumb and index finger.",
+          "englishWord": "Identify the precise manual micro-measurement phrase representing an amount picked up between the thumb and index finger.",
+          "category": "Question answer",
+          "correct": "pinch of salt",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "teaspoon"
+            },
+            {
+              "id": "option-2",
+              "text": "tablespoon"
+            },
+            {
+              "id": "option-3",
+              "text": "pinch of salt"
+            },
+            {
+              "id": "option-4",
+              "text": "flavor"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Add one ______ of sweet honey to your cup of hot green tea.",
+          "englishWord": "Add one ______ of sweet honey to your cup of hot green tea.",
+          "category": "Complete the sentence",
+          "correct": "teaspoon",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pinch"
+            },
+            {
+              "id": "option-2",
+              "text": "teaspoon"
+            },
+            {
+              "id": "option-3",
+              "text": "flavor"
+            },
+            {
+              "id": "option-4",
+              "text": "alternative"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The recipe text states that adding raw chili is a great alternative strategy for individuals who hate spicy food.",
+          "englishWord": "The recipe text states that adding raw chili is a great alternative strategy for individuals who hate spicy food.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Spices add an amazing ______ to the grilled chicken.",
+          "englishWord": "Spices add an amazing ______ to the grilled chicken.",
+          "category": "Fill in the blank",
+          "correct": "flavor",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "flavor"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Use milk instead of water",
+          "category": "Arrange the words",
+          "correct": "Use milk instead of water",
+          "words": [
+            "milk",
+            "water",
+            "of",
+            "instead",
+            "Use"
+          ],
+          "translateWords": [
+            "milk",
+            "water",
+            "of",
+            "instead",
+            "Use"
+          ]
+        }
+      ]
+    }
+  ]

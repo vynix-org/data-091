@@ -1,0 +1,384 @@
+[
+    {
+      "lesson_id": "L2_U35_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My grandparents own a small stone cottage in the country.\nThey raise cattle livestock on their land.\nI love walking past the gold wheat field during the autumn harvest season.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My grandparents own a small stone cottage in the country. They raise cattle livestock on their land. I love walking past the gold wheat field during the autumn harvest season.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing a small, cozy residential house typically located in a rural or village zone.",
+          "englishWord": "Choose the term representing a small, cozy residential house typically located in a rural or village zone.",
+          "category": "Question answer",
+          "correct": "cottage",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "farmhouse"
+            },
+            {
+              "id": "option-2",
+              "text": "cottage"
+            },
+            {
+              "id": "option-3",
+              "text": "wheat field"
+            },
+            {
+              "id": "option-4",
+              "text": "harvest"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The farmer drives a tractor through the vast ______.",
+          "englishWord": "The farmer drives a tractor through the vast ______.",
+          "category": "Complete the sentence",
+          "correct": "wheat field",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "livestock"
+            },
+            {
+              "id": "option-2",
+              "text": "cottage"
+            },
+            {
+              "id": "option-3",
+              "text": "wheat field"
+            },
+            {
+              "id": "option-4",
+              "text": "landmark"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the autumn harvest represents the initial planting stage where seeds are buried.",
+          "englishWord": "The text notes that the autumn harvest represents the initial planting stage where seeds are buried.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They feed their farm ______ early every morning.",
+          "englishWord": "They feed their farm ______ early every morning.",
+          "category": "Fill in the blank",
+          "correct": "livestock",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "livestock"
+            },
+            {
+              "id": "option-2",
+              "text": "cottage"
+            },
+            {
+              "id": "option-3",
+              "text": "wheat"
+            },
+            {
+              "id": "option-4",
+              "text": "harvest"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "farmhouse",
+          "category": "Arrange the words",
+          "correct": "farmhouse",
+          "words": [
+            "e",
+            "s",
+            "u",
+            "o",
+            "h",
+            "m",
+            "r",
+            "a",
+            "f"
+          ],
+          "translateWords": [
+            "e",
+            "s",
+            "u",
+            "o",
+            "h",
+            "m",
+            "r",
+            "a",
+            "f"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U35_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Life in a village has a slower pace.\nThe countryside is much quieter than the city, and the streets are less crowded.\nOur farmhouse is far more spacious and we breathe cleaner air.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Life in a village has a slower pace. The countryside is much quieter than the city, and the streets are less crowded. Our farmhouse is far more spacious and we breathe cleaner air.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct short adjective comparative modifier pairing tracking noise parameters.",
+          "englishWord": "Select the correct short adjective comparative modifier pairing tracking noise parameters.",
+          "category": "Question answer",
+          "correct": "much quieter than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "much quieter than"
+            },
+            {
+              "id": "option-2",
+              "text": "quieter much"
+            },
+            {
+              "id": "option-3",
+              "text": "quietest"
+            },
+            {
+              "id": "option-4",
+              "text": "more quiet than"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The village market is usually ______ the urban supermarket.",
+          "englishWord": "The village market is usually ______ the urban supermarket.",
+          "category": "Complete the sentence",
+          "correct": "less crowded than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "spacious than"
+            },
+            {
+              "id": "option-2",
+              "text": "less crowded than"
+            },
+            {
+              "id": "option-3",
+              "text": "crowded much"
+            },
+            {
+              "id": "option-4",
+              "text": "least crowded"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The modifier 'far more' is used exclusively with short, single-syllable adjectives (e.g., 'far more old').",
+          "englishWord": "The modifier 'far more' is used exclusively with short, single-syllable adjectives (e.g., 'far more old').",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Away from city factories, you can enjoy ______ air.",
+          "englishWord": "Away from city factories, you can enjoy ______ air.",
+          "category": "Fill in the blank",
+          "correct": "cleaner",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cleaner"
+            },
+            {
+              "id": "option-2",
+              "text": "cleanest"
+            },
+            {
+              "id": "option-3",
+              "text": "clean"
+            },
+            {
+              "id": "option-4",
+              "text": "more clean"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The country house is far more spacious",
+          "category": "Arrange the words",
+          "correct": "The country house is far more spacious",
+          "words": [
+            "more",
+            "spacious",
+            "far",
+            "house",
+            "country",
+            "The",
+            "is"
+          ],
+          "translateWords": [
+            "more",
+            "spacious",
+            "far",
+            "house",
+            "country",
+            "The",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U35_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Living in a remote area means you have limited access to high-speed internet.\nMy daily commute to the city takes one hour.\nHowever, the village has a strong bond and a warm community feel.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Living in a remote area means you have limited access to high-speed internet. My daily commute to the city takes one hour. However, the village has a strong bond and a warm community feel.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the noun phrase used to describe a powerful sense of social belonging and neighborhood friendliness.",
+          "englishWord": "Choose the noun phrase used to describe a powerful sense of social belonging and neighborhood friendliness.",
+          "category": "Question answer",
+          "correct": "community feel",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "remote area"
+            },
+            {
+              "id": "option-2",
+              "text": "daily commute"
+            },
+            {
+              "id": "option-3",
+              "text": "community feel"
+            },
+            {
+              "id": "option-4",
+              "text": "limited access"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The medical clinic was built inside a ______ far from the capital.",
+          "englishWord": "The medical clinic was built inside a ______ far from the capital.",
+          "category": "Complete the sentence",
+          "correct": "remote area",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "community feel"
+            },
+            {
+              "id": "option-2",
+              "text": "remote area"
+            },
+            {
+              "id": "option-3",
+              "text": "commute"
+            },
+            {
+              "id": "option-4",
+              "text": "outskirts"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the rural log, 'limited access' means that an item is completely open, fast, and available to everyone.",
+          "englishWord": "According to the rural log, 'limited access' means that an item is completely open, fast, and available to everyone.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Her evening ______ is delayed because the local rural train is slow.",
+          "englishWord": "Her evening ______ is delayed because the local rural train is slow.",
+          "category": "Fill in the blank",
+          "correct": "commute",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "commute"
+            },
+            {
+              "id": "option-2",
+              "text": "community"
+            },
+            {
+              "id": "option-3",
+              "text": "area"
+            },
+            {
+              "id": "option-4",
+              "text": "access"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The local village has a strong bond",
+          "category": "Arrange the words",
+          "correct": "The local village has a strong bond",
+          "words": [
+            "village",
+            "a",
+            "strong",
+            "bond",
+            "has",
+            "local",
+            "The"
+          ],
+          "translateWords": [
+            "village",
+            "a",
+            "strong",
+            "bond",
+            "has",
+            "local",
+            "The"
+          ]
+        }
+      ]
+    }
+  ]

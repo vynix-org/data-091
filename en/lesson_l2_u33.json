@@ -1,0 +1,340 @@
+[
+    {
+      "lesson_id": "L2_U33_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Before sending an email, always type a clear subject line.\nIf you need to share data, upload the correct attachment.\nBegin with a polite 'Dear Mr. John' and conclude using 'Best regards'.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Before sending an email, always type a clear subject line. If you need to share data, upload the correct attachment. Begin with a polite 'Dear Mr. John' and conclude using 'Best regards'.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the epistolary term used to summarize the email's topic in the top field block.",
+          "englishWord": "Choose the epistolary term used to summarize the email's topic in the top field block.",
+          "category": "Question answer",
+          "correct": "subject line",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "attachment"
+            },
+            {
+              "id": "option-2",
+              "text": "subject line"
+            },
+            {
+              "id": "option-3",
+              "text": "forward"
+            },
+            {
+              "id": "option-4",
+              "text": "best regards"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Sign off the text correspondence with ____, followed by your full name.",
+          "englishWord": "Sign off the text correspondence with ____, followed by your full name.",
+          "category": "Complete the sentence",
+          "correct": "Best regards",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Dear"
+            },
+            {
+              "id": "option-2",
+              "text": "Attachment"
+            },
+            {
+              "id": "option-3",
+              "text": "Best regards"
+            },
+            {
+              "id": "option-4",
+              "text": "Forward"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the text, an attachment card is utilized exclusively to wipe out old junk files from the server.",
+          "englishWord": "According to the text, an attachment card is utilized exclusively to wipe out old junk files from the server.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ Ms. Sarah, I am writing to report the system bug.",
+          "englishWord": "____ Ms. Sarah, I am writing to report the system bug.",
+          "category": "Fill in the blank",
+          "correct": "Dear",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Dear"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "forward",
+          "category": "Arrange the words",
+          "correct": "forward",
+          "words": [
+            "r",
+            "a",
+            "d",
+            "r",
+            "o",
+            "w",
+            "f"
+          ],
+          "translateWords": [
+            "r",
+            "a",
+            "d",
+            "r",
+            "o",
+            "w",
+            "f"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U33_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Dear team, I am writing to update the project schedule.\nI would like to request your status report.\nCould you please forward the latest spreadsheet attachment as soon as possible?",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Dear team, I am writing to update the project schedule. I would like to request your status report. Could you please forward the latest spreadsheet attachment as soon as possible?",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct phrase used to declare the formal purpose of an email narrative.",
+          "englishWord": "Select the correct phrase used to declare the formal purpose of an email narrative.",
+          "category": "Question answer",
+          "correct": "I am writing to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "I am writing to"
+            },
+            {
+              "id": "option-2",
+              "text": "Best regards"
+            },
+            {
+              "id": "option-3",
+              "text": "Forward"
+            },
+            {
+              "id": "option-4",
+              "text": "Attachment"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "______ send the password protection criteria today?",
+          "englishWord": "______ send the password protection criteria today?",
+          "category": "Complete the sentence",
+          "correct": "Could you please",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Would you"
+            },
+            {
+              "id": "option-2",
+              "text": "Could you please"
+            },
+            {
+              "id": "option-3",
+              "text": "Why don't"
+            },
+            {
+              "id": "option-4",
+              "text": "Intend to"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The contraction phrase 'I would like to' must be followed immediately by a verb ending in '-ing'.",
+          "englishWord": "The contraction phrase 'I would like to' must be followed immediately by a verb ending in '-ing'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I ______ like to schedule a quick meeting tomorrow at noon.",
+          "englishWord": "I ______ like to schedule a quick meeting tomorrow at noon.",
+          "category": "Fill in the blank",
+          "correct": "would",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "would"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Please let me know your status",
+          "category": "Arrange the words",
+          "correct": "Please let me know your status",
+          "words": [
+            "know",
+            "please",
+            "let",
+            "status",
+            "your",
+            "me"
+          ],
+          "translateWords": [
+            "know",
+            "please",
+            "let",
+            "status",
+            "your",
+            "me"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U33_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This is an urgent request for project data.\nPlease confirm receipt as soon as you log in.\nIf you are out of office, copy your manager so they can reply to all immediately.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This is an urgent request for project data. Please confirm receipt as soon as you log in. If you are out of office, copy your manager so they can reply to all immediately.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the email tool command used to send a response back to every single participant in the thread.",
+          "englishWord": "Identify the email tool command used to send a response back to every single participant in the thread.",
+          "category": "Question answer",
+          "correct": "reply to all",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "copy"
+            },
+            {
+              "id": "option-2",
+              "text": "forward"
+            },
+            {
+              "id": "option-3",
+              "text": "reply to all"
+            },
+            {
+              "id": "option-4",
+              "text": "attach"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The director issued an ______ because the system crashed.",
+          "englishWord": "The director issued an ______ because the system crashed.",
+          "category": "Complete the sentence",
+          "correct": "urgent request",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "urgent request"
+            },
+            {
+              "id": "option-2",
+              "text": "out of office"
+            },
+            {
+              "id": "option-3",
+              "text": "confirm receipt"
+            },
+            {
+              "id": "option-4",
+              "text": "subject line"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that an employee who is 'out of office' sits at their cubicle typing reports all day.",
+          "englishWord": "The text indicates that an employee who is 'out of office' sits at their cubicle typing reports all day.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please ______ receipt of this confidential message card.",
+          "englishWord": "Please ______ receipt of this confidential message card.",
+          "category": "Fill in the blank",
+          "correct": "confirm",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "confirm"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Copy your manager on this email",
+          "category": "Arrange the words",
+          "correct": "Copy your manager on this email",
+          "words": [
+            "manager",
+            "your",
+            "copy",
+            "email",
+            "this",
+            "on"
+          ],
+          "translateWords": [
+            "manager",
+            "your",
+            "copy",
+            "email",
+            "this",
+            "on"
+          ]
+        }
+      ]
+    }
+  ]

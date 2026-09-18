@@ -1,0 +1,392 @@
+[
+    {
+      "lesson_id": "L2_U26_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Eating a home-cooked meal is a highly nutritious habit.\nProcessed food from fast food chains contains too much salt.\nBuying a takeaway box is a convenient choice, but it harms your body.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Eating a home-cooked meal is a highly nutritious habit. Processed food from fast food chains contains too much salt. Buying a takeaway box is a convenient choice, but it harms your body.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the noun phrase that denotes fresh dishes prepared manually at a residential home space.",
+          "englishWord": "Choose the noun phrase that denotes fresh dishes prepared manually at a residential home space.",
+          "category": "Question answer",
+          "correct": "home-cooked meal",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "processed food"
+            },
+            {
+              "id": "option-2",
+              "text": "takeaway"
+            },
+            {
+              "id": "option-3",
+              "text": "home-cooked meal"
+            },
+            {
+              "id": "option-4",
+              "text": "convenient choice"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Fresh vegetable soup is extremely ______ because it has many vital vitamins.",
+          "englishWord": "Fresh vegetable soup is extremely ______ because it has many vital vitamins.",
+          "category": "Complete the sentence",
+          "correct": "nutritious",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nutritious"
+            },
+            {
+              "id": "option-2",
+              "text": "processed"
+            },
+            {
+              "id": "option-3",
+              "text": "frozen"
+            },
+            {
+              "id": "option-4",
+              "text": "convenient"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that eating high-salt processed food daily is a highly nutritious lifestyle option.",
+          "englishWord": "The text notes that eating high-salt processed food daily is a highly nutritious lifestyle option.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I am too tired to cook dinner, so let's order a pizza ______.",
+          "englishWord": "I am too tired to cook dinner, so let's order a pizza ______.",
+          "category": "Fill in the blank",
+          "correct": "takeaway",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "takeaway"
+            },
+            {
+              "id": "option-2",
+              "text": "nutritious"
+            },
+            {
+              "id": "option-3",
+              "text": "processed"
+            },
+            {
+              "id": "option-4",
+              "text": "convenient"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "processed food",
+          "category": "Arrange the words",
+          "correct": "processed food",
+          "words": [
+            "d",
+            "o",
+            "o",
+            "f",
+            "d",
+            "e",
+            "s",
+            "s",
+            "e",
+            "c",
+            "o",
+            "r",
+            "p"
+          ],
+          "translateWords": [
+            "d",
+            "o",
+            "o",
+            "f",
+            "d",
+            "e",
+            "s",
+            "s",
+            "e",
+            "c",
+            "o",
+            "r",
+            "p"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U26_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Cooking at home is healthier than buying fast food.\nProcessed items are less nutritious and turn out to be far more expensive over time.\nA home-cooked meal is much better for your family.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Cooking at home is healthier than buying fast food. Processed items are less nutritious and turn out to be far more expensive over time. A home-cooked meal is much better for your family.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct intense comparison frame used before long adjectives.",
+          "englishWord": "Select the correct intense comparison frame used before long adjectives.",
+          "category": "Question answer",
+          "correct": "far more expensive",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "more far"
+            },
+            {
+              "id": "option-2",
+              "text": "far more expensive"
+            },
+            {
+              "id": "option-3",
+              "text": "expensiver"
+            },
+            {
+              "id": "option-4",
+              "text": "much expensive"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Frozen takeaway dinners are usually ______ fresh local vegetables.",
+          "englishWord": "Frozen takeaway dinners are usually ______ fresh local vegetables.",
+          "category": "Complete the sentence",
+          "correct": "less nutritious than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "less nutritious than"
+            },
+            {
+              "id": "option-2",
+              "text": "much nutritious"
+            },
+            {
+              "id": "option-3",
+              "text": "nutritious than"
+            },
+            {
+              "id": "option-4",
+              "text": "least nutritious"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The modifier 'much' can be placed directly before a base adjective without an '-er' ending (e.g., 'much good').",
+          "englishWord": "The modifier 'much' can be placed directly before a base adjective without an '-er' ending (e.g., 'much good').",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Fresh fish is definitely ______ than stale meat.",
+          "englishWord": "Fresh fish is definitely ______ than stale meat.",
+          "category": "Fill in the blank",
+          "correct": "healthier",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "healthier"
+            },
+            {
+              "id": "option-2",
+              "text": "healthy"
+            },
+            {
+              "id": "option-3",
+              "text": "healthiest"
+            },
+            {
+              "id": "option-4",
+              "text": "more healthy"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Fresh juice is much better for you",
+          "category": "Arrange the words",
+          "correct": "Fresh juice is much better for you",
+          "words": [
+            "for",
+            "better",
+            "juice",
+            "is",
+            "much",
+            "Fresh",
+            "you"
+          ],
+          "translateWords": [
+            "for",
+            "better",
+            "juice",
+            "is",
+            "much",
+            "Fresh",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U26_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Preparing a home-cooked meal requires fresh ingredients.\nThe process can be time-consuming after work.\nHowever, it helps families save money and provides immense long-term health value.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Preparing a home-cooked meal requires fresh ingredients. The process can be time-consuming after work. However, it helps families save money and provides immense long-term health value.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the compound adjective meaning an activity demands a very large amount of time to complete.",
+          "englishWord": "Identify the compound adjective meaning an activity demands a very large amount of time to complete.",
+          "category": "Question answer",
+          "correct": "time-consuming",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nutritious"
+            },
+            {
+              "id": "option-2",
+              "text": "processed"
+            },
+            {
+              "id": "option-3",
+              "text": "time-consuming"
+            },
+            {
+              "id": "option-4",
+              "text": "convenient"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you cut down on expensive restaurant visits, you will ______ easily.",
+          "englishWord": "If you cut down on expensive restaurant visits, you will ______ easily.",
+          "category": "Complete the sentence",
+          "correct": "save money",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "save money"
+            },
+            {
+              "id": "option-2",
+              "text": "check out"
+            },
+            {
+              "id": "option-3",
+              "text": "escape the city"
+            },
+            {
+              "id": "option-4",
+              "text": "book a flight"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The lifestyle essay notes that fast food containers are packed with fresh ingredients from local organic farms.",
+          "englishWord": "The lifestyle essay notes that fast food containers are packed with fresh ingredients from local organic farms.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The core ______ value of vegetable soup is higher than fried chicken blocks.",
+          "englishWord": "The core ______ value of vegetable soup is higher than fried chicken blocks.",
+          "category": "Fill in the blank",
+          "correct": "health",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "health"
+            },
+            {
+              "id": "option-2",
+              "text": "financial"
+            },
+            {
+              "id": "option-3",
+              "text": "cooking"
+            },
+            {
+              "id": "option-4",
+              "text": "food"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We need fresh ingredients for this recipe",
+          "category": "Arrange the words",
+          "correct": "We need fresh ingredients for this recipe",
+          "words": [
+            "ingredients",
+            "We",
+            "need",
+            "fresh",
+            "this",
+            "recipe",
+            "for"
+          ],
+          "translateWords": [
+            "ingredients",
+            "We",
+            "need",
+            "fresh",
+            "this",
+            "recipe",
+            "for"
+          ]
+        }
+      ]
+    }
+  ]

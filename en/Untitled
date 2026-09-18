@@ -1,0 +1,378 @@
+[
+  {
+    "lesson_id": "L2_U24_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Review Log 1: To upgrade your lifestyle, maintain a balanced diet and stay hydrated. I regularly walk in the park, but I rarely hit the gym. Cut down on salt and keep up this habit consistently.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Review Log 1: To upgrade your lifestyle, maintain a balanced diet and stay hydrated. I regularly walk in the park, but I rarely hit the gym. Cut down on salt and keep up this habit consistently.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the ongoing life asset term denoting the target framework for physical nutritional consumption.",
+        "englishWord": "Choose the ongoing life asset term denoting the target framework for physical nutritional consumption.",
+        "category": "Question answer",
+        "correct": "balanced diet",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "stay active"
+          },
+          {
+            "id": "option-2",
+            "text": "lifestyle"
+          },
+          {
+            "id": "option-3",
+            "text": "balanced diet"
+          },
+          {
+            "id": "option-4",
+            "text": "habit"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "He is healthy because he ______ consumes sugary carbonated beverages.",
+        "englishWord": "He is healthy because he ______ consumes sugary carbonated beverages.",
+        "category": "Complete the sentence",
+        "correct": "rarely",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "regularly"
+          },
+          {
+            "id": "option-2",
+            "text": "rarely"
+          },
+          {
+            "id": "option-3",
+            "text": "consistently"
+          },
+          {
+            "id": "option-4",
+            "text": "frequently"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The wellness log claims that a citizen must cut down on clear water to optimize dynamic athletic performance profiles.",
+        "englishWord": "The wellness log claims that a citizen must cut down on clear water to optimize dynamic athletic performance profiles.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "You should ______ television time and read historical books instead.",
+        "englishWord": "You should ______ television time and read historical books instead.",
+        "category": "Fill in the blank",
+        "correct": "cut down on",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "cut down on"
+          },
+          {
+            "id": "option-2",
+            "text": "keep up"
+          },
+          {
+            "id": "option-3",
+            "text": "stay active"
+          },
+          {
+            "id": "option-4",
+            "text": "look after"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "She walks inside the park consistently",
+        "category": "Arrange the words",
+        "correct": "She walks inside the park consistently",
+        "words": [
+          "walks",
+          "she",
+          "park",
+          "consistently",
+          "the",
+          "inside"
+        ],
+        "translateWords": [
+          "walks",
+          "she",
+          "park",
+          "consistently",
+          "the",
+          "inside"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U24_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Review Log 2: Read these recipe instructions. First, chop the onions on the board. Then, boil the water in a pan. Finally, stir the soup gently and add a small pinch of salt before serving.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Review Log 2: Read these recipe instructions. First, chop the onions on the board. Then, boil the water in a pan. Finally, stir the soup gently and add a small pinch of salt before serving.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Pick the primary preparation step phrase relating to cutting plant produce items.",
+        "englishWord": "Pick the primary preparation step phrase relating to cutting plant produce items.",
+        "category": "Question answer",
+        "correct": "chop the onions",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "boil the water"
+          },
+          {
+            "id": "option-2",
+            "text": "chop the onions"
+          },
+          {
+            "id": "option-3",
+            "text": "stir the soup"
+          },
+          {
+            "id": "option-4",
+            "text": "serve"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "______, remove the baked bread from the oven space and turn off the power.",
+        "englishWord": "______, remove the baked bread from the oven space and turn off the power.",
+        "category": "Complete the sentence",
+        "correct": "Finally",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "First"
+          },
+          {
+            "id": "option-2",
+            "text": "Then"
+          },
+          {
+            "id": "option-3",
+            "text": "After that"
+          },
+          {
+            "id": "option-4",
+            "text": "Finally"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The procedural log notes that a cook must drop a raw unchopped whole onion into frozen ice blocks.",
+        "englishWord": "The procedural log notes that a cook must drop a raw unchopped whole onion into frozen ice blocks.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Sprinkle a ______ over the fresh grilled fish to lift the core flavor profile.",
+        "englishWord": "Sprinkle a ______ over the fresh grilled fish to lift the core flavor profile.",
+        "category": "Fill in the blank",
+        "correct": "pinch of salt",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "pinch of salt"
+          },
+          {
+            "id": "option-2",
+            "text": "cup of water"
+          },
+          {
+            "id": "option-3",
+            "text": "bowl of soup"
+          },
+          {
+            "id": "option-4",
+            "text": "piece of bread"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Boil the water inside the deep pot",
+        "category": "Arrange the words",
+        "correct": "Boil the water inside the deep pot",
+        "words": [
+          "boil",
+          "deep",
+          "water",
+          "the",
+          "pot",
+          "inside",
+          "the"
+        ],
+        "translateWords": [
+          "boil",
+          "deep",
+          "water",
+          "the",
+          "pot",
+          "inside",
+          "the"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U24_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "Review Log 3: John missed his clinic shift because of the flu. His throat is swollen due to a bacterial infection. The doctor gave him a prescription for a daily dose of two white pills.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "Review Log 3: John missed his clinic shift because of the flu. His throat is swollen due to a bacterial infection. The doctor gave him a prescription for a daily dose of two white pills.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Identify the formal condition phrase checking a widespread viral respiratory track issue.",
+        "englishWord": "Identify the formal condition phrase checking a widespread viral respiratory track issue.",
+        "category": "Question answer",
+        "correct": "flu",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "allergy"
+          },
+          {
+            "id": "option-2",
+            "text": "infection"
+          },
+          {
+            "id": "option-3",
+            "text": "flu"
+          },
+          {
+            "id": "option-4",
+            "text": "prescription"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "The class was canceled ______ a severe winter snow blizzard block.",
+        "englishWord": "The class was canceled ______ a severe winter snow blizzard block.",
+        "category": "Complete the sentence",
+        "correct": "because of",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "because"
+          },
+          {
+            "id": "option-2",
+            "text": "since"
+          },
+          {
+            "id": "option-3",
+            "text": "as"
+          },
+          {
+            "id": "option-4",
+            "text": "because of"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The clinical control log states that an official medical prescription card is issued by a local grocery cashier.",
+        "englishWord": "The clinical control log states that an official medical prescription card is issued by a local grocery cashier.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "His sprained ankle is heavily ______ and hurts when he walks down the street.",
+        "englishWord": "His sprained ankle is heavily ______ and hurts when he walks down the street.",
+        "category": "Fill in the blank",
+        "correct": "swollen",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "swollen"
+          },
+          {
+            "id": "option-2",
+            "text": "healthy"
+          },
+          {
+            "id": "option-3",
+            "text": "straight"
+          },
+          {
+            "id": "option-4",
+            "text": "empty"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Avoid driving machinery after taking this dose",
+        "category": "Arrange the words",
+        "correct": "Avoid driving machinery after taking this dose",
+        "words": [
+          "taking",
+          "avoid",
+          "driving",
+          "machinery",
+          "after",
+          "this",
+          "dose"
+        ],
+        "translateWords": [
+          "taking",
+          "avoid",
+          "driving",
+          "machinery",
+          "after",
+          "this",
+          "dose"
+        ]
+      }
+    ]
+  }
+]

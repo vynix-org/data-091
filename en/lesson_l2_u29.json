@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L2_U29_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I remember my very first entry-level job. It was an unpaid summer internship at a local advertising company.\nI had to wear a formal uniform and my colleagues were friendly, but the monthly salary was low.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I remember my very first entry-level job. It was an unpaid summer internship at a local advertising company. I had to wear a formal uniform and my colleagues were friendly, but the monthly salary was low.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used to describe a temporary position, often for students, to gain work experience.",
+          "englishWord": "Choose the term used to describe a temporary position, often for students, to gain work experience.",
+          "category": "Question answer",
+          "correct": "internship",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "salary"
+            },
+            {
+              "id": "option-2",
+              "text": "uniform"
+            },
+            {
+              "id": "option-3",
+              "text": "internship"
+            },
+            {
+              "id": "option-4",
+              "text": "colleague"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She was unhappy with the job because the basic ______ was too low.",
+          "englishWord": "She was unhappy with the job because the basic ______ was too low.",
+          "category": "Complete the sentence",
+          "correct": "salary",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "colleague"
+            },
+            {
+              "id": "option-2",
+              "text": "uniform"
+            },
+            {
+              "id": "option-3",
+              "text": "internship"
+            },
+            {
+              "id": "option-4",
+              "text": "salary"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that the narrator received an extremely high monthly salary during his summer internship.",
+          "englishWord": "The text indicates that the narrator received an extremely high monthly salary during his summer internship.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "John went to lunch with his office collea______.",
+          "englishWord": "John went to lunch with his office collea______.",
+          "category": "Fill in the blank",
+          "correct": "gues",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "gues"
+            },
+            {
+              "id": "option-2",
+              "text": "gue"
+            },
+            {
+              "id": "option-3",
+              "text": "gueses"
+            },
+            {
+              "id": "option-4",
+              "text": "guest"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He applied for an entry level job",
+          "category": "Arrange the words",
+          "correct": "He applied for an entry level job",
+          "words": [
+            "job",
+            "applied",
+            "an",
+            "level",
+            "for",
+            "entry",
+            "He"
+          ],
+          "translateWords": [
+            "job",
+            "applied",
+            "an",
+            "level",
+            "for",
+            "entry",
+            "He"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U29_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "At ten o'clock yesterday morning, I was working at my cubicle.\nMy colleagues were typing reports furiously, our manager was preparing a big presentation, and I was dealing with a customer complaint.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "At ten o'clock yesterday morning, I was working at my cubicle. My colleagues were typing reports furiously, our manager was preparing a big presentation, and I was dealing with a customer complaint.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct Past Continuous shape for multiple colleague entities.",
+          "englishWord": "Select the correct Past Continuous shape for multiple colleague entities.",
+          "category": "Question answer",
+          "correct": "were typing",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "was typing"
+            },
+            {
+              "id": "option-2",
+              "text": "were typing"
+            },
+            {
+              "id": "option-3",
+              "text": "typed"
+            },
+            {
+              "id": "option-4",
+              "text": "are typing"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "While I ______ at the front desk, the phone rang twice.",
+          "englishWord": "While I ______ at the front desk, the phone rang twice.",
+          "category": "Complete the sentence",
+          "correct": "was working",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "was working"
+            },
+            {
+              "id": "option-2",
+              "text": "working"
+            },
+            {
+              "id": "option-3",
+              "text": "am working"
+            },
+            {
+              "id": "option-4",
+              "text": "worked"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Past Continuous is utilized here to describe future plans that are fixed on a corporate calendar.",
+          "englishWord": "Past Continuous is utilized here to describe future plans that are fixed on a corporate calendar.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The content creator ______ uploading a video when the power cut out.",
+          "englishWord": "The content creator ______ uploading a video when the power cut out.",
+          "category": "Fill in the blank",
+          "correct": "was",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "was"
+            },
+            {
+              "id": "option-2",
+              "text": "were"
+            },
+            {
+              "id": "option-3",
+              "text": "is"
+            },
+            {
+              "id": "option-4",
+              "text": "are"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "She was writing a financial report",
+          "category": "Arrange the words",
+          "correct": "She was writing a financial report",
+          "words": [
+            "was",
+            "report",
+            "financial",
+            "a",
+            "writing",
+            "She"
+          ],
+          "translateWords": [
+            "was",
+            "report",
+            "financial",
+            "a",
+            "writing",
+            "She"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U29_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "While I was writing a confidential report, my computer suddenly crashed.\nLater, I was talking to an important colleague when the phone rang and interrupted our conversation.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "While I was writing a confidential report, my computer suddenly crashed. Later, I was talking to an important colleague when the phone rang and interrupted our conversation.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the time connector word that must be followed by a sudden short action in the past simple.",
+          "englishWord": "Identify the time connector word that must be followed by a sudden short action in the past simple.",
+          "category": "Question answer",
+          "correct": "when",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "while"
+            },
+            {
+              "id": "option-2",
+              "text": "when"
+            },
+            {
+              "id": "option-3",
+              "text": "suddenly"
+            },
+            {
+              "id": "option-4",
+              "text": "because"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The manager walked into the room ______ the workers were debating.",
+          "englishWord": "The manager walked into the room ______ the workers were debating.",
+          "category": "Complete the sentence",
+          "correct": "while",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "when"
+            },
+            {
+              "id": "option-2",
+              "text": "while"
+            },
+            {
+              "id": "option-3",
+              "text": "during"
+            },
+            {
+              "id": "option-4",
+              "text": "since"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the phone rang smoothly before the narrator even started talking to his colleague.",
+          "englishWord": "The text notes that the phone rang smoothly before the narrator even started talking to his colleague.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Please do not ______ the director while he is speaking.",
+          "englishWord": "Please do not ______ the director while he is speaking.",
+          "category": "Fill in the blank",
+          "correct": "interrupt",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "interrupt"
+            },
+            {
+              "id": "option-2",
+              "text": "continue"
+            },
+            {
+              "id": "option-3",
+              "text": "follow"
+            },
+            {
+              "id": "option-4",
+              "text": "answer"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "My computer crashed while I was coding",
+          "category": "Arrange the words",
+          "correct": "My computer crashed while I was coding",
+          "words": [
+            "crashed",
+            "coding",
+            "was",
+            "while",
+            "computer",
+            "My",
+            "I"
+          ],
+          "translateWords": [
+            "crashed",
+            "coding",
+            "was",
+            "while",
+            "computer",
+            "My",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]

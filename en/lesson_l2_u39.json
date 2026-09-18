@@ -1,0 +1,341 @@
+[
+    {
+      "lesson_id": "L2_U39_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I live in an extremely safe neighborhood.\nI can walk to the local grocery store or the corner pharmacy in two minutes.\nThe town council built a wide pedestrian zone near our community center.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I live in an extremely safe neighborhood. I can walk to the local grocery store or the corner pharmacy in two minutes. The town council built a wide pedestrian zone near our community center.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing an urban space exclusively reserved for citizens to walk on foot without any cars.",
+          "englishWord": "Choose the term representing an urban space exclusively reserved for citizens to walk on foot without any cars.",
+          "category": "Question answer",
+          "correct": "pedestrian zone",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "community center"
+            },
+            {
+              "id": "option-2",
+              "text": "safe neighborhood"
+            },
+            {
+              "id": "option-3",
+              "text": "grocery store"
+            },
+            {
+              "id": "option-4",
+              "text": "pedestrian zone"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Elderly citizens gather to play tactical chess inside the local ______.",
+          "englishWord": "Elderly citizens gather to play tactical chess inside the local ______.",
+          "category": "Complete the sentence",
+          "correct": "community center",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "pharmacy"
+            },
+            {
+              "id": "option-2",
+              "text": "pedestrian zone"
+            },
+            {
+              "id": "option-3",
+              "text": "community center"
+            },
+            {
+              "id": "option-4",
+              "text": "grocery store"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that a standard grocery store is utilized primarily to distribute written medical drug prescriptions.",
+          "englishWord": "The text notes that a standard grocery store is utilized primarily to distribute written medical drug prescriptions.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Parents love raising children inside a secure and ______ neighborhood.",
+          "englishWord": "Parents love raising children inside a secure and ______ neighborhood.",
+          "category": "Fill in the blank",
+          "correct": "safe",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "grocery store",
+          "category": "Arrange the words",
+          "correct": "grocery store",
+          "words": [
+            "e",
+            "r",
+            "o",
+            "t",
+            "s",
+            " ",
+            "y",
+            "r",
+            "e",
+            "c",
+            "o",
+            "r",
+            "g"
+          ],
+          "translateWords": [
+            "e",
+            "r",
+            "o",
+            "t",
+            "s",
+            " ",
+            "y",
+            "r",
+            "e",
+            "c",
+            "o",
+            "r",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U39_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Walk along the street for two blocks.\nYou will find a small french bakery at the corner.\nThe massive community center sits directly across from the park, within walking distance of my flat.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Walk along the street for two blocks. You will find a small french bakery at the corner. The massive community center sits directly across from the park, within walking distance of my flat.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct phrase meaning very close by so that driving a vehicle is unnecessary.",
+          "englishWord": "Select the correct phrase meaning very close by so that driving a vehicle is unnecessary.",
+          "category": "Question answer",
+          "correct": "within walking distance",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "along the street"
+            },
+            {
+              "id": "option-2",
+              "text": "at the corner"
+            },
+            {
+              "id": "option-3",
+              "text": "across from"
+            },
+            {
+              "id": "option-4",
+              "text": "within walking distance"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The traffic light station located ______ is broken.",
+          "englishWord": "The traffic light station located ______ is broken.",
+          "category": "Complete the sentence",
+          "correct": "at the corner",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "across from"
+            },
+            {
+              "id": "option-2",
+              "text": "within walking distance"
+            },
+            {
+              "id": "option-3",
+              "text": "at the corner"
+            },
+            {
+              "id": "option-4",
+              "text": "along the street"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The mapping text establishes that 'across from' represents an item stacked immediately inside another container block.",
+          "englishWord": "The mapping text establishes that 'across from' represents an item stacked immediately inside another container block.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Beautiful oak trees are planted ______ to shade the wide sidewalk area.",
+          "englishWord": "Beautiful oak trees are planted ______ to shade the wide sidewalk area.",
+          "category": "Fill in the blank",
+          "correct": "along the street",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The hospital sits across from the bank",
+          "category": "Arrange the words",
+          "correct": "The hospital sits across from the bank",
+          "words": [
+            "hospital",
+            "sits",
+            "across from",
+            "bank",
+            "local",
+            "The",
+            "the"
+          ],
+          "translateWords": [
+            "hospital",
+            "sits",
+            "across from",
+            "bank",
+            "local",
+            "The",
+            "the"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U39_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Our neighborhood has a lively atmosphere and clean streets.\nThe low crime rate makes it an ideal place for families.\nThe only major downside is midnight noise pollution from the downtown freeway link.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Our neighborhood has a lively atmosphere and clean streets. The low crime rate makes it an ideal place for families. The only major downside is midnight noise pollution from the downtown freeway link.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used to describe an environmental disadvantage or a distinct property flaw.",
+          "englishWord": "Choose the term used to describe an environmental disadvantage or a distinct property flaw.",
+          "category": "Question answer",
+          "correct": "downside",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "downside"
+            },
+            {
+              "id": "option-2",
+              "text": "benefit"
+            },
+            {
+              "id": "option-3",
+              "text": "low crime rate"
+            },
+            {
+              "id": "option-4",
+              "text": "clean streets"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Property prices increase because our district maintains a highly stable ______.",
+          "englishWord": "Property prices increase because our district maintains a highly stable ______.",
+          "category": "Complete the sentence",
+          "correct": "low crime rate",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "noise pollution"
+            },
+            {
+              "id": "option-2",
+              "text": "low crime rate"
+            },
+            {
+              "id": "option-3",
+              "text": "downside"
+            },
+            {
+              "id": "option-4",
+              "text": "lively atmosphere"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the survey appraisal, 'noise pollution' represents an asset that helps citizens enjoy an extremely quiet, restful environment.",
+          "englishWord": "According to the survey appraisal, 'noise pollution' represents an asset that helps citizens enjoy an extremely quiet, restful environment.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The local outdoor night market has a wonderfully ______ atmosphere.",
+          "englishWord": "The local outdoor night market has a wonderfully ______ atmosphere.",
+          "category": "Fill in the blank",
+          "correct": "lively",
+          "options": []
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Local volunteers help keep our streets clean",
+          "category": "Arrange the words",
+          "correct": "Local volunteers help keep our streets clean",
+          "words": [
+            "volunteers",
+            "keep",
+            "our",
+            "streets",
+            "clean",
+            "Local",
+            "help"
+          ],
+          "translateWords": [
+            "volunteers",
+            "keep",
+            "our",
+            "streets",
+            "clean",
+            "Local",
+            "help"
+          ]
+        }
+      ]
+    }
+  ]

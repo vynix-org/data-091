@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_U30_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I love testing every new digital gadget.\nI frequently use wireless headphones to block background noise.\nI track my fitness loops on a smart watch and carry a power bank for my phone.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I love testing every new digital gadget. I frequently use wireless headphones to block background noise. I track my fitness loops on a smart watch and carry a power bank for my phone.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term that refers to an external storage unit used to supply electrical energy to mobile devices.",
+          "englishWord": "Choose the term that refers to an external storage unit used to supply electrical energy to mobile devices.",
+          "category": "Question answer",
+          "correct": "power bank",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "smart watch"
+            },
+            {
+              "id": "option-2",
+              "text": "power bank"
+            },
+            {
+              "id": "option-3",
+              "text": "portable speaker"
+            },
+            {
+              "id": "option-4",
+              "text": "headphones"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "He bought a pair of premium ______ to listen to digital music.",
+          "englishWord": "He bought a pair of premium ______ to listen to digital music.",
+          "category": "Complete the sentence",
+          "correct": "wireless headphones",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "power banks"
+            },
+            {
+              "id": "option-2",
+              "text": "smart watches"
+            },
+            {
+              "id": "option-3",
+              "text": "wireless headphones"
+            },
+            {
+              "id": "option-4",
+              "text": "speakers"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The narrator records that he utilizes a premium power bank asset to calculate his physical steps.",
+          "englishWord": "The narrator records that he utilizes a premium power bank asset to calculate his physical steps.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My new ______ watch displays text notifications instantly.",
+          "englishWord": "My new ______ watch displays text notifications instantly.",
+          "category": "Fill in the blank",
+          "correct": "smart",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "smart"
+            },
+            {
+              "id": "option-2",
+              "text": "wireless"
+            },
+            {
+              "id": "option-3",
+              "text": "digital"
+            },
+            {
+              "id": "option-4",
+              "text": "portable"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "gadget",
+          "category": "Arrange the words",
+          "correct": "gadget",
+          "words": [
+            "t",
+            "e",
+            "d",
+            "g",
+            "a",
+            "g"
+          ],
+          "translateWords": [
+            "t",
+            "e",
+            "d",
+            "g",
+            "a",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U30_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "A smart watch is a gadget which links to your mobile phone.\nA power bank is an asset which stores energy.\nContent creators are specialists who design devices that allow you to work remotely.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "A smart watch is a gadget which links to your mobile phone. A power bank is an asset which stores energy. Content creators are specialists who design devices that allow you to work remotely.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct relative pronoun used exclusively for objects and technical gadgets.",
+          "englishWord": "Select the correct relative pronoun used exclusively for objects and technical gadgets.",
+          "category": "Question answer",
+          "correct": "which",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "who"
+            },
+            {
+              "id": "option-2",
+              "text": "which"
+            },
+            {
+              "id": "option-3",
+              "text": "whom"
+            },
+            {
+              "id": "option-4",
+              "text": "whose"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Engineers are innovators ______ build advanced portable speakers.",
+          "englishWord": "Engineers are innovators ______ build advanced portable speakers.",
+          "category": "Complete the sentence",
+          "correct": "who",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "which"
+            },
+            {
+              "id": "option-2",
+              "text": "who"
+            },
+            {
+              "id": "option-3",
+              "text": "that allows"
+            },
+            {
+              "id": "option-4",
+              "text": "whose"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The relative pronoun 'who' is the standard semantic choice to link an inanimate machine code asset to its mechanical function.",
+          "englishWord": "The relative pronoun 'who' is the standard semantic choice to link an inanimate machine code asset to its mechanical function.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "This is the system software ______ tracks network database errors.",
+          "englishWord": "This is the system software ______ tracks network database errors.",
+          "category": "Fill in the blank",
+          "correct": "which",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "which"
+            },
+            {
+              "id": "option-2",
+              "text": "who"
+            },
+            {
+              "id": "option-3",
+              "text": "whose"
+            },
+            {
+              "id": "option-4",
+              "text": "whom"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "This is a gadget which records data",
+          "category": "Arrange the words",
+          "correct": "This is a gadget which records data",
+          "words": [
+            "gadget",
+            "is",
+            "a",
+            "which",
+            "records",
+            "This",
+            "data"
+          ],
+          "translateWords": [
+            "gadget",
+            "is",
+            "a",
+            "which",
+            "records",
+            "This",
+            "data"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U30_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My smart watch screen started to freeze this morning.\nThe signal connection is weak, and it displays a low battery warning.\nI need to charge the device or restart the system software.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My smart watch screen started to freeze this morning. The signal connection is weak, and it displays a low battery warning. I need to charge the device or restart the system software.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the verb representing an electronic screen state where animations completely halt and become unresponsive.",
+          "englishWord": "Identify the verb representing an electronic screen state where animations completely halt and become unresponsive.",
+          "category": "Question answer",
+          "correct": "freeze",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "restart"
+            },
+            {
+              "id": "option-2",
+              "text": "charge"
+            },
+            {
+              "id": "option-3",
+              "text": "freeze"
+            },
+            {
+              "id": "option-4",
+              "text": "connect"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If your network link fails, you should ______ immediately.",
+          "englishWord": "If your network link fails, you should ______ immediately.",
+          "category": "Complete the sentence",
+          "correct": "restart the system",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "freeze the screen"
+            },
+            {
+              "id": "option-2",
+              "text": "restart the system"
+            },
+            {
+              "id": "option-3",
+              "text": "empty the battery"
+            },
+            {
+              "id": "option-4",
+              "text": "complain"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The troubleshooting log states that a low battery warning indicates a surplus of store electrical energy.",
+          "englishWord": "The troubleshooting log states that a low battery warning indicates a surplus of store electrical energy.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Plug in the cable to ______ your phone up to one hundred percent.",
+          "englishWord": "Plug in the cable to ______ your phone up to one hundred percent.",
+          "category": "Fill in the blank",
+          "correct": "charge",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "charge"
+            },
+            {
+              "id": "option-2",
+              "text": "restart"
+            },
+            {
+              "id": "option-3",
+              "text": "freeze"
+            },
+            {
+              "id": "option-4",
+              "text": "connect"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The local signal connection is weak",
+          "category": "Arrange the words",
+          "correct": "The local signal connection is weak",
+          "words": [
+            "weak",
+            "connection",
+            "signal",
+            "is",
+            "local",
+            "The"
+          ],
+          "translateWords": [
+            "weak",
+            "connection",
+            "signal",
+            "is",
+            "local",
+            "The"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_U32_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: During my entry-level internship, I handled data files.\nYesterday morning, I was working at my cubicle when the phone rang. It interrupted me while I was writing a report.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: During my entry-level internship, I handled data files. Yesterday morning, I was working at my cubicle when the phone rang. It interrupted me while I was writing a report.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the ongoing past progressive verb form tracking the background scene state.",
+          "englishWord": "Choose the ongoing past progressive verb form tracking the background scene state.",
+          "category": "Question answer",
+          "correct": "was working",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "worked"
+            },
+            {
+              "id": "option-2",
+              "text": "am working"
+            },
+            {
+              "id": "option-3",
+              "text": "was working"
+            },
+            {
+              "id": "option-4",
+              "text": "works"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I was talking to an important colleague ______ my computing monitor suddenly froze.",
+          "englishWord": "I was talking to an important colleague ______ my computing monitor suddenly froze.",
+          "category": "Complete the sentence",
+          "correct": "when",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "while"
+            },
+            {
+              "id": "option-2",
+              "text": "during"
+            },
+            {
+              "id": "option-3",
+              "text": "since"
+            },
+            {
+              "id": "option-4",
+              "text": "when"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The review text establishes that the worker was completely free from any phone interruptions all morning.",
+          "englishWord": "The review text establishes that the worker was completely free from any phone interruptions all morning.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She applied for an unpaid summer ______ at a software firm.",
+          "englishWord": "She applied for an unpaid summer ______ at a software firm.",
+          "category": "Fill in the blank",
+          "correct": "internship",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "internship"
+            },
+            {
+              "id": "option-2",
+              "text": "position"
+            },
+            {
+              "id": "option-3",
+              "text": "meeting"
+            },
+            {
+              "id": "option-4",
+              "text": "contract"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "My colleagues were typing reports fast",
+          "category": "Arrange the words",
+          "correct": "My colleagues were typing reports fast",
+          "words": [
+            "reports",
+            "typing",
+            "colleagues",
+            "My",
+            "were",
+            "fast"
+          ],
+          "translateWords": [
+            "reports",
+            "typing",
+            "colleagues",
+            "My",
+            "were",
+            "fast"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U32_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: A smart watch is a gadget which links to your phone.\nIf the internal screen starts to freeze, you must restart the system. Always carry a power bank for safety.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: A smart watch is a gadget which links to your phone. If the internal screen starts to freeze, you must restart the system. Always carry a power bank for safety.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the specific relative pronoun structure used to connect an automated tool asset to its feature description.",
+          "englishWord": "Pick the specific relative pronoun structure used to connect an automated tool asset to its feature description.",
+          "category": "Question answer",
+          "correct": "which",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "who"
+            },
+            {
+              "id": "option-2",
+              "text": "whom"
+            },
+            {
+              "id": "option-3",
+              "text": "which"
+            },
+            {
+              "id": "option-4",
+              "text": "whose"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If the data signal drops to zero, you should ______.",
+          "englishWord": "If the data signal drops to zero, you should ______.",
+          "category": "Complete the sentence",
+          "correct": "restart the system",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "freeze the screen"
+            },
+            {
+              "id": "option-2",
+              "text": "restart the system"
+            },
+            {
+              "id": "option-3",
+              "text": "empty the battery"
+            },
+            {
+              "id": "option-4",
+              "text": "download attachments"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The device capability log notes that a power bank is used exclusively to lower a smartphone's battery life.",
+          "englishWord": "The device capability log notes that a power bank is used exclusively to lower a smartphone's battery life.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "If you run too many large applications, the interface will ______.",
+          "englishWord": "If you run too many large applications, the interface will ______.",
+          "category": "Fill in the blank",
+          "correct": "freeze",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "freeze"
+            },
+            {
+              "id": "option-2",
+              "text": "restart"
+            },
+            {
+              "id": "option-3",
+              "text": "connect"
+            },
+            {
+              "id": "option-4",
+              "text": "charge"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "A power bank stores electrical energy",
+          "category": "Arrange the words",
+          "correct": "A power bank stores electrical energy",
+          "words": [
+            "bank",
+            "stores",
+            "power",
+            "electrical",
+            "energy",
+            "A"
+          ],
+          "translateWords": [
+            "bank",
+            "stores",
+            "power",
+            "electrical",
+            "energy",
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U32_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: As soon as you log in, open the system folder.\nDelete old files, but back up your data before saving changes. Never download an attachment if there is a virus warning.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: As soon as you log in, open the system folder. Delete old files, but back up your data before saving changes. Never download an attachment if there is a virus warning.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the structural interface data container unit targeted for grouping specific document rows.",
+          "englishWord": "Identify the structural interface data container unit targeted for grouping specific document rows.",
+          "category": "Question answer",
+          "correct": "folder",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "desktop"
+            },
+            {
+              "id": "option-2",
+              "text": "file"
+            },
+            {
+              "id": "option-3",
+              "text": "folder"
+            },
+            {
+              "id": "option-4",
+              "text": "script"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "______ your manager enters the department hub, stand up and present the file.",
+          "englishWord": "______ your manager enters the department hub, stand up and present the file.",
+          "category": "Complete the sentence",
+          "correct": "As soon as",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Before"
+            },
+            {
+              "id": "option-2",
+              "text": "Until"
+            },
+            {
+              "id": "option-3",
+              "text": "As soon as"
+            },
+            {
+              "id": "option-4",
+              "text": "While"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The operational control brief states that a user must download unknown attachments during active virus alerts.",
+          "englishWord": "The operational control brief states that a user must download unknown attachments during active virus alerts.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Always ______ your database files to an external secure cloud server.",
+          "englishWord": "Always ______ your database files to an external secure cloud server.",
+          "category": "Fill in the blank",
+          "correct": "back up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "back up"
+            },
+            {
+              "id": "option-2",
+              "text": "delete"
+            },
+            {
+              "id": "option-3",
+              "text": "freeze"
+            },
+            {
+              "id": "option-4",
+              "text": "download"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Please delete old files inside the directory",
+          "category": "Arrange the words",
+          "correct": "Please delete old files inside the directory",
+          "words": [
+            "old",
+            "directory",
+            "inside",
+            "files",
+            "delete",
+            "Please",
+            "the"
+          ],
+          "translateWords": [
+            "old",
+            "directory",
+            "inside",
+            "files",
+            "delete",
+            "Please",
+            "the"
+          ]
+        }
+      ]
+    }
+  ]

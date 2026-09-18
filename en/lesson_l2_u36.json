@@ -1,0 +1,384 @@
+[
+    {
+      "lesson_id": "L2_U36_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: Type a subject line before sending an email.\nCould you please forward the attachment?\nThis is an urgent request, so confirm receipt immediately instead of waiting.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: Type a subject line before sending an email. Could you please forward the attachment? This is an urgent request, so confirm receipt immediately instead of waiting.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the modal request structure that politely addresses a co-worker.",
+          "englishWord": "Choose the modal request structure that politely addresses a co-worker.",
+          "category": "Question answer",
+          "correct": "Could you please",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Why don't we"
+            },
+            {
+              "id": "option-2",
+              "text": "Could you please"
+            },
+            {
+              "id": "option-3",
+              "text": "I would like to"
+            },
+            {
+              "id": "option-4",
+              "text": "Forward"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "As soon as you log in, please ______ of the file.",
+          "englishWord": "As soon as you log in, please ______ of the file.",
+          "category": "Complete the sentence",
+          "correct": "confirm receipt",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "reply to all"
+            },
+            {
+              "id": "option-2",
+              "text": "subject line"
+            },
+            {
+              "id": "option-3",
+              "text": "confirm receipt"
+            },
+            {
+              "id": "option-4",
+              "text": "out of office"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The administrative text notes that 'Could you please' must be followed directly by a past irregular verb.",
+          "englishWord": "The administrative text notes that 'Could you please' must be followed directly by a past irregular verb.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Do not forget to type a clear ______ line to state the email's topic.",
+          "englishWord": "Do not forget to type a clear ______ line to state the email's topic.",
+          "category": "Fill in the blank",
+          "correct": "subject",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "subject"
+            },
+            {
+              "id": "option-2",
+              "text": "attachment"
+            },
+            {
+              "id": "option-3",
+              "text": "receipt"
+            },
+            {
+              "id": "option-4",
+              "text": "request"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Let's reply to all on this thread",
+          "category": "Arrange the words",
+          "correct": "Let's reply to all on this thread",
+          "words": [
+            "thread",
+            "to",
+            "all",
+            "reply",
+            "on",
+            "this",
+            "Let's"
+          ],
+          "translateWords": [
+            "thread",
+            "to",
+            "all",
+            "reply",
+            "on",
+            "this",
+            "Let's"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U36_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: We visited a nature reserve inside the tropical rainforest.\nThe wildlife is healthy because the forest is protected.\nCarbon emissions are rising, so climate change is acceleration.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: We visited a nature reserve inside the tropical rainforest. The wildlife is healthy because the forest is protected. Carbon emissions are rising, so climate change is acceleration.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the causal conjunction used to introduce a full structural reason explanation clause.",
+          "englishWord": "Pick the causal conjunction used to introduce a full structural reason explanation clause.",
+          "category": "Question answer",
+          "correct": "because",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "so"
+            },
+            {
+              "id": "option-2",
+              "text": "because of"
+            },
+            {
+              "id": "option-3",
+              "text": "because"
+            },
+            {
+              "id": "option-4",
+              "text": "due to"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Scientists track global temperatures to measure the speed of ______.",
+          "englishWord": "Scientists track global temperatures to measure the speed of ______.",
+          "category": "Complete the sentence",
+          "correct": "climate change",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nature reserve"
+            },
+            {
+              "id": "option-2",
+              "text": "plastic waste"
+            },
+            {
+              "id": "option-3",
+              "text": "climate change"
+            },
+            {
+              "id": "option-4",
+              "text": "spectacular scenery"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The ecological review log notes that 'so' is deployed exclusively to introduce the primary reason behind an event.",
+          "englishWord": "The ecological review log notes that 'so' is deployed exclusively to introduce the primary reason behind an event.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Poaching is strictly banned inside the state ______.",
+          "englishWord": "Poaching is strictly banned inside the state ______.",
+          "category": "Fill in the blank",
+          "correct": "nature reserve",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "nature reserve"
+            },
+            {
+              "id": "option-2",
+              "text": "tropical rainforest"
+            },
+            {
+              "id": "option-3",
+              "text": "plastic waste"
+            },
+            {
+              "id": "option-4",
+              "text": "climate change"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We must recycle to reduce plastic waste",
+          "category": "Arrange the words",
+          "correct": "We must recycle to reduce plastic waste",
+          "words": [
+            "must",
+            "recycle",
+            "reduce",
+            "plastic",
+            "we",
+            "to",
+            "waste"
+          ],
+          "translateWords": [
+            "must",
+            "recycle",
+            "reduce",
+            "plastic",
+            "we",
+            "to",
+            "waste"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U36_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: Our stone cottage sits in a remote area.\nThe countryside is much quieter than the city and less crowded than downtown.\nWalking past the wheat field is peaceful.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: Our stone cottage sits in a remote area. The countryside is much quieter than the city and less crowded than downtown. Walking past the wheat field is peaceful.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the specific farm structure crop block zone highlighted in the review text.",
+          "englishWord": "Identify the specific farm structure crop block zone highlighted in the review text.",
+          "category": "Question answer",
+          "correct": "wheat field",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cottage"
+            },
+            {
+              "id": "option-2",
+              "text": "farmhouse"
+            },
+            {
+              "id": "option-3",
+              "text": "wheat field"
+            },
+            {
+              "id": "option-4",
+              "text": "reserve"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The village path is ______ the urban road lane.",
+          "englishWord": "The village path is ______ the urban road lane.",
+          "category": "Complete the sentence",
+          "correct": "much quieter than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "much quieter than"
+            },
+            {
+              "id": "option-2",
+              "text": "quieter much"
+            },
+            {
+              "id": "option-3",
+              "text": "more quiet"
+            },
+            {
+              "id": "option-4",
+              "text": "quietest"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The rural dimension review log establishes that a remote area offers higher traffic density than downtown centers.",
+          "englishWord": "The rural dimension review log establishes that a remote area offers higher traffic density than downtown centers.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They spent their winter vacation inside a small wooden ______.",
+          "englishWord": "They spent their winter vacation inside a small wooden ______.",
+          "category": "Fill in the blank",
+          "correct": "cottage",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cottage"
+            },
+            {
+              "id": "option-2",
+              "text": "farmhouse"
+            },
+            {
+              "id": "option-3",
+              "text": "countryside"
+            },
+            {
+              "id": "option-4",
+              "text": "field"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The village market is less crowded than the city",
+          "category": "Arrange the words",
+          "correct": "The village market is less crowded than the city",
+          "words": [
+            "city",
+            "less",
+            "market",
+            "crowded",
+            "is",
+            "village",
+            "The",
+            "than",
+            "the"
+          ],
+          "translateWords": [
+            "city",
+            "less",
+            "market",
+            "crowded",
+            "is",
+            "village",
+            "The",
+            "than",
+            "the"
+          ]
+        }
+      ]
+    }
+  ]

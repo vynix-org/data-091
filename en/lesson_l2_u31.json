@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_U31_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Log in to your computer.\nLook at the desktop background.\nOpen the corporate folder, create a file for the report, and apply strong password protection. Delete old junk files.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Log in to your computer. Look at the desktop background. Open the corporate folder, create a file for the report, and apply strong password protection. Delete old junk files.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term representing a digital directory container used to group and organize data files neatly.",
+          "englishWord": "Choose the term representing a digital directory container used to group and organize data files neatly.",
+          "category": "Question answer",
+          "correct": "folder",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "desktop"
+            },
+            {
+              "id": "option-2",
+              "text": "file"
+            },
+            {
+              "id": "option-3",
+              "text": "folder"
+            },
+            {
+              "id": "option-4",
+              "text": "password"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "To clear empty space on your hard drive, you must ______ old video tracks.",
+          "englishWord": "To clear empty space on your hard drive, you must ______ old video tracks.",
+          "category": "Complete the sentence",
+          "correct": "delete",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "create"
+            },
+            {
+              "id": "option-2",
+              "text": "open"
+            },
+            {
+              "id": "option-3",
+              "text": "delete"
+            },
+            {
+              "id": "option-4",
+              "text": "protect"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that password protection is utilized to make confidential files open to any internet stranger.",
+          "englishWord": "The text notes that password protection is utilized to make confidential files open to any internet stranger.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Right-click on the interface grid to ______ a new file.",
+          "englishWord": "Right-click on the interface grid to ______ a new file.",
+          "category": "Fill in the blank",
+          "correct": "create",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "create"
+            },
+            {
+              "id": "option-2",
+              "text": "open"
+            },
+            {
+              "id": "option-3",
+              "text": "delete"
+            },
+            {
+              "id": "option-4",
+              "text": "protect"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "desktop",
+          "category": "Arrange the words",
+          "correct": "desktop",
+          "words": [
+            "p",
+            "o",
+            "t",
+            "k",
+            "s",
+            "e",
+            "d"
+          ],
+          "translateWords": [
+            "p",
+            "o",
+            "t",
+            "k",
+            "s",
+            "e",
+            "d"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U31_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "As soon as you log in, open your email.\nAlways back up your critical database before saving the new file.\nWait patiently until it finishes the background verification loop.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "As soon as you log in, open your email. Always back up your critical database before saving the new file. Wait patiently until it finishes the background verification loop.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the logical conjunction phrase meaning 'at the exact immediate moment that an event occurs'.",
+          "englishWord": "Select the logical conjunction phrase meaning 'at the exact immediate moment that an event occurs'.",
+          "category": "Question answer",
+          "correct": "as soon as",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "before"
+            },
+            {
+              "id": "option-2",
+              "text": "until"
+            },
+            {
+              "id": "option-3",
+              "text": "while"
+            },
+            {
+              "id": "option-4",
+              "text": "as soon as"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "To avoid losing work due to a crash, you should ______ your data.",
+          "englishWord": "To avoid losing work due to a crash, you should ______ your data.",
+          "category": "Complete the sentence",
+          "correct": "back up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "delete"
+            },
+            {
+              "id": "option-2",
+              "text": "back up"
+            },
+            {
+              "id": "option-3",
+              "text": "log in"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The sequence instructions direct the operator to delete the master database before completing a backup routine.",
+          "englishWord": "The sequence instructions direct the operator to delete the master database before completing a backup routine.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Do not touch the mouse tracker ______ the installation layout reaches one hundred percent.",
+          "englishWord": "Do not touch the mouse tracker ______ the installation layout reaches one hundred percent.",
+          "category": "Fill in the blank",
+          "correct": "until",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "before"
+            },
+            {
+              "id": "option-2",
+              "text": "while"
+            },
+            {
+              "id": "option-3",
+              "text": "until"
+            },
+            {
+              "id": "option-4",
+              "text": "after"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Before saving the file, check the password",
+          "category": "Arrange the words",
+          "correct": "Before saving the file, check the password",
+          "words": [
+            "password",
+            "check",
+            "the",
+            "saving",
+            "Before",
+            "file",
+            ","
+          ],
+          "translateWords": [
+            "password",
+            "check",
+            "the",
+            "saving",
+            "Before",
+            "file",
+            ","
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U31_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "If you receive an unknown email, do not download the attachment.\nA security warning indicates a possible virus danger.\nRun antivirus protocols and update software regularly.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "If you receive an unknown email, do not download the attachment. A security warning indicates a possible virus danger. Run antivirus protocols and update software regularly.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the network asset noun representing a data document appended to a transmission email message.",
+          "englishWord": "Choose the network asset noun representing a data document appended to a transmission email message.",
+          "category": "Question answer",
+          "correct": "attachment",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "security warning"
+            },
+            {
+              "id": "option-2",
+              "text": "attachment"
+            },
+            {
+              "id": "option-3",
+              "text": "virus"
+            },
+            {
+              "id": "option-4",
+              "text": "desktop"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you plug in an old external storage drive, you must ______ immediately.",
+          "englishWord": "If you plug in an old external storage drive, you must ______ immediately.",
+          "category": "Complete the sentence",
+          "correct": "run antivirus",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "download attachment"
+            },
+            {
+              "id": "option-2",
+              "text": "run antivirus"
+            },
+            {
+              "id": "option-3",
+              "text": "delete folder"
+            },
+            {
+              "id": "option-4",
+              "text": "log out"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the safety instructions, a security warning means that the network link is entirely safe and certified.",
+          "englishWord": "According to the safety instructions, a security warning means that the network link is entirely safe and certified.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The corrupt system script was destroyed by a destructive digital ______.",
+          "englishWord": "The corrupt system script was destroyed by a destructive digital ______.",
+          "category": "Fill in the blank",
+          "correct": "virus",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "virus"
+            },
+            {
+              "id": "option-2",
+              "text": "attachment"
+            },
+            {
+              "id": "option-3",
+              "text": "password"
+            },
+            {
+              "id": "option-4",
+              "text": "desktop"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Update your system software regularly",
+          "category": "Arrange the words",
+          "correct": "Update your system software regularly",
+          "words": [
+            "software",
+            "system",
+            "update",
+            "regularly",
+            "Your"
+          ],
+          "translateWords": [
+            "software",
+            "system",
+            "update",
+            "regularly",
+            "Your"
+          ]
+        }
+      ]
+    }
+  ]

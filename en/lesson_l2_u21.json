@@ -1,0 +1,370 @@
+[
+    {
+      "lesson_id": "L2_U21_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "To maintain a healthy lifestyle, you must stay active by walking daily.\nIt is also vital to eat a balanced diet full of fresh vegetables, stay hydrated with clean water, and get enough sleep every single night.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "To maintain a healthy lifestyle, you must stay active by walking daily. It is also vital to eat a balanced diet full of fresh vegetables, stay hydrated with clean water, and get enough sleep every single night.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase meaning 'to consume an appropriate variety of nutritious foods'.",
+          "englishWord": "Choose the phrase meaning 'to consume an appropriate variety of nutritious foods'.",
+          "category": "Question answer",
+          "correct": "balanced diet",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "stay active"
+            },
+            {
+              "id": "option-2",
+              "text": "balanced diet"
+            },
+            {
+              "id": "option-3",
+              "text": "stay hydrated"
+            },
+            {
+              "id": "option-4",
+              "text": "get enough sleep"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Drink eight glasses of water daily to __.",
+          "englishWord": "Drink eight glasses of water daily to __.",
+          "category": "Complete the sentence",
+          "correct": "stay hydrated",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "stay hydrated"
+            },
+            {
+              "id": "option-2",
+              "text": "get enough sleep"
+            },
+            {
+              "id": "option-3",
+              "text": "stay active"
+            },
+            {
+              "id": "option-4",
+              "text": "lifestyle"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text claims that a healthy individual avoids walking and sleeps only two hours per week.",
+          "englishWord": "The text claims that a healthy individual avoids walking and sleeps only two hours per week.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Smoking is bad for your life.",
+          "englishWord": "Smoking is bad for your life.",
+          "category": "Fill in the blank",
+          "correct": "style",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "style"
+            },
+            {
+              "id": "option-2",
+              "text": "health"
+            },
+            {
+              "id": "option-3",
+              "text": "habit"
+            },
+            {
+              "id": "option-4",
+              "text": "sleep"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We need to stay active",
+          "category": "Arrange the words",
+          "correct": "We need to stay active",
+          "words": [
+            "active",
+            "need",
+            "stay",
+            "to",
+            "We"
+          ],
+          "translateWords": [
+            "active",
+            "need",
+            "stay",
+            "to",
+            "We"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U21_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I regularly exercise in the morning because it gives me energy.\nI frequently drink water, but I rarely eat fast food.\nIf you consistently follow these steps, your fitness will improve.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I regularly exercise in the morning because it gives me energy. I frequently drink water, but I rarely eat fast food. If you consistently follow these steps, your fitness will improve.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the adverb indicating that an event happens almost never or very infrequently.",
+          "englishWord": "Select the adverb indicating that an event happens almost never or very infrequently.",
+          "category": "Question answer",
+          "correct": "rarely",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "regularly"
+            },
+            {
+              "id": "option-2",
+              "text": "frequently"
+            },
+            {
+              "id": "option-3",
+              "text": "rarely"
+            },
+            {
+              "id": "option-4",
+              "text": "consistently"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She brushes her teeth ______ three times every single day.",
+          "englishWord": "She brushes her teeth ______ three times every single day.",
+          "category": "Complete the sentence",
+          "correct": "regularly",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "rarely"
+            },
+            {
+              "id": "option-2",
+              "text": "regularly"
+            },
+            {
+              "id": "option-3",
+              "text": "consistently"
+            },
+            {
+              "id": "option-4",
+              "text": "never"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The adverb 'frequently' indicates that an activity happens fewer times than 'rarely'.",
+          "englishWord": "The adverb 'frequently' indicates that an activity happens fewer times than 'rarely'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Train ______ every week to build powerful leg muscles.",
+          "englishWord": "Train ______ every week to build powerful leg muscles.",
+          "category": "Fill in the blank",
+          "correct": "consistently",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "consistently"
+            },
+            {
+              "id": "option-2",
+              "text": "rarely"
+            },
+            {
+              "id": "option-3",
+              "text": "never"
+            },
+            {
+              "id": "option-4",
+              "text": "frequently"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Our manager frequently eats fruits",
+          "category": "Arrange the words",
+          "correct": "Our manager frequently eats fruits",
+          "words": [
+            "frequently",
+            "eats",
+            "fruits",
+            "manager",
+            "Our"
+          ],
+          "translateWords": [
+            "frequently",
+            "eats",
+            "fruits",
+            "manager",
+            "Our"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U21_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "It is highly beneficial to sleep early.\nYou should cut down on sugar and keep up the habit of running.\nMaking a smart choice today protects your long-term health.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "It is highly beneficial to sleep early. You should cut down on sugar and keep up the habit of running. Making a smart choice today protects your long-term health.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the phrasal verb that means 'to reduce the consumption amount of an item'.",
+          "englishWord": "Identify the phrasal verb that means 'to reduce the consumption amount of an item'.",
+          "category": "Question answer",
+          "correct": "cut down on",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "keep up"
+            },
+            {
+              "id": "option-2",
+              "text": "cut down on"
+            },
+            {
+              "id": "option-3",
+              "text": "beneficial"
+            },
+            {
+              "id": "option-4",
+              "text": "choice"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Your exercise schedule is excellent; ______ the good work!",
+          "englishWord": "Your exercise schedule is excellent; ______ the good work!",
+          "category": "Complete the sentence",
+          "correct": "keep up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cut down"
+            },
+            {
+              "id": "option-2",
+              "text": "keep up"
+            },
+            {
+              "id": "option-3",
+              "text": "beneficial"
+            },
+            {
+              "id": "option-4",
+              "text": "choice"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that consuming massive amounts of white sugar is highly beneficial for the human body.",
+          "englishWord": "The text notes that consuming massive amounts of white sugar is highly beneficial for the human body.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Biting your nails is a nervous ______.",
+          "englishWord": "Biting your nails is a nervous ______.",
+          "category": "Fill in the blank",
+          "correct": "habit",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "habit"
+            },
+            {
+              "id": "option-2",
+              "text": "choice"
+            },
+            {
+              "id": "option-3",
+              "text": "benefit"
+            },
+            {
+              "id": "option-4",
+              "text": "health"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The patient made a healthy choice",
+          "category": "Arrange the words",
+          "correct": "The patient made a healthy choice",
+          "words": [
+            "made",
+            "choice",
+            "a",
+            "patient",
+            "The",
+            "healthy"
+          ],
+          "translateWords": [
+            "made",
+            "choice",
+            "a",
+            "patient",
+            "The",
+            "healthy"
+          ]
+        }
+      ]
+    }
+  ]

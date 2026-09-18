@@ -1,0 +1,342 @@
+[
+    {
+      "lesson_id": "L2_U28_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: I went for a medical check-up.\nThe doctor decided to examine my throat.\nShe said: 'If you take this dose, you will feel better. However, unless you rest in bed, you will not recover.' She issued a medical certificate.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: I went for a medical check-up. The doctor decided to examine my throat. She said: 'If you take this dose, you will feel better. However, unless you rest in bed, you will not recover.' She issued a medical certificate.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the clinical verb meaning 'to inspect a patient's body for medical reasons'.",
+          "englishWord": "Choose the clinical verb meaning 'to inspect a patient's body for medical reasons'.",
+          "category": "Question answer",
+          "correct": "examine",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "diagnose"
+            },
+            {
+              "id": "option-2",
+              "text": "examine"
+            },
+            {
+              "id": "option-3",
+              "text": "recover"
+            },
+            {
+              "id": "option-4",
+              "text": "follow"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If she takes the medicine, she ______ much better tomorrow.",
+          "englishWord": "If she takes the medicine, she ______ much better tomorrow.",
+          "category": "Complete the sentence",
+          "correct": "will feel",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "would feel"
+            },
+            {
+              "id": "option-2",
+              "text": "feeling"
+            },
+            {
+              "id": "option-3",
+              "text": "will feel"
+            },
+            {
+              "id": "option-4",
+              "text": "felt"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that unless a patient rests in bed, they are guaranteed to recover fully from an infection.",
+          "englishWord": "The text notes that unless a patient rests in bed, they are guaranteed to recover fully from an infection.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The doctor signed a medical ______ for my manager.",
+          "englishWord": "The doctor signed a medical ______ for my manager.",
+          "category": "Fill in the blank",
+          "correct": "certificate",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "certificate"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Unless you rest you will not recover",
+          "category": "Arrange the words",
+          "correct": "Unless you rest you will not recover",
+          "words": [
+            "you",
+            "recover",
+            "will",
+            "not",
+            "rest",
+            "Unless",
+            "you"
+          ],
+          "translateWords": [
+            "you",
+            "recover",
+            "will",
+            "not",
+            "rest",
+            "Unless",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U28_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: Eating a home-cooked meal is a highly nutritious habit.\nBuying fast food takeaway daily turns out to be far more expensive over time.\nCooking at home is much better and helps you save money.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: Eating a home-cooked meal is a highly nutritious habit. Buying fast food takeaway daily turns out to be far more expensive over time. Cooking at home is much better and helps you save money.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the noun phrase representing fresh dishes made at a residential space.",
+          "englishWord": "Pick the noun phrase representing fresh dishes made at a residential space.",
+          "category": "Question answer",
+          "correct": "home-cooked meal",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "processed food"
+            },
+            {
+              "id": "option-2",
+              "text": "home-cooked meal"
+            },
+            {
+              "id": "option-3",
+              "text": "takeaway"
+            },
+            {
+              "id": "option-4",
+              "text": "convenient choice"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Eating out at fancy restaurants is ______ than cooking.",
+          "englishWord": "Eating out at fancy restaurants is ______ than cooking.",
+          "category": "Complete the sentence",
+          "correct": "far more expensive",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "far more expensive"
+            },
+            {
+              "id": "option-2",
+              "text": "much expensive"
+            },
+            {
+              "id": "option-3",
+              "text": "expensiver"
+            },
+            {
+              "id": "option-4",
+              "text": "far expensive"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text claims that processed takeaway food packs more nutritious value than local organic home cooking.",
+          "englishWord": "The text claims that processed takeaway food packs more nutritious value than local organic home cooking.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "If you prepare simple dishes at home, you will ______ money.",
+          "englishWord": "If you prepare simple dishes at home, you will ______ money.",
+          "category": "Fill in the blank",
+          "correct": "save",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "save"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Much juice is healthier than soda",
+          "category": "Arrange the words",
+          "correct": "Much juice is healthier than soda",
+          "words": [
+            "healthier",
+            "is",
+            "juice",
+            "than",
+            "soda",
+            "Much"
+          ],
+          "translateWords": [
+            "healthier",
+            "is",
+            "juice",
+            "than",
+            "soda",
+            "Much"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U28_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: Spending time online can be a major distraction.\nI frequently scroll through social feeds and post a comment.\nTo reduce my screen time, I plan a regular digital detox to stay healthy.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: Spending time online can be a major distraction. I frequently scroll through social feeds and post a comment. To reduce my screen time, I plan a regular digital detox to stay healthy.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the social channel action verb phrase meaning 'to view text feeds by shifting display blocks'.",
+          "englishWord": "Choose the social channel action verb phrase meaning 'to view text feeds by shifting display blocks'.",
+          "category": "Question answer",
+          "correct": "scroll through",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "post a comment"
+            },
+            {
+              "id": "option-2",
+              "text": "check out"
+            },
+            {
+              "id": "option-3",
+              "text": "scroll through"
+            },
+            {
+              "id": "option-4",
+              "text": "download"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Too much ______ damages your visual sleep cycles.",
+          "englishWord": "Too much ______ damages your visual sleep cycles.",
+          "category": "Complete the sentence",
+          "correct": "screen time",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "digital detox"
+            },
+            {
+              "id": "option-2",
+              "text": "distraction"
+            },
+            {
+              "id": "option-3",
+              "text": "screen time"
+            },
+            {
+              "id": "option-4",
+              "text": "notifications"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that launching a digital detox plan involves increasing phone usage by forty hours.",
+          "englishWord": "The text notes that launching a digital detox plan involves increasing phone usage by forty hours.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "______ time online can trigger deep stress.",
+          "englishWord": "______ time online can trigger deep stress.",
+          "category": "Fill in the blank",
+          "correct": "Spending",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Spending"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Let's post a comment below the thread",
+          "category": "Arrange the words",
+          "correct": "Let's post a comment below the thread",
+          "words": [
+            "comment",
+            "post",
+            "a",
+            "below",
+            "the",
+            "thread",
+            "Let's"
+          ],
+          "translateWords": [
+            "comment",
+            "post",
+            "a",
+            "below",
+            "the",
+            "thread",
+            "Let's"
+          ]
+        }
+      ]
+    }
+  ]

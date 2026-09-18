@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L2_U38_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Tomorrow is a major public holiday across the nation.\nThe central streets are closed for a colorful military parade.\nFamilies gather downtown to watch the midnight firework display and celebrate together.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Tomorrow is a major public holiday across the nation. The central streets are closed for a colorful military parade. Families gather downtown to watch the midnight firework display and celebrate together.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the noun phrase denoting a legal holiday context where government offices and public banks close down.",
+          "englishWord": "Choose the noun phrase denoting a legal holiday context where government offices and public banks close down.",
+          "category": "Question answer",
+          "correct": "bank holiday",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "parade"
+            },
+            {
+              "id": "option-2",
+              "text": "firework display"
+            },
+            {
+              "id": "option-3",
+              "text": "bank holiday"
+            },
+            {
+              "id": "option-4",
+              "text": "anniversary"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Crowds stood near the river bank to record the brilliant ______.",
+          "englishWord": "Crowds stood near the river bank to record the brilliant ______.",
+          "category": "Complete the sentence",
+          "correct": "firework display",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "public holiday"
+            },
+            {
+              "id": "option-2",
+              "text": "bank holiday"
+            },
+            {
+              "id": "option-3",
+              "text": "firework display"
+            },
+            {
+              "id": "option-4",
+              "text": "parade"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The holiday text states that national streets are packed with high-speed heavy car traffic during the parade performance.",
+          "englishWord": "The holiday text states that national streets are packed with high-speed heavy car traffic during the parade performance.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We bake a giant cake to ______ my grandfather's eighty-fifth birthday.",
+          "englishWord": "We bake a giant cake to ______ my grandfather's eighty-fifth birthday.",
+          "category": "Fill in the blank",
+          "correct": "celebrate",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "celebrate"
+            },
+            {
+              "id": "option-2",
+              "text": "remember"
+            },
+            {
+              "id": "option-3",
+              "text": "prepare"
+            },
+            {
+              "id": "option-4",
+              "text": "decorate"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "parade",
+          "category": "Arrange the words",
+          "correct": "parade",
+          "words": [
+            "e",
+            "d",
+            "a",
+            "r",
+            "a",
+            "p"
+          ],
+          "translateWords": [
+            "e",
+            "d",
+            "a",
+            "r",
+            "a",
+            "p"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U38_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My uncle has lived in New York since 2018. He has not visited our family for three years.\nHowever, he is flying back today because he wants to celebrate this public holiday with us.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My uncle has lived in New York since 2018. He has not visited our family for three years. However, he is flying back today because he wants to celebrate this public holiday with us.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct time preposition paired with a specific historic start point year.",
+          "englishWord": "Select the correct time preposition paired with a specific historic start point year.",
+          "category": "Question answer",
+          "correct": "since",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "for"
+            },
+            {
+              "id": "option-2",
+              "text": "since"
+            },
+            {
+              "id": "option-3",
+              "text": "during"
+            },
+            {
+              "id": "option-4",
+              "text": "ago"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The historical museum has been closed ______ two whole weeks.",
+          "englishWord": "The historical museum has been closed ______ two whole weeks.",
+          "category": "Complete the sentence",
+          "correct": "for",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "since"
+            },
+            {
+              "id": "option-2",
+              "text": "for"
+            },
+            {
+              "id": "option-3",
+              "text": "in"
+            },
+            {
+              "id": "option-4",
+              "text": "ago"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The preposition 'since' is utilized to mark an accumulated total length of a time block like 'since five hours'.",
+          "englishWord": "The preposition 'since' is utilized to mark an accumulated total length of a time block like 'since five hours'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We ______ checked our holiday itinerary yet.",
+          "englishWord": "We ______ checked our holiday itinerary yet.",
+          "category": "Fill in the blank",
+          "correct": "have not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "have not"
+            },
+            {
+              "id": "option-2",
+              "text": "has not"
+            },
+            {
+              "id": "option-3",
+              "text": "did not"
+            },
+            {
+              "id": "option-4",
+              "text": "are not"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I have known him for ten years",
+          "category": "Arrange the words",
+          "correct": "I have known him for ten years",
+          "words": [
+            "known",
+            "him",
+            "for",
+            "years",
+            "ten",
+            "I",
+            "have"
+          ],
+          "translateWords": [
+            "known",
+            "him",
+            "for",
+            "years",
+            "ten",
+            "I",
+            "have"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U38_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "During the spring annual festival, hotels are completely fully booked because it is peak season.\nCheck the temporary park closure alerts and modified bank opening hours before traveling.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "During the spring annual festival, hotels are completely fully booked because it is peak season. Check the temporary park closure alerts and modified bank opening hours before traveling.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the hospitality phrase indicating that zero empty accommodation bedrooms remain available for rent.",
+          "englishWord": "Identify the hospitality phrase indicating that zero empty accommodation bedrooms remain available for rent.",
+          "category": "Question answer",
+          "correct": "fully booked",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "peak season"
+            },
+            {
+              "id": "option-2",
+              "text": "fully booked"
+            },
+            {
+              "id": "option-3",
+              "text": "closure"
+            },
+            {
+              "id": "option-4",
+              "text": "annual festival"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Airplane ticket rates double because summer is the absolute ______.",
+          "englishWord": "Airplane ticket rates double because summer is the absolute ______.",
+          "category": "Complete the sentence",
+          "correct": "peak season",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "peak season"
+            },
+            {
+              "id": "option-2",
+              "text": "closure"
+            },
+            {
+              "id": "option-3",
+              "text": "opening hours"
+            },
+            {
+              "id": "option-4",
+              "text": "bank holiday"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The scheduling brief notes that banks maintain their regular standard opening hours all through the holiday without variation.",
+          "englishWord": "The scheduling brief notes that banks maintain their regular standard opening hours all through the holiday without variation.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The road ______ due to the heavy blizzard block forced us to change plans.",
+          "englishWord": "The road ______ due to the heavy blizzard block forced us to change plans.",
+          "category": "Fill in the blank",
+          "correct": "closure",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "closure"
+            },
+            {
+              "id": "option-2",
+              "text": "opening"
+            },
+            {
+              "id": "option-3",
+              "text": "season"
+            },
+            {
+              "id": "option-4",
+              "text": "festival"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We attended the local annual festival",
+          "category": "Arrange the words",
+          "correct": "We attended the local annual festival",
+          "words": [
+            "attended",
+            "annual",
+            "local",
+            "festival",
+            "We",
+            "the",
+            "traditional"
+          ],
+          "translateWords": [
+            "attended",
+            "annual",
+            "local",
+            "festival",
+            "We",
+            "the",
+            "traditional"
+          ]
+        }
+      ]
+    }
+  ]

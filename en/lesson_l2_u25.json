@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L2_U25_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I went to the clinic for a medical check-up.\nThe doctor decided to examine my swollen throat carefully.\nShe analyzed every symptom to diagnose the infection and wrote a prescription.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I went to the clinic for a medical check-up. The doctor decided to examine my swollen throat carefully. She analyzed every symptom to diagnose the infection and wrote a prescription.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb meaning 'to inspect or look at a patient's body closely for medical reasons'.",
+          "englishWord": "Choose the verb meaning 'to inspect or look at a patient's body closely for medical reasons'.",
+          "category": "Question answer",
+          "correct": "examine",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "diagnose"
+            },
+            {
+              "id": "option-2",
+              "text": "examine"
+            },
+            {
+              "id": "option-3",
+              "text": "prescription"
+            },
+            {
+              "id": "option-4",
+              "text": "check-up"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The expert doctor used a blood test to ______ the rare condition.",
+          "englishWord": "The expert doctor used a blood test to ______ the rare condition.",
+          "category": "Complete the sentence",
+          "correct": "diagnose",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "symptom"
+            },
+            {
+              "id": "option-2",
+              "text": "examine"
+            },
+            {
+              "id": "option-3",
+              "text": "prescription"
+            },
+            {
+              "id": "option-4",
+              "text": "diagnose"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that a grocery clerk writes an official medical prescription for serious throat infections.",
+          "englishWord": "The text notes that a grocery clerk writes an official medical prescription for serious throat infections.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "A high body temperature is a common ______ of the seasonal flu.",
+          "englishWord": "A high body temperature is a common ______ of the seasonal flu.",
+          "category": "Fill in the blank",
+          "correct": "symptom",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "symptom"
+            },
+            {
+              "id": "option-2",
+              "text": "diagnose"
+            },
+            {
+              "id": "option-3",
+              "text": "prescription"
+            },
+            {
+              "id": "option-4",
+              "text": "examine"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I need an annual medical check-up",
+          "category": "Arrange the words",
+          "correct": "I need an annual medical check-up",
+          "words": [
+            "annual",
+            "medical check-up",
+            "need",
+            "I",
+            "an"
+          ],
+          "translateWords": [
+            "annual",
+            "medical check-up",
+            "need",
+            "I",
+            "an"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U25_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "If you take this dose of medicine regularly, you will feel much better soon.\nHowever, unless you rest in bed all weekend, your body will not recover from the severe infection.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "If you take this dose of medicine regularly, you will feel much better soon. However, unless you rest in bed all weekend, your body will not recover from the severe infection.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct First Conditional outcome structure matching an active condition.",
+          "englishWord": "Select the correct First Conditional outcome structure matching an active condition.",
+          "category": "Question answer",
+          "correct": "will feel",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "would feel"
+            },
+            {
+              "id": "option-2",
+              "text": "will feel"
+            },
+            {
+              "id": "option-3",
+              "text": "felt"
+            },
+            {
+              "id": "option-4",
+              "text": "feeling"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "______ you stop drinking ice water, your sore throat will get worse.",
+          "englishWord": "______ you stop drinking ice water, your sore throat will get worse.",
+          "category": "Complete the sentence",
+          "correct": "Unless",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "If"
+            },
+            {
+              "id": "option-2",
+              "text": "Unless"
+            },
+            {
+              "id": "option-3",
+              "text": "Because"
+            },
+            {
+              "id": "option-4",
+              "text": "Due to"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The clause immediately following the word 'if' or 'unless' must include the future auxiliary modal 'will'.",
+          "englishWord": "The clause immediately following the word 'if' or 'unless' must include the future auxiliary modal 'will'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "If she stays up late again tonight, she ______ be very tired tomorrow morning.",
+          "englishWord": "If she stays up late again tonight, she ______ be very tired tomorrow morning.",
+          "category": "Fill in the blank",
+          "correct": "will",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "will"
+            },
+            {
+              "id": "option-2",
+              "text": "would"
+            },
+            {
+              "id": "option-3",
+              "text": "is"
+            },
+            {
+              "id": "option-4",
+              "text": "was"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Unless you rest in bed you will not recover",
+          "category": "Arrange the words",
+          "correct": "Unless you rest in bed you will not recover",
+          "words": [
+            "not",
+            "recover",
+            "will",
+            "you",
+            "bed",
+            "in",
+            "rest",
+            "Unless",
+            "you"
+          ],
+          "translateWords": [
+            "not",
+            "recover",
+            "will",
+            "you",
+            "bed",
+            "in",
+            "rest",
+            "Unless",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U25_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "You need to take three days off from work to recover fully.\nI will issue a medical certificate for your office manager.\nPlease follow my advice and avoid hard physical exercise.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "You need to take three days off from work to recover fully. I will issue a medical certificate for your office manager. Please follow my advice and avoid hard physical exercise.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the formal document name used to prove an individual's illness to an employer.",
+          "englishWord": "Identify the formal document name used to prove an individual's illness to an employer.",
+          "category": "Question answer",
+          "correct": "medical certificate",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "prescription"
+            },
+            {
+              "id": "option-2",
+              "text": "medical certificate"
+            },
+            {
+              "id": "option-3",
+              "text": "checklist"
+            },
+            {
+              "id": "option-4",
+              "text": "itinerary"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "To protect your health, you must ______ from the doctor.",
+          "englishWord": "To protect your health, you must ______ from the doctor.",
+          "category": "Complete the sentence",
+          "correct": "follow advice",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "follow advice"
+            },
+            {
+              "id": "option-2",
+              "text": "take days off"
+            },
+            {
+              "id": "option-3",
+              "text": "avoid"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The dialogue indicates that working long hours under heavy pressure helps a sick patient recover fully.",
+          "englishWord": "The dialogue indicates that working long hours under heavy pressure helps a sick patient recover fully.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "He is too sick to stand up; he needs to ______ a few days off.",
+          "englishWord": "He is too sick to stand up; he needs to ______ a few days off.",
+          "category": "Fill in the blank",
+          "correct": "take",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "take"
+            },
+            {
+              "id": "option-2",
+              "text": "make"
+            },
+            {
+              "id": "option-3",
+              "text": "give"
+            },
+            {
+              "id": "option-4",
+              "text": "avoid"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Avoid eating spicy food tonight",
+          "category": "Arrange the words",
+          "correct": "Avoid eating spicy food tonight",
+          "words": [
+            "food",
+            "avoid",
+            "spicy",
+            "eating",
+            "night",
+            "tonight"
+          ],
+          "translateWords": [
+            "food",
+            "avoid",
+            "spicy",
+            "eating",
+            "night",
+            "tonight"
+          ]
+        }
+      ]
+    }
+  ]

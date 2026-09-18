@@ -1,0 +1,386 @@
+[
+    {
+      "lesson_id": "L2_U15_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I arrived at the hotel at 2 PM to check in. \nI walked to the reception desk and stated my reservation name. \nThe agent handed me my room key for a quiet double room.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I arrived at the hotel at 2 PM to check in. I walked to the reception desk and stated my reservation name. The agent handed me my room key for a quiet double room.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb phrase meaning 'to complete the administrative arrival process at a lodging venue'.",
+          "englishWord": "Choose the verb phrase meaning 'to complete the administrative arrival process at a lodging venue'.",
+          "category": "Question answer",
+          "correct": "check in",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "check in"
+            },
+            {
+              "id": "option-2",
+              "text": "single room"
+            },
+            {
+              "id": "option-3",
+              "text": "book a flight"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel plans"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you have an issue with your television, talk to the agent at the ______.",
+          "englishWord": "If you have an issue with your television, talk to the agent at the ______.",
+          "category": "Complete the sentence",
+          "correct": "reception desk",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "double room"
+            },
+            {
+              "id": "option-2",
+              "text": "reception desk"
+            },
+            {
+              "id": "option-3",
+              "text": "airport gate"
+            },
+            {
+              "id": "option-4",
+              "text": "park"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The lodging log indicates that the customer received a physical boarding pass from the agent counter.",
+          "englishWord": "The lodging log indicates that the customer received a physical boarding pass from the agent counter.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Do not lose your metal room ______ during your trip.",
+          "englishWord": "Do not lose your metal room ______ during your trip.",
+          "category": "Fill in the blank",
+          "correct": "key",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "key"
+            },
+            {
+              "id": "option-2",
+              "text": "card"
+            },
+            {
+              "id": "option-3",
+              "text": "ticket"
+            },
+            {
+              "id": "option-4",
+              "text": "pass"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "double room",
+          "category": "Arrange the words",
+          "correct": "double room",
+          "words": [
+            "m",
+            "o",
+            "r",
+            "o",
+            "o",
+            "b",
+            "l",
+            "e",
+            "d",
+            "u"
+          ],
+          "translateWords": [
+            "m",
+            "o",
+            "r",
+            "o",
+            "o",
+            "b",
+            "l",
+            "e",
+            "d",
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U15_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Could I have an extra towel for my double room, please? \nAlso, would you mind bringing some hot water? \nIs breakfast included in the total price?",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Could I have an extra towel for my double room, please? Also, would you mind bringing some hot water? Is breakfast included in the total price?",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct request formula that must be paired directly with a gerund (-ing verb).",
+          "englishWord": "Select the correct request formula that must be paired directly with a gerund (-ing verb).",
+          "category": "Question answer",
+          "correct": "Would you mind",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Could I have"
+            },
+            {
+              "id": "option-2",
+              "text": "Would you mind"
+            },
+            {
+              "id": "option-3",
+              "text": "Can I"
+            },
+            {
+              "id": "option-4",
+              "text": "Why don't we"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "______ some fresh apples sent up to my room, please?",
+          "englishWord": "______ some fresh apples sent up to my room, please?",
+          "category": "Complete the sentence",
+          "correct": "Could I have",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Would you mind"
+            },
+            {
+              "id": "option-2",
+              "text": "Could I have"
+            },
+            {
+              "id": "option-3",
+              "text": "Why don't"
+            },
+            {
+              "id": "option-4",
+              "text": "What is"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Would you mind' is followed immediately by a simple base verb format string like 'bring'.",
+          "englishWord": "'Would you mind' is followed immediately by a simple base verb format string like 'bring'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Is the wireless internet connection service included ______ the bill?",
+          "englishWord": "Is the wireless internet connection service included ______ the bill?",
+          "category": "Fill in the blank",
+          "correct": "in",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "in"
+            },
+            {
+              "id": "option-2",
+              "text": "on"
+            },
+            {
+              "id": "option-3",
+              "text": "at"
+            },
+            {
+              "id": "option-4",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Could I have an extra towel?",
+          "category": "Arrange the words",
+          "correct": "Could I have an extra towel?",
+          "words": [
+            "extra",
+            "towel",
+            "an",
+            "have",
+            "I",
+            "Could",
+            "?"
+          ],
+          "translateWords": [
+            "extra",
+            "towel",
+            "an",
+            "have",
+            "I",
+            "Could",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U15_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I need to check out tomorrow at 11 AM. \nThe hotel facilities are excellent, and the room service was fast. \nHowever, I must complain because the air conditioning was broken and cold.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I need to check out tomorrow at 11 AM. The hotel facilities are excellent, and the room service was fast. However, I must complain because the air conditioning was broken and cold.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used to describe general infrastructure features like pools, gyms, or lounges.",
+          "englishWord": "Choose the term used to describe general infrastructure features like pools, gyms, or lounges.",
+          "category": "Question answer",
+          "correct": "facilities",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "room service"
+            },
+            {
+              "id": "option-2",
+              "text": "facilities"
+            },
+            {
+              "id": "option-3",
+              "text": "air conditioning"
+            },
+            {
+              "id": "option-4",
+              "text": "single room"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you want to eat breakfast inside your bedroom, call ______.",
+          "englishWord": "If you want to eat breakfast inside your bedroom, call ______.",
+          "category": "Complete the sentence",
+          "correct": "room service",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "reception desk"
+            },
+            {
+              "id": "option-2",
+              "text": "room service"
+            },
+            {
+              "id": "option-3",
+              "text": "check out"
+            },
+            {
+              "id": "option-4",
+              "text": "air conditioning"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the text, the visitor is highly satisfied with the bedroom's temperature management system.",
+          "englishWord": "According to the text, the visitor is highly satisfied with the bedroom's temperature management system.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The soup is freezing cold. I want to ______ to the head chef.",
+          "englishWord": "The soup is freezing cold. I want to ______ to the head chef.",
+          "category": "Fill in the blank",
+          "correct": "complain",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "complain"
+            },
+            {
+              "id": "option-2",
+              "text": "praise"
+            },
+            {
+              "id": "option-3",
+              "text": "request"
+            },
+            {
+              "id": "option-4",
+              "text": "invite"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I need to check out this morning",
+          "category": "Arrange the words",
+          "correct": "I need to check out this morning",
+          "words": [
+            "need",
+            "out",
+            "to",
+            "check",
+            "I",
+            "morning",
+            "this"
+          ],
+          "translateWords": [
+            "need",
+            "out",
+            "to",
+            "check",
+            "I",
+            "morning",
+            "this"
+          ]
+        }
+      ]
+    }
+  ]

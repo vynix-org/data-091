@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L2_U01_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I grew up in a small town. \nWhen I was ten, I used to play football after school with my neighbors. \nI also collected comic books, and I still remember those happy days vividly.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I grew up in a small town. When I was ten, I used to play football after school with my neighbors. I also collected comic books, and I still remember those happy days vividly.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb meaning 'spent childhood time in a place'.",
+          "englishWord": "Choose the verb meaning 'spent childhood time in a place'.",
+          "category": "Question answer",
+          "correct": "grew up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "played"
+            },
+            {
+              "id": "option-2",
+              "text": "grew up"
+            },
+            {
+              "id": "option-3",
+              "text": "remembered"
+            },
+            {
+              "id": "option-4",
+              "text": "collected"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "We ______ to swim in the river every summer.",
+          "englishWord": "We ______ to swim in the river every summer.",
+          "category": "Complete the sentence",
+          "correct": "used",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "are using"
+            },
+            {
+              "id": "option-2",
+              "text": "use"
+            },
+            {
+              "id": "option-3",
+              "text": "used"
+            },
+            {
+              "id": "option-4",
+              "text": "uses"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The narrator collected stamps when he was a child.",
+          "englishWord": "The narrator collected stamps when he was a child.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I still ______ those happy days vividly.",
+          "englishWord": "I still ______ those happy days vividly.",
+          "category": "Fill in the blank",
+          "correct": "remember",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "remember"
+            },
+            {
+              "id": "option-2",
+              "text": "remembered"
+            },
+            {
+              "id": "option-3",
+              "text": "collect"
+            },
+            {
+              "id": "option-4",
+              "text": "play"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I collected comic books in my childhood",
+          "category": "Arrange the words",
+          "correct": "I collected comic books in my childhood",
+          "words": [
+            "comic",
+            "books",
+            "I",
+            "collected",
+            "childhood",
+            "in",
+            "my"
+          ],
+          "translateWords": [
+            "comic",
+            "books",
+            "I",
+            "collected",
+            "childhood",
+            "in",
+            "my"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U01_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Where did you live when you were seven? \nI lived in Hanoi. \nWe did not have smartphones back then, so we went outside to play every afternoon. \nMy father bought me a bicycle.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Where did you live when you were seven? I lived in Hanoi. We did not have smartphones back then, so we went outside to play every afternoon. My father bought me a bicycle.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct negative Past Simple form.",
+          "englishWord": "Select the correct negative Past Simple form.",
+          "category": "Question answer",
+          "correct": "did not have",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "not had"
+            },
+            {
+              "id": "option-2",
+              "text": "didn't had"
+            },
+            {
+              "id": "option-3",
+              "text": "did not have"
+            },
+            {
+              "id": "option-4",
+              "text": "don't have"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Where ______ you go yesterday?",
+          "englishWord": "Where ______ you go yesterday?",
+          "category": "Complete the sentence",
+          "correct": "did",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "do"
+            },
+            {
+              "id": "option-2",
+              "text": "did"
+            },
+            {
+              "id": "option-3",
+              "text": "were"
+            },
+            {
+              "id": "option-4",
+              "text": "was"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The speaker had a smartphone when he was seven years old.",
+          "englishWord": "The speaker had a smartphone when he was seven years old.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My father ______ me a special gift last week.",
+          "englishWord": "My father ______ me a special gift last week.",
+          "category": "Fill in the blank",
+          "correct": "bought",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "bought"
+            },
+            {
+              "id": "option-2",
+              "text": "buy"
+            },
+            {
+              "id": "option-3",
+              "text": "buys"
+            },
+            {
+              "id": "option-4",
+              "text": "buying"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We did not go outside",
+          "category": "Arrange the words",
+          "correct": "We did not go outside",
+          "words": [
+            "outside",
+            "go",
+            "We",
+            "did",
+            "not"
+          ],
+          "translateWords": [
+            "outside",
+            "go",
+            "We",
+            "did",
+            "not"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U01_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "When I was young, I loved my old bicycle although it was broken. \nI loved it because it was a gift. \nFirst, I rode it around the yard, and after that, I took it to the park.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "When I was young, I loved my old bicycle although it was broken. I loved it because it was a gift. First, I rode it around the yard, and after that, I took it to the park.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the contrast linker used in the text.",
+          "englishWord": "Identify the contrast linker used in the text.",
+          "category": "Question answer",
+          "correct": "although",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "although"
+            },
+            {
+              "id": "option-3",
+              "text": "first"
+            },
+            {
+              "id": "option-4",
+              "text": "when"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I smiled ______ I found my old childhood toys.",
+          "englishWord": "I smiled ______ I found my old childhood toys.",
+          "category": "Complete the sentence",
+          "correct": "because",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "because"
+            },
+            {
+              "id": "option-2",
+              "text": "although"
+            },
+            {
+              "id": "option-3",
+              "text": "but"
+            },
+            {
+              "id": "option-4",
+              "text": "so"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The narrator hated his old bicycle because it was broken.",
+          "englishWord": "The narrator hated his old bicycle because it was broken.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "______, I brushed my teeth, and after that, I went to bed.",
+          "englishWord": "______, I brushed my teeth, and after that, I went to bed.",
+          "category": "Fill in the blank",
+          "correct": "First",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "First"
+            },
+            {
+              "id": "option-2",
+              "text": "Because"
+            },
+            {
+              "id": "option-3",
+              "text": "Although"
+            },
+            {
+              "id": "option-4",
+              "text": "Finally"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "When I was young I danced",
+          "category": "Arrange the words",
+          "correct": "When I was young I danced",
+          "words": [
+            "was",
+            "young",
+            "When",
+            "I",
+            "danced",
+            "I"
+          ],
+          "translateWords": [
+            "was",
+            "young",
+            "When",
+            "I",
+            "danced",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]

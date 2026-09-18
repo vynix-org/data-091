@@ -1,0 +1,384 @@
+[
+    {
+      "lesson_id": "L2_U17_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Greetings from sunny Spain! \nI am having a wonderful time with my family here. \nThe weather is hot, and the coastal views are spectacular. \nI bought this postcard yesterday. \nWish you were here!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Greetings from sunny Spain! I am having a wonderful time with my family here. The weather is hot, and the coastal views are spectacular. I bought this postcard yesterday. Wish you were here!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase used to send initial warm regards from a travel destination.",
+          "englishWord": "Choose the phrase used to send initial warm regards from a travel destination.",
+          "category": "Question answer",
+          "correct": "Greetings from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Wish you were here"
+            },
+            {
+              "id": "option-2",
+              "text": "Greetings from"
+            },
+            {
+              "id": "option-3",
+              "text": "Having a wonderful time"
+            },
+            {
+              "id": "option-4",
+              "text": "Change plans"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The beach is beautiful and I ______.",
+          "englishWord": "The beach is beautiful and I ______.",
+          "category": "Complete the sentence",
+          "correct": "wish you were here",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "look forward"
+            },
+            {
+              "id": "option-2",
+              "text": "greetings"
+            },
+            {
+              "id": "option-3",
+              "text": "wish you were here"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that the narrator is experiencing a terrible and rainy holiday.",
+          "englishWord": "The text indicates that the narrator is experiencing a terrible and rainy holiday.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She wrote a short message on the back of the ______.",
+          "englishWord": "She wrote a short message on the back of the ______.",
+          "category": "Fill in the blank",
+          "correct": "postcard",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "postcard"
+            },
+            {
+              "id": "option-2",
+              "text": "letter"
+            },
+            {
+              "id": "option-3",
+              "text": "notebook"
+            },
+            {
+              "id": "option-4",
+              "text": "envelope"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "spectacular",
+          "category": "Arrange the words",
+          "correct": "spectacular",
+          "words": [
+            "r",
+            "a",
+            "c",
+            "u",
+            "l",
+            "t",
+            "c",
+            "a",
+            "p",
+            "e",
+            "s"
+          ],
+          "translateWords": [
+            "r",
+            "a",
+            "c",
+            "u",
+            "l",
+            "t",
+            "c",
+            "a",
+            "p",
+            "e",
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U17_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Right now, I am sitting by the pool at our hotel. \nMy sister is swimming in the clear water, and my parents are eating fresh fruit. \nWe are enjoying every single minute of this trip.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Right now, I am sitting by the pool at our hotel. My sister is swimming in the clear water, and my parents are eating fresh fruit. We are enjoying every single minute of this trip.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct Present Continuous form for multiple parent entities.",
+          "englishWord": "Select the correct Present Continuous form for multiple parent entities.",
+          "category": "Question answer",
+          "correct": "are eating",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "is eating"
+            },
+            {
+              "id": "option-2",
+              "text": "are eating"
+            },
+            {
+              "id": "option-3",
+              "text": "eats"
+            },
+            {
+              "id": "option-4",
+              "text": "was eating"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I am ______ at our coastal resort.",
+          "englishWord": "I am ______ at our coastal resort.",
+          "category": "Complete the sentence",
+          "correct": "sitting",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sit"
+            },
+            {
+              "id": "option-2",
+              "text": "sitting"
+            },
+            {
+              "id": "option-3",
+              "text": "sat"
+            },
+            {
+              "id": "option-4",
+              "text": "sits"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "Present Continuous is used here to describe completed historical actions from ten years ago.",
+          "englishWord": "Present Continuous is used here to describe completed historical actions from ten years ago.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Look! The children are ______ in the hotel pool right now.",
+          "englishWord": "Look! The children are ______ in the hotel pool right now.",
+          "category": "Fill in the blank",
+          "correct": "swimming",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "swimming"
+            },
+            {
+              "id": "option-2",
+              "text": "swim"
+            },
+            {
+              "id": "option-3",
+              "text": "swam"
+            },
+            {
+              "id": "option-4",
+              "text": "swims"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We are lying on the beach",
+          "category": "Arrange the words",
+          "correct": "We are lying on the beach",
+          "words": [
+            "beach",
+            "lying",
+            "on",
+            "We",
+            "are",
+            "the"
+          ],
+          "translateWords": [
+            "beach",
+            "lying",
+            "on",
+            "We",
+            "are",
+            "the"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U17_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "So far, our holiday has been amazing. \nWe are currently trying the delicious local cuisine. \nTomorrow, we are heading to the ancient mountains. \nI am having fun, but I am missing home a little.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "So far, our holiday has been amazing. We are currently trying the delicious local cuisine. Tomorrow, we are heading to the ancient mountains. I am having fun, but I am missing home a little.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the time phrase meaning 'up to the present moment'.",
+          "englishWord": "Identify the time phrase meaning 'up to the present moment'.",
+          "category": "Question answer",
+          "correct": "so far",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "currently"
+            },
+            {
+              "id": "option-2",
+              "text": "so far"
+            },
+            {
+              "id": "option-3",
+              "text": "tomorrow"
+            },
+            {
+              "id": "option-4",
+              "text": "at first"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Pack your bags because we are ______ the airport now.",
+          "englishWord": "Pack your bags because we are ______ the airport now.",
+          "category": "Complete the sentence",
+          "correct": "heading to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "missing home"
+            },
+            {
+              "id": "option-2",
+              "text": "heading to"
+            },
+            {
+              "id": "option-3",
+              "text": "so far"
+            },
+            {
+              "id": "option-4",
+              "text": "currently"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the narrator hates the local food and wants to cancel the trip.",
+          "englishWord": "The text notes that the narrator hates the local food and wants to cancel the trip.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Food lovers travel to Italy to taste the traditional ______.",
+          "englishWord": "Food lovers travel to Italy to taste the traditional ______.",
+          "category": "Fill in the blank",
+          "correct": "cuisine",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cuisine"
+            },
+            {
+              "id": "option-2",
+              "text": "mountains"
+            },
+            {
+              "id": "option-3",
+              "text": "weather"
+            },
+            {
+              "id": "option-4",
+              "text": "holiday"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The student is currently learning English",
+          "category": "Arrange the words",
+          "correct": "The student is currently learning English",
+          "words": [
+            "learning",
+            "currently",
+            "English",
+            "student",
+            "The",
+            "is"
+          ],
+          "translateWords": [
+            "learning",
+            "currently",
+            "English",
+            "student",
+            "The",
+            "is"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,382 @@
+[
+    {
+      "lesson_id": "L2_U07_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I am preparing my holiday itinerary. \nFirst, I need to book a flight online. \nAfter that, I will check the hotel accommodation. \nI look forward to this trip.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I am preparing my holiday itinerary. First, I need to book a flight online. After that, I will check the hotel accommodation. I look forward to this trip.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term meaning 'a detailed plan or route for a journey'.",
+          "englishWord": "Choose the term meaning 'a detailed plan or route for a journey'.",
+          "category": "Question answer",
+          "correct": "itinerary",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "schedule"
+            },
+            {
+              "id": "option-2",
+              "text": "itinerary"
+            },
+            {
+              "id": "option-3",
+              "text": "accommodation"
+            },
+            {
+              "id": "option-4",
+              "text": "flight"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I look forward ______ seeing you.",
+          "englishWord": "I look forward ______ seeing you.",
+          "category": "Complete the sentence",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "at"
+            },
+            {
+              "id": "option-3",
+              "text": "for"
+            },
+            {
+              "id": "option-4",
+              "text": "inside"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The word 'accommodation' refers to the transit plane ticket asset.",
+          "englishWord": "The word 'accommodation' refers to the transit plane ticket asset.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "You should ______ a flight early to get cheap prices.",
+          "englishWord": "You should ______ a flight early to get cheap prices.",
+          "category": "Fill in the blank",
+          "correct": "book",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "book"
+            },
+            {
+              "id": "option-2",
+              "text": "cancel"
+            },
+            {
+              "id": "option-3",
+              "text": "check"
+            },
+            {
+              "id": "option-4",
+              "text": "plan"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "schedule",
+          "category": "Arrange the words",
+          "correct": "schedule",
+          "words": [
+            "e",
+            "l",
+            "u",
+            "d",
+            "e",
+            "h",
+            "c",
+            "s"
+          ],
+          "translateWords": [
+            "e",
+            "l",
+            "u",
+            "d",
+            "e",
+            "h",
+            "c",
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U07_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Next week, I am meeting my manager at ten o'clock on Monday. \nAfter that, I am going to buy a new laptop. \nI am also planning to move to a bigger office soon.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Next week, I am meeting my manager at ten o'clock on Monday. After that, I am going to buy a new laptop. I am also planning to move to a bigger office soon.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the present continuous arrangement indicator matching a fixed calendar slot.",
+          "englishWord": "Select the present continuous arrangement indicator matching a fixed calendar slot.",
+          "category": "Question answer",
+          "correct": "am meeting",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "am meeting"
+            },
+            {
+              "id": "option-2",
+              "text": "meet"
+            },
+            {
+              "id": "option-3",
+              "text": "was meeting"
+            },
+            {
+              "id": "option-4",
+              "text": "met"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "They are ______ to visit London.",
+          "englishWord": "They are ______ to visit London.",
+          "category": "Complete the sentence",
+          "correct": "going",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "go"
+            },
+            {
+              "id": "option-2",
+              "text": "going"
+            },
+            {
+              "id": "option-3",
+              "text": "went"
+            },
+            {
+              "id": "option-4",
+              "text": "goes"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "We use 'be going to' exclusively for sudden actions decided at the exact moment of speech.",
+          "englishWord": "We use 'be going to' exclusively for sudden actions decided at the exact moment of speech.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I plan ______ study coding tonight.",
+          "englishWord": "I plan ______ study coding tonight.",
+          "category": "Fill in the blank",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "for"
+            },
+            {
+              "id": "option-3",
+              "text": "at"
+            },
+            {
+              "id": "option-4",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I am going to buy a car",
+          "category": "Arrange the words",
+          "correct": "I am going to buy a car",
+          "words": [
+            "going to",
+            "buy",
+            "a",
+            "car",
+            "I",
+            "am"
+          ],
+          "translateWords": [
+            "going to",
+            "buy",
+            "a",
+            "car",
+            "I",
+            "am"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U07_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We want to have a picnic. \nIf it rains, we will alter our destination. \nWhat if the museum is closed? \nOur backup plan is to watch a movie at the cinema.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We want to have a picnic. If it rains, we will alter our destination. What if the museum is closed? Our backup plan is to watch a movie at the cinema.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase used to introduce a potential problem or question.",
+          "englishWord": "Choose the phrase used to introduce a potential problem or question.",
+          "category": "Question answer",
+          "correct": "what if",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "alternative"
+            },
+            {
+              "id": "option-2",
+              "text": "backup plan"
+            },
+            {
+              "id": "option-3",
+              "text": "what if"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Always prepare a ______ plan in case of bad weather.",
+          "englishWord": "Always prepare a ______ plan in case of bad weather.",
+          "category": "Complete the sentence",
+          "correct": "backup",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "backup"
+            },
+            {
+              "id": "option-2",
+              "text": "cancel"
+            },
+            {
+              "id": "option-3",
+              "text": "alternative"
+            },
+            {
+              "id": "option-4",
+              "text": "open"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the text, the team will cancel everything instantly if minor rain drops appear.",
+          "englishWord": "According to the text, the team will cancel everything instantly if minor rain drops appear.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We need an ______ route because the main road is blocked.",
+          "englishWord": "We need an ______ route because the main road is blocked.",
+          "category": "Fill in the blank",
+          "correct": "alternative",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "alternative"
+            },
+            {
+              "id": "option-2",
+              "text": "backup"
+            },
+            {
+              "id": "option-3",
+              "text": "cancel"
+            },
+            {
+              "id": "option-4",
+              "text": "open"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "If it rains, we will stay home",
+          "category": "Arrange the words",
+          "correct": "If it rains, we will stay home",
+          "words": [
+            "rains",
+            "stay",
+            "home",
+            "it",
+            "If",
+            ",",
+            "we",
+            "will"
+          ],
+          "translateWords": [
+            "rains",
+            "stay",
+            "home",
+            "it",
+            "If",
+            ",",
+            "we",
+            "will"
+          ]
+        }
+      ]
+    }
+  ]

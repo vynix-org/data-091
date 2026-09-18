@@ -1,0 +1,376 @@
+[
+    {
+      "lesson_id": "L2_U04_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: I grew up on the outskirts of a historic city. \nAlthough I did not have a bicycle, I used to walk to school with David. \nWe collected rare coins because we liked old things.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: I grew up on the outskirts of a historic city. Although I did not have a bicycle, I used to walk to school with David. We collected rare coins because we liked old things.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the past verb that marks the physical upbringing area.",
+          "englishWord": "Choose the past verb that marks the physical upbringing area.",
+          "category": "Question answer",
+          "correct": "grew up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "collected"
+            },
+            {
+              "id": "option-2",
+              "text": "walked"
+            },
+            {
+              "id": "option-3",
+              "text": "grew up"
+            },
+            {
+              "id": "option-4",
+              "text": "liked"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I did not ______ a modern computer back then.",
+          "englishWord": "I did not ______ a modern computer back then.",
+          "category": "Complete the sentence",
+          "correct": "have",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "had"
+            },
+            {
+              "id": "option-2",
+              "text": "have"
+            },
+            {
+              "id": "option-3",
+              "text": "having"
+            },
+            {
+              "id": "option-4",
+              "text": "has"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text records that David and the narrator rode a bicycle to school together.",
+          "englishWord": "The text records that David and the narrator rode a bicycle to school together.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "______ I was tired, I finished my homework.",
+          "englishWord": "______ I was tired, I finished my homework.",
+          "category": "Fill in the blank",
+          "correct": "Although",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Although"
+            },
+            {
+              "id": "option-2",
+              "text": "Because"
+            },
+            {
+              "id": "option-3",
+              "text": "And"
+            },
+            {
+              "id": "option-4",
+              "text": "So"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We used to read comic books",
+          "category": "Arrange the words",
+          "correct": "We used to read comic books",
+          "words": [
+            "comic",
+            "We",
+            "used to",
+            "read",
+            "books"
+          ],
+          "translateWords": [
+            "comic",
+            "We",
+            "used to",
+            "read",
+            "books"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U04_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: I have known David for five years. \nHe is taller than me and much more patient. \nHe is a reliable friend who helps me keep secrets. \nWe still hang out on weekends.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: I have known David for five years. He is taller than me and much more patient. He is a reliable friend who helps me keep secrets. We still hang out on weekends.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the character trait indicating stable reliability and trustworthiness.",
+          "englishWord": "Pick the character trait indicating stable reliability and trustworthiness.",
+          "category": "Question answer",
+          "correct": "reliable",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cheerful"
+            },
+            {
+              "id": "option-2",
+              "text": "taller"
+            },
+            {
+              "id": "option-3",
+              "text": "patient"
+            },
+            {
+              "id": "option-4",
+              "text": "reliable"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She is ______ intelligent than her cousin.",
+          "englishWord": "She is ______ intelligent than her cousin.",
+          "category": "Complete the sentence",
+          "correct": "more",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "more"
+            },
+            {
+              "id": "option-2",
+              "text": "much"
+            },
+            {
+              "id": "option-3",
+              "text": "as"
+            },
+            {
+              "id": "option-4",
+              "text": "very"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The review text establishes that the narrator met David only yesterday morning.",
+          "englishWord": "The review text establishes that the narrator met David only yesterday morning.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "They have known each other ______ a very long time.",
+          "englishWord": "They have known each other ______ a very long time.",
+          "category": "Fill in the blank",
+          "correct": "for",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "for"
+            },
+            {
+              "id": "option-2",
+              "text": "since"
+            },
+            {
+              "id": "option-3",
+              "text": "during"
+            },
+            {
+              "id": "option-4",
+              "text": "from"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We hang out at cafes on weekends",
+          "category": "Arrange the words",
+          "correct": "We hang out at cafes on weekends",
+          "words": [
+            "at",
+            "We",
+            "hang out",
+            "cafes",
+            "weekends",
+            "on"
+          ],
+          "translateWords": [
+            "at",
+            "We",
+            "hang out",
+            "cafes",
+            "weekends",
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U04_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: Life on the outskirts is peaceful. \nThere is not too much traffic and the lifestyle is healthy. \nDowntown is more convenient due to public transport, but it is polluted.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: Life on the outskirts is peaceful. There is not too much traffic and the lifestyle is healthy. Downtown is more convenient due to public transport, but it is polluted.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the urban downside term relating to dirty air and environmental waste.",
+          "englishWord": "Choose the urban downside term relating to dirty air and environmental waste.",
+          "category": "Question answer",
+          "correct": "polluted",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "convenient"
+            },
+            {
+              "id": "option-2",
+              "text": "peaceful"
+            },
+            {
+              "id": "option-3",
+              "text": "polluted"
+            },
+            {
+              "id": "option-4",
+              "text": "public"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "There is too ______ noise downtown.",
+          "englishWord": "There is too ______ noise downtown.",
+          "category": "Complete the sentence",
+          "correct": "much",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "many"
+            },
+            {
+              "id": "option-2",
+              "text": "much"
+            },
+            {
+              "id": "option-3",
+              "text": "few"
+            },
+            {
+              "id": "option-4",
+              "text": "enough"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text states that the downtown district offers a more peaceful lifestyle than outskirts.",
+          "englishWord": "The text states that the downtown district offers a more peaceful lifestyle than outskirts.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Buses and trains are parts of ______ transport.",
+          "englishWord": "Buses and trains are parts of ______ transport.",
+          "category": "Fill in the blank",
+          "correct": "public",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "public"
+            },
+            {
+              "id": "option-2",
+              "text": "private"
+            },
+            {
+              "id": "option-3",
+              "text": "local"
+            },
+            {
+              "id": "option-4",
+              "text": "personal"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We live on the outskirts of the town",
+          "category": "Arrange the words",
+          "correct": "We live on the outskirts of the town",
+          "words": [
+            "live",
+            "outskirts",
+            "the",
+            "on",
+            "of",
+            "We",
+            "town",
+            "the"
+          ],
+          "translateWords": [
+            "live",
+            "outskirts",
+            "the",
+            "on",
+            "of",
+            "We",
+            "town",
+            "the"
+          ]
+        }
+      ]
+    }
+  ]

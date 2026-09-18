@@ -1,0 +1,382 @@
+[
+    {
+      "lesson_id": "L2_U18_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "We hired a friendly tour guide to explore the capital. \nFirst, we visited an ancient palace from the twelfth century. \nAfter that, we took photos of a historic monument and admired the modern architecture.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "We hired a friendly tour guide to explore the capital. First, we visited an ancient palace from the twelfth century. After that, we took photos of a historic monument and admired the modern architecture.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the noun phrase denoting a building serving as an official royal residence from old eras.",
+          "englishWord": "Choose the noun phrase denoting a building serving as an official royal residence from old eras.",
+          "category": "Question answer",
+          "correct": "ancient palace",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "historic monument"
+            },
+            {
+              "id": "option-2",
+              "text": "ancient palace"
+            },
+            {
+              "id": "option-3",
+              "text": "modern architecture"
+            },
+            {
+              "id": "option-4",
+              "text": "check-in desk"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The ______ explained the history of the castle to the group.",
+          "englishWord": "The ______ explained the history of the castle to the group.",
+          "category": "Complete the sentence",
+          "correct": "tour guide",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "tour guide"
+            },
+            {
+              "id": "option-2",
+              "text": "monument"
+            },
+            {
+              "id": "option-3",
+              "text": "palace"
+            },
+            {
+              "id": "option-4",
+              "text": "cuisine"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the palace was built using twentieth-century modern steel design styles.",
+          "englishWord": "The text notes that the palace was built using twentieth-century modern steel design styles.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We want to hire a bicycle to ______ the local village streets.",
+          "englishWord": "We want to hire a bicycle to ______ the local village streets.",
+          "category": "Fill in the blank",
+          "correct": "explore",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "explore"
+            },
+            {
+              "id": "option-2",
+              "text": "admire"
+            },
+            {
+              "id": "option-3",
+              "text": "visit"
+            },
+            {
+              "id": "option-4",
+              "text": "hire"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "monument",
+          "category": "Arrange the words",
+          "correct": "monument",
+          "words": [
+            "t",
+            "n",
+            "e",
+            "m",
+            "u",
+            "n",
+            "o",
+            "m"
+          ],
+          "translateWords": [
+            "t",
+            "n",
+            "e",
+            "m",
+            "u",
+            "n",
+            "o",
+            "m"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U18_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "This temple is the oldest building in our country. \nIt is also the most famous landmark in the world. \nTourists say it has the most beautiful view, especially from the tallest tower.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "This temple is the oldest building in our country. It is also the most famous landmark in the world. Tourists say it has the most beautiful view, especially from the tallest tower.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct long adjective superlative framework.",
+          "englishWord": "Select the correct long adjective superlative framework.",
+          "category": "Question answer",
+          "correct": "the most famous",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "the most famous"
+            },
+            {
+              "id": "option-2",
+              "text": "famousest"
+            },
+            {
+              "id": "option-3",
+              "text": "the famousest"
+            },
+            {
+              "id": "option-4",
+              "text": "more famous"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The Eiffel Tower is one of ______ structures in Europe.",
+          "englishWord": "The Eiffel Tower is one of ______ structures in Europe.",
+          "category": "Complete the sentence",
+          "correct": "the tallest",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "the tallest"
+            },
+            {
+              "id": "option-2",
+              "text": "tallest"
+            },
+            {
+              "id": "option-3",
+              "text": "most tall"
+            },
+            {
+              "id": "option-4",
+              "text": "taller than"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Superlative' forms are utilized to compare exactly two individual objects against each other.",
+          "englishWord": "'Superlative' forms are utilized to compare exactly two individual objects against each other.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "This is the largest sports facility ______ the world.",
+          "englishWord": "This is the largest sports facility ______ the world.",
+          "category": "Fill in the blank",
+          "correct": "in",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "in"
+            },
+            {
+              "id": "option-2",
+              "text": "on"
+            },
+            {
+              "id": "option-3",
+              "text": "at"
+            },
+            {
+              "id": "option-4",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "This is the oldest building in our town",
+          "category": "Arrange the words",
+          "correct": "This is the oldest building in our town",
+          "words": [
+            "oldest",
+            "the",
+            "building",
+            "is",
+            "This",
+            "town",
+            "our",
+            "in"
+          ],
+          "translateWords": [
+            "oldest",
+            "the",
+            "building",
+            "is",
+            "This",
+            "town",
+            "our",
+            "in"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U18_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The landmark gets very crowded at noon. \nThe entry fee is ten dollars, and photography is allowed inside. \nYou can grab an audio guide to listen to detailed background information.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The landmark gets very crowded at noon. The entry fee is ten dollars, and photography is allowed inside. You can grab an audio guide to listen to detailed background information.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the financial term meaning the cash amount paid to gain entry into a public facility site.",
+          "englishWord": "Identify the financial term meaning the cash amount paid to gain entry into a public facility site.",
+          "category": "Question answer",
+          "correct": "entry fee",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "audio guide"
+            },
+            {
+              "id": "option-2",
+              "text": "entry fee"
+            },
+            {
+              "id": "option-3",
+              "text": "background"
+            },
+            {
+              "id": "option-4",
+              "text": "postcard"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Flash ______ inside the main museum hall.",
+          "englishWord": "Flash ______ inside the main museum hall.",
+          "category": "Complete the sentence",
+          "correct": "photography allowed",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "photography allowed"
+            },
+            {
+              "id": "option-2",
+              "text": "entry fee"
+            },
+            {
+              "id": "option-3",
+              "text": "background info"
+            },
+            {
+              "id": "option-4",
+              "text": "crowded"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the landmark remains completely empty and quiet during the busy noon period.",
+          "englishWord": "The text notes that the landmark remains completely empty and quiet during the busy noon period.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The subway train is completely ______ during the evening rush hour.",
+          "englishWord": "The subway train is completely ______ during the evening rush hour.",
+          "category": "Fill in the blank",
+          "correct": "crowded",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "crowded"
+            },
+            {
+              "id": "option-2",
+              "text": "empty"
+            },
+            {
+              "id": "option-3",
+              "text": "quiet"
+            },
+            {
+              "id": "option-4",
+              "text": "modern"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The tourist bought an audio guide",
+          "category": "Arrange the words",
+          "correct": "The tourist bought an audio guide",
+          "words": [
+            "audio",
+            "bought",
+            "guide",
+            "an",
+            "tourist",
+            "The"
+          ],
+          "translateWords": [
+            "audio",
+            "bought",
+            "guide",
+            "an",
+            "tourist",
+            "The"
+          ]
+        }
+      ]
+    }
+  ]

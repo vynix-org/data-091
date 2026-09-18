@@ -1,0 +1,372 @@
+[
+    {
+      "lesson_id": "L2_U03_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I live on the outskirts of a large city. \nMy hometown is famous for its historic landmarks and peaceful lakes. \nThe population is growing, but it lacks a modern sports facility.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I live on the outskirts of a large city. My hometown is famous for its historic landmarks and peaceful lakes. The population is growing, but it lacks a modern sports facility.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term that refers to the outer parts of a town or city.",
+          "englishWord": "Choose the term that refers to the outer parts of a town or city.",
+          "category": "Question answer",
+          "correct": "outskirts",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "facility"
+            },
+            {
+              "id": "option-2",
+              "text": "outskirts"
+            },
+            {
+              "id": "option-3",
+              "text": "landmarks"
+            },
+            {
+              "id": "option-4",
+              "text": "population"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Tourists visit the city to see its historic ______.",
+          "englishWord": "Tourists visit the city to see its historic ______.",
+          "category": "Complete the sentence",
+          "correct": "landmarks",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "landmarks"
+            },
+            {
+              "id": "option-2",
+              "text": "outskirts"
+            },
+            {
+              "id": "option-3",
+              "text": "rivers"
+            },
+            {
+              "id": "option-4",
+              "text": "lakes"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text mentions that the hometown currently contains a modern sports facility.",
+          "englishWord": "The text mentions that the hometown currently contains a modern sports facility.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I love walking around this ______ countryside.",
+          "englishWord": "I love walking around this ______ countryside.",
+          "category": "Fill in the blank",
+          "correct": "peaceful",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "peaceful"
+            },
+            {
+              "id": "option-2",
+              "text": "crowded"
+            },
+            {
+              "id": "option-3",
+              "text": "polluted"
+            },
+            {
+              "id": "option-4",
+              "text": "modern"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The local population is huge",
+          "category": "Arrange the words",
+          "correct": "The local population is huge",
+          "words": [
+            "is",
+            "huge",
+            "local",
+            "population",
+            "The"
+          ],
+          "translateWords": [
+            "is",
+            "huge",
+            "local",
+            "population",
+            "The"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U03_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "There is too much traffic during rush hour. \nLuckily, there are a few parks where you can relax. \nThere are many buildings downtown, but there is not enough green space.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "There is too much traffic during rush hour. Luckily, there are a few parks where you can relax. There are many buildings downtown, but there is not enough green space.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct quantifier for an uncountable trouble noun like traffic.",
+          "englishWord": "Select the correct quantifier for an uncountable trouble noun like traffic.",
+          "category": "Question answer",
+          "correct": "too much",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "many"
+            },
+            {
+              "id": "option-2",
+              "text": "a few"
+            },
+            {
+              "id": "option-3",
+              "text": "too much"
+            },
+            {
+              "id": "option-4",
+              "text": "a lot"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The town has a ______ historic castles.",
+          "englishWord": "The town has a ______ historic castles.",
+          "category": "Complete the sentence",
+          "correct": "few",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "much"
+            },
+            {
+              "id": "option-2",
+              "text": "few"
+            },
+            {
+              "id": "option-3",
+              "text": "little"
+            },
+            {
+              "id": "option-4",
+              "text": "enough"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The speaker believes that the city has plenty of green space for citizens.",
+          "englishWord": "The speaker believes that the city has plenty of green space for citizens.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "There are too many cars but there are ______ roads.",
+          "englishWord": "There are too many cars but there are ______ roads.",
+          "category": "Fill in the blank",
+          "correct": "not enough",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "not enough"
+            },
+            {
+              "id": "option-2",
+              "text": "too much"
+            },
+            {
+              "id": "option-3",
+              "text": "a few"
+            },
+            {
+              "id": "option-4",
+              "text": "many"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The local town has a lot of trees",
+          "category": "Arrange the words",
+          "correct": "The local town has a lot of trees",
+          "words": [
+            "trees",
+            "has",
+            "town",
+            "local",
+            "a lot of",
+            "The"
+          ],
+          "translateWords": [
+            "trees",
+            "has",
+            "town",
+            "local",
+            "a lot of",
+            "The"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U03_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Living downtown is convenient because of the public transport system. \nHowever, the air is polluted. \nI prefer the outskirts because it offers a peaceful lifestyle with public facilities.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Living downtown is convenient because of the public transport system. However, the air is polluted. I prefer the outskirts because it offers a peaceful lifestyle with public facilities.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used to describe dirty or unsafe air/water elements.",
+          "englishWord": "Choose the term used to describe dirty or unsafe air/water elements.",
+          "category": "Question answer",
+          "correct": "polluted",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "convenient"
+            },
+            {
+              "id": "option-2",
+              "text": "peaceful"
+            },
+            {
+              "id": "option-3",
+              "text": "public"
+            },
+            {
+              "id": "option-4",
+              "text": "polluted"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The city has a reliable public ______ network.",
+          "englishWord": "The city has a reliable public ______ network.",
+          "category": "Complete the sentence",
+          "correct": "transport",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "transport"
+            },
+            {
+              "id": "option-2",
+              "text": "facility"
+            },
+            {
+              "id": "option-3",
+              "text": "lifestyle"
+            },
+            {
+              "id": "option-4",
+              "text": "outskirts"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the text, the air in the downtown area is completely fresh and clean.",
+          "englishWord": "According to the text, the air in the downtown area is completely fresh and clean.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Online shopping is very ______ for busy people.",
+          "englishWord": "Online shopping is very ______ for busy people.",
+          "category": "Fill in the blank",
+          "correct": "convenient",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "convenient"
+            },
+            {
+              "id": "option-2",
+              "text": "peaceful"
+            },
+            {
+              "id": "option-3",
+              "text": "polluted"
+            },
+            {
+              "id": "option-4",
+              "text": "crowded"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "My grandfather enjoys a peaceful lifestyle",
+          "category": "Arrange the words",
+          "correct": "My grandfather enjoys a peaceful lifestyle",
+          "words": [
+            "enjoys",
+            "a",
+            "lifestyle",
+            "grandfather",
+            "My",
+            "peaceful"
+          ],
+          "translateWords": [
+            "enjoys",
+            "a",
+            "lifestyle",
+            "grandfather",
+            "My",
+            "peaceful"
+          ]
+        }
+      ]
+    }
+  ]

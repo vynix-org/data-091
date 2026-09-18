@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L2_U10_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Yesterday, I stayed at home all day. \nIn the morning, I cleaned my bedroom and studied English. \nIn the evening, my mother cooked a delicious dinner and I washed the dishes.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Yesterday, I stayed at home all day. In the morning, I cleaned my bedroom and studied English. In the evening, my mother cooked a delicious dinner and I washed the dishes.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb phrase meaning 'did not go outside to any other location'.",
+          "englishWord": "Choose the verb phrase meaning 'did not go outside to any other location'.",
+          "category": "Question answer",
+          "correct": "stayed at home",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cleaned"
+            },
+            {
+              "id": "option-2",
+              "text": "washed"
+            },
+            {
+              "id": "option-3",
+              "text": "cooked"
+            },
+            {
+              "id": "option-4",
+              "text": "stayed at home"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "He took a broom and ______ his messy floor.",
+          "englishWord": "He took a broom and ______ his messy floor.",
+          "category": "Complete the sentence",
+          "correct": "cleaned",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "studied"
+            },
+            {
+              "id": "option-2",
+              "text": "cooked"
+            },
+            {
+              "id": "option-3",
+              "text": "cleaned"
+            },
+            {
+              "id": "option-4",
+              "text": "washed"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the narrator went to a local restaurant to buy a hot lunch.",
+          "englishWord": "The text notes that the narrator went to a local restaurant to buy a hot lunch.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She ______ a large chicken soup for her family last night.",
+          "englishWord": "She ______ a large chicken soup for her family last night.",
+          "category": "Fill in the blank",
+          "correct": "cooked",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cooked"
+            },
+            {
+              "id": "option-2",
+              "text": "cleaned"
+            },
+            {
+              "id": "option-3",
+              "text": "studied"
+            },
+            {
+              "id": "option-4",
+              "text": "washed"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I studied English for two hours",
+          "category": "Arrange the words",
+          "correct": "I studied English for two hours",
+          "words": [
+            "English",
+            "studied",
+            "hours",
+            "for",
+            "two",
+            "I"
+          ],
+          "translateWords": [
+            "English",
+            "studied",
+            "hours",
+            "for",
+            "two",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U10_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "What did you do last night? \nI did not watch TV. \nI studied for my exam and went to bed early because I was tired. \nDid she go to the library? \nNo, she stayed at home.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "What did you do last night? I did not watch TV. I studied for my exam and went to bed early because I was tired. Did she go to the library? No, she stayed at home.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct Past Simple question formula structure.",
+          "englishWord": "Select the correct Past Simple question formula structure.",
+          "category": "Question answer",
+          "correct": "What did you do last night?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "What did you did last night?"
+            },
+            {
+              "id": "option-2",
+              "text": "What did you do last night?"
+            },
+            {
+              "id": "option-3",
+              "text": "What do you did last night?"
+            },
+            {
+              "id": "option-4",
+              "text": "What you did last night?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "They ______ go outside yesterday because of the heavy rain.",
+          "englishWord": "They ______ go outside yesterday because of the heavy rain.",
+          "category": "Complete the sentence",
+          "correct": "did not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "did not"
+            },
+            {
+              "id": "option-2",
+              "text": "do not"
+            },
+            {
+              "id": "option-3",
+              "text": "was not"
+            },
+            {
+              "id": "option-4",
+              "text": "not did"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "After an auxiliary like 'did not', the main verb must change into its past tense form.",
+          "englishWord": "After an auxiliary like 'did not', the main verb must change into its past tense form.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I was exhausted, so I ______ early.",
+          "englishWord": "I was exhausted, so I ______ early.",
+          "category": "Fill in the blank",
+          "correct": "went to bed",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "went to bed"
+            },
+            {
+              "id": "option-2",
+              "text": "watched TV"
+            },
+            {
+              "id": "option-3",
+              "text": "went outside"
+            },
+            {
+              "id": "option-4",
+              "text": "studied"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I did not watch a movie",
+          "category": "Arrange the words",
+          "correct": "I did not watch a movie",
+          "words": [
+            "watch",
+            "did",
+            "a",
+            "movie",
+            "not",
+            "I"
+          ],
+          "translateWords": [
+            "watch",
+            "did",
+            "a",
+            "movie",
+            "not",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U10_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My morning routine changed yesterday. \nAn unexpected phone call came, so instead of studying, I cleaned the house. \nIt turned out to be a very productive day.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My morning routine changed yesterday. An unexpected phone call came, so instead of studying, I cleaned the house. It turned out to be a very productive day.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the term that means 'surprising, unplanned, or sudden'.",
+          "englishWord": "Identify the term that means 'surprising, unplanned, or sudden'.",
+          "category": "Question answer",
+          "correct": "unexpected",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "routine"
+            },
+            {
+              "id": "option-2",
+              "text": "unexpected"
+            },
+            {
+              "id": "option-3",
+              "text": "productive"
+            },
+            {
+              "id": "option-4",
+              "text": "instead of"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "We went swimming ______ playing video games.",
+          "englishWord": "We went swimming ______ playing video games.",
+          "category": "Complete the sentence",
+          "correct": "instead of",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "instead of"
+            },
+            {
+              "id": "option-2",
+              "text": "turned out"
+            },
+            {
+              "id": "option-3",
+              "text": "routine"
+            },
+            {
+              "id": "option-4",
+              "text": "unexpected"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that the narrator spent the entire morning studying his English books.",
+          "englishWord": "The text indicates that the narrator spent the entire morning studying his English books.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The weather was cloudy, but it ______ to be a sunny day.",
+          "englishWord": "The weather was cloudy, but it ______ to be a sunny day.",
+          "category": "Fill in the blank",
+          "correct": "turned out",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "turned out"
+            },
+            {
+              "id": "option-2",
+              "text": "instead of"
+            },
+            {
+              "id": "option-3",
+              "text": "changed"
+            },
+            {
+              "id": "option-4",
+              "text": "cleaned"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Our manager had a productive day",
+          "category": "Arrange the words",
+          "correct": "Our manager had a productive day",
+          "words": [
+            "productive",
+            "had",
+            "a",
+            "manager",
+            "day",
+            "Our"
+          ],
+          "translateWords": [
+            "productive",
+            "had",
+            "a",
+            "manager",
+            "day",
+            "Our"
+          ]
+        }
+      ]
+    }
+  ]

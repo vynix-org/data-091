@@ -1,0 +1,380 @@
+[
+    {
+      "lesson_id": "L2_U11_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Next Sunday is my grandparents' wedding anniversary. \nAll our relatives are going to gather at our house. \nWe will decorate the living room and prepare a giant cake.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Next Sunday is my grandparents' wedding anniversary. All our relatives are going to gather at our house. We will decorate the living room and prepare a giant cake.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term that refers to family members like aunts, uncles, and cousins.",
+          "englishWord": "Choose the term that refers to family members like aunts, uncles, and cousins.",
+          "category": "Question answer",
+          "correct": "relatives",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "anniversary"
+            },
+            {
+              "id": "option-2",
+              "text": "relatives"
+            },
+            {
+              "id": "option-3",
+              "text": "party"
+            },
+            {
+              "id": "option-4",
+              "text": "landmarks"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Every New Year, my family members ______ at my grandmother's home.",
+          "englishWord": "Every New Year, my family members ______ at my grandmother's home.",
+          "category": "Complete the sentence",
+          "correct": "gather",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "gather"
+            },
+            {
+              "id": "option-2",
+              "text": "decorate"
+            },
+            {
+              "id": "option-3",
+              "text": "cancel"
+            },
+            {
+              "id": "option-4",
+              "text": "book"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text indicates that the family is preparing a birthday party for a one-year-old baby.",
+          "englishWord": "The text indicates that the family is preparing a birthday party for a one-year-old baby.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We buy colorful balloons to ______ the party hall.",
+          "englishWord": "We buy colorful balloons to ______ the party hall.",
+          "category": "Fill in the blank",
+          "correct": "decorate",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "decorate"
+            },
+            {
+              "id": "option-2",
+              "text": "gather"
+            },
+            {
+              "id": "option-3",
+              "text": "prepare"
+            },
+            {
+              "id": "option-4",
+              "text": "cancel"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "anniversary",
+          "category": "Arrange the words",
+          "correct": "anniversary",
+          "words": [
+            "y",
+            "r",
+            "a",
+            "s",
+            "r",
+            "e",
+            "v",
+            "i",
+            "n",
+            "n",
+            "a"
+          ],
+          "translateWords": [
+            "y",
+            "r",
+            "a",
+            "s",
+            "r",
+            "e",
+            "v",
+            "i",
+            "n",
+            "n",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U11_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "The birthday party starts in two hours. \nMy mother is baking a cake in the kitchen. \nMy brothers are putting up balloons. \nMy sister is wrapping gifts. \nWe are currently making preparations.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "The birthday party starts in two hours. My mother is baking a cake in the kitchen. My brothers are putting up balloons. My sister is wrapping gifts. We are currently making preparations.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct present continuous shape for a singular mother entity.",
+          "englishWord": "Select the correct present continuous shape for a singular mother entity.",
+          "category": "Question answer",
+          "correct": "is baking",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "is bake"
+            },
+            {
+              "id": "option-2",
+              "text": "are baking"
+            },
+            {
+              "id": "option-3",
+              "text": "is baking"
+            },
+            {
+              "id": "option-4",
+              "text": "bakes"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The children are ______ decorations on the wall.",
+          "englishWord": "The children are ______ decorations on the wall.",
+          "category": "Complete the sentence",
+          "correct": "putting up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "putting up"
+            },
+            {
+              "id": "option-2",
+              "text": "wrapping"
+            },
+            {
+              "id": "option-3",
+              "text": "baking"
+            },
+            {
+              "id": "option-4",
+              "text": "gathering"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Present Continuous' is utilized here to describe static events that happened ten years ago.",
+          "englishWord": "'Present Continuous' is utilized here to describe static events that happened ten years ago.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She is ______ the surprise present in shiny blue paper.",
+          "englishWord": "She is ______ the surprise present in shiny blue paper.",
+          "category": "Fill in the blank",
+          "correct": "wrapping",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "wrapping"
+            },
+            {
+              "id": "option-2",
+              "text": "baking"
+            },
+            {
+              "id": "option-3",
+              "text": "putting up"
+            },
+            {
+              "id": "option-4",
+              "text": "gathering"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We are making preparations now",
+          "category": "Arrange the words",
+          "correct": "We are making preparations now",
+          "words": [
+            "are",
+            "preparations",
+            "making",
+            "We",
+            "now"
+          ],
+          "translateWords": [
+            "are",
+            "preparations",
+            "making",
+            "We",
+            "now"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U11_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "During this holiday, family members wear traditional dress and gather to exchange gifts. \nThe young children always wish their grandparents health and long life. \nEvery generation looks forward to it.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "During this holiday, family members wear traditional dress and gather to exchange gifts. The young children always wish their grandparents health and long life. Every generation looks forward to it.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase that means 'to give and receive objects mutually'.",
+          "englishWord": "Choose the phrase that means 'to give and receive objects mutually'.",
+          "category": "Question answer",
+          "correct": "exchange gifts",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "traditional dress"
+            },
+            {
+              "id": "option-2",
+              "text": "wish someone health"
+            },
+            {
+              "id": "option-3",
+              "text": "exchange gifts"
+            },
+            {
+              "id": "option-4",
+              "text": "look forward to"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "This cultural story passes down from one ______ to the next.",
+          "englishWord": "This cultural story passes down from one ______ to the next.",
+          "category": "Complete the sentence",
+          "correct": "generation",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "relative"
+            },
+            {
+              "id": "option-2",
+              "text": "generation"
+            },
+            {
+              "id": "option-3",
+              "text": "anniversary"
+            },
+            {
+              "id": "option-4",
+              "text": "dress"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the custom, young children demand financial cash tokens from grandparents without speaking.",
+          "englishWord": "According to the custom, young children demand financial cash tokens from grandparents without speaking.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "On national days, we wear our ______ costumes.",
+          "englishWord": "On national days, we wear our ______ costumes.",
+          "category": "Fill in the blank",
+          "correct": "traditional",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "traditional"
+            },
+            {
+              "id": "option-2",
+              "text": "modern"
+            },
+            {
+              "id": "option-3",
+              "text": "casual"
+            },
+            {
+              "id": "option-4",
+              "text": "formal"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I wish my grandparents health",
+          "category": "Arrange the words",
+          "correct": "I wish my grandparents health",
+          "words": [
+            "grandparents",
+            "my",
+            "health",
+            "wish",
+            "I"
+          ],
+          "translateWords": [
+            "grandparents",
+            "my",
+            "health",
+            "wish",
+            "I"
+          ]
+        }
+      ]
+    }
+  ]

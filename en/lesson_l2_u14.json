@@ -1,0 +1,372 @@
+[
+    {
+      "lesson_id": "L2_U14_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Welcome to Terminal 2. \nPlease show your passport at the check-in desk to get your boarding pass. \nDrop off your heavy luggage here, then go directly to gate fifteen.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Welcome to Terminal 2. Please show your passport at the check-in desk to get your boarding pass. Drop off your heavy luggage here, then go directly to gate fifteen.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the document token needed to pass security and enter the airplane structure.",
+          "englishWord": "Choose the document token needed to pass security and enter the airplane structure.",
+          "category": "Question answer",
+          "correct": "boarding pass",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "luggage"
+            },
+            {
+              "id": "option-2",
+              "text": "passport"
+            },
+            {
+              "id": "option-3",
+              "text": "boarding pass"
+            },
+            {
+              "id": "option-4",
+              "text": "itinerary"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "The agent checks your ticket data at the ______.",
+          "englishWord": "The agent checks your ticket data at the ______.",
+          "category": "Complete the sentence",
+          "correct": "check-in desk",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "gate"
+            },
+            {
+              "id": "option-2",
+              "text": "luggage"
+            },
+            {
+              "id": "option-3",
+              "text": "check-in desk"
+            },
+            {
+              "id": "option-4",
+              "text": "airport park"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that travelers carry their heavy storage luggage directly inside the plane gate.",
+          "englishWord": "The text notes that travelers carry their heavy storage luggage directly inside the plane gate.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "You cannot travel to another country without a international ______.",
+          "englishWord": "You cannot travel to another country without a international ______.",
+          "category": "Fill in the blank",
+          "correct": "passport",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "passport"
+            },
+            {
+              "id": "option-2",
+              "text": "ticket"
+            },
+            {
+              "id": "option-3",
+              "text": "luggage"
+            },
+            {
+              "id": "option-4",
+              "text": "gate"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "gate",
+          "category": "Arrange the words",
+          "correct": "gate",
+          "words": [
+            "e",
+            "t",
+            "a",
+            "g"
+          ],
+          "translateWords": [
+            "e",
+            "t",
+            "a",
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U14_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Please stand behind the yellow line. \nPut your loose keys inside the bag. \nWalk through security carefully. \nYou can store your small backpack over head.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Please stand behind the yellow line. Put your loose keys inside the bag. Walk through security carefully. You can store your small backpack over head.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the spatial preposition indicating movement from one side of a checkpoint tunnel to the other.",
+          "englishWord": "Select the spatial preposition indicating movement from one side of a checkpoint tunnel to the other.",
+          "category": "Question answer",
+          "correct": "through",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "over"
+            },
+            {
+              "id": "option-2",
+              "text": "inside"
+            },
+            {
+              "id": "option-3",
+              "text": "behind"
+            },
+            {
+              "id": "option-4",
+              "text": "through"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Passengers must wait ______ the gate barrier.",
+          "englishWord": "Passengers must wait ______ the gate barrier.",
+          "category": "Complete the sentence",
+          "correct": "behind",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "through"
+            },
+            {
+              "id": "option-2",
+              "text": "inside"
+            },
+            {
+              "id": "option-3",
+              "text": "behind"
+            },
+            {
+              "id": "option-4",
+              "text": "over"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The terminal announcement says that large liquid items are allowed inside the travel bag.",
+          "englishWord": "The terminal announcement says that large liquid items are allowed inside the travel bag.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Keep your official boarding pass ______ your coat pocket.",
+          "englishWord": "Keep your official boarding pass ______ your coat pocket.",
+          "category": "Fill in the blank",
+          "correct": "inside",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "inside"
+            },
+            {
+              "id": "option-2",
+              "text": "behind"
+            },
+            {
+              "id": "option-3",
+              "text": "through"
+            },
+            {
+              "id": "option-4",
+              "text": "over"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Put your luggage over head",
+          "category": "Arrange the words",
+          "correct": "Put your luggage over head",
+          "words": [
+            "luggage",
+            "the",
+            "head",
+            "put",
+            "over",
+            "Your"
+          ],
+          "translateWords": [
+            "luggage",
+            "the",
+            "head",
+            "put",
+            "over",
+            "Your"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U14_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Attention passengers. This is a flight announcement for BA202. \nThe plane is delayed by two hours. \nPlease look for your flight number on the screen before the final call.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Attention passengers. This is a flight announcement for BA202. The plane is delayed by two hours. Please look for your flight number on the screen before the final call.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the adjective that means an active operation is postponed or late relative to the schedule.",
+          "englishWord": "Identify the adjective that means an active operation is postponed or late relative to the schedule.",
+          "category": "Question answer",
+          "correct": "delayed",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "direct"
+            },
+            {
+              "id": "option-2",
+              "text": "final"
+            },
+            {
+              "id": "option-3",
+              "text": "delayed"
+            },
+            {
+              "id": "option-4",
+              "text": "checked"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Listen carefully to the loudspeaker for the next flight ______.",
+          "englishWord": "Listen carefully to the loudspeaker for the next flight ______.",
+          "category": "Complete the sentence",
+          "correct": "announcement",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "announcement"
+            },
+            {
+              "id": "option-2",
+              "text": "call"
+            },
+            {
+              "id": "option-3",
+              "text": "gate"
+            },
+            {
+              "id": "option-4",
+              "text": "luggage"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The loudspeaker notes that passengers must run instantly because the plane is currently making its final call.",
+          "englishWord": "The loudspeaker notes that passengers must run instantly because the plane is currently making its final call.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "If you are lost in the terminal, you should ______ the info desk.",
+          "englishWord": "If you are lost in the terminal, you should ______ the info desk.",
+          "category": "Fill in the blank",
+          "correct": "look for",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "look for"
+            },
+            {
+              "id": "option-2",
+              "text": "wait for"
+            },
+            {
+              "id": "option-3",
+              "text": "walk through"
+            },
+            {
+              "id": "option-4",
+              "text": "check in"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We took a direct flight to Paris",
+          "category": "Arrange the words",
+          "correct": "We took a direct flight to Paris",
+          "words": [
+            "flight",
+            "direct",
+            "a",
+            "took",
+            "We",
+            "Paris",
+            "to"
+          ],
+          "translateWords": [
+            "flight",
+            "direct",
+            "a",
+            "took",
+            "We",
+            "Paris",
+            "to"
+          ]
+        }
+      ]
+    }
+  ]

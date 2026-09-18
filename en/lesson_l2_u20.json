@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L2_U20_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 1: Greetings from the mountains! \nSo far, our trekking trip has been spectacular. \nRight now, I am sitting near a mountain peak. \nWe are heading to a historic palace tomorrow. \nWish you were here!",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 1: Greetings from the mountains! So far, our trekking trip has been spectacular. Right now, I am sitting near a mountain peak. We are heading to a historic palace tomorrow. Wish you were here!",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the ongoing action frame verb form tracking the speaker's real-time state.",
+          "englishWord": "Choose the ongoing action frame verb form tracking the speaker's real-time state.",
+          "category": "Question answer",
+          "correct": "am sitting",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sat"
+            },
+            {
+              "id": "option-2",
+              "text": "am sitting"
+            },
+            {
+              "id": "option-3",
+              "text": "sit"
+            },
+            {
+              "id": "option-4",
+              "text": "sits"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "We have visited three distinct museums ____.",
+          "englishWord": "We have visited three distinct museums ____.",
+          "category": "Complete the sentence",
+          "correct": "so far",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "tomorrow"
+            },
+            {
+              "id": "option-2",
+              "text": "so far"
+            },
+            {
+              "id": "option-3",
+              "text": "currently"
+            },
+            {
+              "id": "option-4",
+              "text": "ago"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The review text establishes that the traveler is sending a postcard message from a sandy beach resort.",
+          "englishWord": "The review text establishes that the traveler is sending a postcard message from a sandy beach resort.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "____ Canada! The cold winter weather here is absolutely snowy.",
+          "englishWord": "____ Canada! The cold winter weather here is absolutely snowy.",
+          "category": "Fill in the blank",
+          "correct": "Greetings from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Greetings from"
+            },
+            {
+              "id": "option-2",
+              "text": "Goodbye to"
+            },
+            {
+              "id": "option-3",
+              "text": "Welcome at"
+            },
+            {
+              "id": "option-4",
+              "text": "Hello from"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We are heading to the hotel now",
+          "category": "Arrange the words",
+          "correct": "We are heading to the hotel now",
+          "words": [
+            "the",
+            "hotel",
+            "are",
+            "heading to",
+            "We",
+            "now"
+          ],
+          "translateWords": [
+            "the",
+            "hotel",
+            "are",
+            "heading to",
+            "We",
+            "now"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U20_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 2: Our tour guide led us through the ancient palace. \nIt is the oldest structural landmark in this city and the most famous site in our country. \nNote that the entry fee is cash only.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 2: Our tour guide led us through the ancient palace. It is the oldest structural landmark in this city and the most famous site in our country. Note that the entry fee is cash only.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the architectural feature category indicating a highly recognized global tourist site.",
+          "englishWord": "Pick the architectural feature category indicating a highly recognized global tourist site.",
+          "category": "Question answer",
+          "correct": "the most famous",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "postcard"
+            },
+            {
+              "id": "option-2",
+              "text": "tour guide"
+            },
+            {
+              "id": "option-3",
+              "text": "entry fee"
+            },
+            {
+              "id": "option-4",
+              "text": "the most famous"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "This old stone monument is ______ monument in the park region.",
+          "englishWord": "This old stone monument is ______ monument in the park region.",
+          "category": "Complete the sentence",
+          "correct": "the oldest",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "oldest"
+            },
+            {
+              "id": "option-2",
+              "text": "the oldest"
+            },
+            {
+              "id": "option-3",
+              "text": "older than"
+            },
+            {
+              "id": "option-4",
+              "text": "most old"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The site description text notes that entrance into the historic royal building requires zero entry fee costs.",
+          "englishWord": "The site description text notes that entrance into the historic royal building requires zero entry fee costs.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "The expert ______ answered all our historic questions.",
+          "englishWord": "The expert ______ answered all our historic questions.",
+          "category": "Fill in the blank",
+          "correct": "tour guide",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "tour guide"
+            },
+            {
+              "id": "option-2",
+              "text": "entry fee"
+            },
+            {
+              "id": "option-3",
+              "text": "palace"
+            },
+            {
+              "id": "option-4",
+              "text": "landmark"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Flash photography is not allowed here",
+          "category": "Arrange the words",
+          "correct": "Flash photography is not allowed here",
+          "words": [
+            "allowed",
+            "here",
+            "Flash",
+            "not",
+            "photography",
+            "is"
+          ],
+          "translateWords": [
+            "allowed",
+            "here",
+            "Flash",
+            "not",
+            "photography",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U20_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Review Log 3: I prefer a rocky hiking trail to a sandy beach. \nI would rather walk up to a sharp mountain peak than sunbathe all day. \nThe only drawback of the hills is the cold weather.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Review Log 3: I prefer a rocky hiking trail to a sandy beach. I would rather walk up to a sharp mountain peak than sunbathe all day. The only drawback of the hills is the cold weather.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the pointed geographic landmark feature term representing the peak top of a highland landform.",
+          "englishWord": "Identify the pointed geographic landmark feature term representing the peak top of a highland landform.",
+          "category": "Question answer",
+          "correct": "mountain peak",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hiking trail"
+            },
+            {
+              "id": "option-2",
+              "text": "mountain peak"
+            },
+            {
+              "id": "option-3",
+              "text": "sandy beach"
+            },
+            {
+              "id": "option-4",
+              "text": "scenery"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I ______ read an historical map than look at a broken phone screen.",
+          "englishWord": "I ______ read an historical map than look at a broken phone screen.",
+          "category": "Complete the sentence",
+          "correct": "would rather",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "prefer to"
+            },
+            {
+              "id": "option-2",
+              "text": "would rather"
+            },
+            {
+              "id": "option-3",
+              "text": "want to"
+            },
+            {
+              "id": "option-4",
+              "text": "why don't"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The choice matrix text registers that the primary drawback/disadvantage of the mountain terrain is crowded beach sand.",
+          "englishWord": "The choice matrix text registers that the primary drawback/disadvantage of the mountain terrain is crowded beach sand.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "She prefers a quiet countryside lifestyle ______ a busy urban center.",
+          "englishWord": "She prefers a quiet countryside lifestyle ______ a busy urban center.",
+          "category": "Fill in the blank",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "than"
+            },
+            {
+              "id": "option-3",
+              "text": "from"
+            },
+            {
+              "id": "option-4",
+              "text": "with"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Let's walk along the hiking trail",
+          "category": "Arrange the words",
+          "correct": "Let's walk along the hiking trail",
+          "words": [
+            "along",
+            "walk",
+            "Let's",
+            "hiking",
+            "the",
+            "trail"
+          ],
+          "translateWords": [
+            "along",
+            "walk",
+            "Let's",
+            "hiking",
+            "the",
+            "trail"
+          ]
+        }
+      ]
+    }
+  ]

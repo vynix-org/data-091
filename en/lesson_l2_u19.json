@@ -1,0 +1,386 @@
+[
+    {
+      "lesson_id": "L2_U19_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I prefer the quiet mountains to the crowded coast. \nClimbing to the steep mountain peak along the rocky hiking trail is exciting. \nThe scenery is completely different from a flat sandy beach.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I prefer the quiet mountains to the crowded coast. Climbing to the steep mountain peak along the rocky hiking trail is exciting. The scenery is completely different from a flat sandy beach.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term that refers to the highest pointed top part of a mountain structure.",
+          "englishWord": "Choose the term that refers to the highest pointed top part of a mountain structure.",
+          "category": "Question answer",
+          "correct": "mountain peak",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "hiking trail"
+            },
+            {
+              "id": "option-2",
+              "text": "mountain peak"
+            },
+            {
+              "id": "option-3",
+              "text": "sandy beach"
+            },
+            {
+              "id": "option-4",
+              "text": "scenery"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Hikers must follow the marked ______ to avoid getting lost in the forest.",
+          "englishWord": "Hikers must follow the marked ______ to avoid getting lost in the forest.",
+          "category": "Complete the sentence",
+          "correct": "hiking trail",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "mountain peak"
+            },
+            {
+              "id": "option-2",
+              "text": "sandy beach"
+            },
+            {
+              "id": "option-3",
+              "text": "hiking trail"
+            },
+            {
+              "id": "option-4",
+              "text": "scenery"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The landscape text notes that a sandy beach is characterized by steep, rocky mountain slopes.",
+          "englishWord": "The landscape text notes that a sandy beach is characterized by steep, rocky mountain slopes.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We stopped our vehicle on the hill to admire the beautiful green ______.",
+          "englishWord": "We stopped our vehicle on the hill to admire the beautiful green ______.",
+          "category": "Fill in the blank",
+          "correct": "scenery",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "scenery"
+            },
+            {
+              "id": "option-2",
+              "text": "mountain peak"
+            },
+            {
+              "id": "option-3",
+              "text": "hiking trail"
+            },
+            {
+              "id": "option-4",
+              "text": "sandy beach"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "sandy beach",
+          "category": "Arrange the words",
+          "correct": "sandy beach",
+          "words": [
+            "h",
+            "c",
+            "a",
+            "e",
+            "b",
+            "y",
+            "d",
+            "n",
+            "a",
+            "s"
+          ],
+          "translateWords": [
+            "h",
+            "c",
+            "a",
+            "e",
+            "b",
+            "y",
+            "d",
+            "n",
+            "a",
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U19_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I prefer a relaxing beach vacation to an adventurous mountain trip. \nHonestly, I would rather swim in the warm ocean than climb a steep hill. \nI love seaside outdoor activities.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I prefer a relaxing beach vacation to an adventurous mountain trip. Honestly, I would rather swim in the warm ocean than climb a steep hill. I love seaside outdoor activities.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct preposition pattern linked structurally to the verb 'prefer'.",
+          "englishWord": "Select the correct preposition pattern linked structurally to the verb 'prefer'.",
+          "category": "Question answer",
+          "correct": "to",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "than"
+            },
+            {
+              "id": "option-2",
+              "text": "to"
+            },
+            {
+              "id": "option-3",
+              "text": "from"
+            },
+            {
+              "id": "option-4",
+              "text": "against"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I would rather stay at a hotel ______ camp in the cold woods.",
+          "englishWord": "I would rather stay at a hotel ______ camp in the cold woods.",
+          "category": "Complete the sentence",
+          "correct": "than",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "to"
+            },
+            {
+              "id": "option-2",
+              "text": "than"
+            },
+            {
+              "id": "option-3",
+              "text": "but"
+            },
+            {
+              "id": "option-4",
+              "text": "because"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The phrase 'would rather' must be followed immediately by an infinitive verb including 'to' (e.g., 'would rather to swim').",
+          "englishWord": "The phrase 'would rather' must be followed immediately by an infinitive verb including 'to' (e.g., 'would rather to swim').",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Skydiving is a highly ______ sport.",
+          "englishWord": "Skydiving is a highly ______ sport.",
+          "category": "Fill in the blank",
+          "correct": "adventurous",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "adventurous"
+            },
+            {
+              "id": "option-2",
+              "text": "relaxing"
+            },
+            {
+              "id": "option-3",
+              "text": "crowded"
+            },
+            {
+              "id": "option-4",
+              "text": "quiet"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I prefer coffee to tea",
+          "category": "Arrange the words",
+          "correct": "I prefer coffee to tea",
+          "words": [
+            "tea",
+            "juice",
+            "to",
+            "coffee",
+            "prefer",
+            "I"
+          ],
+          "translateWords": [
+            "tea",
+            "juice",
+            "to",
+            "coffee",
+            "prefer",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U19_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Every destination has tradeoffs. \nThe main benefit of the coast is the chance to sunbathe on the sand. \nThe drawback is the crowd. \nI go to the hills to escape the city and enjoy the dynamic landscape.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Every destination has tradeoffs. The main benefit of the coast is the chance to sunbathe on the sand. The drawback is the crowd. I go to the hills to escape the city and enjoy the dynamic landscape.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term used to describe a specific disadvantage or negative downside feature.",
+          "englishWord": "Choose the term used to describe a specific disadvantage or negative downside feature.",
+          "category": "Question answer",
+          "correct": "drawback",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "benefit"
+            },
+            {
+              "id": "option-2",
+              "text": "drawback"
+            },
+            {
+              "id": "option-3",
+              "text": "landscape"
+            },
+            {
+              "id": "option-4",
+              "text": "travel"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Many citizens buy a countryside cabin to ______ during summer holidays.",
+          "englishWord": "Many citizens buy a countryside cabin to ______ during summer holidays.",
+          "category": "Complete the sentence",
+          "correct": "escape the city",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sunbathe"
+            },
+            {
+              "id": "option-2",
+              "text": "escape the city"
+            },
+            {
+              "id": "option-3",
+              "text": "complain"
+            },
+            {
+              "id": "option-4",
+              "text": "check in"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the copy text, the primary disadvantage/drawback of a popular coast destination is absolute quietness.",
+          "englishWord": "According to the copy text, the primary disadvantage/drawback of a popular coast destination is absolute quietness.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I love to lie down under an umbrella and ______ for an hour.",
+          "englishWord": "I love to lie down under an umbrella and ______ for an hour.",
+          "category": "Fill in the blank",
+          "correct": "sunbathe",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sunbathe"
+            },
+            {
+              "id": "option-2",
+              "text": "escape"
+            },
+            {
+              "id": "option-3",
+              "text": "climb"
+            },
+            {
+              "id": "option-4",
+              "text": "travel"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "The main benefit is the fresh air",
+          "category": "Arrange the words",
+          "correct": "The main benefit is the fresh air",
+          "words": [
+            "is",
+            "fresh",
+            "air",
+            "clear",
+            "the",
+            "benefit",
+            "main",
+            "The"
+          ],
+          "translateWords": [
+            "is",
+            "fresh",
+            "air",
+            "clear",
+            "the",
+            "benefit",
+            "main",
+            "The"
+          ]
+        }
+      ]
+    }
+  ]

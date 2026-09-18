@@ -1,0 +1,374 @@
+[
+  {
+    "lesson_id": "L2_U02_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "My best friend David is a very reliable person. \nHe is always cheerful and has a great sense of humor. \nHe is also generous because he shares everything and is helpful to everyone.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "My best friend David is a very reliable person. He is always cheerful and has a great sense of humor. He is also generous because he shares everything and is helpful to everyone.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the adjective that means 'can be trusted or depended on'.",
+        "englishWord": "Choose the adjective that means 'can be trusted or depended on'.",
+        "category": "Question answer",
+        "correct": "reliable",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "cheerful"
+          },
+          {
+            "id": "option-2",
+            "text": "reliable"
+          },
+          {
+            "id": "option-3",
+            "text": "generous"
+          },
+          {
+            "id": "option-4",
+            "text": "helpful"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "He has a great sense of ______.",
+        "englishWord": "He has a great sense of ______.",
+        "category": "Complete the sentence",
+        "correct": "humor",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "humor"
+          },
+          {
+            "id": "option-2",
+            "text": "happy"
+          },
+          {
+            "id": "option-3",
+            "text": "smile"
+          },
+          {
+            "id": "option-4",
+            "text": "fun"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "David is described as an angry and selfish individual.",
+        "englishWord": "David is described as an angry and selfish individual.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "A ______ person likes to buy gifts for their friends.",
+        "englishWord": "A ______ person likes to buy gifts for their friends.",
+        "category": "Fill in the blank",
+        "correct": "generous",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "generous"
+          },
+          {
+            "id": "option-2",
+            "text": "reliable"
+          },
+          {
+            "id": "option-3",
+            "text": "cheerful"
+          },
+          {
+            "id": "option-4",
+            "text": "selfish"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Our teacher is always cheerful",
+        "category": "Arrange the words",
+        "correct": "Our teacher is always cheerful",
+        "words": [
+          "is",
+          "always",
+          "cheerful",
+          "teacher",
+          "Our"
+        ],
+        "translateWords": [
+          "is",
+          "always",
+          "cheerful",
+          "teacher",
+          "Our"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U02_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "David is older and taller than me. \nHowever, I am more patient than him when studying. \nEven though we are different, he is just as friendly as any brother could be.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "David is older and taller than me. However, I am more patient than him when studying. Even though we are different, he is just as friendly as any brother could be.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Select the correct long adjective comparative format.",
+        "englishWord": "Select the correct long adjective comparative format.",
+        "category": "Question answer",
+        "correct": "more patient",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "patienter"
+          },
+          {
+            "id": "option-2",
+            "text": "more patient"
+          },
+          {
+            "id": "option-3",
+            "text": "most patient"
+          },
+          {
+            "id": "option-4",
+            "text": "patient than"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Sarah is ______ than her sister.",
+        "englishWord": "Sarah is ______ than her sister.",
+        "category": "Complete the sentence",
+        "correct": "kinder",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "kind"
+          },
+          {
+            "id": "option-2",
+            "text": "kinder"
+          },
+          {
+            "id": "option-3",
+            "text": "more kind"
+          },
+          {
+            "id": "option-4",
+            "text": "kindest"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The narrator claims that David is younger and shorter than him.",
+        "englishWord": "The narrator claims that David is younger and shorter than him.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "John is smarter ______ his teammate.",
+        "englishWord": "John is smarter ______ his teammate.",
+        "category": "Fill in the blank",
+        "correct": "than",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "than"
+          },
+          {
+            "id": "option-2",
+            "text": "as"
+          },
+          {
+            "id": "option-3",
+            "text": "to"
+          },
+          {
+            "id": "option-4",
+            "text": "from"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "Mary is as friendly as Jane",
+        "category": "Arrange the words",
+        "correct": "Mary is as friendly as Jane",
+        "words": [
+          "as",
+          "is",
+          "as",
+          "Mary",
+          "friendly",
+          "Jane"
+        ],
+        "translateWords": [
+          "as",
+          "is",
+          "as",
+          "Mary",
+          "friendly",
+          "Jane"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U02_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "We have known each other for five years. \nWe hang out at cafes every weekend. \nI can share all my secrets with him because I know he will support me and always keep in touch.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "We have known each other for five years. We hang out at cafes every weekend. I can share all my secrets with him because I know he will support me and always keep in touch.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Identify the phrase that means 'to spend casual time together'.",
+        "englishWord": "Identify the phrase that means 'to spend casual time together'.",
+        "category": "Question answer",
+        "correct": "hang out",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "support"
+          },
+          {
+            "id": "option-2",
+            "text": "keep in touch"
+          },
+          {
+            "id": "option-3",
+            "text": "hang out"
+          },
+          {
+            "id": "option-4",
+            "text": "share secrets"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "No matter where we live, we always keep in ______.",
+        "englishWord": "No matter where we live, we always keep in ______.",
+        "category": "Complete the sentence",
+        "correct": "touch",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "hand"
+          },
+          {
+            "id": "option-2",
+            "text": "touch"
+          },
+          {
+            "id": "option-3",
+            "text": "mind"
+          },
+          {
+            "id": "option-4",
+            "text": "chat"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text indicates that the two friends met only two weeks ago.",
+        "englishWord": "The text indicates that the two friends met only two weeks ago.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Because David is reliable, the narrator can trust him with his private ______.",
+        "englishWord": "Because David is reliable, the narrator can trust him with his private ______.",
+        "category": "Fill in the blank",
+        "correct": "secrets",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "secrets"
+          },
+          {
+            "id": "option-2",
+            "text": "friends"
+          },
+          {
+            "id": "option-3",
+            "text": "cafes"
+          },
+          {
+            "id": "option-4",
+            "text": "weekends"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "We have known each other for long",
+        "category": "Arrange the words",
+        "correct": "We have known each other for long",
+        "words": [
+          "each",
+          "known",
+          "have",
+          "We",
+          "other",
+          "long",
+          "for"
+        ],
+        "translateWords": [
+          "each",
+          "known",
+          "have",
+          "We",
+          "other",
+          "long",
+          "for"
+        ]
+      }
+    ]
+  }
+]

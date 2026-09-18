@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L2_U06_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "My manager is highly organized. \nShe designs creative solutions for our projects. \nShe relies on her problem-solving skills to help our hard-working team every day.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "My manager is highly organized. She designs creative solutions for our projects. She relies on her problem-solving skills to help our hard-working team every day.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the adjective that describes someone who plans things neatly and efficiently.",
+          "englishWord": "Choose the adjective that describes someone who plans things neatly and efficiently.",
+          "category": "Question answer",
+          "correct": "organized",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "creative"
+            },
+            {
+              "id": "option-2",
+              "text": "hard-working"
+            },
+            {
+              "id": "option-3",
+              "text": "organized"
+            },
+            {
+              "id": "option-4",
+              "text": "skillful"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "He uses his ______ skills to fix code errors.",
+          "englishWord": "He uses his ______ skills to fix code errors.",
+          "category": "Complete the sentence",
+          "correct": "problem-solving",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "organized"
+            },
+            {
+              "id": "option-2",
+              "text": "problem-solving"
+            },
+            {
+              "id": "option-3",
+              "text": "hard"
+            },
+            {
+              "id": "option-4",
+              "text": "creative"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "A hard-working person avoids long tasks and sleeps all day.",
+          "englishWord": "A hard-working person avoids long tasks and sleeps all day.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Artists need to be very ______ to paint unique pictures.",
+          "englishWord": "Artists need to be very ______ to paint unique pictures.",
+          "category": "Fill in the blank",
+          "correct": "creative",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "creative"
+            },
+            {
+              "id": "option-2",
+              "text": "organized"
+            },
+            {
+              "id": "option-3",
+              "text": "reliable"
+            },
+            {
+              "id": "option-4",
+              "text": "hard-working"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "She is a very skillful worker",
+          "category": "Arrange the words",
+          "correct": "She is a very skillful worker",
+          "words": [
+            "is",
+            "worker",
+            "very",
+            "a",
+            "skillful",
+            "She"
+          ],
+          "translateWords": [
+            "is",
+            "worker",
+            "very",
+            "a",
+            "skillful",
+            "She"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U06_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "When I was ten, I could not speak English, but I could solve complex puzzles. \nNow, I can speak three languages fluently, and I am very good at public presentation.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "When I was ten, I could not speak English, but I could solve complex puzzles. Now, I can speak three languages fluently, and I am very good at public presentation.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct past negative ability modal structure.",
+          "englishWord": "Select the correct past negative ability modal structure.",
+          "category": "Question answer",
+          "correct": "could not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "can't"
+            },
+            {
+              "id": "option-2",
+              "text": "don't could"
+            },
+            {
+              "id": "option-3",
+              "text": "could not"
+            },
+            {
+              "id": "option-4",
+              "text": "wasn't can"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "He is a coder; he ______ write software programs quickly.",
+          "englishWord": "He is a coder; he ______ write software programs quickly.",
+          "category": "Complete the sentence",
+          "correct": "can",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "could"
+            },
+            {
+              "id": "option-2",
+              "text": "can"
+            },
+            {
+              "id": "option-3",
+              "text": "is"
+            },
+            {
+              "id": "option-4",
+              "text": "has"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "'Could' is used to declare an ability that a person possesses right now.",
+          "englishWord": "'Could' is used to declare an ability that a person possesses right now.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My sister is incredibly good ______ painting landscapes.",
+          "englishWord": "My sister is incredibly good ______ painting landscapes.",
+          "category": "Fill in the blank",
+          "correct": "at",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "at"
+            },
+            {
+              "id": "option-2",
+              "text": "in"
+            },
+            {
+              "id": "option-3",
+              "text": "on"
+            },
+            {
+              "id": "option-4",
+              "text": "for"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "I could play chess at seven",
+          "category": "Arrange the words",
+          "correct": "I could play chess at seven",
+          "words": [
+            "play",
+            "chess",
+            "could",
+            "seven",
+            "I",
+            "at"
+          ],
+          "translateWords": [
+            "play",
+            "chess",
+            "could",
+            "seven",
+            "I",
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U06_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Alex is a reliable asset to our company. \nHe has strong leadership qualities and handles pressure well. \nHe is a fantastic team player with clear communication.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Alex is a reliable asset to our company. He has strong leadership qualities and handles pressure well. He is a fantastic team player with clear communication.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the corporate phrase that means 'manages stressful workplace environments smoothly'.",
+          "englishWord": "Identify the corporate phrase that means 'manages stressful workplace environments smoothly'.",
+          "category": "Question answer",
+          "correct": "handle pressure",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "team player"
+            },
+            {
+              "id": "option-2",
+              "text": "handle pressure"
+            },
+            {
+              "id": "option-3",
+              "text": "reliable asset"
+            },
+            {
+              "id": "option-4",
+              "text": "leadership"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She enjoys group work because she is a true team ______.",
+          "englishWord": "She enjoys group work because she is a true team ______.",
+          "category": "Complete the sentence",
+          "correct": "player",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "player"
+            },
+            {
+              "id": "option-2",
+              "text": "asset"
+            },
+            {
+              "id": "option-3",
+              "text": "leader"
+            },
+            {
+              "id": "option-4",
+              "text": "manager"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "An employee with bad communication blocks is considered a reliable asset.",
+          "englishWord": "An employee with bad communication blocks is considered a reliable asset.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "A general manager must show strong ______ qualities.",
+          "englishWord": "A general manager must show strong ______ qualities.",
+          "category": "Fill in the blank",
+          "correct": "leadership",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "leadership"
+            },
+            {
+              "id": "option-2",
+              "text": "communication"
+            },
+            {
+              "id": "option-3",
+              "text": "pressure"
+            },
+            {
+              "id": "option-4",
+              "text": "team"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "He is a useful asset to the team",
+          "category": "Arrange the words",
+          "correct": "He is a useful asset to the team",
+          "words": [
+            "a",
+            "asset",
+            "useful",
+            "He",
+            "is",
+            "team",
+            "the",
+            "to"
+          ],
+          "translateWords": [
+            "a",
+            "asset",
+            "useful",
+            "He",
+            "is",
+            "team",
+            "the",
+            "to"
+          ]
+        }
+      ]
+    }
+  ]

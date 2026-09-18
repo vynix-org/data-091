@@ -1,0 +1,378 @@
+[
+    {
+      "lesson_id": "L2_U09_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Are you free tonight? \nWe are going to go out for dinner at a new Italian place. \nWould you like to join us? \nI can send you the digital invitation link.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Are you free tonight? We are going to go out for dinner at a new Italian place. Would you like to join us? I can send you the digital invitation link.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the phrase used to check a person's availability.",
+          "englishWord": "Choose the phrase used to check a person's availability.",
+          "category": "Question answer",
+          "correct": "Are you free tonight?",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Are you busy yesterday?"
+            },
+            {
+              "id": "option-2",
+              "text": "Are you free tonight?"
+            },
+            {
+              "id": "option-3",
+              "text": "Would you like to work?"
+            },
+            {
+              "id": "option-4",
+              "text": "What do you do?"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "Would you like to ______ for a coffee?",
+          "englishWord": "Would you like to ______ for a coffee?",
+          "category": "Complete the sentence",
+          "correct": "go out",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "join us"
+            },
+            {
+              "id": "option-2",
+              "text": "free tonight"
+            },
+            {
+              "id": "option-3",
+              "text": "go out"
+            },
+            {
+              "id": "option-4",
+              "text": "invitation"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text states that the group is going to eat dinner at a Japanese restaurant.",
+          "englishWord": "The text states that the group is going to eat dinner at a Japanese restaurant.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "We are watching a movie. Do you want to ______?",
+          "englishWord": "We are watching a movie. Do you want to ______?",
+          "category": "Fill in the blank",
+          "correct": "join us",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "join us"
+            },
+            {
+              "id": "option-2",
+              "text": "cancel"
+            },
+            {
+              "id": "option-3",
+              "text": "meet at"
+            },
+            {
+              "id": "option-4",
+              "text": "let me know"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Would you like to watch a movie?",
+          "category": "Arrange the words",
+          "correct": "Would you like to watch a movie?",
+          "words": [
+            "to",
+            "movie",
+            "watch",
+            "like",
+            "a",
+            "Would",
+            "you",
+            "?"
+          ],
+          "translateWords": [
+            "to",
+            "movie",
+            "watch",
+            "like",
+            "a",
+            "Would",
+            "you",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U09_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Why don't we go to the cinema this Saturday?\n- That sounds great! \nHow about having lunch before the movie? \n- I would love to, but I can't because I am busy.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Why don't we go to the cinema this Saturday? - That sounds great! How about having lunch before the movie? - I would love to, but I can't because I am busy.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the suggestion structure that must be followed by a gerund (-ing verb).",
+          "englishWord": "Select the suggestion structure that must be followed by a gerund (-ing verb).",
+          "category": "Question answer",
+          "correct": "How about",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "Why don't we"
+            },
+            {
+              "id": "option-2",
+              "text": "How about"
+            },
+            {
+              "id": "option-3",
+              "text": "Would you like"
+            },
+            {
+              "id": "option-4",
+              "text": "Let's"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I would love to, ______ because I have to work.",
+          "englishWord": "I would love to, ______ because I have to work.",
+          "category": "Complete the sentence",
+          "correct": "but I can't",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sounds great"
+            },
+            {
+              "id": "option-2",
+              "text": "how about"
+            },
+            {
+              "id": "option-3",
+              "text": "why don't"
+            },
+            {
+              "id": "option-4",
+              "text": "but I can't"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The suggestion 'Why don't we' is followed immediately by a verb ending in -ing.",
+          "englishWord": "The suggestion 'Why don't we' is followed immediately by a verb ending in -ing.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Going to the park ______ great!",
+          "englishWord": "Going to the park ______ great!",
+          "category": "Fill in the blank",
+          "correct": "sounds",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "sounds"
+            },
+            {
+              "id": "option-2",
+              "text": "looks"
+            },
+            {
+              "id": "option-3",
+              "text": "feels"
+            },
+            {
+              "id": "option-4",
+              "text": "becomes"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Why don't we take a break?",
+          "category": "Arrange the words",
+          "correct": "Why don't we take a break?",
+          "words": [
+            "we",
+            "a",
+            "break",
+            "take",
+            "don't",
+            "Why",
+            "?"
+          ],
+          "translateWords": [
+            "we",
+            "a",
+            "break",
+            "take",
+            "don't",
+            "Why",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U09_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Let's meet at the train station at 7 PM. \nI can pick you up in my car. \nIf you need to change plans or cancel, please let me know before 6 PM.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Let's meet at the train station at 7 PM. I can pick you up in my car. If you need to change plans or cancel, please let me know before 6 PM.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the phrase that means 'to collect someone from a place using a vehicle'.",
+          "englishWord": "Identify the phrase that means 'to collect someone from a place using a vehicle'.",
+          "category": "Question answer",
+          "correct": "pick you up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "meet at"
+            },
+            {
+              "id": "option-2",
+              "text": "cancel"
+            },
+            {
+              "id": "option-3",
+              "text": "let me know"
+            },
+            {
+              "id": "option-4",
+              "text": "pick you up"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "If you cannot come tonight, please ______.",
+          "englishWord": "If you cannot come tonight, please ______.",
+          "category": "Complete the sentence",
+          "correct": "let me know",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "meet at"
+            },
+            {
+              "id": "option-2",
+              "text": "pick me up"
+            },
+            {
+              "id": "option-3",
+              "text": "let me know"
+            },
+            {
+              "id": "option-4",
+              "text": "change plans"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text commands the visitor to cancel the trip if they are running five minutes late.",
+          "englishWord": "The text commands the visitor to cancel the trip if they are running five minutes late.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "I have to ______ our dinner plan because I am sick.",
+          "englishWord": "I have to ______ our dinner plan because I am sick.",
+          "category": "Fill in the blank",
+          "correct": "cancel",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "cancel"
+            },
+            {
+              "id": "option-2",
+              "text": "meet"
+            },
+            {
+              "id": "option-3",
+              "text": "change"
+            },
+            {
+              "id": "option-4",
+              "text": "join"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Let's meet at the library",
+          "category": "Arrange the words",
+          "correct": "Let's meet at the library",
+          "words": [
+            "the",
+            "library",
+            "Let's",
+            "meet",
+            "at"
+          ],
+          "translateWords": [
+            "the",
+            "library",
+            "Let's",
+            "meet",
+            "at"
+          ]
+        }
+      ]
+    }
+  ]

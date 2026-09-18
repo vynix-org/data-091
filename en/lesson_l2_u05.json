@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L2_U05_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Life is full of big milestones. \nMy brother graduated from university in 2020. \nAfter that, he moved to London to get a job at a tech firm. \nLast year, he got married.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Life is full of big milestones. My brother graduated from university in 2020. After that, he moved to London to get a job at a tech firm. Last year, he got married.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the verb phrase meaning 'to complete a university degree program'.",
+          "englishWord": "Choose the verb phrase meaning 'to complete a university degree program'.",
+          "category": "Question answer",
+          "correct": "graduate from",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "move to"
+            },
+            {
+              "id": "option-2",
+              "text": "get a job"
+            },
+            {
+              "id": "option-3",
+              "text": "graduate from"
+            },
+            {
+              "id": "option-4",
+              "text": "get married"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "She wants to find a new company and ______.",
+          "englishWord": "She wants to find a new company and ______.",
+          "category": "Complete the sentence",
+          "correct": "get a job",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "move to"
+            },
+            {
+              "id": "option-2",
+              "text": "get a job"
+            },
+            {
+              "id": "option-3",
+              "text": "graduate"
+            },
+            {
+              "id": "option-4",
+              "text": "marry"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text states that the brother got married in 2020.",
+          "englishWord": "The text states that the brother got married in 2020.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Buying your first home is a huge life ______.",
+          "englishWord": "Buying your first home is a huge life ______.",
+          "category": "Fill in the blank",
+          "correct": "milestone",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "milestone"
+            },
+            {
+              "id": "option-2",
+              "text": "moment"
+            },
+            {
+              "id": "option-3",
+              "text": "change"
+            },
+            {
+              "id": "option-4",
+              "text": "period"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "She moved to New York two years ago",
+          "category": "Arrange the words",
+          "correct": "She moved to New York two years ago",
+          "words": [
+            "moved",
+            "to",
+            "New York",
+            "years",
+            "ago",
+            "two",
+            "She"
+          ],
+          "translateWords": [
+            "moved",
+            "to",
+            "New York",
+            "years",
+            "ago",
+            "two",
+            "She"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U05_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "I met my best friend five years ago, back in 2021. \nWe went to the same college. \nAfter we left school, he won a major design competition and became famous.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "I met my best friend five years ago, back in 2021. We went to the same college. After we left school, he won a major design competition and became famous.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Select the correct past tense form of the irregular verb 'meet'.",
+          "englishWord": "Select the correct past tense form of the irregular verb 'meet'.",
+          "category": "Question answer",
+          "correct": "met",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "meeted"
+            },
+            {
+              "id": "option-2",
+              "text": "met"
+            },
+            {
+              "id": "option-3",
+              "text": "was meet"
+            },
+            {
+              "id": "option-4",
+              "text": "meeting"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "They bought this apartment three months ______.",
+          "englishWord": "They bought this apartment three months ______.",
+          "category": "Complete the sentence",
+          "correct": "ago",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "in"
+            },
+            {
+              "id": "option-2",
+              "text": "ago"
+            },
+            {
+              "id": "option-3",
+              "text": "last"
+            },
+            {
+              "id": "option-4",
+              "text": "since"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The irregular past form of the verb 'leave' is 'leaved'.",
+          "englishWord": "The irregular past form of the verb 'leave' is 'leaved'.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Our team ______ the football match yesterday morning.",
+          "englishWord": "Our team ______ the football match yesterday morning.",
+          "category": "Fill in the blank",
+          "correct": "won",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "win"
+            },
+            {
+              "id": "option-2",
+              "text": "won"
+            },
+            {
+              "id": "option-3",
+              "text": "winned"
+            },
+            {
+              "id": "option-4",
+              "text": "winning"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "She left school in 2018",
+          "category": "Arrange the words",
+          "correct": "She left school in 2018",
+          "words": [
+            "left",
+            "school",
+            "She",
+            "in",
+            "2018"
+          ],
+          "translateWords": [
+            "left",
+            "school",
+            "She",
+            "in",
+            "2018"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_U05_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "At first, moving to a new country was difficult. \nSuddenly, I found a good job. \nI worked hard and eventually became the manager. \nIt was a major changing point.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "At first, moving to a new country was difficult. Suddenly, I found a good job. I worked hard and eventually became the manager. It was a major changing point.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Identify the time phrase meaning 'in the beginning phase'.",
+          "englishWord": "Identify the time phrase meaning 'in the beginning phase'.",
+          "category": "Question answer",
+          "correct": "at first",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "suddenly"
+            },
+            {
+              "id": "option-2",
+              "text": "eventually"
+            },
+            {
+              "id": "option-3",
+              "text": "at first"
+            },
+            {
+              "id": "option-4",
+              "text": "changing point"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "He practiced daily and ______ passed the test.",
+          "englishWord": "He practiced daily and ______ passed the test.",
+          "category": "Complete the sentence",
+          "correct": "eventually",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "at first"
+            },
+            {
+              "id": "option-2",
+              "text": "suddenly"
+            },
+            {
+              "id": "option-3",
+              "text": "eventually"
+            },
+            {
+              "id": "option-4",
+              "text": "when"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text notes that the narrator instantly became a manager without working.",
+          "englishWord": "The text notes that the narrator instantly became a manager without working.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Losing my job was a big ______ point in my career.",
+          "englishWord": "Losing my job was a big ______ point in my career.",
+          "category": "Fill in the blank",
+          "correct": "changing",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "changing"
+            },
+            {
+              "id": "option-2",
+              "text": "starting"
+            },
+            {
+              "id": "option-3",
+              "text": "working"
+            },
+            {
+              "id": "option-4",
+              "text": "moving"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "Suddenly, the rain stopped",
+          "category": "Arrange the words",
+          "correct": "Suddenly, the rain stopped",
+          "words": [
+            "appeared",
+            "rain",
+            "Suddenly",
+            ",",
+            "the",
+            "stopped"
+          ],
+          "translateWords": [
+            "appeared",
+            "rain",
+            "Suddenly",
+            ",",
+            "the",
+            "stopped"
+          ]
+        }
+      ]
+    }
+  ]

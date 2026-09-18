@@ -1,0 +1,374 @@
+[
+    {
+      "lesson_id": "L2_M01_01",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 1: I grew up in a very small town twenty years ago. \nAlthough we did not have modern computers, we had a happy childhood. \nFirst, we used to play football, and after that, we rode bicycles.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 1: I grew up in a very small town twenty years ago. Although we did not have modern computers, we had a happy childhood. First, we used to play football, and after that, we rode bicycles.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the past verb meaning 'spent childhood time developing in a place'.",
+          "englishWord": "Choose the past verb meaning 'spent childhood time developing in a place'.",
+          "category": "Question answer",
+          "correct": "grew up",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "studied"
+            },
+            {
+              "id": "option-2",
+              "text": "grew up"
+            },
+            {
+              "id": "option-3",
+              "text": "collected"
+            },
+            {
+              "id": "option-4",
+              "text": "remembered"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "We ______ to swim in the river every summer afternoon.",
+          "englishWord": "We ______ to swim in the river every summer afternoon.",
+          "category": "Complete the sentence",
+          "correct": "used",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "use"
+            },
+            {
+              "id": "option-2",
+              "text": "using"
+            },
+            {
+              "id": "option-3",
+              "text": "used"
+            },
+            {
+              "id": "option-4",
+              "text": "uses"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The text states that the children possessed modern computers twenty years ago.",
+          "englishWord": "The text states that the children possessed modern computers twenty years ago.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "My family did ______ have a television back then.",
+          "englishWord": "My family did ______ have a television back then.",
+          "category": "Fill in the blank",
+          "correct": "not",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "not"
+            },
+            {
+              "id": "option-2",
+              "text": "no"
+            },
+            {
+              "id": "option-3",
+              "text": "never"
+            },
+            {
+              "id": "option-4",
+              "text": "none"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "First, we went outside",
+          "category": "Arrange the words",
+          "correct": "First, we went outside",
+          "words": [
+            "First",
+            ",",
+            "outside",
+            "went",
+            "we",
+            "outside"
+          ],
+          "translateWords": [
+            "First",
+            ",",
+            "outside",
+            "went",
+            "we",
+            "outside"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M01_02",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 2: I have known my best friend David for five years. \nHe is taller than me and always cheerful. \nHe is a reliable person because he keeps my secrets. \nI am more patient than him.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 2: I have known my best friend David for five years. He is taller than me and always cheerful. He is a reliable person because he keeps my secrets. I am more patient than him.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Pick the character trait that indicates someone is trustworthy and can be depended on.",
+          "englishWord": "Pick the character trait that indicates someone is trustworthy and can be depended on.",
+          "category": "Question answer",
+          "correct": "reliable",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "organized"
+            },
+            {
+              "id": "option-2",
+              "text": "reliable"
+            },
+            {
+              "id": "option-3",
+              "text": "creative"
+            },
+            {
+              "id": "option-4",
+              "text": "handsome"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "David is older and ______ than his classmate.",
+          "englishWord": "David is older and ______ than his classmate.",
+          "category": "Complete the sentence",
+          "correct": "taller",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "more tall"
+            },
+            {
+              "id": "option-2",
+              "text": "tall"
+            },
+            {
+              "id": "option-3",
+              "text": "taller"
+            },
+            {
+              "id": "option-4",
+              "text": "tallest"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "The narrator has known David for a total duration of only two weeks.",
+          "englishWord": "The narrator has known David for a total duration of only two weeks.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Sarah is ______ patient than her energetic brother.",
+          "englishWord": "Sarah is ______ patient than her energetic brother.",
+          "category": "Fill in the blank",
+          "correct": "more",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "more"
+            },
+            {
+              "id": "option-2",
+              "text": "most"
+            },
+            {
+              "id": "option-3",
+              "text": "very"
+            },
+            {
+              "id": "option-4",
+              "text": "much"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "We hang out at cafes on weekends",
+          "category": "Arrange the words",
+          "correct": "We hang out at cafes on weekends",
+          "words": [
+            "hang out",
+            "We",
+            "at",
+            "cafes",
+            "weekends",
+            "on"
+          ],
+          "translateWords": [
+            "hang out",
+            "We",
+            "at",
+            "cafes",
+            "weekends",
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "lesson_id": "L2_M01_03",
+      "data": [
+        {
+          "id": "card-1",
+          "type": "intro_word",
+          "word": "Test Context 3: My hometown is on the outskirts of the city. \nIt is famous for its historic landmarks. \nThere is not too much traffic here. \nDowntown is convenient due to public transport, but it is polluted.",
+          "phonetic": "",
+          "example": "",
+          "englishWord": "Test Context 3: My hometown is on the outskirts of the city. It is famous for its historic landmarks. There is not too much traffic here. Downtown is convenient due to public transport, but it is polluted.",
+          "englishExample": "",
+          "category": "Reading"
+        },
+        {
+          "id": "card-2",
+          "type": "question_answer",
+          "word": "Choose the term that refers to the outer boundary parts of a town or city area.",
+          "englishWord": "Choose the term that refers to the outer boundary parts of a town or city area.",
+          "category": "Question answer",
+          "correct": "outskirts",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "center"
+            },
+            {
+              "id": "option-2",
+              "text": "facility"
+            },
+            {
+              "id": "option-3",
+              "text": "landmarks"
+            },
+            {
+              "id": "option-4",
+              "text": "outskirts"
+            }
+          ]
+        },
+        {
+          "id": "card-3",
+          "type": "fill_the_blank",
+          "word": "I hate downtown because there is too ______ noise.",
+          "englishWord": "I hate downtown because there is too ______ noise.",
+          "category": "Complete the sentence",
+          "correct": "much",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "many"
+            },
+            {
+              "id": "option-2",
+              "text": "few"
+            },
+            {
+              "id": "option-3",
+              "text": "much"
+            },
+            {
+              "id": "option-4",
+              "text": "enough"
+            }
+          ]
+        },
+        {
+          "id": "card-4",
+          "type": "true_false",
+          "word": "According to the text, the air condition in the downtown zone is completely fresh and clean.",
+          "englishWord": "According to the text, the air condition in the downtown zone is completely fresh and clean.",
+          "category": "True or False",
+          "isCorrect": false
+        },
+        {
+          "id": "card-5",
+          "type": "fill_the_blank",
+          "word": "Living near a train station is very ______.",
+          "englishWord": "Living near a train station is very ______.",
+          "category": "Fill in the blank",
+          "correct": "convenient",
+          "options": [
+            {
+              "id": "option-1",
+              "text": "convenient"
+            },
+            {
+              "id": "option-2",
+              "text": "polluted"
+            },
+            {
+              "id": "option-3",
+              "text": "historic"
+            },
+            {
+              "id": "option-4",
+              "text": "crowded"
+            }
+          ]
+        },
+        {
+          "id": "card-6",
+          "type": "arrange_word",
+          "englishWord": "My grandfather enjoys a peaceful lifestyle",
+          "category": "Arrange the words",
+          "correct": "My grandfather enjoys a peaceful lifestyle",
+          "words": [
+            "peaceful",
+            "lifestyle",
+            "enjoys",
+            "a",
+            "grandfather",
+            "My"
+          ],
+          "translateWords": [
+            "peaceful",
+            "lifestyle",
+            "enjoys",
+            "a",
+            "grandfather",
+            "My"
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,376 @@
+[
+  {
+    "lesson_id": "L2_U13_01",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "I feel terrible today. \nI have a terrible headache and a high fever. \nMy chest hurts because of a deep cough, and my throat is red. \nI think I also have a stomachache.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "I feel terrible today. I have a terrible headache and a high fever. My chest hurts because of a deep cough, and my throat is red. I think I also have a stomachache.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Choose the term describing pain located inside the upper digestive region.",
+        "englishWord": "Choose the term describing pain located inside the upper digestive region.",
+        "category": "Question answer",
+        "correct": "stomachache",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "headache"
+          },
+          {
+            "id": "option-2",
+            "text": "stomachache"
+          },
+          {
+            "id": "option-3",
+            "text": "sore throat"
+          },
+          {
+            "id": "option-4",
+            "text": "cough"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "She has a hot body and a high ______.",
+        "englishWord": "She has a hot body and a high ______.",
+        "category": "Complete the sentence",
+        "correct": "fever",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "throat"
+          },
+          {
+            "id": "option-2",
+            "text": "fever"
+          },
+          {
+            "id": "option-3",
+            "text": "cough"
+          },
+          {
+            "id": "option-4",
+            "text": "head"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text notes that the speaker feels very healthy and energetic today.",
+        "englishWord": "The text notes that the speaker feels very healthy and energetic today.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "It hurts to swallow fluid because I have a sore ______.",
+        "englishWord": "It hurts to swallow fluid because I have a sore ______.",
+        "category": "Fill in the blank",
+        "correct": "throat",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "throat"
+          },
+          {
+            "id": "option-2",
+            "text": "head"
+          },
+          {
+            "id": "option-3",
+            "text": "stomach"
+          },
+          {
+            "id": "option-4",
+            "text": "chest"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "headache",
+        "category": "Arrange the words",
+        "correct": "headache",
+        "words": [
+          "e",
+          "c",
+          "a",
+          "h",
+          "d",
+          "a",
+          "h",
+          "e"
+        ],
+        "translateWords": [
+          "e",
+          "c",
+          "a",
+          "h",
+          "d",
+          "a",
+          "h",
+          "e"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U13_02",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "You look very sick with that high fever. \nYou should see a doctor immediately. \nYou must rest in bed and you should not drink cold water until you feel better.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "You look very sick with that high fever. You should see a doctor immediately. You must rest in bed and you should not drink cold water until you feel better.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Select the correct modal structure for a strong logical obligation.",
+        "englishWord": "Select the correct modal structure for a strong logical obligation.",
+        "category": "Question answer",
+        "correct": "must",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "should to"
+          },
+          {
+            "id": "option-2",
+            "text": "must"
+          },
+          {
+            "id": "option-3",
+            "text": "has should"
+          },
+          {
+            "id": "option-4",
+            "text": "not must"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "You have a stomachache, so you ______ eat spicy food.",
+        "englishWord": "You have a stomachache, so you ______ eat spicy food.",
+        "category": "Complete the sentence",
+        "correct": "should not",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "should"
+          },
+          {
+            "id": "option-2",
+            "text": "must"
+          },
+          {
+            "id": "option-3",
+            "text": "should not"
+          },
+          {
+            "id": "option-4",
+            "text": "ought"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "After modal verbs like 'should' or 'must', the main action verb requires an '-ing' ending.",
+        "englishWord": "After modal verbs like 'should' or 'must', the main action verb requires an '-ing' ending.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "If your head hurts for three days, you should see a ______.",
+        "englishWord": "If your head hurts for three days, you should see a ______.",
+        "category": "Fill in the blank",
+        "correct": "doctor",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "doctor"
+          },
+          {
+            "id": "option-2",
+            "text": "teacher"
+          },
+          {
+            "id": "option-3",
+            "text": "friend"
+          },
+          {
+            "id": "option-4",
+            "text": "student"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "You must rest in bed",
+        "category": "Arrange the words",
+        "correct": "You must rest in bed",
+        "words": [
+          "rest",
+          "bed",
+          "in",
+          "You",
+          "must"
+        ],
+        "translateWords": [
+          "rest",
+          "bed",
+          "in",
+          "You",
+          "must"
+        ]
+      }
+    ]
+  },
+  {
+    "lesson_id": "L2_U13_03",
+    "data": [
+      {
+        "id": "card-1",
+        "type": "intro_word",
+        "word": "I have a terrible cough and my head hurts. \n- Poor you! \nWhy don't you take some medicine and sleep? \nYou should not stay up late tonight.",
+        "phonetic": "",
+        "example": "",
+        "englishWord": "I have a terrible cough and my head hurts. - Poor you! Why don't you take some medicine and sleep? You should not stay up late tonight.",
+        "englishExample": "",
+        "category": "Reading"
+      },
+      {
+        "id": "card-2",
+        "type": "question_answer",
+        "word": "Identify the phrase used to express immediate personal sympathy to a sick friend.",
+        "englishWord": "Identify the phrase used to express immediate personal sympathy to a sick friend.",
+        "category": "Question answer",
+        "correct": "Poor you!",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "Sounds great!"
+          },
+          {
+            "id": "option-2",
+            "text": "Poor you!"
+          },
+          {
+            "id": "option-3",
+            "text": "Excuse me"
+          },
+          {
+            "id": "option-4",
+            "text": "Welcome"
+          }
+        ]
+      },
+      {
+        "id": "card-3",
+        "type": "fill_the_blank",
+        "word": "Your fever is high; why don't you ______?",
+        "englishWord": "Your fever is high; why don't you ______?",
+        "category": "Complete the sentence",
+        "correct": "take some medicine",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "stay up late"
+          },
+          {
+            "id": "option-2",
+            "text": "take some medicine"
+          },
+          {
+            "id": "option-3",
+            "text": "drink ice juice"
+          },
+          {
+            "id": "option-4",
+            "text": "run fast"
+          }
+        ]
+      },
+      {
+        "id": "card-4",
+        "type": "true_false",
+        "word": "The text indicates that staying up late is a good way to cure a deep cough.",
+        "englishWord": "The text indicates that staying up late is a good way to cure a deep cough.",
+        "category": "True or False",
+        "isCorrect": false
+      },
+      {
+        "id": "card-5",
+        "type": "fill_the_blank",
+        "word": "Why ______ we go to the local clinic together?",
+        "englishWord": "Why ______ we go to the local clinic together?",
+        "category": "Fill in the blank",
+        "correct": "don't",
+        "options": [
+          {
+            "id": "option-1",
+            "text": "don't"
+          },
+          {
+            "id": "option-2",
+            "text": "do"
+          },
+          {
+            "id": "option-3",
+            "text": "did"
+          },
+          {
+            "id": "option-4",
+            "text": "are"
+          }
+        ]
+      },
+      {
+        "id": "card-6",
+        "type": "arrange_word",
+        "englishWord": "You should not stay up late",
+        "category": "Arrange the words",
+        "correct": "You should not stay up late",
+        "words": [
+          "late",
+          "up",
+          "stay",
+          "should",
+          "not",
+          "You"
+        ],
+        "translateWords": [
+          "late",
+          "up",
+          "stay",
+          "should",
+          "not",
+          "You"
+        ]
+      }
+    ]
+  }
+]
